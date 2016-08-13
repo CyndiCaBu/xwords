@@ -16,56 +16,6 @@
 	<script src="../libs/Semantic-UI-CSS/semantic.min.js"></script>
 	<script src="../libs/list.js"></script>
 
-  <script>
-  $(document)
-    .ready(function() {
-
-      // fix main menu to page on passing
-      $('.main.menu').visibility({
-        type: 'fixed'
-      });
-      $('.overlay').visibility({
-        type: 'fixed',
-        offset: 80
-      });
-
-      // lazy load images
-      $('.image').visibility({
-        type: 'image',
-        transition: 'vertical flip in',
-        duration: 500
-      });
-
-      // show dropdown on hover
-      $('.main.menu  .ui.dropdown').dropdown({
-        on: 'hover'
-      });
-
-			// setup the searching+results
-			var valueNames = [
-				'listjs-title',
-				'listjs-tags'
-			];
-			var options = {
-			  valueNames: valueNames,
-				listClass: 'listjs-list',
-				searchClass: 'listjs-search',
-			};
-			var recycleList = new List('recycle-list', options);
-			$('.ui.accordion').accordion({
-				exclusive: false
-			});
-
-      // Search term extraction
-      // ex: http://trashy.tips/#/apples
-			var searchHash = decodeURI(window.location.hash.slice(2));
-      $('#input-search').val( searchHash );
-			recycleList.search(searchHash,valueNames);
-			recycleList.update();
-    })
-  ;
-  </script>
-
   <style type="text/css">
 
   body {
@@ -165,9 +115,33 @@
 	-->
 
 	<script type="text/javascript">
-	$('.x-words-content').on('click','.xw',function(){
-		$(this).addClass( 'xw-found' );
-	});
+
+	var XWords = {};
+	XWords.loadContent = function( url ){};
+	XWords.setup = function( content ){
+		$(content).on('click','.xw',function(){
+			$(this).addClass( 'xw-found' );
+		});
+	};
+	XWords.total = function( content ){
+		return $(content).find( '.xw' ).length;
+	};
+	XWords.numberFound = function( content ){
+		return $(content).find( '.xw-found' ).length;
+	};
+
+	// Addition stuff 
+	XWords.setup( '.x-words-content' );
+	setInterval( function(){
+		console.info( 'Found: '+XWords.numberFound('.x-words-content') );
+	}, 1000 );
+	console.info( 'Total: '+XWords.total('.x-words-content') );
+
+	// Notes to self:
+	// We can have hover classes for popup info ie .xw-found.is_class:hover
+	// shows content that adds information.
+	// Also change "class" to ie "xw-is", "xw-can", etc...
+
 	</script>
 
 </body>
