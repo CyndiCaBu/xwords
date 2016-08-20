@@ -62,7 +62,7 @@ if __name__ == '__main__':
 					</div>
 				</a>
 			'''.format(
-				pageUrl = '/%s/%s/%s' % (contentType, f, article),
+				pageUrl = '%s/%s/%s' % (contentType, f, article),
 				imageUrl = '%s/%s/%s/image.jpg' % (rootPath, f, article),
 				title = article.replace('-',' ').title(),
 				description = meta['description'],
