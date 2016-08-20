@@ -13,11 +13,13 @@ function titleCase( text ){
 
 // http://x-words.com/x-find/animals/a-hawk-in-queens -> animals/a-hawk-in-queens
 var path = window.location.href.split(window.location.host)[1].split('#')[0].split('?')[0];
-var articleUrl = path.split('/').slice(2).join('/');
-var exercise = titleCase( path.split('/')[1].replace(/-/g,' ') );
-var category = titleCase( path.split('/')[2].replace(/-/g,' ') );
-var article = titleCase( path.split('/')[3].replace(/-/g,' ') );
-$('#breadcrumb-category').html( category )[0].href = '/'+path.split('/').slice(1,3).join('/');
+var pathParts = path.split('/');
+var nParts = pathParts.length - 1;
+var articleUrl = pathParts.slice(nParts-2).join('/');
+var exercise = titleCase( pathParts[nParts-3].replace(/-/g,' ') );
+var category = titleCase( pathParts[nParts-2].replace(/-/g,' ') );
+var article = titleCase( pathParts[nParts-1].replace(/-/g,' ') );
+$('#breadcrumb-category').html( category )[0].href = '../../#'+pathParts[nParts-2];
 $('#breadcrumb-article').html( article );
 $('#article-title').html( article );
 $('title').html( article +' - X-Words Grammar' );
