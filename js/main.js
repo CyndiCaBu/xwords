@@ -21,10 +21,10 @@ $('#breadcrumb-category').html( category )[0].href = '/'+path.split('/').slice(1
 $('#breadcrumb-article').html( article );
 $('#article-title').html( article );
 $('title').html( article +' - X-Words Grammar' );
-$.get( '/articles/'+articleUrl+'content.html', function(response){
+$.get( '../../../articles/'+articleUrl+'content.html', function(response){
 	$('.x-words-content').html( response );
-	$('#article-image')[0].src = '/articles/'+articleUrl+'image.jpg';
-	$('#article-icon')[0].src = '/articles/'+articleUrl+'image.jpg';
+	$('#article-image')[0].src = '../../../articles/'+articleUrl+'image.jpg';
+	$('#article-icon')[0].src = '../../../articles/'+articleUrl+'image.jpg';
 	XWords.setup( '.x-words-content' );
 	updateCounts( '.x-words-content' );
 } );
