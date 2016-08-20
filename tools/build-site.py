@@ -4,47 +4,8 @@ import glob
 import os
 import shutil
 
-articleTemplate = '''
-<!DOCTYPE html>
-<html>
-<head>
-	<!-- Standard Meta -->
-	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-
-	<!-- Site Properties -->
-	<title>X Words Grammar</title>
-
-	<link rel="stylesheet" type="text/css" href="/libs/Semantic-UI-CSS/semantic.min.css">
-	<link rel="stylesheet" type="text/css" href="/style/main.css">
-	<link rel="stylesheet" type="text/css" href="/style/xwords.css">
-
-	<script src="/libs/jquery.min.js" ></script>
-	<script src="/libs/Semantic-UI-CSS/semantic.min.js"></script>
-	<script src="/libs/list.js"></script>
-</head>
-
-<body>
-	<div class="ui text container fluid main-column">
-		<div class="ui fluid styled">
-			<div class="x-words-content">
-				{content}
-			</div>
-			<p></p>
-			<div>
-				<b>X Words Found: </b>
-				<span id="x-words-found"></span>/<span id="x-words-total"></span>
-			</div>
-		</div>
-	</div>
-
-	<script type="text/javascript" src="../../../js/main.js"></script>
-
-</body>
-</html>
-'''
-
+with open( 'article_template.html' ) as f:
+	articleTemplate = f.read()
 
 if __name__ == '__main__':
 	rootPath = '../articles/'
@@ -54,9 +15,16 @@ if __name__ == '__main__':
 		shutil.rmtree( resultDir )
 	except OSError:
 		pass
-	shutil.copytree( rootPath, resultDir )
+	#shutil.copytree( rootPath, resultDir )
+
+	# make the directories
+	folders = [ x.replace(rootPath,'../'+contentType+'/') for x in glob.glob( os.path.join(rootPath,'*','*') ) ]
+	for folder in folders:
+		os.makedirs( folder )
+		shutil.copy( './template-%s.html' % contentType, os.path.join(folder,'index.html') )
 
 	folders = [ x.replace(rootPath,'') for x in glob.glob('%s*' % rootPath) ]
+
 	# Create each section
 	sections = []
 	for f in folders:
@@ -74,9 +42,9 @@ if __name__ == '__main__':
 					discipline='No disciple specified',
 					gradeLevel='No gradelevel specified'
 				)
-			with open( '%s/%s/%s/index.html' % (rootPath, f, article), 'w' ) as indexFile:
-				with open( '%s/%s/%s/content.html' % (rootPath, f, article), 'r' ) as contentFile:
-					indexFile.write( articleTemplate.format(content=contentFile.read()) )
+			#with open( '%s/%s/%s/index.html' % (rootPath, f, article), 'w' ) as indexFile:
+			#	with open( '%s/%s/%s/content.html' % (rootPath, f, article), 'r' ) as contentFile:
+			#		indexFile.write( articleTemplate.format(content=contentFile.read()) )
 			# grab the article info from a json file?
 			articleLinks.append('''
 				<a class="ui card" href="{pageUrl}">
