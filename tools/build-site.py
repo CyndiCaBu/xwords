@@ -47,15 +47,15 @@ if __name__ == '__main__':
 			#		indexFile.write( articleTemplate.format(content=contentFile.read()) )
 			# grab the article info from a json file?
 			articleLinks.append('''
-				<a class="ui card" href="{pageUrl}">
+				<a class="ui card search-element" href="{pageUrl}">
 					<div class="image">
 						<img src="{imageUrl}">
 					</div>
 					<div class="content">
-						<span class="header">{title}</span>
-						<span class="meta">{discipline}</span>;
-						<span class="meta">{tags}</span>
-						<div class="description">{description}</div>
+						<span class="header search-data">{title}</span>
+						<span class="meta search-data">{discipline}</span>;
+						<span class="meta search-data">{tags}</span>
+						<div class="description search-data">{description}</div>
 					</div>
 					<div class="extra content">
 						<i class="line chart icon"></i>Level: {gradeLevel}
@@ -95,21 +95,30 @@ if __name__ == '__main__':
 				<title>X Words Grammar</title>
 
 				<link rel="stylesheet" type="text/css" href="../libs/Semantic-UI-CSS/semantic.min.css">
+				<link rel="stylesheet" type="text/css" href="../libs/dom-search/dom-search.css">
 				<link rel="stylesheet" type="text/css" href="../style/main.css">
 				<link rel="stylesheet" type="text/css" href="../style/xwords.css">
 
 				<script src="../libs/jquery.min.js" ></script>
 				<script src="../libs/Semantic-UI-CSS/semantic.min.js"></script>
-				<script src="../libs/list.js"></script>
+				<script src="../libs/dom-search/dom-search.js"></script>
 
 			</head>
 			<body>
 				<div class="ui text container fluid main-column">
-					<div class="ui fluid styled listjs-list">
+					<div class="ui fluid styled search-container">
 						<h1 class="ui dividing header">X-Words</h1>
+						<div class="ui fluid category search">
+							<div class="ui icon input" style="width: 100%;">
+								<input id="search-bar" class="prompt" placeholder="Search for content..." type="text">
+								<i class="search icon"></i>
+							</div>
+							<div class="results"></div>
+						</div>
 						{content}
 					</div>
 				</div>
+				<script src="../js/article-search.js"></script>
 			</body>
 
 			</html>
