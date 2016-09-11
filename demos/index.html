@@ -9,26 +9,32 @@
   <!-- Site Properties -->
   <title>X-Words Grammar</title>
 
-	<link rel="stylesheet" type="text/css" href="libs/Semantic-UI-CSS/semantic.min.css">
-	<link rel="stylesheet" type="text/css" href="style/main.css">
+	<link rel="stylesheet" type="text/css" href="../libs/Semantic-UI-CSS/semantic.min.css">
+	<link rel="stylesheet" type="text/css" href="../style/main.css">
+	<link rel="stylesheet" type="text/css" href="../style/xwords.css">
 
 	<script src="../libs/jquery.min.js" ></script>
 	<script src="../libs/jquery-dragsort/jquery.dragsort-0.5.2.min.js" ></script>
 	<script src="../libs/Semantic-UI-CSS/semantic.min.js"></script>
 	<script src="../libs/list.js"></script>
+	<script src="../js/x-words.js"></script>
+	<script src="../js/x-words-verbs.js"></script>
+	<script src="../js/x-words-negate.js"></script>
 
 	<style type="text/css">
 		.xw-drag-sentence {}
 		.xw-drag-word, .xw-drag-word-end {
 			display: inline-block;
 			width: 5em;
-			height: 1em;
 			border: 2px solid #F88;
 			background: #FEE;
+			line-height: 1em;
+			height: 2.2em;
 			margin: 0.2em;
 			padding: 0.5em;
 			text-align: center;
 			vertical-align: middle;
+			border-radius: 4px;
 		}
 		.xw-drag-word-end {
 			width: 1em;
@@ -53,6 +59,15 @@
 		}
 		.xw-non-hidden-suffix {
 			color: #F00;
+		}
+
+		.xw-verb {
+			border-bottom: 1px dashed #F88;
+		}
+		.xw-verb-found {
+			border: 2px solid #F00;
+			background: #FEE;
+			border-radius: 4px;
 		}
 	</style>
 
@@ -91,7 +106,7 @@
 					}
 				},
 				dragBetween: false,
-				placeHolderTemplate: '<span class="xw-drag-word"></span>',
+				placeHolderTemplate: '<span class="xw-drag-word"> </span>',
 			});
     })
   ;
@@ -99,7 +114,7 @@
 
 </head>
 <body>
-
+  <div class="ui text container fluid main-column">
 <!--
 	X-Words
 	Questions
@@ -143,6 +158,25 @@
 	Ask for a hint -> show a list a xwords that have not been found
 -->
 
+<h1>X-Words</h1>
+<p>Find the x-words by clicking them in the paragraph below</p>
+<div><span id="x-words-found"></span>/<span id="x-words-total"></span></div>
+<div class="x-words-content">
+	<p>Two things happened to me recently to remind me that nature <span class="xw is_class">is</span> with us everywhere, even in an urban environment. As I <span class="xw was_class">was</span> walking down the street with a friend, I felt my foot hit something lightly. I <span class="xw am_class">am</span> so glad that I <span class="xw was_class">was</span> wearing good sneakers, because when I looked down I saw a very small rat running away from us. It ran straight across our path and into a hole in the sidewalk. Although my friend and I walk down that street all the time, I <span class="xw had_class">had</span> never noticed that hole in the sidewalk before. It <span class="xw was_class">was</span> just a crack in the cement, next to a set of stairs, but it <span class="xw was_class">was</span> big enough for the rat to fit through.  It made me think about the creatures that live under our feet, the ones we <span class="xw dont_class">don’t</span>  even know about.</p>
+	<p>The next morning I noticed a bird outside the kitchen window. It <span class="xw was_class">was</span>  sitting on a branch the way the mourning doves <span class="xw do_class">do</span>, but it looked much bigger. I wanted to take a picture, so I moved very slowly and carefully  in case it <span class="xw could_class">could</span>  sense my presence.  However, it flew away before I <span class="xw could_class">could</span>  get the camera ready. I decided to go outside to see if I <span class="xw could_class">could</span> find it somewhere. Luckily, it <span class="xw was_class">was</span> sitting in another tree nearby.  I got a few pictures of it sitting on the branch before it flew away again. I really hope that it found one of the local rats and <span class="xw had_class">had</span> a good meal.</p>
+	<p>I <span class="xw dont_class">don’t</span>  know what type of hawk this <span class="xw is_class">is</span>, but I<span class="xw m_class">’m</span>  sure someone else <span class="xw does_class">does</span>. If you <span class="xw are_class">are</span>  a bird watcher or if you<span class="xw ve_class">’ve</span> studied birds and you <span class="xw can_class">can</span>  identify this one, please send us a comment to let us know.  Thanks!</p>
+</div>
+<script>
+function updateCounts(content){
+	var total = XWords.total(content);
+	$('#x-words-total').html( total );
+	$('#x-words-found').html( XWords.numberFound(content) );
+}
+XWords.setup( '.x-words-content' );
+updateCounts( '.x-words-content' );
+</script>
+
+
 <!-- Word order for questions
 	{subject} {xword maybe hidden} {verb} = statment
 	{xword never hidden} {subject} {verb} = question
@@ -151,6 +185,8 @@
 	Make a sentence negative with hidden and visible xwords
 	First identify xword then type the negative xword
 -->
+<h1>Questions</h1>
+<p>Drag the words around to change the statements into questions.</p>
 <span class="xw-drag-sentence">
 	<span class="xw-drag-word xw-subject">You</span>
 	<span class="xw-drag-word xw-xword">can</span>
@@ -180,6 +216,54 @@
 </span>
 <br/>
 
+<!-- Negatives
+Identify x-word - type the negative version (even for hidden)
+-->
+<h1>Negatives</h1>
+<p>Find the x-words then enter their negative form.</p>
+<div class="find-negatives">
+	This bird <span class="xw xw-negate xw-verb xw-do-form-">swam</span> across the river.
+</div>
+<script>
+$('.xw-negate').on('click', function(ev){
+	var $this = $(this);
+	var answer = prompt( 'Please negate: '+this.innerHTML, '' );
+	if( checkNegative( this.innerHTML, answer.toLowerCase() ) ){
+		this.innerHTML = answer.toLowerCase();
+	}
+});
+</script>
+
+<h1>Verb Forms</h1>
+<p>Identify the verb and the x-word by clicking on them.</p>
+<div>
+	XWords: <span id="xw-verbs-x-words-found"></span>/<span id="xw-verbs-x-words-total"></span>
+	Verbs: <span id="xw-verbs-verbs-found"></span>/<span id="xw-verbs-verbs-total"></span>
+</div>
+<div class="x-words-verbs-content">
+	<p>Two things happened to me recently to remind me that nature <span class="xw is_class">is</span> with us everywhere, even in an urban environment. As I <span class="xw was_class">was</span> <span class="xw-verb">walking</span> down the street with a friend, I felt my foot hit something lightly. I <span class="xw am_class">am</span> so glad that I <span class="xw was_class">was</span> <span class="xw-verb">wearing</span> good sneakers, because when I looked down I saw a very small rat running away from us. It ran straight across our path and into a hole in the sidewalk. Although my friend and I walk down that street all the time, I <span class="xw had_class">had</span> never <span class="xw-verb">noticed</span> that hole in the sidewalk before. It <span class="xw was_class">was</span> just a crack in the cement, next to a set of stairs, but it <span class="xw was_class">was</span> big enough for the rat to fit through.  It made me think about the creatures that live under our feet, the ones we <span class="xw dont_class">don’t</span>  even <span class="xw-verb">know</span> about.</p>
+	<p>The next morning I noticed a bird outside the kitchen window. It <span class="xw was_class">was</span>  <span class="xw-verb">sitting</span> on a branch the way the mourning doves <span class="xw do_class">do</span>, but it looked much bigger. I wanted to take a picture, so I moved very slowly and carefully  in case it <span class="xw could_class">could</span>  <span class="xw-verb">sense</span> my presence.  However, it flew away before I <span class="xw could_class">could</span>  <span class="xw-verb">get</span> the camera ready. I decided to go outside to see if I <span class="xw could_class">could</span> <span class="xw-verb">find</span> it somewhere. Luckily, it <span class="xw was_class">was</span> <span class="xw-verb">sitting</span> in another tree nearby.  I got a few pictures of it sitting on the branch before it flew away again. I really hope that it found one of the local rats and <span class="xw had_class">had</span> a good meal.</p>
+	<p>I <span class="xw dont_class">don’t</span> <span class="xw-verb">know</span> what type of hawk this <span class="xw is_class">is</span>, but I<span class="xw m_class">’m</span>  sure someone else <span class="xw does_class">does</span>. If you <span class="xw are_class">are</span>  a bird watcher or if you<span class="xw ve_class">’ve</span> studied birds and you <span class="xw can_class">can</span> <span class="xw-verb">identify</span> this one, please send us a comment to let us know.  Thanks!</p>
+</div>
+<script>
+function updateCounts(content){
+	$('#xw-verbs-x-words-total').html( XWords.total(content) );
+	$('#xw-verbs-x-words-found').html( XWords.numberFound(content) );
+	$('#xw-verbs-verbs-total').html( XWordsVerbs.total(content) );
+	$('#xw-verbs-verbs-found').html( XWordsVerbs.numberFound(content) );
+}
+XWords.setup( '.x-words-verbs-content' );
+XWordsVerbs.setup( '.x-words-verbs-content' );
+updateCounts( '.x-words-verbs-content' );
+</script>
+
+<h1>Time</h1>
+<p>Identify the x-words by clicking on them and then identifiy if they are past, continuous past, or present.</p>
+
+<h1>Subject Verb Agreement</h1>
+<p>Identify the x-words below by clicking them then see the subject highlighted</p>
+
+<h1>Misc.</h1>
 <!-- Find the hidden x-words -->
 <div class="xw-hidden-pair">
 	<span class="xw-hidden-xword">doe<span class="xw-non-hidden-suffix">s</span></span>
@@ -189,15 +273,6 @@
 <div class="xw-hidden-pair">
 	<span class="xw-hidden-xword">do<span class="xw-non-hidden-suffix">es</span></span>
 	<span class="xw-hidden-verb">fix<span class="xw-hidden-suffix">es</span></span>
-</div>
-
-<!-- Negatives
-Identify x-word - type the negative version (even for hidden)
--->
-
-<br/><br/>
-<div class="find-negatives">
-	This bird <span class="xw xw-negate xw-verb xw-do-form-">swam</span> across the river.
 </div>
 
 <!-- All xwords
@@ -220,333 +295,10 @@ Be: am, is, are, was, were
 	This bird <span class="xw xw-time" style="background: #0FF;"><b>(b)</b> did <b>(n)</b></span> swim across the river.
 </div>
 
+</div>
 </body>
 
 </html>
-
-<!--
-var visibleNegatives = {
-	"can": "can't",
-	"could": "couldn't",
-	"will": "won't",
-	"would": "wouldn't",
-	"shall": "shall not",
-	"should": "shouldn't",
-	"must": "must not",
-	"might": "might not",
-	"may": "may not",
-	"have": "haven't",
-	"has": "hasn't",
-	"had": "hadn't",
-	"am": "am not",
-	"is": "isn't",
-	"are": "aren't",
-	"was": "wasn't",
-	"were": "weren't",
-};
-
-function checkNegative( original, negative ){
-	var didVerbs = {
-		'went': 'go',
-		'became': 'become',
-		'came': 'come',
-		'did': 'do',
-		'ran': 'run',
-		'began': 'begin',
-		'drank': 'drink',
-		'rang': 'ring',
-		'sang': 'sing',
-		'swam': 'swim',
-		'ate': 'eat',
-		'fell': 'fall',
-		'forgot': 'forget',
-		'got': 'get',
-		'bit': 'bite',
-		'hid': 'hide',
-		'forgave': 'forgive',
-		'gave': 'give',
-		'drove': 'drive',
-		'rode': 'ride',
-		'rose': 'rise',
-		'wrote': 'write',
-		'shook': 'shake',
-		'took': 'take',
-		'broke': 'break',
-		'chose': 'choose',
-		'froze': 'freeze',
-		'spoke': 'speak',
-		'stole': 'steal',
-		'woke': 'wake',
-		'blew': 'blow',
-		'flew': 'fly',
-		'grew': 'grow',
-		'knew': 'know',
-		'threw': 'throw',
-		'drew': 'draw',
-		'withdrew': 'withdraw',
-		'saw': 'see',
-		'hung': 'hang',
-		'stung': 'sting',
-		'swung': 'swing',
-		'won': 'win',
-		'dug': 'dig',
-		'stuck': 'stick',
-		'shot': 'shoot',
-		'swore': 'swear',
-		'tore': 'tear',
-		'wore': 'wear',
-		'had': 'have',
-		'told': 'tell',
-		'sold': 'sell',
-		'fed': 'feed',
-		'led': 'lead',
-		'read': 'read',
-		'said': 'say',
-		'spread': 'spread',
-		'held': 'hold',
-		'slid': 'slide',
-		'lit': 'light',
-		'made': 'make',
-		'paid': 'pay',
-		'laid': 'lay',
-		'heard': 'hear',
-		'stood': 'stand',
-		'understood': 'understand',
-		'found': 'find',
-		'brought': 'bring',
-		'bought': 'buy',
-		'caught': 'catch',
-		'fought': 'fight',
-		'taught': 'teach',
-		'thought': 'think',
-		'sat': 'sit',
-		'built': 'build',
-		'bent': 'bend',
-		'lent': 'lend',
-		'sent': 'send',
-		'spent': 'spend',
-		'meant': 'mean',
-		'kept': 'keep',
-		'left': 'leave',
-		'met': 'meet',
-		'slept': 'sleep',
-		'swept': 'sweep',
-		'felt': 'feel',
-		'lost': 'lose',
-		'cost': 'cost',
-		'cut': 'cut',
-		'fit': 'fit',
-		'hit': 'hit',
-		'hurt': 'hurt',
-		'let': 'let',
-		'put': 'put',
-		'quit': 'quit',
-		'set': 'set',
-		'shut': 'shut'
-	};
-	var doesVerbs = {
-		'goes': 'go',
-		'becomes': 'become',
-		'comes': 'come',
-		'does': 'do',
-		'runs': 'run',
-		'begins': 'begin',
-		'drinks': 'drink',
-		'rings': 'ring',
-		'sings': 'sing',
-		'swims': 'swim',
-		'eats': 'eat',
-		'falls': 'fall',
-		'forgets': 'forget',
-		'gets': 'get',
-		'bites': 'bite',
-		'hides': 'hide',
-		'forgives': 'forgive',
-		'gives': 'give',
-		'drives': 'drive',
-		'rides': 'ride',
-		'rises': 'rise',
-		'writes': 'write',
-		'shakes': 'shake',
-		'takes': 'take',
-		'breaks': 'break',
-		'chooses': 'choose',
-		'freezes': 'freeze',
-		'speaks': 'speak',
-		'steals': 'steal',
-		'wakes': 'wake',
-		'blows': 'blow',
-		'flies': 'fly',
-		'grows': 'grow',
-		'knows': 'know',
-		'throws': 'throw',
-		'draws': 'draw',
-		'withdraws': 'withdraw',
-		'sees': 'see',
-		'hangs': 'hang',
-		'stings': 'sting',
-		'swings': 'swing',
-		'wins': 'win',
-		'digs': 'dig',
-		'sticks': 'stick',
-		'shoots': 'shoot',
-		'swears': 'swear',
-		'tears': 'tear',
-		'wears': 'wear',
-		'has': 'have',
-		'tells': 'tell',
-		'sells': 'sell',
-		'feeds': 'feed',
-		'leads': 'lead',
-		'reads': 'read',
-		'says': 'say',
-		'spreads': 'spread',
-		'holds': 'hold',
-		'slides': 'slide',
-		'lights': 'light',
-		'makes': 'make',
-		'pays': 'pay',
-		'lays': 'lay',
-		'hears': 'hear',
-		'stands': 'stand',
-		'understands': 'understand',
-		'finds': 'find',
-		'brings': 'bring',
-		'buys': 'buy',
-		'catches': 'catch',
-		'fights': 'fight',
-		'teaches': 'teach',
-		'thinks': 'think',
-		'sits': 'sit',
-		'builds': 'build',
-		'bends': 'bend',
-		'lends': 'lend',
-		'sends': 'send',
-		'spends': 'spend',
-		'means': 'mean',
-		'keeps': 'keep',
-		'leaves': 'leave',
-		'meets': 'meet',
-		'sleeps': 'sleep',
-		'sweeps': 'sweep',
-		'feels': 'feel',
-		'loses': 'lose',
-		'costs': 'cost',
-		'cuts': 'cut',
-		'fits': 'fit',
-		'hits': 'hit',
-		'hurts': 'hurt',
-		'lets': 'let',
-		'puts': 'put',
-		'quits': 'quit',
-		'sets': 'set',
-		'shuts': 'shut'
-	};
-	var doVerbs = {
-		'go': 'go',
-		'become': 'become',
-		'come': 'come',
-		'do': 'do',
-		'run': 'run',
-		'begin': 'begin',
-		'drink': 'drink',
-		'ring': 'ring',
-		'sing': 'sing',
-		'swim': 'swim',
-		'eat': 'eat',
-		'fall': 'fall',
-		'forget': 'forget',
-		'get': 'get',
-		'bite': 'bite',
-		'hide': 'hide',
-		'forgive': 'forgive',
-		'give': 'give',
-		'drive': 'drive',
-		'ride': 'ride',
-		'rise': 'rise',
-		'write': 'write',
-		'shake': 'shake',
-		'take': 'take',
-		'break': 'break',
-		'choose': 'choose',
-		'freeze': 'freeze',
-		'speak': 'speak',
-		'steal': 'steal',
-		'wake': 'wake',
-		'blow': 'blow',
-		'fly': 'fly',
-		'grow': 'grow',
-		'know': 'know',
-		'throw': 'throw',
-		'draw': 'draw',
-		'withdraw': 'withdraw',
-		'see': 'see',
-		'hang': 'hang',
-		'sting': 'sting',
-		'swing': 'swing',
-		'win': 'win',
-		'dig': 'dig',
-		'stick': 'stick',
-		'shoot': 'shoot',
-		'swear': 'swear',
-		'tear': 'tear',
-		'wear': 'wear',
-		'have': 'have',
-		'tell': 'tell',
-		'sell': 'sell',
-		'feed': 'feed',
-		'lead': 'lead',
-		'read': 'read',
-		'say': 'say',
-		'spread': 'spread',
-		'hold': 'hold',
-		'slide': 'slide',
-		'light': 'light',
-		'make': 'make',
-		'pay': 'pay',
-		'lay': 'lay',
-		'hear': 'hear',
-		'stand': 'stand',
-		'understand': 'understand',
-		'find': 'find',
-		'bring': 'bring',
-		'buy': 'buy',
-		'catch': 'catch',
-		'fight': 'fight',
-		'teach': 'teach',
-		'think': 'think',
-		'sit': 'sit',
-		'build': 'build',
-		'bend': 'bend',
-		'lend': 'lend',
-		'send': 'send',
-		'spend': 'spend',
-		'mean': 'mean',
-		'keep': 'keep',
-		'leave': 'leave',
-		'meet': 'meet',
-		'sleep': 'sleep',
-		'sweep': 'sweep',
-		'feel': 'feel',
-		'lose': 'lose',
-		'cost': 'cost',
-		'cut': 'cut',
-		'fit': 'fit',
-		'hit': 'hit',
-		'hurt': 'hurt',
-		'let': 'let',
-		'put': 'put',
-		'quit': 'quit',
-		'set': 'set',
-		'shut': 'shut'
-	};
-	if( doForms.hasOwnPropertyOriginal(original) ){ return 'do '+doVerbs[original] === negative; }
-	if( doesForms.hasOwnPropertyOriginal(original) ){ return 'does '+doesVerbs[original] === negative; }
-	if( didForms.hasOwnPropertyOriginal(original) ){ return 'ddid '+didVerbs[original] === negative; }
-}
-
-
--->
 
 <!--
 
