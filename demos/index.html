@@ -10,11 +10,12 @@
   <title>X-Words Grammar</title>
 
 	<link rel="stylesheet" type="text/css" href="../libs/Semantic-UI-CSS/semantic.min.css">
+	<link rel="stylesheet" type="text/css" href="../libs/dragula/dragula.min.css">
 	<link rel="stylesheet" type="text/css" href="../style/main.css">
 	<link rel="stylesheet" type="text/css" href="../style/xwords.css">
 
 	<script src="../libs/jquery.min.js" ></script>
-	<script src="../libs/jquery-dragsort/jquery.dragsort-0.5.2.min.js" ></script>
+	<script src="../libs/dragula/dragula.min.js" ></script>
 	<script src="../libs/Semantic-UI-CSS/semantic.min.js"></script>
 	<script src="../libs/list.js"></script>
 	<script src="../js/x-words.js"></script>
@@ -74,40 +75,46 @@
   <script>
   $(document)
     .ready(function() {
-			$(".xw-drag-sentence").dragsort({
-				dragSelector: ".xw-drag-word",
-				dragEnd: function() {
-					var sentence = $(this).parent();
 
-					// make all the contained words lower case
-					var $words = sentence.find('.xw-drag-word');
-					$words.each( function(i,el){
-						el.innerHTML = el.innerHTML.toLowerCase();
-					} );
+			// Why do i need to manully convert a node list or jquery
+			// object to an array?
+			var nodes = document.querySelectorAll('.xw-drag-sentence');
+			var containers = [];
+			for( var i=0, l=nodes.length; i<l; i+=1 ){
+				containers.push( nodes[i] );
+			}
 
-					// Capitalize the first letter
-					$words[0].innerHTML = $words[0].innerHTML.charAt(0).toUpperCase() + $words[0].innerHTML.substr(1).toLowerCase();
+			dragula( containers, {
+			}).on('drop', function (el) {
+				var sentence = $(el).parent();
 
-					// Determine if sentence or question
-					var subjectPlace = -1;
-					var xWordPlace = -1;
-					for( var i=0, l=$words.length; i<l; i+=1 ){
-						if( $($words[i]).hasClass( 'xw-subject' ) && subjectPlace < 0 ){
-							subjectPlace = i;
-						}
-						if( $($words[i]).hasClass( 'xw-xword' ) && xWordPlace < 0 ){
-							xWordPlace = i;
-						}
+				// make all the contained words lower case
+				var $words = sentence.find('.xw-drag-word');
+				$words.each( function(i,el){
+					el.innerHTML = el.innerHTML.toLowerCase();
+				} );
+
+				// Capitalize the first letter
+				$words[0].innerHTML = $words[0].innerHTML.charAt(0).toUpperCase() + $words[0].innerHTML.substr(1).toLowerCase();
+
+				// Determine if sentence or question
+				var subjectPlace = -1;
+				var xWordPlace = -1;
+				for( var i=0, l=$words.length; i<l; i+=1 ){
+					if( $($words[i]).hasClass( 'xw-subject' ) && subjectPlace < 0 ){
+						subjectPlace = i;
 					}
-					if( xWordPlace < subjectPlace ){
-						sentence.find('.xw-drag-word-end').html('?');
-					}else{
-						sentence.find('.xw-drag-word-end').html('.');
+					if( $($words[i]).hasClass( 'xw-xword' ) && xWordPlace < 0 ){
+						xWordPlace = i;
 					}
-				},
-				dragBetween: false,
-				placeHolderTemplate: '<span class="xw-drag-word"> </span>',
+				}
+				if( xWordPlace < subjectPlace ){
+					sentence.find('.xw-drag-word-end').html('?');
+				}else{
+					sentence.find('.xw-drag-word-end').html('.');
+				}
 			});
+
     })
   ;
   </script>
