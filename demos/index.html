@@ -40,6 +40,14 @@
 		.xw-drag-word-end {
 			width: 1em;
 		}
+
+/*
+<div class="xw-hidden-pair">
+	<span class="xw-hidden-xword">doe<span class="xw-non-hidden-suffix">s</span></span>
+	<span class="xw-hidden-verb">make<span class="xw-hidden-suffix">s</span></span>
+</div>
+*/
+
 		.xw-hidden-pair {
 			position: relative;
 			width: 5em;
@@ -47,19 +55,32 @@
 		.xw-hidden-xword {
 			position:absolute;
 			right: 0;
-			top: 1em;
+			top: 0;
+			opacity: 0;
+			transition: all 0.3s ease;
+		}
+		.xw-hidden-pair:hover .xw-hidden-xword {
+			top: -1em;
+			opacity: 1;
+		}
+		.xw-hidden-pair:hover .xw-non-hidden-suffix {
+			color: #F00;
+		}
+		.xw-hidden-pair:hover .xw-hidden-suffix {
+			color: #F00;
 		}
 		.xw-hidden-verb {
 			position: absolute;
 			right: 0;/*0.5em;*/
-			background-color: #FFF;
+			/*background-color: #FFF;*/
 		}
 		.xw-hidden-suffix {
-			color: #F00;
-			opacity: 0.25;
+			color: #000;
+			transition: all 0.3s ease;
 		}
 		.xw-non-hidden-suffix {
-			color: #F00;
+			color: #000;
+			transition: all 0.3s ease;
 		}
 
 		.xw-verb {
@@ -122,6 +143,14 @@
 </head>
 <body>
   <div class="ui text container fluid main-column">
+
+<!-- Color Notes:
+	Subject - #CCFFFF
+	XWord - #FF7510
+	Verb - #E35EEA
+	Other? ("much") - #FFFF66
+-->
+
 <!--
 	X-Words
 	Questions
@@ -266,6 +295,9 @@ updateCounts( '.x-words-verbs-content' );
 
 <h1>Time</h1>
 <p>Identify the x-words by clicking on them and then identifiy if they are past, continuous past, or present.</p>
+<div class="find-times">
+	This bird <span class="xw xw-time" style="background: #0FF; border-radius: 4px;"><b><i class="icon calendar"></i></b> <b><i class="icon history"></i></b> did <b><i class="icon down arrow"></i></b></span> swim across the river.
+</div>
 
 <h1>Subject Verb Agreement</h1>
 <p>Identify the x-words below by clicking them then see the subject highlighted</p>
