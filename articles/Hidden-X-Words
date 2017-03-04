@@ -1,0 +1,238 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.xwordgrammar.com/xmlrpc.php">
+
+<title>Hidden X-Words &#8211; X-Word Grammar</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="X-Word Grammar &raquo; Feed" href="http://www.xwordgrammar.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="X-Word Grammar &raquo; Comments Feed" href="http://www.xwordgrammar.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.xwordgrammar.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mtq_CoreStyleSheets-css'  href='http://www.xwordgrammar.com/wp-content/plugins/mtouch-quiz/mtq_core_style.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mtq_ThemeStyleSheets-css'  href='http://www.xwordgrammar.com/wp-content/plugins/mtouch-quiz/mtq_theme_style.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsqt-main-css'  href='http://www.xwordgrammar.com/wp-content/plugins/wp-survey-and-quiz-tool/css/main.css?ver=4.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.xwordgrammar.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wpProQuiz_front_style-css'  href='http://www.xwordgrammar.com/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.37' type='text/css' media='all' />
+<link rel='stylesheet' id='kuorinka-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700%2C400italic%2C600italic%2C700italic%7CRoboto+Condensed%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.xwordgrammar.com/wp-content/themes/kuorinka/fonts/genericons/genericons.min.css?ver=3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='kuorinka-style-css'  href='http://www.xwordgrammar.com/wp-content/themes/kuorinka/style.css?ver=4.7.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.xwordgrammar.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script><script>jQueryWP = jQuery;</script>
+<script type='text/javascript' src='http://www.xwordgrammar.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.xwordgrammar.com/wp-content/plugins/mtouch-quiz/script.js?ver=3.1.3'></script>
+<script type='text/javascript' src='http://www.xwordgrammar.com/wp-content/plugins/wp-survey-and-quiz-tool/js/site.js?ver=4.7.1'></script>
+<script type='text/javascript' src='http://www.xwordgrammar.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.9'></script>
+<link rel='https://api.w.org/' href='http://www.xwordgrammar.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.xwordgrammar.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.xwordgrammar.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.1" />
+<link rel="canonical" href="http://www.xwordgrammar.com/matching-x-words-to-verbs/" />
+<link rel='shortlink' href='http://www.xwordgrammar.com/?p=2078' />
+<link rel="alternate" type="application/json+oembed" href="http://www.xwordgrammar.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.xwordgrammar.com%2Fmatching-x-words-to-verbs%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.xwordgrammar.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.xwordgrammar.com%2Fmatching-x-words-to-verbs%2F&#038;format=xml" />
+
+<style type="text/css" id="custom-header-css">#site-title, #site-title a { color: #78909c }</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #eceff1; background-image: url("http://www.xwordgrammar.com/wp-content/themes/kuorinka/images/kuorinka_background.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+<!-- Google Analytics Tracking by Google Analyticator 6.4.9: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-34934485-1']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+
+<body class="page-template-default page page-id-2078 custom-background layout-2c-l" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	
+		
+	<header id="masthead" class="site-header" role="banner" aria-labelledby="site-title" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+		
+			
+			<div class="site-branding">
+			
+				<div id="site-title" class="site-title" itemprop="headline">
+					<div class="site-title-inner">
+						<a href="http://www.xwordgrammar.com/" rel="home">X-Word Grammar</a>
+					</div>
+				</div>
+				
+				<div id="site-description" class="site-description" itemprop="description"></div>
+			
+			</div><!-- .site-branding -->
+			
+				
+				
+					
+				
+				
+	</header><!-- #masthead -->
+	
+		
+	<nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><h2 class="screen-reader-text">Breadcrumbs</h2><div class="wrap"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://www.xwordgrammar.com" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Hidden X-Words</span><meta itemprop="position" content="2" /></li></ul></div></nav>
+	<div id="content" class="site-content">
+		<div class="wrap">
+			<div class="wrap-inside">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main" itemprop="mainContentOfPage">
+
+			
+				
+<article id="post-2078" class="post-2078 page type-page status-publish entry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	
+	<header class="entry-header">
+		<h1 class="entry-title" itemprop="headline">Hidden X-Words</h1>	</header><!-- .entry-header -->
+
+	<div class="entry-content" itemprop="text">
+		<p>X-words show time, even when they hide. If you make a lot of mistakes with verb forms, try learning how to find hidden-x-words. <a href="http://www.xwordgrammar.com/wp-content/uploads/2013/08/hidden-x-in-metal-tubes-in-weeds-Sunnyside-Yards-summer-2012.jpg"><img class="alignleft size-thumbnail wp-image-2413" src="http://www.xwordgrammar.com/wp-content/uploads/2013/08/hidden-x-in-metal-tubes-in-weeds-Sunnyside-Yards-summer-2012-150x150.jpg" alt="hidden x in metal tubes in weeds Sunnyside Yards summer 2012" width="150" height="150" /></a> There are only 3, all from the <b>DO</b> family:<br />
+<strong>do</strong><br />
+<strong>does</strong><br />
+<strong>did</strong></p>
+<p>It takes practice to find these 3 hidden x-words. Look for clues. If you see:</p>
+<p>No x-word visible (the verb looks like the base form) = <strong>DO</strong> is hiding in the verb</p>
+<p><strong>S</strong> on the end of the verb = <strong>DOES</strong> is hiding in the verb</p>
+<p><strong>ED</strong> at the end of the verb or <a href="http://www.xwordgrammar.com/verb-list/" target="_blank">irregular past</a> = <strong>DID</strong> is hiding in the verb</p>
+<p><a href="http://www.xwordgrammar.com/wp-content/uploads/2013/08/Birdhouse-gourd-with-birds-nest.jpg"><img class="aligncenter imgList" style="margin-bottom: 30px;" src="http://www.xwordgrammar.com/wp-content/uploads/2013/08/Birdhouse-gourd-with-birds-nest-150x150.jpg" alt="Birdhouse gourd with birds nest" width="150" height="150" /></a></p>
+<p>You can find hidden x-words by changing a statement to a yes/no question or to a negative form like this:</p>
+<table class="conversion-table">
+<tbody>
+<tr class="conversion-firstrow">
+<th>Trunks</th>
+<th>Yes/No Questions</th>
+<th>Negative Trunks</th>
+</tr>
+<tr>
+<td>Birds make nests in all kinds of places.</td>
+<td>Do birds make nests in all kinds of places?</td>
+<td>Birds don&#8217;t make nests in all kinds of places.</td>
+</tr>
+<tr>
+<td>This gourd has a nest inside.</td>
+<td>Does this gourd have a nest inside?</td>
+<td>This gourd doesn&#8217;t have a nest inside.</td>
+</tr>
+<tr>
+<td>The baby birds hatched already.</td>
+<td>Did the baby birds hatch already?</td>
+<td>The baby birds didn&#8217;t hatch yet.</td>
+</tr>
+</tbody>
+</table>
+			</div><!-- .entry-content -->
+
+</article><!-- #post-## -->
+
+				
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+				
+	<aside id="sidebar-primary" class="sidebar" role="complementary" aria-labelledby="sidebar-primary-header" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+		<h2 class="screen-reader-text" id="sidebar-primary-header">Primary Sidebar</h2>
+		
+				
+			<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://www.xwordgrammar.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></section><section id="text-3" class="widget widget_text"><h3 class="widget-title">Information</h3>			<div class="textwidget"><ul>
+<li><a href=" http://www.xwordgrammar.com/x-words/introduction/" title=What are x-words?">What are x-words?</a></li>
+<li><a href="http://www.xwordgrammar.com//?page_id=69" title="X-Words: Past or Now?"> X-words show time</a></li>
+<li><a href="http://www.xwordgrammar.com/one-or-many/" title="X-words and subjects">X-words match subjects</a></li>
+<li><a href="http://www.xwordgrammar.com/matching-x-words-to-verbs-2" title="Matching X-Words to Verbs">X-words match verbs</a></li>
+<li><a href="http://www.xwordgrammar.com/sentence-patterns-2/" title="Sentence Patterns">Sentence patterns</li>
+</ul></div>
+		</section><section id="text-4" class="widget widget_text"><h3 class="widget-title">Practice</h3>			<div class="textwidget"><ul>
+<li><a href= "http://www.xwordgrammar.com/x-words/practice/" title=X-words/introduction/practice">Find the  x-words</a></li>
+<li><a href="http://www.xwordgrammar.com/earth-hour/" title=Earth Hour">Figure out the time</a></li>
+<li><a href="http://www.xwordgrammar.com/no-glove-no-love/" title=No Glove, No Love">Match visible x-words to verbs</a></li>
+<li><a href="http://www.xwordgrammar.com/doing-the-dishes/" title=doing the dishes">Figure out hidden x-words</a></li>
+<li><a href="http://www.xwordgrammar.com/click-the-x-words-and-subjects/"click-the-x-words-and-subjects">Find subjects</a></li>
+<li><a href="http://www.xwordgrammar.com/figure-out-sentence-patterns/" title=Sentence Patterns">Figure out sentence patterns</a></li>
+<li><a href="http://www.xwordgrammar.com/take-a-reading-quiz/" title=Reading Quizzes">Take a reading quiz</a></li>
+</ul>
+</div>
+		</section><section id="text-6" class="widget widget_text"><h3 class="widget-title">Resources</h3>			<div class="textwidget"><ul>
+<li><a href= "http://www.xwordgrammar.com/verb-list/" title=Verb List">Verb List</a></li>
+<li><a href= "http://www.xwordgrammar.com/resources/books/" title=resources/books">Books</a></li>
+<li><a href="http://www.xwordgrammar.com/contacts/" title=Contact Us">Contact Us</a></li>
+</ul>
+</div>
+		</section>			
+		
+	</aside><!-- #sidebar-primary .aside -->
+
+			
+			</div><!-- .wrap-inside -->
+		</div><!-- .wrap -->
+	</div><!-- #content -->
+	
+	
+	<footer id="colophon" class="site-footer" role="contentinfo" aria-labelledby="footer-header" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+		<h2 class="screen-reader-text" id="footer-header">Footer Content</h2>
+		
+				
+				
+					<div class="site-info">
+				<a href="http://wordpress.org/">Proudly powered by WordPress</a>
+				<span class="sep">&middot;</span>
+				Theme Kuorinka by <a href="https://foxland.fi" rel="designer">Foxland</a>			</div><!-- .site-info -->
+				
+	</footer><!-- #colophon -->
+	
+		
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.xwordgrammar.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.xwordgrammar.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.xwordgrammar.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5'></script>
+<script type='text/javascript' src='http://www.xwordgrammar.com/wp-content/themes/kuorinka/js/functions.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.xwordgrammar.com/wp-includes/js/wp-embed.min.js?ver=4.7.1'></script>
+
+</body>
+</html>
