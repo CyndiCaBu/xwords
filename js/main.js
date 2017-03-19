@@ -5,7 +5,7 @@ function updateCounts(content){
 	$('#x-words-total').html( total );
 	$('#x-words-found').html( XWords.numberFound(content) );
 	// Update per-paragraph word count
-	$(content).find('p, li').remove('.xw-paragraph-summary');
+	$(content).find('span').remove('.xw-paragraph-summary');
 	$(content).find('p, li').each(function(i,node){
 		var total = XWords.total( node );
 		if( total === 0 ){ return; }

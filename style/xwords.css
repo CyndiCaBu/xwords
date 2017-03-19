@@ -9,4 +9,6 @@
 .xw-paragraph-summary {
 	color: #AAA;
 	font-size: 60%;
+	position: relative;
+	top: -8px;
 }
