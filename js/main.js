@@ -1,8 +1,17 @@
 
 function updateCounts(content){
+	// Update global word count
 	var total = XWords.total(content);
 	$('#x-words-total').html( total );
 	$('#x-words-found').html( XWords.numberFound(content) );
+	// Update per-paragraph word count
+	$(content).find('p, li').remove('.xw-paragraph-summary');
+	$(content).find('p, li').each(function(i,node){
+		var total = XWords.total( node );
+		if( total === 0 ){ return; }
+		var found = XWords.numberFound( node );
+		$( node ).append( '<span class="xw-paragraph-summary"><br/>'+found+' of '+total+' xwords found</span>' );
+	});
 }
 
 function titleCase( text ){
