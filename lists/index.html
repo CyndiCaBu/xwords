@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>X-Words Grammar</title>
+
+  <style type="text/css">
+	.verb {
+		background-color: red;
+	}
+	.xw-hidden-does {
+		background-color: #FF0;
+	}
+	.xw-hidden-did {
+		background-color: #0FF;
+	}
+  </style>
+
+  <script src="../libs/jquery.min.js"></script>
+  <script>
+
+	function parse_tsv( text ){
+		var lines = text.split('\n');
+		var headings = lines[0].split('\t');
+		var obj = {headings:headings};
+		for( var j=0, c=headings.length; j<c; j+= 1){
+			obj[headings[j]] = [];
+		}
+		for( var i=1, r=lines.length; i<r; i+=1 ){
+			var cols = lines[i].split('\t');
+			for( var j=0, c=headings.length; j<c; j+= 1){
+				obj[headings[j]].push(cols[j]);
+			}
+		}
+		return obj;
+	}
+
+	// The forms of verbs are: base, vxs, vxd, dtn, ing
+	var verbs;
+	$.ajax('verbs',{contentType:'text/plain'}).then(function(response){
+		verbs = parse_tsv( response );
+		console.info( verbs );
+	});
+
+	// Shifters
+	var shifters;
+	$.ajax('shifters',{contentType:'text/plain'}).then(function(response){
+		shifters = response.split('\n');
+		console.info( shifters );
+	});
+
+	// Linkers
+	var linkers;
+	$.ajax('linkers',{contentType:'text/plain'}).then(function(response){
+		linkers = response.split('\n');
+		console.info( linkers );
+	});
+
+	// X-Words
+	var xwords;
+	$.ajax('xwords',{contentType:'text/plain'}).then(function(response){
+		xwords = response.split('\n');
+		console.info( xwords );
+	});
+
+	function mark_all_verbs(){
+		// Find all the verbs
+		$('p').each(function(i,el){
+			var tmp = el.innerHTML;
+			for( var i=0, l=verbs.headings.length; i<l; i+=1 ){
+				var heading = verbs.headings[i];
+				for( var j=0, jl=verbs[heading].length; j<jl; j+=1 ){
+					var verb = verbs[heading][j];
+					tmp = tmp.replace(new RegExp(' '+verb+' ','gi'),' <span class="verb">'+verb+'</span> ');
+				}
+			}
+			console.info('aaa');
+			el.innerHTML = tmp;
+			//console.info( el.innerHTML );
+		});
+	}
+
+	// METHOD B
+	function endsWith( string, ending ){
+		var dl = (string.length - ending.length);
+		// If the ending is longer than the string then it cannot end it
+		if( dl < 0 ){ return false; }
+		return string.indexOf( ending ) === dl;
+	}
+
+	// METHOD B
+	function split_to_sentences( paragraph ){
+		// First split to words
+		var words = paragraph.split( /\s+/g );
+
+		// Find all the locations that are probably end-of-sentences
+		// We start with -1 because we generate the sentences using
+		// these indices+1 so we want the first to be word[0] -> word[-1+1]
+		var ends = [-1];
+		for( var i=0, l=words.length; i<l; i+=1 ){
+			var titlesPre = 'Mrs. Mr. Ms. Prof. Dr. Gen. Rep. Sen. St.';
+			var titlesPost = 'Sr. Jr. Ph.D. M.D. B.A. M.A. D.D.S.';
+			var months = 'Jan. Feb. Mar. Apr. Jun. Jul. Aug. Sep. Sept. Oct. Nov. Dec.';
+			var falseEnds = (titlesPre+' '+titlesPost+' '+months).split(' ');
+			var ohNo = 'a.m. p.m. b.c. b.c.e. a.d.'; // requires multiple words
+			var goodEndings = '." ? ?" ! !"'.split(' ');
+			if( endsWith(words[i],'.') ){
+				// Dont add things like "Mr." to the end of sentence list
+				if( falseEnds.indexOf(words[i]) !== -1 ){
+					continue;
+				}else{
+					ends.push(i);
+					continue;
+				}
+			}
+			for( var j=0, jl=goodEndings.length; j<jl; j+=1 ){
+				if( endsWith(words[i],goodEndings[j]) ){
+					ends.push(i);
+					continue;
+				}
+			}
+		}
+
+		// Generate the sentences
+		var sentences = [];
+		for( var i=1, l=ends.length; i<l; i+=1 ){
+			sentences.push( words.slice(ends[i-1]+1,ends[i]+1).join(' ') );
+		}
+
+		console.info( sentences );
+		return sentences;
+	}
+
+	// METHOD B
+	function sentence_highlight_hidden_did( sentence ){
+		var result = '';
+		var vxd = verbs['vxd'];
+		for( var i=0, l=vxd.length; i<l; i+=1 ){
+			var verbIdx = sentence.indexOf( vxd[i] );
+			if( verbIdx > -1 ){
+				// cant have "has" "had" "have" to the left (immediate or more)
+				var hWords = ' has , had , have '.split(',');
+				for( var j=0, jl=hWords.length; j<jl; j+=1 ){
+					var hIdx = sentence.indexOf( hWords[i] );
+					if( hIdx > -1 ){
+						if( hIdx < verbIdx ){
+							return sentence;
+						}
+					}
+				}
+				return sentence.replace( vxd[i], '<span class="xw-hidden-did">'+vxd[i]+'</span>' );
+			}
+		}
+		return sentence;
+	}
+
+	function mark_all_hidden_x_words(){
+		// Find all the hidden x-words
+		$('p').each(function(i,el){
+			var tmp = el.innerHTML;
+
+			// METHOD B
+			/*
+			var sentences = split_to_sentences( tmp );
+			var highlights = [];
+			for( var i=0, l=sentences.length; i<l; i+=1 ){
+				highlights.push(sentence_highlight_hidden_did(sentences[i]));
+			}
+			el.innerHTML = highlights.join(' ');
+			*/
+
+			// HIDDEN DID: any past-tense verb has a hidden did (x-word)
+			// METHOD A (more words highlighted than B)
+			var vxd = verbs['vxd'];
+			for( var i=0, l=vxd.length; i<l; i+=1 ){
+				var verb = vxd[i];
+				tmp = tmp.replace(new RegExp(' ('+verb+') ','gi'),' <span class="verb xw-hidden-did">'+verb+'</span> ');
+			}
+
+			// HIDDEN DOES: any present-tense verb in the vxs list has a hidden does (x-word)
+			var vxs = verbs['vxs'];
+			for( var i=0, l=vxs.length; i<l; i+=1 ){
+				var verb = vxs[i];
+				tmp = tmp.replace(new RegExp(' '+verb+' ','gi'),' <span class="verb xw-hidden-does">'+verb+'</span> ');
+			}
+
+
+			el.innerHTML = tmp;
+
+			
+			//console.info( el.innerHTML );
+		});
+	}
+
+	$( function(){
+		console.info('xyz');
+		highlight_all_hidden_x_words();
+	});	
+
+  </script>
+
+</head>
+
+<body>
+
+<p>
+Two things happened to me recently to remind me that nature is with us everywhere, even in an urban environment. As I was walking down the street with a friend, I felt my foot hit something lightly. I am so glad that I was wearing good sneakers, because when I looked down I saw a very small rat running away from us. It ran straight across our path and into a hole in the sidewalk. Although my friend and I walk down that street all the time, I had never noticed that hole in the sidewalk before. It was just a crack in the cement, next to a set of stairs, but it was big enough for the rat to fit through. It made me think about the creatures that live under our feet, the ones we donâ't even know about.
+</p>
+
+<p>
+The next morning I noticed a bird outside the kitchen window. It was sitting on a branch the way the mourning doves do, but it looked much bigger. I wanted to take a picture, so I moved very slowly and carefully in case it could sense my presence. However, it flew away before I could get the camera ready. I decided to go outside to see if I could find it somewhere. Luckily, it was sitting in another tree nearby. I got a few pictures of it sitting on the branch before it flew away again. I really hope that it found one of the local rats and had a good meal.
+</p>
+
+<p>
+I donâ't know what type of hawk this is, but Iâ'm sure someone else does. If you are a bird watcher or if youâ've studied birds and you can identify this one, please send us a comment to let us know. Thanks!
+</p>
+
+</body>
+
+</html>
