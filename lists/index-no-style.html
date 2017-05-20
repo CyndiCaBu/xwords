@@ -10,13 +10,16 @@
 
   <style type="text/css">
 	.verb {
-		background-color: red;
+		
 	}
 	.xw-hidden-does {
-		background-color: #FF0;
+		border-bottom: 1px dashed #FF0;
 	}
 	.xw-hidden-did {
-		background-color: #0FF;
+		border-bottom: 1px dashed #0FF;
+	}
+	.xw-found {
+		background-color: #0F0;
 	}
   </style>
 
@@ -196,9 +199,41 @@
 		});
 	}
 
+	var XWords = {};
+	XWords.loadContent = function( url ){};
+	XWords.setup = function( content ){
+		$(content).on('click','.xw-hidden-did',function(){
+			$(this).addClass( 'xw-found' );
+			updateCounts( content );
+		});
+	};
+	XWords.total = function( content ){
+		return $(content).find( '.xw-hidden-did' ).length;
+	};
+	XWords.numberFound = function( content ){
+		return $(content).find( '.xw-found' ).length;
+	};
+
+
+	function updateCounts(content){
+		// Update global word count
+		var total = XWords.total(content);
+		$('#x-words-total').html( total );
+		$('#x-words-found').html( XWords.numberFound(content) );
+		// Update per-paragraph word count
+		$(content).find('span').remove('.xw-paragraph-summary');
+		$(content).find('p, li').each(function(i,node){
+			var total = XWords.total( node );
+			if( total === 0 ){ return; }
+			var found = XWords.numberFound( node );
+			$( node ).append( '<span class="xw-paragraph-summary"><br/>'+found+' of '+total+' xwords found</span>' );
+		});
+	}
+
 	$( function(){
 		console.info('xyz');
-		highlight_all_hidden_x_words();
+		mark_all_hidden_x_words();
+		XWords.setup('body');
 	});	
 
   </script>
@@ -208,7 +243,7 @@
 <body>
 
 <p>
-Two things happened to me recently to remind me that nature is with us everywhere, even in an urban environment. As I was walking down the street with a friend, I felt my foot hit something lightly. I am so glad that I was wearing good sneakers, because when I looked down I saw a very small rat running away from us. It ran straight across our path and into a hole in the sidewalk. Although my friend and I walk down that street all the time, I had never noticed that hole in the sidewalk before. It was just a crack in the cement, next to a set of stairs, but it was big enough for the rat to fit through. It made me think about the creatures that live under our feet, the ones we donâ't even know about.
+Two things happened to me recently to remind me that nature is with us everywhere, even in an urban environment. As I was walking down the street with a friend, I felt my foot hit something lightly. I am so glad that I was wearing good sneakers, because when I looked down I saw a very small rat running away from us. It ran straight across our path and into a hole in the sidewalk. Although my friend and I walk down that street all the time, I had never noticed that hole in the sidewalk before. It was just a crack in the cement, next to a set of stairs, but it was big enough for the rat to fit through. It made me think about the creatures that live under our feet, the ones we don't even know about.
 </p>
 
 <p>
@@ -216,7 +251,7 @@ The next morning I noticed a bird outside the kitchen window. It was sitting on 
 </p>
 
 <p>
-I donâ't know what type of hawk this is, but Iâ'm sure someone else does. If you are a bird watcher or if youâ've studied birds and you can identify this one, please send us a comment to let us know. Thanks!
+I don't know what type of hawk this is, but I'm sure someone else does. If you are a bird watcher or if you've studied birds and you can identify this one, please send us a comment to let us know. Thanks!
 </p>
 
 </body>
