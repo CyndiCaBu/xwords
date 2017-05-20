@@ -252,7 +252,7 @@
 
 	// X-Words
 	var xwords;
-	$.ajax('xwords',{contentType:'text/plain'}).then(function(response){
+	$.ajax('xwords.txt',{contentType:'text/plain'}).then(function(response){
 		xwords = response.split('\n');
 		console.info( xwords );
 	});

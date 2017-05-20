@@ -268,28 +268,28 @@
 
 	// The forms of verbs are: base, vxs, vxd, dtn, ing
 	var verbs;
-	$.ajax('verbs',{contentType:'text/plain'}).then(function(response){
+	$.ajax('verbs.txt',{contentType:'text/plain'}).then(function(response){
 		verbs = parse_tsv( response );
 		console.info( verbs );
 	});
 
 	// Shifters
 	var shifters;
-	$.ajax('shifters',{contentType:'text/plain'}).then(function(response){
+	$.ajax('shifters.txt',{contentType:'text/plain'}).then(function(response){
 		shifters = response.split('\n');
 		console.info( shifters );
 	});
 
 	// Linkers
 	var linkers;
-	$.ajax('linkers',{contentType:'text/plain'}).then(function(response){
+	$.ajax('linkers.txt',{contentType:'text/plain'}).then(function(response){
 		linkers = response.split('\n');
 		console.info( linkers );
 	});
 
 	// X-Words
 	var xwords;
-	$.ajax('xwords',{contentType:'text/plain'}).then(function(response){
+	$.ajax('xwords.txt',{contentType:'text/plain'}).then(function(response){
 		xwords = response.split('\n');
 		console.info( xwords );
 	});

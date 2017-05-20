@@ -269,7 +269,7 @@
 	}
 
 	// The forms of verbs are: base, vxs, vxd, dtn, ing
-	$.ajax('verbs',{contentType:'text/plain'}).then(function(response){
+	$.ajax('verbs.txt',{contentType:'text/plain'}).then(function(response){
 		verbs = parse_tsv( response );
 		console.info( verbs );
 	});
