@@ -270,7 +270,8 @@
 	var verbs;
 	$.ajax('verbs.txt',{contentType:'text/plain'}).then(function(response){
 		verbs = parse_tsv( response );
-		console.info( verbs );
+		mark_all_hidden_x_words();
+		XWords.setup('.x-words-content');
 	});
 
 	// Shifters
@@ -454,12 +455,6 @@
 			$( node ).append( '<span class="xw-paragraph-summary"><br/>'+found+' of '+total+' "hidden dids" found</span>' );
 		});
 	}
-
-	$( function(){
-		console.info('xyz');
-		mark_all_hidden_x_words();
-		XWords.setup('.x-words-content');
-	});	
 
   </script>
 

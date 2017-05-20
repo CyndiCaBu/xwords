@@ -255,6 +255,8 @@
 	$.ajax('xwords.txt',{contentType:'text/plain'}).then(function(response){
 		xwords = response.split('\n');
 		console.info( xwords );
+		mark_all_xwords('.x-words-content');
+		XWords.setup('.x-words-content');
 	});
 
 	function mark_all_xwords(content){
@@ -312,12 +314,6 @@
 			$( node ).append( '<span class="xw-paragraph-summary"><br/>'+found+' of '+total+' xwords found</span>' );
 		});
 	}
-
-	$( function(){
-		console.info('xyz');
-		mark_all_xwords('.x-words-content');
-		XWords.setup('.x-words-content');
-	});	
 
 	/* Missing xwords from the list:
 	don't, [i]'m, is, does, [you]'ve, do
