@@ -142,3 +142,7 @@ put	put	put	put	putting
 quit	quit	quit	quit	quiting
 set	set	set	set	setting
 shut	shut	shut	shut	shutting
+happen	happens	happened	happened	happening
+look	looks	looked	looked	looking
+notice	notices	noticed	noticed	noticing
+decide	decides	decided	decided	deciding
