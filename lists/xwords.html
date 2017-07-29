@@ -262,7 +262,7 @@
 	function mark_all_xwords(content){
 		var tmp = $(content).html();
 		for( var i=0, l=xwords.length; i<l; i+=1 ){
-			tmp = tmp.replace(new RegExp(' '+xwords[i]+' ','gi'),' <span class="xw">'+xwords[i]+'</span> ');
+			tmp = tmp.replace(new RegExp('\\b'+xwords[i]+'\\b','gi'),'<span class="xw">'+xwords[i]+'</span>');
 		}
 		$(content).html(tmp);
 	}
