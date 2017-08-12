@@ -182,11 +182,11 @@
 		<div class="x-words-content">
 			
 			<p>
-			Two things happened to me recently to remind me that nature is with us everywhere, even in an urban environment. As I was walking down the street with a friend, I felt my foot hit something lightly. I am so glad that I was wearing good sneakers, because when I looked down I saw a very small rat running away from us. It ran straight across our path and into a hole in the sidewalk. Although my friend and I walk down that street all the time, I had never noticed that hole in the sidewalk before. It was just a crack in the cement, next to a set of stairs, but it was big enough for the rat to fit through. It made me think about the creatures that live under our feet, the ones we don't even know about.
+			Two things happened to me recently to remind me that nature is with us everywhere, even in an urban environment. As I was walking down the street with a friend, I felt my foot hit something lightly. I am so glad that I was wearing good sneakers, because when I looked down I saw a very small rat running away from us. It ran straight across our path and into a hole in the sidewalk. Although my friend and I walk down that street all the time, I never noticed that hole in the sidewalk before that night. It was just a crack in the cement, next to some stairs, but it was big enough for the rat to fit through. It made me think about the creatures that live under our feet, the ones we don't even know about.
 			</p>
 
 			<p>
-			The next morning I noticed a bird outside the kitchen window. It was sitting on a branch the way the mourning doves do, but it looked much bigger. I wanted to take a picture, so I moved very slowly and carefully in case it could sense my presence. However, it flew away before I could get the camera ready. I decided to go outside to see if I could find it somewhere. Luckily, it was sitting in another tree nearby. I got a few pictures of it sitting on the branch before it flew away again. I really hope that it found one of the local rats and had a good meal.
+			The next morning I noticed a bird outside the kitchen window. It was sitting on a branch the way the mourning doves do, but it looked much bigger. I wanted to take a picture, so I moved very slowly and carefully in case it could sense my presence. However, it flew away before I could get the camera ready. I decided to go outside to see if I could find it somewhere. Luckily, it was sitting in another tree nearby. I got a few pictures of it sitting on the branch way over my head, before it flew away again. I really hope that it found one of the local rats and had a good meal.
 			</p>
 
 			<p>
@@ -270,40 +270,46 @@
 	var verbs;
 	$.ajax('verbs.txt',{contentType:'text/plain'}).then(function(response){
 		verbs = parse_tsv( response );
-		mark_all_hidden_x_words();
-		XWords.setup('.x-words-content');
+		setTimeout(function(){
+			mark_all_hidden_x_words();
+			XWords.setup('.x-words-content');
+		}, 500 );
 	});
 
 	// Shifters
 	var shifters;
 	$.ajax('shifters.txt',{contentType:'text/plain'}).then(function(response){
-		shifters = response.split('\n');
+		shifters = response.toLowerCase().split('\n');
 		console.info( shifters );
 	});
 
 	// Linkers
 	var linkers;
 	$.ajax('linkers.txt',{contentType:'text/plain'}).then(function(response){
-		linkers = response.split('\n');
+		linkers = response.toLowerCase().split('\n');
 		console.info( linkers );
 	});
 
 	// X-Words
 	var xwords;
 	$.ajax('xwords.txt',{contentType:'text/plain'}).then(function(response){
-		xwords = response.split('\n');
+		xwords = response.toLowerCase().split('\n');
 		console.info( xwords );
 	});
 
 	function mark_all_verbs(){
 		// Find all the verbs
 		$('p').each(function(i,el){
+			// USE: (?!the|a|an|my|your|his|her|its|our|their)(?:\W+)(verbed)\b
+			// to match all of the verbs that are actually adjectives and then
+			// replace them with something that cannot be mistaken for a verb
+			// then mark verbs then unreplace them
 			var tmp = el.innerHTML;
 			for( var i=0, l=verbs.headings.length; i<l; i+=1 ){
 				var heading = verbs.headings[i];
 				for( var j=0, jl=verbs[heading].length; j<jl; j+=1 ){
 					var verb = verbs[heading][j];
-					tmp = tmp.replace(new RegExp(' '+verb+' ','gi'),' <span class="verb">'+verb+'</span> ');
+					tmp = tmp.replace(new RegExp('\\b'+verb+'\\b','gi'),' <span class="verb">'+verb+'</span> ');
 				}
 			}
 			console.info('aaa');
@@ -312,112 +318,73 @@
 		});
 	}
 
-	// METHOD B
-	function endsWith( string, ending ){
-		var dl = (string.length - ending.length);
-		// If the ending is longer than the string then it cannot end it
-		if( dl < 0 ){ return false; }
-		return string.indexOf( ending ) === dl;
-	}
-
-	// METHOD B
-	function split_to_sentences( paragraph ){
-		// First split to words
-		var words = paragraph.split( /\s+/g );
-
-		// Find all the locations that are probably end-of-sentences
-		// We start with -1 because we generate the sentences using
-		// these indices+1 so we want the first to be word[0] -> word[-1+1]
-		var ends = [-1];
-		for( var i=0, l=words.length; i<l; i+=1 ){
-			var titlesPre = 'Mrs. Mr. Ms. Prof. Dr. Gen. Rep. Sen. St.';
-			var titlesPost = 'Sr. Jr. Ph.D. M.D. B.A. M.A. D.D.S.';
-			var months = 'Jan. Feb. Mar. Apr. Jun. Jul. Aug. Sep. Sept. Oct. Nov. Dec.';
-			var falseEnds = (titlesPre+' '+titlesPost+' '+months).split(' ');
-			var ohNo = 'a.m. p.m. b.c. b.c.e. a.d.'; // requires multiple words
-			var goodEndings = '." ? ?" ! !"'.split(' ');
-			if( endsWith(words[i],'.') ){
-				// Dont add things like "Mr." to the end of sentence list
-				if( falseEnds.indexOf(words[i]) !== -1 ){
-					continue;
-				}else{
-					ends.push(i);
-					continue;
-				}
-			}
-			for( var j=0, jl=goodEndings.length; j<jl; j+=1 ){
-				if( endsWith(words[i],goodEndings[j]) ){
-					ends.push(i);
-					continue;
-				}
-			}
-		}
-
-		// Generate the sentences
-		var sentences = [];
-		for( var i=1, l=ends.length; i<l; i+=1 ){
-			sentences.push( words.slice(ends[i-1]+1,ends[i]+1).join(' ') );
-		}
-
-		console.info( sentences );
-		return sentences;
-	}
-
-	// METHOD B
-	function sentence_highlight_hidden_did( sentence ){
-		var result = '';
-		var vxd = verbs['vxd'];
-		for( var i=0, l=vxd.length; i<l; i+=1 ){
-			var verbIdx = sentence.indexOf( vxd[i] );
-			if( verbIdx > -1 ){
-				// cant have "has" "had" "have" to the left (immediate or more)
-				var hWords = ' has , had , have '.split(',');
-				for( var j=0, jl=hWords.length; j<jl; j+=1 ){
-					var hIdx = sentence.indexOf( hWords[i] );
-					if( hIdx > -1 ){
-						if( hIdx < verbIdx ){
-							return sentence;
-						}
-					}
-				}
-				return sentence.replace( vxd[i], '<span class="xw-hidden-did">'+vxd[i]+'</span>' );
-			}
-		}
-		return sentence;
-	}
-
 	function mark_all_hidden_x_words(){
 		// Find all the hidden x-words
 		$('p').each(function(i,el){
 			var tmp = el.innerHTML;
 
-			// METHOD B
-			/*
-			var sentences = split_to_sentences( tmp );
-			var highlights = [];
-			for( var i=0, l=sentences.length; i<l; i+=1 ){
-				highlights.push(sentence_highlight_hidden_did(sentences[i]));
-			}
-			el.innerHTML = highlights.join(' ');
-			*/
-
 			// HIDDEN DID: any past-tense verb has a hidden did (x-word)
 			// METHOD A (more words highlighted than B)
+			/*
 			var vxd = verbs['vxd'];
 			for( var i=0, l=vxd.length; i<l; i+=1 ){
 				var verb = vxd[i];
-				tmp = tmp.replace(new RegExp(' ('+verb+') ','gi'),' <span class="verb xw-hidden-did">'+verb+'</span> ');
+				tmp = tmp.replace(new RegExp('\\b('+verb+')\\b','gi'),' <span class="verb xw-hidden-did">'+verb+'</span> ');
 			}
 
 			// HIDDEN DOES: any present-tense verb in the vxs list has a hidden does (x-word)
 			var vxs = verbs['vxs'];
 			for( var i=0, l=vxs.length; i<l; i+=1 ){
 				var verb = vxs[i];
-				tmp = tmp.replace(new RegExp(' '+verb+' ','gi'),' <span class="verb xw-hidden-does">'+verb+'</span> ');
+				tmp = tmp.replace(new RegExp('\\b'+verb+'\\b','gi'),' <span class="verb xw-hidden-does">'+verb+'</span> ');
 			}
+			*/
 
-
-			el.innerHTML = tmp;
+			/*
+			 * New algorithm for marking hidden verbs.
+			 *
+			 * The new version of Squink which has special features shows potential.
+			 * 
+			 * The machine really works in an environment that uses air conditioning.
+			 * In an environment that uses air conditioning the machine really works.
+			 *
+			 * 1) Get a list of all verbs in a sentence
+			 * 2) Remove any that are closest (just to the right of (that|which|who--list of shifters))
+			 * 3) The rightmost verb that hasnt been removed is the "verb"
+			 *
+			 * He treats the patient who owes him money.
+			 */
+			
+			function highlight( sentence ){
+				// get verbs
+				var regex = new RegExp( '\\b('+shifters.join('|')+'){0,1}.*?('+verbs['vxd'].join('|')+')\\b', 'g' );
+				var match = regex.exec(sentence);
+				while( match ){
+					// match[0] = (shifters){0,1}.*?(verbs) // full thing
+					// match[1] = shifters // underfined if no shifter
+					// match[2] = verbs // always will be a verb
+					if( match[1] ){
+						continue;
+					}else{
+						break;
+						// return match;
+					}
+				}
+				if( match === null ){
+					return sentence;
+				}
+				var verb_part = match[0].replace(match[2],'<span class="verb xw-hidden-did">'+match[2]+'</span>');
+				return sentence.replace( match[0], verb_part );
+			}
+			
+			// Split at sentences
+			var sentences = tmp.replace(/([.,?!]+)/g,'____$1__').split(/____/g);
+			for( var i=0, l=sentences.length; i<l; i+=1 ){
+				sentences[i] = highlight(sentences[i]);
+			}
+			el.innerHTML = sentences.join('____').replace(/__/g,'');
+			
+			//el.innerHTML = tmp;
 
 			
 			//console.info( el.innerHTML );
