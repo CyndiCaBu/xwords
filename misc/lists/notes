@@ -1,0 +1,68 @@
+# Sentence Patterns
+## Shifters
+ - there is a list of shifter "start words"
+ - shifter is from start word to comma or period
+
+ - click the shifter word then hightlight the phrase automatically
+ - in Sentence Patterns category
+
+# Hidden X-Words
+ - automating
+ - get verb list - any past tense verb has a hidden "did"
+
+ -
+ (have,has,had) + (word that ends in `ed`) != hidden did
+ ie I have talked, she has worked,
+
+Look for simple past and identify hidden did
+ - simple past = vdx (hidden did)
+ - list of words
+
+Simple present (identify verb with hidden does)
+ - hidden xword = vxs
+ - list of words
+
+# Verbs
+ - use list of verbs - tense matter?
+
+# Question generation
+ -
+
+# Hidden x words
+## vxd - hidden did
+ - use vxd word list
+ - rule: cant have "has" "had" "have" to the left (immediate or more)
+
+
+## vxs - hidden does
+ - similar concept to vxd
+Pick out do/does/did/have/has/had without a verb to the right
+then it's a verb with a hidden x-word
+ how to know if the verb is acting like an xword or a verb? (do/has can be tricky)
+
+# vxo - hidden do
+ - word list with no xword to the left
+ - same as base form
+
+# Lists of words we need:
+ - xwords
+ - spreasheet of: base form, vxs, vxd, dtn, ing
+ - shifters
+ - linkers
+
+# XV
+ - find x word and find the verb
+ - mark x word then mark verb (verb will be to the right of the xword and is usually the left most)
+
+# Subjects
+ - mark the x word, the subject is immediately to the left (can be several words) up to
+   the start of the sentence or comma or "frequent word" (from a list)
+
+# Sentence Patterns
+ - Trunk: subject - xword? - verb - object?
+ - Trunk+Trunk: trunk - joiner - trunk
+ - Trunk with 2 parts: subject - verb - (joiner - verb)+ - object?
+ - Shifters
+ - Shifters
+ - Linkers
+ - Extra info
