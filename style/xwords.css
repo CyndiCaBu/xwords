@@ -12,3 +12,25 @@
 	position: relative;
 	top: -8px;
 }
+
+
+.subject {
+	border-bottom: 1px dashed #0F0;
+}
+.subject-found {
+	border: 2px solid #0F0;
+}
+
+.verb {
+	border-bottom: 1px dashed #F00;
+}
+.verb-found {
+	border: 2px solid #F00;
+}
+
+.xw-hidden {
+	border-bottom: 1px dashed #000;
+}
+.xw-hidden-found {
+	border: 2px solid #000;
+}

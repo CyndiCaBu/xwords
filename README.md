@@ -36,4 +36,32 @@ Some have specific structures:
 
 Some useful things:
 
-	
+Goals:
+ - design home page
+ - create article page template
+   - determine folder structure for storage
+ - automate homepage creation
+ - what is involved in each exercies
+ [x] finding xwords
+ [x] finding subjects
+ [x] finding verbs
+ [x] finding hidden xwords
+ [ ] change xwords/verbs to negative
+     one sentence at a time
+     xword/verb is highlighted already
+     click -> type negative
+ [ ] Time
+     multiple choice for before/now
+     verb (and xword) is already highlighted
+     how do we want to break it up? (subjects can have xwords which have a difference time than the main thingy)
+ [ ] showing number
+     needs icons for 1 or many (like time)
+ [ ] find infinitive
+ [ ] Sentence to question
+     break trunk by trunk - drag words to make question
+ [ ] meaning - multiple choice - postponed
+
+ [ ] add the ability to included multiple marks
+     (v and xword, time, number)[v,x,past,many]
+ 
+ how to handle xwords and verbs being the same thing
