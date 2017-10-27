@@ -108,96 +108,36 @@ FindTheWord.prototype.updateCounts = function(content){
 		$( node ).append( '<span class="'+that.classSummary+'"><br/>'+found+' of '+total+' '+that.label+' found</span>' );
 	});
 };
-/* Interactive X-Words tracking stuff 
-var XWords = {};
-XWords.loadContent = function( url ){};
-XWords.setup = function( content ){
-	$(content).on('click','.xw',function(){
-		$(this).addClass( 'xw-found' );
-		updateCounts( content );
-	});
-};
-XWords.total = function( content ){
-	return $(content).find( '.xw' ).length;
-};
-XWords.numberFound = function( content ){
-	return $(content).find( '.xw-found' ).length;
-};
-*/
 
-// ----------------------------------------------------------------
-//  Subject 
-// ----------------------------------------------------------------
-/*
-var XWords = {};
-XWords.loadContent = function( url ){};
-XWords.setup = function( content ){
-	$(content).on('click','.subject',function(){
-		$(this).addClass( 'subject-found' );
-		updateCounts( content );
-	});
-};
-XWords.total = function( content ){
-	return $(content).find( '.subject' ).length;
-};
-XWords.numberFound = function( content ){
-	return $(content).find( '.subject-found' ).length;
-};
-*/
-// ----------------------------------------------------------------
 
-// ----------------------------------------------------------------
-//  Verbs
-// ----------------------------------------------------------------
-/*
-var XWords = {};
-XWords.loadContent = function( url ){};
-XWords.setup = function( content ){
-	$(content).on('click','.verb',function(){
-		$(this).addClass( 'verb-found' );
-		updateCounts( content );
-	});
-};
-XWords.total = function( content ){
-	return $(content).find( '.verb' ).length;
-};
-XWords.numberFound = function( content ){
-	return $(content).find( '.verb-found' ).length;
-};
-*/
-// ----------------------------------------------------------------
-
-// ----------------------------------------------------------------
-//  Hidden xwords
-// ----------------------------------------------------------------
-/*
-var XWords = {};
-XWords.loadContent = function( url ){};
-XWords.setup = function( content ){
-	$(content).on('click','.xw-hidden',function(){
-		$(this).addClass( 'xw-hidden-found' );
-		updateCounts( content );
-	});
-};
-XWords.total = function( content ){
-	return $(content).find( '.xw-hidden' ).length;
-};
-XWords.numberFound = function( content ){
-	return $(content).find( '.xw-hidden-found' ).length;
-};
-*/
-// ----------------------------------------------------------------
 
 var XWords = new FindTheWord({
-	classFind: 'xw-hidden',
-	classFound: 'xw-hidden-found',
+	classFind: 'xw',
+	classFound: 'xw-found',
 	classSummary: 'xw-paragraph-summary',
-	label: 'hidden xxords'
+	label: 'xwords'
 });
 
+var HiddenXWords = new FindTheWord({
+	classFind: 'xw-hidden',
+	classFound: 'xw-hidden-found',
+	classSummary: 'xw-hidden-paragraph-summary',
+	label: 'hidden xwords'
+});
+var Verbs = new FindTheWord({
+	classFind: 'verb',
+	classFound: 'verb-found',
+	classSummary: 'verbs-paragraph-summary',
+	label: 'verbs'
+});
+var Subjects = new FindTheWord({
+	classFind: 'subject',
+	classFound: 'subject-found',
+	classSummary: 'subject-paragraph-summary',
+	label: 'subjects'
+});
 
-
-
+// Handled by the class, except for 
 function updateCounts(content){
 	// Update global word count
 	var total = XWords.total(content);
@@ -243,4 +183,19 @@ $.get( 'content.txt', function(response){
 	XWords.setup( '.x-words-content' );
 	XWords.updateCounts( '.x-words-content' );
 } );
+					
+function load_content( content, game ){
+	$.get( content, function(response){
+		var parsed = parse_text( response, tokens );
+		$('.x-words-content').html( parsed );
+		//$('#article-image')[0].src = '../../../articles/'+articleUrl+'image.jpg';
+		//$('#article-icon')[0].src = '../../../articles/'+articleUrl+'image.jpg';
+		game.setup( '.x-words-content' );
+		game.updateCounts( '.x-words-content' );
+	} );
+}
 
+$('#menu-item-xwords').on('click',function(){load_content('content.txt',XWords); return false;});
+$('#menu-item-verbs').on('click',function(){load_content('content.txt',Verbs); return false;});
+$('#menu-item-hidden-xwords').on('click',function(){load_content('content.txt',HiddenXWords); return false;});
+$('#menu-item-subjects').on('click',function(){load_content('content.txt',Subjects); return false;});

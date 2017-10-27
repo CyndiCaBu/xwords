@@ -6,7 +6,7 @@
 	border-radius: 4px;
 	background: #0F0;
 }
-.xw-paragraph-summary {
+.xw-paragraph-summary, .verbs-paragraph-summary, .subject-paragraph-summary, .xw-hidden-paragraph-summary {
 	color: #AAA;
 	font-size: 60%;
 	position: relative;
