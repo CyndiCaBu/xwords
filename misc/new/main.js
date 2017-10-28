@@ -136,6 +136,12 @@ var Subjects = new FindTheWord({
 	classSummary: 'subject-paragraph-summary',
 	label: 'subjects'
 });
+var Infinitives = new FindTheWord({
+	classFind: 'infinitive',
+	classFound: 'infinitive-found',
+	classSummary: 'infinitive-paragraph-summary',
+	label: 'infinitives'
+});
 
 // Handled by the class, except for 
 function updateCounts(content){
@@ -199,3 +205,4 @@ $('#menu-item-xwords').on('click',function(){load_content('content.txt',XWords);
 $('#menu-item-verbs').on('click',function(){load_content('content.txt',Verbs); return false;});
 $('#menu-item-hidden-xwords').on('click',function(){load_content('content.txt',HiddenXWords); return false;});
 $('#menu-item-subjects').on('click',function(){load_content('content.txt',Subjects); return false;});
+$('#menu-item-infinitives').on('click',function(){load_content('content.txt',Infinitives); return false;});
