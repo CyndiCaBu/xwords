@@ -1,6 +1,61 @@
 # xwords
 https://cyndicabu.github.io/xwords/
 
+## XWords Markdown Cheatsheet
+
+Paragraphs are separated by a blank link:
+
+	Hello this is the first paragraph.
+
+	And this is the second paragraph.
+
+Special words can be marked and highlighted:
+
+	(hidden-do)[hidden-do]
+	(hidden-do)[vxo]
+
+	(hidden-does)[hidden-does]
+	(hidden-does)[vxs]
+
+	(hidden-did)[hidden-did]
+	(hidden-did)[vxd]
+
+	(infinitive)[infinitive]
+	(infinitive)[inf]
+
+	(past-participle)[past-participle]
+	(past-participle)[dtn]
+
+	(extra-information)[extra]
+
+	verb[verb]
+	verb[v]
+
+	xword[xword]
+	xword[x]
+
+	subject[subject]
+	subject[s]
+
+	{trunk}[trunk]
+	{trunk}[t]
+
+	linker[linker]
+	linker[l]
+
+	joiner[joiner]
+	joiner[j]
+
+	shifter[shifter]
+	shifter[sh]
+	
+	{front-shifter}[front-shifter]
+	{front-shifter}[f]
+
+	{end-shifter}[end-shifter]
+	{end-shifter}[e]
+
+
 ## Organization
 
 The top level directories are:
