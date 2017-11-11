@@ -177,7 +177,7 @@ var articleUrl = pathParts.slice(nParts-2).join('/');
 var exercise = titleCase( pathParts[nParts-3].replace(/-/g,' ') );
 var category = titleCase( pathParts[nParts-2].replace(/-/g,' ') );
 var article = titleCase( pathParts[nParts-1].replace(/-/g,' ') );
-$('#breadcrumb-category').html( category )[0].href = '../../#'+pathParts[nParts-2];
+// $('#breadcrumb-category').html( category )[0].href = '../../#'+pathParts[nParts-2];
 $('#breadcrumb-article').html( article );
 $('#article-title').html( article );
 $('title').html( article +' - X-Words Grammar' );
@@ -190,7 +190,7 @@ $.get( 'content.txt', function(response){
 	XWords.updateCounts( '.x-words-content' );
 } );
 					
-function load_content( content, game ){
+function load_content( content, game, title ){
 	$.get( content, function(response){
 		var parsed = parse_text( response, tokens );
 		$('.x-words-content').html( parsed );
@@ -198,11 +198,39 @@ function load_content( content, game ){
 		//$('#article-icon')[0].src = '../../../articles/'+articleUrl+'image.jpg';
 		game.setup( '.x-words-content' );
 		game.updateCounts( '.x-words-content' );
+		$('.main.menu .ui.dropdown').dropdown('hide');
+		$('#exercise-title').html(title);
 	} );
 }
 
-$('#menu-item-xwords').on('click',function(){load_content('content.txt',XWords); return false;});
-$('#menu-item-verbs').on('click',function(){load_content('content.txt',Verbs); return false;});
-$('#menu-item-hidden-xwords').on('click',function(){load_content('content.txt',HiddenXWords); return false;});
-$('#menu-item-subjects').on('click',function(){load_content('content.txt',Subjects); return false;});
-$('#menu-item-infinitives').on('click',function(){load_content('content.txt',Infinitives); return false;});
+$('#menu-item-xwords').on('click',function(){load_content('content.txt',XWords,'Find the X Words'); return false;});
+$('#menu-item-verbs').on('click',function(){load_content('content.txt',Verbs,'Find the Verbs'); return false;});
+$('#menu-item-hidden-xwords').on('click',function(){load_content('content.txt',HiddenXWords,'Find the Hidden X Words'); return false;});
+$('#menu-item-subjects').on('click',function(){load_content('content.txt',Subjects,'Find the Subjects'); return false;});
+$('#menu-item-infinitives').on('click',function(){load_content('content.txt',Infinitives,'Find the Infinitives'); return false;});
+
+$(document)
+	.ready(function() {
+
+		// fix main menu to page on passing
+		$('.main.menu').visibility({
+			type: 'fixed'
+		});
+		$('.overlay').visibility({
+			type: 'fixed',
+			offset: 80
+		});
+
+		// lazy load images
+		$('.image').visibility({
+			type: 'image',
+			transition: 'vertical flip in',
+			duration: 500
+		});
+
+		// show dropdown on hover
+		$('.main.menu .ui.dropdown').dropdown({
+			on: 'hover'
+		});
+	})
+;

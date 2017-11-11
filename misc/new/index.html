@@ -26,8 +26,6 @@
 	<link rel="stylesheet" type="text/css" href="../../libs/Semantic-UI-CSS/components/transition.css">
 
 	<link rel="stylesheet" type="text/css" href="../../libs/Semantic-UI-CSS/semantic.min.css">
-	<link rel="stylesheet" type="text/css" href="../../style/main.css">
-	<link rel="stylesheet" type="text/css" href="../../style/xwords.css">
 
 	<script src="../../libs/jquery.min.js" ></script>
 	<script src="../../libs/Semantic-UI-CSS/semantic.min.js"></script>
@@ -36,106 +34,30 @@
 	<script src="../../libs/Semantic-UI-CSS/components/transition.js"></script>
 	<script src="../../libs/Semantic-UI-CSS/components/dropdown.js"></script>
 	<script src="../../libs/Semantic-UI-CSS/components/visibility.js"></script>
-	<script>
-	$(document)
-		.ready(function() {
 
-			// fix main menu to page on passing
-			$('.main.menu').visibility({
-				type: 'fixed'
-			});
-			$('.overlay').visibility({
-				type: 'fixed',
-				offset: 80
-			});
-
-			// lazy load images
-			$('.image').visibility({
-				type: 'image',
-				transition: 'vertical flip in',
-				duration: 500
-			});
-
-			// show dropdown on hover
-			$('.main.menu	.ui.dropdown').dropdown({
-				on: 'hover'
-			});
-		})
-	;
-	</script>
-
-	<style type="text/css">
-
-	body {
-		background-color: #FFFFFF;
-	}
-	.main.container {
-		margin-top: 2em;
-	}
-
-	.main.menu {
-		margin-top: 4em;
-		border-radius: 0;
-		border: none;
-		box-shadow: none;
-		transition:
-			box-shadow 0.5s ease,
-			padding 0.5s ease
-		;
-	}
-	.main.menu .item img.logo {
-		margin-right: 1.5em;
-	}
-
-	.overlay {
-		float: left;
-		margin: 0em 3em 1em 0em;
-	}
-	.overlay .menu {
-		position: relative;
-		left: 0;
-		transition: left 0.5s ease;
-	}
-
-	.main.menu.fixed {
-		background-color: #FFFFFF;
-		border: 1px solid #DDD;
-		box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
-	}
-	.overlay.fixed .menu {
-		left: 800px;
-	}
-
-	.text.container .left.floated.image {
-		margin: 2em 2em 2em -4em;
-	}
-	.text.container .right.floated.image {
-		margin: 2em -4em 2em 2em;
-	}
-
-	.ui.footer.segment {
-		margin: 5em 0em 0em;
-		padding: 5em 0em;
-	}
-	</style>
+	<link rel="stylesheet" type="text/css" href="../../style/main.css">
+	<link rel="stylesheet" type="text/css" href="../../style/xwords.css">
 
 </head>
 <body>
 
 	<div class="ui main text container">
-		<h1 class="ui header" id="article-title"></h1>
-		<img id="article-image" class="ui centered medium image" src="">
+		<!--<h1 class="ui header" id="article-title"></h1>-->
+		<img id="article-image" class="ui centered medium image" src="./image.png">
 	</div>
 
 
 	<div class="ui borderless main menu">
 		<div class="ui text container">
-			<div href="#" class="header item">
-				<img id="article-icon" class="logo" src="">
+			<div href="#" class="item">
+				<img id="article-icon" class="logo" src="./image.png">
 			</div>
 
+			<div class="item" id="breadcrumb-article" class="active section"></div>
+			<span class="item divider"></span>
+
 			<div class="ui dropdown item">
-				<span id="exercise-title">Find the X Words</span> (<div><span id="x-words-found"></span>/<span id="x-words-total"></span></div>)
+				<span id="exercise-title">Find the X Words</span>
 				<i class="dropdown icon"></i>
 				<div class="menu">
 					<div class="item" id="menu-item-xwords">X Words</div>
@@ -156,11 +78,6 @@
 					<div class="item">Hints</div>
 				</div>
 			</div>
-
-			<span class="item divider">/</span>
-			<a class="item" id="breadcrumb-category" class="section"></a>
-			<span class="item divider">/</span>
-			<div class="item" id="breadcrumb-article" class="active section"></div>
 		</div>
 	</div>
 

@@ -66,3 +66,11 @@ body {
 .x-words-content {
 	font-size: 1em;
 }
+
+/* For articles/exercises */
+.main.menu { margin-top: 0; }
+.main.container { margin-top: 0; }
+#article-image {
+	width: 700px;
+	height: 300px;
+}
