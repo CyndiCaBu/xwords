@@ -21,6 +21,26 @@
 		position: absolute;
 	}
 
+	#editor-toolbar {
+		position: absolute;
+		top: 0;
+		height: 4em;
+		left: 0;
+		width: 100%;
+		background-color: #999;
+	}
+	.toolbar-btn {
+		height: 100%;
+	}
+
+	#editor-content {
+		position: absolute;
+		top:4em;
+		left:0;
+		width: 100%;
+		bottom:0;
+	}
+
 	#text-input {
 		position: absolute;
 		top: 0;
@@ -66,8 +86,12 @@
 	
 </head>
 <body>
-
-	<textarea id="text-input">
+	<div id="editor-toolbar">
+		<button class="toolbar-btn" id="btn-clear-markdown">Clear markdown</button>
+		<button class="toolbar-btn" id="btn-automark">Auto mark</button>
+	</div>
+	<div id="editor-content">
+		<textarea id="text-input">
 (hidden-do)[hidden-do]
 
 (hidden-does)[hidden-does]
@@ -97,12 +121,20 @@ shifter[shifter]
 (front-shifter)[front-shifter]
 
 (end-shifter)[end-shifter]
-	</textarea>
-	<div id="text-preview"></div>
+		</textarea>
+		<div id="text-preview"></div>
+
+	</div>
 
 <script>
 
-function markup_xwords(){
+function highlight_guess( text, words, premark, postmark ){
+	var new_text = text;
+	for( var i=0, l=words.length; i<l; i+=1 ){
+		var re = new RegExp( '\\b'+words[i]+'\\b', 'gi' );
+		new_text =  new_text.replace(re,function(capture){return premark+capture+postmark});
+	}
+	return new_text;
 }
 
 var tokens = {
@@ -184,6 +216,31 @@ $(function(){
 	setInterval( function(){
 		$('#text-preview').html( parse_text( $('#text-input').val(), tokens ) );
 	}, 50 );
+
+	$('#btn-automark').on('click',function(){
+		// highlight_guess( text, words, premark, postmark )
+		var always_xwords_single = 'could would should shall must might may'.split(' ');
+		var always_xwords_group = "couldn't won't wouldn't shouldn't don't doesn't didn't haven't hasn't hadn't".split(' ');
+		var sometimes_xwords_single = "can will have has had am is are was were".split(' ');
+		var sometimes_xwords_group = "can't isn't aren't wasn't".split(' ');
+
+		var txt = highlight_guess( $('#text-input').val(), always_xwords_single, '', '[x]' );
+		txt = highlight_guess( txt, always_xwords_group, '(', ')[x]' );
+		txt = highlight_guess( txt, sometimes_xwords_single, '', '[x]' );
+		txt = highlight_guess( txt, sometimes_xwords_group, '(', ')[x]' );
+
+		$('#text-input').val(txt);
+	});
+
+	$('#btn-clear-markdown').on('click',function(){
+		var txt = $('#text-input').val();
+		txt = txt.replace( /\(/gi, '' );
+		txt = txt.replace( /\)/gi, '' );
+		txt = txt.replace( /\{/gi, '' );
+		txt = txt.replace( /\}/gi, '' );
+		txt = txt.replace( /\[.*?\]/gi, '' );
+		$('#text-input').val(txt);
+	});
 });
 
 </script>
