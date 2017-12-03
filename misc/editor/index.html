@@ -222,12 +222,14 @@ $(function(){
 		var always_xwords_single = 'could would should shall must might may'.split(' ');
 		var always_xwords_group = "couldn't won't wouldn't shouldn't don't doesn't didn't haven't hasn't hadn't".split(' ');
 		var sometimes_xwords_single = "can will have has had am is are was were".split(' ');
-		var sometimes_xwords_group = "can't isn't aren't wasn't".split(' ');
+		var sometimes_xwords_group = "can't isn't aren't wasn't weren't".split(' ');
+		var somehow_i_missed_these_xwords_single = 'do dont does doesnt did didnt cant couldnt wont wouldnt shouldnt'.split(' ');
 
 		var txt = highlight_guess( $('#text-input').val(), always_xwords_single, '', '[x]' );
 		txt = highlight_guess( txt, always_xwords_group, '(', ')[x]' );
 		txt = highlight_guess( txt, sometimes_xwords_single, '', '[x]' );
 		txt = highlight_guess( txt, sometimes_xwords_group, '(', ')[x]' );
+		txt = highlight_guess( txt, somehow_i_missed_these_xwords_single, '', '[x]' );
 
 		$('#text-input').val(txt);
 	});
