@@ -227,15 +227,19 @@ $(function(){
 		var linkers_single = "however,unfortunately,fortunately,obviously,meanwhile,nowadays,finally".split(',');
 		var linkers_group = "for example,for instance".split(",");
 		var joiners_single = "but".split(" ");
+		var subjects_single = "I you it".split(" ");
+		var contractions_xwords = "'m 're 've 's".split(" ");
 
 		var txt = highlight_guess( $('#text-input').val(), always_xwords_single, '', '[x]' );
 		txt = highlight_guess( txt, always_xwords_group, '(', ')[x]' );
-		txt = highlight_guess( txt, sometimes_xwords_single, '', '[x]' );
 		txt = highlight_guess( txt, sometimes_xwords_group, '(', ')[x]' );
+		txt = highlight_guess( txt, sometimes_xwords_single, '', '[x]' );
 		txt = highlight_guess( txt, somehow_i_missed_these_xwords_single, '', '[x]' );
 		txt = highlight_guess( txt, linkers_single, '', '[l]' );
 		txt = highlight_guess( txt, linkers_group, '(', ')[l]' );
 		txt = highlight_guess( txt, joiners_single, '', '[j]' );
+		txt = highlight_guess( txt, subjects_single, '', '[s]' );
+		txt = highlight_guess( txt, contractions_xwords, '(', ')[x]' );
 
 		$('#text-input').val(txt);
 	});
