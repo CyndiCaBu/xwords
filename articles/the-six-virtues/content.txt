@@ -1,6 +1,13 @@
-Courage is a synonym for bravery, the strength to do something that scares you. It&#8216;s often associated with physical actions and physical strength, but courage is also an emotional strength. It helps us accomplish our goals even if something inside us or outside us makes that difficult.
-Learning something new takes courage, especially the courage to make mistakes. Telling the truth even when it&#8216;s painful takes courage, too. The character strengths associated with courage are listed below. Do you see any as your own?
-Love. What is love? In his book Flourish, Martin Seligman notes that the strengths associated with a sense of love and humanity &#8220;are displayed in positive social interaction with other people.&#8221; When you think of your own sense of humanity and love, does that make sense? How about humanity?
-Justice is usually associate with fairness and with doing what&#8216;s right, especially according to the law. As a virtue in positive psychology, it includes the strengths that help people live together as a community. These are listed below.
-Moderation is a synonym for temperance. It means avoiding excess: not too much, not too little, not too fast, not too slow. With moderation, we avoid extremes.
-Transcendence is a little hard to explain. Some definitions include the idea of going beyond the ordinary world, beyond regular limits. Transcendence can refer to excellence. It can refer to a spiritual or philosophical sense of being free from our physical limitations, beyond this material world. It might be difficult to understand if you haven&#8217;t actually experienced at least some sense of it.
+{(Character strengths)[s] are[x] part of the foundation of positive psychology.}[t] {They[s] are[x] related[dtn] to 6 universal virtues,}[t] {described below.}[extra]
+
+{Courage[s] is[x] a synonym for bravery,}[t] {the strength (to do)[inf] something that scares you.}[extra] {It[s]('s)[x] often associated[dtn] with physical actions and physical strength,}[t] but[j] {courage[s] is[x] also an emotional strength.}[t] {It[s] helps[vxs] us accomplish our goals}[t] {even if something inside us or outside us makes that difficult.}[e]
+
+{(Learning something new)[s] takes[vxs] courage,}[t] {especially the courage (to make)[inf] mistakes.}[extra] {(Telling the truth even when it[s](0's0)[x] painful)[s] takes[vxs] courage,}[t] (too.)[extra] {(The character strengths associated with courage)[s] are[x] listed[dtn] below.}[t] {Do[x] you[s] see[v] any as your own?}[t]
+
+Love. {What is[x] love[s]?} {In his book Flourish,}[f] {(Martin Seligman)[s] notes[vxs] that we see the strengths associated with a sense of love and humanity}[t] {when we see people interact in a positive way.}[e] {When you think of your own sense of humanity and love,}[f] {does[x] that[s] make[v] sense?}[t] How about humanity?
+
+{Justice[s] is[x] usually associated[dtn] with fairness and with doing what is[x] right,}[t] {especially according to the law.}}[extra] {As a virtue in positive psychology,}[f] {it[s] includes[vxs] the strengths that help people live together as a community.}[t] {These[s] are[x] listed[dtn] below.}[t]
+
+{Moderation[s] is[x] a synonym for temperance.}[t] {It[s] means[vxs] avoiding excess:}[t] {not too much, not too little, not too fast, not too slow.}[extra] {With moderation,}[f] {we[s] avoid[vxo] extremes.}[t]
+
+{Transcendence[s] is[x] a little hard (to explain)[inf].}[t] {(Some definitions)[s] include[vxo] the idea of going beyond the ordinary world,}[t] {beyond regular limits.}[extra] {Transcendence[s] can[x] refer[v] to excellence.}[t] {It[s] can[x] refer[v] to a spiritual or philosophical sense of being free from our physical limitations,}[t] {beyond this material world.}[e] {It[s] might[x] be[v] difficult (to understand)[inf]}[t] {if you[s] (haven't)[x] actually experienced at least some sense of it.}[f]
