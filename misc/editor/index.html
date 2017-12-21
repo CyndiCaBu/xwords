@@ -90,6 +90,7 @@
 	<div id="editor-toolbar">
 		<button class="toolbar-btn" id="btn-clear-markdown">Clear markdown</button>
 		<button class="toolbar-btn" id="btn-automark">Auto mark</button>
+		<button class="toolbar-btn" id="btn-error-check">Find Errors</button>
 	</div>
 	<div id="editor-content">
 		<textarea id="text-input">
@@ -314,6 +315,43 @@ $(function(){
 		txt = txt.replace( /\[.*?\]/gi, '' );
 		$('#text-input').val(txt);
 	});
+
+	$('#btn-error-check').on('click',function(){
+		var found_error = false;
+		var txt = $('#text-input').val();
+
+		// Look for mistyped text in [] brackets:
+		var bracket_test = function(match, identifier, offset, string){
+			if( found_error ){ return }
+			if( ! tokens.hasOwnProperty( identifier ) ){
+				var problem_characters = '(){} '.split('');
+				for( var i=0, l=problem_characters.length; i<l; i+=1 ){
+					if( identifier.indexOf(problem_characters[i]) > -1 ){
+						if( identifier.length > 10 ){
+							alert( '"['+identifier.slice(0,10)+'..." appears to be missing a closing bracket: ]' );
+							found_error = true;
+							return;
+						}else{
+							alert( '"['+identifier+' appears to be missing a closing bracket: ]' );
+							found_error = true;
+							return;
+						}
+					}
+				}
+				alert( 'Is "['+identifier+']" mispelled? Here are the available options: '+Object.keys(tokens) );
+				found_error = true;
+				return;
+			}
+			return match;
+		};
+		txt.replace( /\[(.+?)\]/g, bracket_test );
+
+		if( found_error === false ){
+			alert( 'No errors found!' );
+		}
+
+	});
+
 });
 
 </script>
