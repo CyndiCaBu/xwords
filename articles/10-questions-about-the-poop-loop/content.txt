@@ -2,18 +2,18 @@
 
 {Where did[x] it[s] come[v] from?}[t]
 
-{If you[s] ate[vxd] any plants,}[sh] {such as vegetables and fruit,}[extra] {where did[x] they[s] grow[v]?}[t]
+{If you[s] ate[vxd] any plants,}[f] {such as vegetables and fruit,}[extra] {where did[x] they[s] grow[v]?}[t]
 
-{What did[x] (the farmers)[s] do[v] (to make)[inf] sure (those plants)[s] were[x] full of nutrients?}[t]
+{What did[x] (the farmers)[s] do[v] (to make)[inf] sure those plants were[x] full of nutrients?}[t]
 
-{If (the farmers)[s] applied[vxd] compost,}[sh] {did[x] it[s] come[v] from animal waste such as manure?}[t]
+{If (the farmers)[s] applied[vxd] compost,}[f] {did[x] it[s] come[v] from animal waste such as manure?}[t]
 
-{(What kind of tests)[s] can[x] help[v] farmers and others know if (our food)[s] is[x] safe from any harmful viruses or bacteria that[s] might[x] be[v] in manure or humanure?}[t]
+{(What kind of tests)[s] can[x] help[v] farmers and others know if (our food)[s] is[x] safe from any harmful viruses or bacteria that might[x] be in manure or humanure?}[t]
 
-{Would[x] you[s] still eat[v] plants grown with “humanure,”}[t] {a type of compost made from human waste?}[extra]
+{Would[x] you[s] eat[v] plants grown with “humanure,”}[t] {a type of compost made from human waste?}[extra]
 
-{If you[s] had[vxd] a choice between plants grown with chemical fertilizer or plants grown with humanure,}[sh] {which would[x] you[s] choose[v]?}[t]
+{If you[s] had[vxd] a choice between plants grown with chemical fertilizer or plants grown with humanure,}[f] {which would[x] you[s] choose[v]?}[t]
 
-{If you[s] had[vxd] some extra money (to donate)[inf] to a good cause,}[sh] {would[x] you[s] consider[v] giving it to SOIL,}[t] {an organization that supports health, soil and human lives in Haiti through the poop loop?}[extra]
+{If you had[x] some extra money (to donate)[inf] to a good cause,}[f] {would[x] you[s] consider[v] giving it to SOIL,}[t] {an organization that supports health, soil and human lives in Haiti through the poop loop?}[extra]
 
 {Would[x] you[s] rather use[v] a toilet in a poop loop system or a water-based system?}[t]
