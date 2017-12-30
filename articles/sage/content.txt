@@ -1,10 +1,10 @@
-{People[s] have[x] grown[dtn] and used[dtn] sage for centuries.}[t] {In some cultures,}[f] {it[s](’s)[x] associated[dtn] with herbal remedies.}[t] {(Its essential oils)[s] may[x] have[v] some antimicrobial properties,}[t] but[j] {(more research)[s] is[x] needed[dtn] (to test)[inf] that.}[t]
+{People[s] have[x] grown[dtn] and used[dtn] sage for centuries.}[t=] {In some cultures,}[f] {it[s](’s)[x] associated[dtn] with herbal remedies.}[t] {(Its essential oils)[s] may[x] have[v] some antimicrobial properties,}[t] but[j] {(more research)[s] is[x] needed[dtn] (to test)[inf] that.}[t]
 
 
 {Sage[s] is[x] generally considered[dtn] safe (to eat)[inf],}[t] (in moderation.)[extra] {(Some people)[s] may[x] have[v] an allergic reaction to it,}[t] (especially if they eat too much or for too long.)[extra] {There[s] are[x] many varieties of sage,}[t] and[j] {(some species)[s] have[vxo] a natural chemical compound that can[x] affect the nervous system.}[t] (Nevertheless,)[l] (in general,)[l] {(most people)[s] (don’t)[x] have[v] problems with sage.}[t] 
 
 
-{You[s] can[x] use[v] this herb fresh or dried, in a sauce, main dish, beverage, etc.}[t] {If you[s] like the flavor or sage and you are[x] a tea drinker,}[f] {you[s] could[x] try[v] throwing some sage leaves into your next pot of black tea.}[t] {It[s] will[x] give[v] the tea a different taste without being too strong.}[t] {For a more intense flavor,}[f] {you[s] would[x] need[v] (to boil)[inf] the sage leaves with the tea leaves for a few minutes.}[t]
+{You[s] can[x] use[v] this herb fresh or dried,}[t] {in a sauce, main dish, beverage, etc.}[extra] {If you like the flavor of sage and you are[x] a tea drinker,}[f] {you[s] could[x] try[v] throwing some sage leaves into your next pot of black tea.}[t] {It[s] will[x] give[v] the tea a different taste without being too strong.}[t] {For a more intense flavor,}[f] {you[s] would[x] need[v] (to boil)[inf] the sage leaves with the tea leaves for a few minutes.}[t]
 
 
-{If you[s](’d)[x] like (to try)[inf] sage,}[f] {there[s] are[x] plenty of recipes online.}[t] {Please keep[vxo] science in mind;}[t] {(don’t)[x] believe[v] every health claim you read.}[t] {If you[s] (can't)[x] prove[v] results in a controlled experiment in a lab,}[f] {how can[x] you[s] know[v] if they are[x] valid?}[t]
+{If you(’d)[x] like (to try)[inf] sage,}[f] {there[s] are[x] plenty of recipes online.}[t] {Please keep[vxo] science in mind;}[t] {(don’t)[x] believe[v] every health claim you read.}[t] {If you (can't)[x] prove results in a controlled experiment in a lab,}[f] {how can[x] you[s] know[v] they are[x] valid?}[t]
