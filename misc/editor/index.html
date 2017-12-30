@@ -84,6 +84,26 @@
 	.front-shifter {background-color: #FDF}
 	.end-shifter {background-color: #FDF}
 	.trunk-multi {background-color: #DFF}
+	.f-t,
+	.front-shifter-time,
+	.f-p,
+	.front-shifter-place,
+	.f-r,
+	.front-shifter-reason,
+	.f-cd,
+	.front-shifter-condition,
+	.f-ct,
+	.front-shifter-contrast {background-color: #FDF}
+	.e-t,
+	.end-shifter-time,
+	.e-p,
+	.end-shifter-place,
+	.e-r,
+	.end-shifter-reason,
+	.e-cd,
+	.end-shifter-condition,
+	.e-ct,
+	.end-shifter-contrast {background-color: #FDF}
 	</style>
 	
 </head>
@@ -123,7 +143,27 @@ shifter[sh]
 
 (front-shifter)[f]
 
+(front-shifter-time)[f-t]
+
+(front-shifter-place)[f-p]
+
+(front-shifter-reason)[f-r]
+
+(front-shifter-condition)[f-cd]
+
+(front-shifter-contrast)[f-ct]
+
 (end-shifter)[e]
+
+(end-shifter-time)[e-t]
+
+(end-shifter-place)[e-p]
+
+(end-shifter-reason)[e-r]
+
+(end-shifter-condition)[e-cd]
+
+(end-shifter-contrast)[e-ct]
 
 (trunk-multi)[t=]
 		</textarea>
@@ -190,7 +230,29 @@ var tokens = {
 	'end-shifter': '<span class="end-shifter">|</span>',
 
 	't=': '<span class="trunk-multi">|</span>',
-	'trunk-multi': '<span class="trunk-multi">|</span>'
+	'trunk-multi': '<span class="trunk-multi">|</span>',
+
+	'f-t': '<span class="front-shifter-time">|</span>',
+	'front-shifter-time': '<span class="front-shifter-time">|</span>',
+	'f-p': '<span class="front-shifter-place">|</span>',
+	'front-shifter-place': '<span class="front-shifter-place">|</span>',
+	'f-r': '<span class="front-shifter-reason">|</span>',
+	'front-shifter-reason': '<span class="front-shifter-reason">|</span>',
+	'f-cd': '<span class="front-shifter-condition">|</span>',
+	'front-shifter-condition': '<span class="front-shifter-condition">|</span>',
+	'f-ct': '<span class="front-shifter-contrast">|</span>',
+	'front-shifter-contrast': '<span class="front-shifter-contrast">|</span>',
+	
+	'e-t': '<span class="end-shifter-time">|</span>',
+	'end-shifter-time': '<span class="end-shifter-time">|</span>',
+	'e-p': '<span class="end-shifter-place">|</span>',
+	'end-shifter-place': '<span class="end-shifter-place">|</span>',
+	'e-r': '<span class="end-shifter-reason">|</span>',
+	'end-shifter-reason': '<span class="end-shifter-reason">|</span>',
+	'e-cd': '<span class="end-shifter-condition">|</span>',
+	'end-shifter-condition': '<span class="end-shifter-condition">|</span>',
+	'e-ct': '<span class="end-shifter-contrast">|</span>',
+	'end-shifter-contrast': '<span class="end-shifter-contrast">|</span>'
 };
 
 function parse_text( text, tokens ){
