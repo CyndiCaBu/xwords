@@ -83,6 +83,7 @@
 	.shifter {background-color: #FDF}
 	.front-shifter {background-color: #FDF}
 	.end-shifter {background-color: #FDF}
+	.trunk-multi {background-color: #DFF}
 	</style>
 	
 </head>
@@ -123,6 +124,8 @@ shifter[sh]
 (front-shifter)[f]
 
 (end-shifter)[e]
+
+(trunk-multi)[t=]
 		</textarea>
 		<div id="text-preview"></div>
 
@@ -184,7 +187,10 @@ var tokens = {
 	'front-shifter': '<span class="front-shifter">|</span>',
 	
 	'e': '<span class="end-shifter">|</span>',
-	'end-shifter': '<span class="end-shifter">|</span>'
+	'end-shifter': '<span class="end-shifter">|</span>',
+
+	't=': '<span class="trunk-multi">|</span>',
+	'trunk-multi': '<span class="trunk-multi">|</span>'
 };
 
 function parse_text( text, tokens ){

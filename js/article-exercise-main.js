@@ -44,7 +44,10 @@ var tokens = {
 	'front-shifter': '<span class="front-shifter">|</span>',
 	
 	'e': '<span class="end-shifter">|</span>',
-	'end-shifter': '<span class="end-shifter">|</span>'
+	'end-shifter': '<span class="end-shifter">|</span>',
+
+	't=': '<span class="trunk-multi">|</span>',
+	'trunk-multi': '<span class="trunk-multi">|</span>'
 };
 
 function parse_text( text, tokens ){
