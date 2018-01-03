@@ -2,7 +2,7 @@
 
 {Where did[x] it[s] come[v] from?}[t]
 
-{If you[s] ate[vxd] any plants,}[f] {such as vegetables and fruit,}[extra] {where did[x] they[s] grow[v]?}[t]
+{If you[s] ate[vxd] any plants,}[f-cd] {such as vegetables and fruit,}[extra] {where did[x] they[s] grow[v]?}[t]
 
 {What did[x] (the farmers)[s] do[v] (to make)[inf] sure those plants were[x] full of nutrients?}[t]
 
@@ -12,8 +12,8 @@
 
 {Would[x] you[s] eat[v] plants grown with “humanure,”}[t] {a type of compost made from human waste?}[extra]
 
-{If you[s] had[vxd] a choice between plants grown with chemical fertilizer or plants grown with humanure,}[f] {which would[x] you[s] choose[v]?}[t]
+{If you[s] had[vxd] a choice between plants grown with chemical fertilizer or plants grown with humanure,}[f-cd] {which would[x] you[s] choose[v]?}[t]
 
-{If you had[x] some extra money (to donate)[inf] to a good cause,}[f] {would[x] you[s] consider[v] giving it to SOIL,}[t] {an organization that supports health, soil and human lives in Haiti through the poop loop?}[extra]
+{If you had[x] some extra money (to donate)[inf] to a good cause,}[f-cd] {would[x] you[s] consider[v] giving it to SOIL,}[t] {an organization that supports health, soil and human lives in Haiti through the poop loop?}[extra]
 
 {Would[x] you[s] rather use[v] a toilet in a poop loop system or a water-based system?}[t]
