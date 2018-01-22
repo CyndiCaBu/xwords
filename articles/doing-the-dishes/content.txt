@@ -1,3 +1,5 @@
-{Elisabeth[s] does[vxs] the dishes by hand}[t] {even though she has[vxs] a dishwasher right next to the sink.}[e] {She[s] (doesn’t)[x] use[v] it very often}[t] {because she prefers (to wash)[inf] the dishes herself.}[e] {She[s] likes[vxs] the feel of warm water on her hands.}[t] 
+{Elisabeth[s] does[vxs] the dishes by hand}[t] {even though she has[vxs] a dishwasher right next to the sink.}[e-ct] {She[s] (doesn’t)[x] use[v] it very often}[t] {because she prefers (to wash)[inf] the dishes herself.}[e-r] {She[s] likes[vxs] the feel of warm water on her hands.}[t] 
 
-{Instead of spending time drying the dishes with a towel,}[f] {she[s] lets[vxs] them air dry.}[t] {She[s] says[vxs] that making them all fit in the dish drainer is[x] like doing a puzzle.}[t] {It[s] makes her brain work in a logical way.}[t] {(Her dishwashing habit)[s] probably saves[vxs] electricity and water,}[t] (too.)[extra]
+{Instead of spending time drying the dishes with a towel,}[f-ct] {she[s] lets[vxs] them air dry.}[t] {She[s] says[vxs] that drying them is a waste of time and energy}[t], but[j] {(making them all fit in the dish drainer)[s] is[x] like doing a puzzle.}[t] {It[s] makes[vxs] her brain work in a logical way.}[t]
+
+{How do[x] you[s] do[v] the dishes?}[t]
