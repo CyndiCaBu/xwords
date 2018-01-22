@@ -5,7 +5,7 @@ function generate_article_link( data ){
 	html += '		<img src="'+data.url+'/image.jpg">';
 	html += '	</div>';
 	html += '	<div class="content">';
-	html += '		<a class="header">'+data.title+'</a>';
+	html += '		<a class="header" href="articles/#'+data.url.split('/').slice(1).join('/')+'">'+data.title+'</a>';
 	html += '		<div class="meta">';
 	html += '			<span class="cinema">WHAT?</span>';
 	html += '		</div>';
@@ -40,12 +40,19 @@ function generate_article_link( data ){
 }
 $(document).ready(function() {
 	$.get('articles/list.json').then(function(response){
-		var data = JSON.parse(response);
+		// NOTE: on windows machines - the response is "text" so it must be parsed
+		// NOTE: on linux machines - the respinse is "json" so it must NOT be parsed
+		// this probably has something to do with SimpleHTTPServer and mimetypes
+		//var data = JSON.parse(response);
+		if( typeof response === 'string' || response instanceof String ){
+			var data = JSON.parse(response);
+		}else{
+			var data = response;
+		}
 		var html = '';
 		for( var i=0, l=data.articles.length; i<l; i+=1 ){
 			html += generate_article_link( data.articles[i] );
 		}
 		$('#article-container').html( html );
-		console.info( data );
 	});
 });
