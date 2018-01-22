@@ -44,7 +44,32 @@ var tokens = {
 	'front-shifter': '<span class="front-shifter">|</span>',
 	
 	'e': '<span class="end-shifter">|</span>',
-	'end-shifter': '<span class="end-shifter">|</span>'
+	'end-shifter': '<span class="end-shifter">|</span>',
+
+	't=': '<span class="trunk-multi">|</span>',
+	'trunk-multi': '<span class="trunk-multi">|</span>',
+	
+	'f-t': '<span class="front-shifter-time">|</span>',
+	'front-shifter-time': '<span class="front-shifter-time">|</span>',
+	'f-p': '<span class="front-shifter-place">|</span>',
+	'front-shifter-place': '<span class="front-shifter-place">|</span>',
+	'f-r': '<span class="front-shifter-reason">|</span>',
+	'front-shifter-reason': '<span class="front-shifter-reason">|</span>',
+	'f-cd': '<span class="front-shifter-condition">|</span>',
+	'front-shifter-condition': '<span class="front-shifter-condition">|</span>',
+	'f-ct': '<span class="front-shifter-contrast">|</span>',
+	'front-shifter-contrast': '<span class="front-shifter-contrast">|</span>',
+	
+	'e-t': '<span class="end-shifter-time">|</span>',
+	'end-shifter-time': '<span class="end-shifter-time">|</span>',
+	'e-p': '<span class="end-shifter-place">|</span>',
+	'end-shifter-place': '<span class="end-shifter-place">|</span>',
+	'e-r': '<span class="end-shifter-reason">|</span>',
+	'end-shifter-reason': '<span class="end-shifter-reason">|</span>',
+	'e-cd': '<span class="end-shifter-condition">|</span>',
+	'end-shifter-condition': '<span class="end-shifter-condition">|</span>',
+	'e-ct': '<span class="end-shifter-contrast">|</span>',
+	'end-shifter-contrast': '<span class="end-shifter-contrast">|</span>'
 };
 
 function parse_text( text, tokens ){
@@ -61,6 +86,26 @@ function parse_text( text, tokens ){
 	var parenthetical_regexp = /\((.+?)\)\[(.+?)\]/g;
 	var curly_bracket_regexp = /\{(.+?)\}\[(.+?)\]/g;
 	var regexps = [
+		/\(0(.+?)0\)\[(.+?)\]/g,
+		/\(1(.+?)1\)\[(.+?)\]/g,
+		/\(2(.+?)2\)\[(.+?)\]/g,
+		/\(3(.+?)3\)\[(.+?)\]/g,
+		/\(4(.+?)4\)\[(.+?)\]/g,
+		/\(5(.+?)5\)\[(.+?)\]/g,
+		/\(6(.+?)6\)\[(.+?)\]/g,
+		/\(7(.+?)7\)\[(.+?)\]/g,
+		/\(8(.+?)8\)\[(.+?)\]/g,
+		/\(9(.+?)9\)\[(.+?)\]/g,
+		/\{0(.+?)0\}\[(.+?)\]/g,
+		/\{1(.+?)1\}\[(.+?)\]/g,
+		/\{2(.+?)2\}\[(.+?)\]/g,
+		/\{3(.+?)3\}\[(.+?)\]/g,
+		/\{4(.+?)4\}\[(.+?)\]/g,
+		/\{5(.+?)5\}\[(.+?)\]/g,
+		/\{6(.+?)6\}\[(.+?)\]/g,
+		/\{7(.+?)7\}\[(.+?)\]/g,
+		/\{8(.+?)8\}\[(.+?)\]/g,
+		/\{9(.+?)9\}\[(.+?)\]/g,
 		single_word_regexp,
 		parenthetical_regexp,
 		curly_bracket_regexp

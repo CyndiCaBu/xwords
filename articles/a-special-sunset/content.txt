@@ -1,13 +1,13 @@
-"Look up," {(the astrophysicist Neil deGrasse Tyson)[s] often says[vxs].}[trunk] {It[s]('s)[x] a reminder (to appreciate)[infinitive] what we[s] can[x] see[v] in the sky,}[trunk] (no matter where we[s] are[x].)[extra]
+"Look up," {(the astrophysicist Neil deGrasse Tyson)[s] often says[vxs].}[t] {It[s]('s)[x] a reminder (to appreciate)[infinitive] what we can[x] see in the sky,}[t] {no matter where we are[x].}[extra]
 
-(In most of Manhattan,)[front-shifter] {skyscrapers[s] make[vxo] it hard (to see)[infinitive] the sky well.}[trunk] However,[linker] (a few times a year,)[front-shifter] {(the tall buildings)[s] are[x] part of a special effect.}[trunk] {It[s]('s)[x] called[past-participle]
- Manhattanhenge,}[trunk] (a term that Dr. Tyson made[vxd] popular.)[extra]
+{In most of Manhattan,}[f-p] {skyscrapers[s] make[vxo] it hard (to see)[infinitive] the sky well.}[t] However,[l] {a few times a year,}[f-t] {(the tall buildings)[s] are[x] part of a special effect.}[t] {It[s]('s)[x] called[dtn]
+ Manhattanhenge,}[t] {a term that Dr. Tyson made[vxd] popular.}[extra]
 
-(Also known as the Manhattan solstice,)[extra] {Manhattanhenge[s] is[x] when the sunset fills the space between buildings on certain east-west streets.}[trunk] {It[s] looks[vxs] like a big ball of light falling in slow motion.}[trunk] {(Crowds of people}[s] gather[vxo] (to watch)[infinitive] and take pictures.}[trunk]
+{Also known as the Manhattan solstice,}[extra] {Manhattanhenge[s] is[x] when the sunset fills the space between buildings on certain east-west streets.}[t] {It[s] looks[vxs] like a big ball of light falling in slow motion.}[t] {(Crowds of people)[s] gather[vxo] (to watch)[inf] and take pictures.}[t]
 
-(One summer,)[front-shifter] {friends[s] were[x][x] waiting[v] for a bus in Queens.}[trunk] {They[s] were[x] headed[past-participle]
- to the East River (to see)[infinitive] how Manhattanhenge would[x] look[v] from a park in Long Island City.}[trunk] {There[s] were[x] a couple of people waiting nearby and a few more across the street from the bus stop.}[trunk]
+(One summer,)[f-t] {(two friends)[s] were[x]waiting[v] for a bus in Queens.}[t] {They[s] were[x] headed[dtn]
+ to the East River}[t] {(to see)[inf] how Manhattanhenge would[x] look from a park in Long Island City.}[e-r] {There[s] were[x] a couple other people waiting at the bus stop and a few more across the street.}[t]
 
-(At that time,)[front-shifter] {there[s] was[x] a famous graffiti-covered art center called 5 Pointz in Long Island City.}[trunk] {A man was[x] playing[v] the guitar in front of it,}[trunk] and[joiner] {(other people)[s] were[x][x] taking[v] photos of him and maybe making[v] a video.}[trunk] 
+{At that time,}[f-t] {there[s] was[x] a famous graffiti-covered art center called 5 Pointz in Long Island City.}[t] {(A man)[s] was[x] playing[v] the guitar in front of it,}[t] and[j] {(other people)[s] were[x] taking[v] photos of him and maybe making[v] a video.}[t] 
 
-{(The friends on their way to Manhattanhenge)[s] (didn’t)[x] have[v] time (to ask)[infinitive] the musician for his name.}[trunk] {(The bus)[s] came[vxd] while they[s] were[x] taking his picture,}[trunk] and[joiner] {they[s] (didn't)[x] want[v] (to miss)[infinitive] the sunset.}[trunk] Unfortunately,[linker] {they[s] (didn't)[x] get[v] good photos of Manhattanhenge either.}[trunk] Instead,[linker] {they[s] got[vxd] this image of a man and some graffiti in the late afternoon sun at 5 Pointz.}[trunk] (If you[s] go[vxo] to the same location now,)[front-shifter] {you[s]('ll)[x] find[v] towers of glass and steel.}[trunk] {Everything[s] changes[vxs],}[trunk] {(doesn't)[x] it[s]?}[extra]
+{(The friends on their way to Manhattanhenge)[s] (didn’t)[x] have[v] time (to ask)[inf] the musician for his name.}[t] {(The bus)[s] came[vxd]}[t] {while they were[x] taking his picture,}[e-t] and[j] {they[s] (didn't)[x] want[v] (to miss)[inf] the sunset.}[t] Unfortunately,[l] {they[s] (didn't)[x] get[v] good photos of Manhattanhenge either.}[t] Instead,[l] {they[s] got[vxd] this image of a man and some graffiti in the late afternoon sun at 5 Pointz.}[t] {If you go[vxo] to the same location now,}[f-cd] {you[s]('ll)[x] find[v] towers of glass and steel.}[t] {Everything[s] changes[vxs],}[t] {(doesn't)[x] it?}[extra]

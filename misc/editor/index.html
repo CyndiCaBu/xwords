@@ -62,6 +62,7 @@
 		font-size: 1.5em;
 		padding: 1em;
 		overflow: scroll;
+		line-height: 1.5em;
 	}
 
 	</style>
@@ -82,6 +83,27 @@
 	.shifter {background-color: #FDF}
 	.front-shifter {background-color: #FDF}
 	.end-shifter {background-color: #FDF}
+	.trunk-multi {background-color: #DFF}
+	.f-t,
+	.front-shifter-time,
+	.f-p,
+	.front-shifter-place,
+	.f-r,
+	.front-shifter-reason,
+	.f-cd,
+	.front-shifter-condition,
+	.f-ct,
+	.front-shifter-contrast {background-color: #FDF}
+	.e-t,
+	.end-shifter-time,
+	.e-p,
+	.end-shifter-place,
+	.e-r,
+	.end-shifter-reason,
+	.e-cd,
+	.end-shifter-condition,
+	.e-ct,
+	.end-shifter-contrast {background-color: #FDF}
 	</style>
 	
 </head>
@@ -89,6 +111,7 @@
 	<div id="editor-toolbar">
 		<button class="toolbar-btn" id="btn-clear-markdown">Clear markdown</button>
 		<button class="toolbar-btn" id="btn-automark">Auto mark</button>
+		<button class="toolbar-btn" id="btn-error-check">Find Errors</button>
 	</div>
 	<div id="editor-content">
 		<textarea id="text-input">
@@ -120,7 +143,29 @@ shifter[sh]
 
 (front-shifter)[f]
 
+(front-shifter-time)[f-t]
+
+(front-shifter-place)[f-p]
+
+(front-shifter-reason)[f-r]
+
+(front-shifter-condition)[f-cd]
+
+(front-shifter-contrast)[f-ct]
+
 (end-shifter)[e]
+
+(end-shifter-time)[e-t]
+
+(end-shifter-place)[e-p]
+
+(end-shifter-reason)[e-r]
+
+(end-shifter-condition)[e-cd]
+
+(end-shifter-contrast)[e-ct]
+
+(trunk-multi)[t=]
 		</textarea>
 		<div id="text-preview"></div>
 
@@ -182,7 +227,32 @@ var tokens = {
 	'front-shifter': '<span class="front-shifter">|</span>',
 	
 	'e': '<span class="end-shifter">|</span>',
-	'end-shifter': '<span class="end-shifter">|</span>'
+	'end-shifter': '<span class="end-shifter">|</span>',
+
+	't=': '<span class="trunk-multi">|</span>',
+	'trunk-multi': '<span class="trunk-multi">|</span>',
+
+	'f-t': '<span class="front-shifter-time">|</span>',
+	'front-shifter-time': '<span class="front-shifter-time">|</span>',
+	'f-p': '<span class="front-shifter-place">|</span>',
+	'front-shifter-place': '<span class="front-shifter-place">|</span>',
+	'f-r': '<span class="front-shifter-reason">|</span>',
+	'front-shifter-reason': '<span class="front-shifter-reason">|</span>',
+	'f-cd': '<span class="front-shifter-condition">|</span>',
+	'front-shifter-condition': '<span class="front-shifter-condition">|</span>',
+	'f-ct': '<span class="front-shifter-contrast">|</span>',
+	'front-shifter-contrast': '<span class="front-shifter-contrast">|</span>',
+	
+	'e-t': '<span class="end-shifter-time">|</span>',
+	'end-shifter-time': '<span class="end-shifter-time">|</span>',
+	'e-p': '<span class="end-shifter-place">|</span>',
+	'end-shifter-place': '<span class="end-shifter-place">|</span>',
+	'e-r': '<span class="end-shifter-reason">|</span>',
+	'end-shifter-reason': '<span class="end-shifter-reason">|</span>',
+	'e-cd': '<span class="end-shifter-condition">|</span>',
+	'end-shifter-condition': '<span class="end-shifter-condition">|</span>',
+	'e-ct': '<span class="end-shifter-contrast">|</span>',
+	'end-shifter-contrast': '<span class="end-shifter-contrast">|</span>'
 };
 
 function parse_text( text, tokens ){
@@ -199,6 +269,26 @@ function parse_text( text, tokens ){
 	var parenthetical_regexp = /\((.+?)\)\[(.+?)\]/g;
 	var curly_bracket_regexp = /\{(.+?)\}\[(.+?)\]/g;
 	var regexps = [
+		/\(0(.+?)0\)\[(.+?)\]/g,
+		/\(1(.+?)1\)\[(.+?)\]/g,
+		/\(2(.+?)2\)\[(.+?)\]/g,
+		/\(3(.+?)3\)\[(.+?)\]/g,
+		/\(4(.+?)4\)\[(.+?)\]/g,
+		/\(5(.+?)5\)\[(.+?)\]/g,
+		/\(6(.+?)6\)\[(.+?)\]/g,
+		/\(7(.+?)7\)\[(.+?)\]/g,
+		/\(8(.+?)8\)\[(.+?)\]/g,
+		/\(9(.+?)9\)\[(.+?)\]/g,
+		/\{0(.+?)0\}\[(.+?)\]/g,
+		/\{1(.+?)1\}\[(.+?)\]/g,
+		/\{2(.+?)2\}\[(.+?)\]/g,
+		/\{3(.+?)3\}\[(.+?)\]/g,
+		/\{4(.+?)4\}\[(.+?)\]/g,
+		/\{5(.+?)5\}\[(.+?)\]/g,
+		/\{6(.+?)6\}\[(.+?)\]/g,
+		/\{7(.+?)7\}\[(.+?)\]/g,
+		/\{8(.+?)8\}\[(.+?)\]/g,
+		/\{9(.+?)9\}\[(.+?)\]/g,
 		single_word_regexp,
 		parenthetical_regexp,
 		curly_bracket_regexp
@@ -227,7 +317,7 @@ $(function(){
 		var linkers_single = "however,unfortunately,fortunately,obviously,meanwhile,nowadays,finally".split(',');
 		var linkers_group = "for example,for instance".split(",");
 		var joiners_single = "but".split(" ");
-		var subjects_single = "I you it".split(" ");
+		var subjects_single = "I you".split(" ");
 		var contractions_xwords = "'m 're 've 's".split(" ");
 
 		var txt = highlight_guess( $('#text-input').val(), always_xwords_single, '', '[x]' );
@@ -246,6 +336,46 @@ $(function(){
 
 	$('#btn-clear-markdown').on('click',function(){
 		var txt = $('#text-input').val();
+		txt = txt.replace( /\(0/gi, '' );
+		txt = txt.replace( /\(1/gi, '' );
+		txt = txt.replace( /\(2/gi, '' );
+		txt = txt.replace( /\(3/gi, '' );
+		txt = txt.replace( /\(4/gi, '' );
+		txt = txt.replace( /\(5/gi, '' );
+		txt = txt.replace( /\(6/gi, '' );
+		txt = txt.replace( /\(7/gi, '' );
+		txt = txt.replace( /\(8/gi, '' );
+		txt = txt.replace( /\(9/gi, '' );
+		txt = txt.replace( /0\)/gi, '' );
+		txt = txt.replace( /1\)/gi, '' );
+		txt = txt.replace( /2\)/gi, '' );
+		txt = txt.replace( /3\)/gi, '' );
+		txt = txt.replace( /4\)/gi, '' );
+		txt = txt.replace( /5\)/gi, '' );
+		txt = txt.replace( /6\)/gi, '' );
+		txt = txt.replace( /7\)/gi, '' );
+		txt = txt.replace( /8\)/gi, '' );
+		txt = txt.replace( /9\)/gi, '' );
+		txt = txt.replace( /\{0/gi, '' );
+		txt = txt.replace( /\{1/gi, '' );
+		txt = txt.replace( /\{2/gi, '' );
+		txt = txt.replace( /\{3/gi, '' );
+		txt = txt.replace( /\{4/gi, '' );
+		txt = txt.replace( /\{5/gi, '' );
+		txt = txt.replace( /\{6/gi, '' );
+		txt = txt.replace( /\{7/gi, '' );
+		txt = txt.replace( /\{8/gi, '' );
+		txt = txt.replace( /\{9/gi, '' );
+		txt = txt.replace( /0\}/gi, '' );
+		txt = txt.replace( /1\}/gi, '' );
+		txt = txt.replace( /2\}/gi, '' );
+		txt = txt.replace( /3\}/gi, '' );
+		txt = txt.replace( /4\}/gi, '' );
+		txt = txt.replace( /5\}/gi, '' );
+		txt = txt.replace( /6\}/gi, '' );
+		txt = txt.replace( /7\}/gi, '' );
+		txt = txt.replace( /8\}/gi, '' );
+		txt = txt.replace( /9\}/gi, '' );
 		txt = txt.replace( /\(/gi, '' );
 		txt = txt.replace( /\)/gi, '' );
 		txt = txt.replace( /\{/gi, '' );
@@ -253,6 +383,43 @@ $(function(){
 		txt = txt.replace( /\[.*?\]/gi, '' );
 		$('#text-input').val(txt);
 	});
+
+	$('#btn-error-check').on('click',function(){
+		var found_error = false;
+		var txt = $('#text-input').val();
+
+		// Look for mistyped text in [] brackets:
+		var bracket_test = function(match, identifier, offset, string){
+			if( found_error ){ return }
+			if( ! tokens.hasOwnProperty( identifier ) ){
+				var problem_characters = '(){} '.split('');
+				for( var i=0, l=problem_characters.length; i<l; i+=1 ){
+					if( identifier.indexOf(problem_characters[i]) > -1 ){
+						if( identifier.length > 10 ){
+							alert( '"['+identifier.slice(0,10)+'..." appears to be missing a closing bracket: ]' );
+							found_error = true;
+							return;
+						}else{
+							alert( '"['+identifier+' appears to be missing a closing bracket: ]' );
+							found_error = true;
+							return;
+						}
+					}
+				}
+				alert( 'Is "['+identifier+']" mispelled? Here are the available options: '+Object.keys(tokens) );
+				found_error = true;
+				return;
+			}
+			return match;
+		};
+		txt.replace( /\[(.+?)\]/g, bracket_test );
+
+		if( found_error === false ){
+			alert( 'No errors found!' );
+		}
+
+	});
+
 });
 
 </script>
