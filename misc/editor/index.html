@@ -421,6 +421,7 @@ $(function(){
 			alert( 'The text: "' +match+ '" appears to not be labelled (to correct add [x] or [v] to the end, for example)' );
 		};
 		txt.replace( /\{[^}]+?\}[^[]/g, label_test );
+		txt.replace( /\([^)]+?\)[^[]/g, label_test );
 
 		if( found_error === false ){
 			alert( 'No errors found!' );
