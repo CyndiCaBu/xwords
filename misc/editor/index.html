@@ -64,6 +64,9 @@
 		overflow: scroll;
 		line-height: 1.5em;
 	}
+	#text-preview.full-width {
+		width: 100%;
+	}
 
 	</style>
 
@@ -112,6 +115,7 @@
 		<button class="toolbar-btn" id="btn-clear-markdown">Clear markdown</button>
 		<button class="toolbar-btn" id="btn-automark">Auto mark</button>
 		<button class="toolbar-btn" id="btn-error-check">Find Errors</button>
+		<button class="toolbar-btn" id="btn-toggle-size">Toggle Editor</button>
 	</div>
 	<div id="editor-content">
 		<textarea id="text-input">
@@ -306,6 +310,10 @@ $(function(){
 	setInterval( function(){
 		$('#text-preview').html( parse_text( $('#text-input').val(), tokens ) );
 	}, 50 );
+
+	$('#btn-toggle-size').on('click',function(){
+		$('#text-preview').toggleClass('full-width');
+	});
 
 	$('#btn-automark').on('click',function(){
 		// highlight_guess( text, words, premark, postmark )
