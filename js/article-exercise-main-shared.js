@@ -233,6 +233,11 @@ $('title').html( article +' - X-Words Grammar' );
 */
 // http://x-words.com/articles/#/a-hawk-in-queens?extra_stuff=useless_crap -> a-hawk-in-queens
 var path = window.location.href.split(window.location.host)[1].split('#')[1].split('?')[0];
+try{
+	var options = JSON.parse('{"' + decodeURI( window.location.href.split('?')[1] ).replace(/"/g, '\\"').replace(/&/g, '","').replace(/=/g,'":"') + '"}');
+}catch(e){
+	var options = {};
+}
 var article = titleCase( path.replace(/-/g,' ') );
 $('#breadcrumb-article').html( article );
 $('#article-title').html( article );
@@ -242,8 +247,23 @@ $.get( path+'/content.txt', function(response){
 	$('.x-words-content').html( parsed );
 	$('#article-image')[0].src = path+'/image.jpg';
 	$('#article-icon')[0].src = path+'/image.jpg';
-	XWords.setup( '.x-words-content' );
-	XWords.updateCounts( '.x-words-content' );
+	var exercise = XWords;
+	if( options.hasOwnProperty('exercise') ){
+		options.exercise = options.exercise.replace(/[- _]/g,'').toLowerCase();
+		if( options.exercise === 'xwords' ){
+			exercise = XWords;
+		}else if( options.exercise === 'hiddenxwords' ){
+			exercise = HiddenXWords;
+		}else if( options.exercise === 'verbs' ){
+			exercise = Verbs;
+		}else if( options.exercise === 'subjects' ){
+			exercise = Subjects;
+		}else if( options.exercise === 'infinitives' ){
+			exercise = Infinitives;
+		}
+	}
+	exercise.setup( '.x-words-content' );
+	exercise.updateCounts( '.x-words-content' );
 } );
 					
 function load_content( content, game, title ){

@@ -13,23 +13,23 @@ function generate_article_link( data ){
 	html += '			<p></p>';
 	html += '		</div>';
 	html += '		<div class="extra">';
-	html += '			<div class="ui right floated blue button compact">';
+	html += '			<div class="ui right floated blue button compact" data-link-url="articles/#'+data.url.split('/').slice(1).join('/')+'?exercise=xwords">';
 	html += '				Find the X-Words';
 	html += '				<i class="right chevron icon"></i>';
 	html += '			</div>';
-	html += '			<div class="ui right floated red button compact">';
+	html += '			<div class="ui right floated red button compact" data-link-url="articles/#'+data.url.split('/').slice(1).join('/')+'?exercise=hidden-x-words">';
 	html += '				Find the Hidden X-Words';
 	html += '				<i class="right chevron icon"></i>';
 	html += '			</div>';
-	html += '			<div class="ui right floated olive button compact">';
+	html += '			<div class="ui right floated olive button compact" data-link-url="articles/#'+data.url.split('/').slice(1).join('/')+'?exercise=subjects">';
 	html += '				Subjects and X-Words';
 	html += '				<i class="right chevron icon"></i>';
 	html += '			</div>';
-	html += '			<div class="ui right floated pink button compact">';
+	html += '			<div class="ui right floated pink button compact" data-link-url="articles/#'+data.url.split('/').slice(1).join('/')+'?exercise=verbs">';
 	html += '				Verbs and X-Words';
 	html += '				<i class="right chevron icon"></i>';
 	html += '			</div>';
-	html += '			<div class="ui right floated teal button compact">';
+	html += '			<div class="ui right floated teal button compact" data-link-url="articles/#'+data.url.split('/').slice(1).join('/')+'?exercise=sentence-patterns">';
 	html += '				Sentence patterns';
 	html += '				<i class="right chevron icon"></i>';
 	html += '			</div>';
@@ -54,5 +54,8 @@ $(document).ready(function() {
 			html += generate_article_link( data.articles[i] );
 		}
 		$('#article-container').html( html );
+	});
+	$('#article-container').on('click','.button',function(){
+		window.location.href = $(this).data('link-url');
 	});
 });
