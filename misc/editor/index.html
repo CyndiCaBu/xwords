@@ -413,6 +413,14 @@ $(function(){
 			return match;
 		};
 		txt.replace( /\[(.+?)\]/g, bracket_test );
+		
+		// Look for closing brackets that are not labeled
+		var label_test = function(match,offset,string){
+			if( found_error ){ return; }
+			found_error = true;
+			alert( 'The text: "' +match+ '" appears to not be labelled (to correct add [x] or [v] to the end, for example)' );
+		};
+		txt.replace( /\{[^}]+?\}[^[]/g, label_test );
 
 		if( found_error === false ){
 			alert( 'No errors found!' );
