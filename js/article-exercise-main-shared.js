@@ -115,7 +115,10 @@ function parse_text( text, tokens ){
 	for( var i=0, l=regexps.length; i<l; i+=1 ){
 		output = output.replace( regexps[i], replace_function );
 	}
-	
+
+	// Convert all style newlines to \n (Unix newlines) by removing the \r
+	output = output.replace( /\r/g, '' );
+
 	return '<p>'+output.replace(/\n\n/g,'</p><p>')+'</p>';
 }
 
