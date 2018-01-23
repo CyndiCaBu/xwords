@@ -1,10 +1,11 @@
 No glove, no love.
 
 {I[s] (don't)[x] remember[v] what caught my eye first.}[t] {It[s] might[x] have[v] been the basket of free condoms with the NYC logo,}[t] or[j] {it[s] could[x] have[v] been the message:}[t] (No glove, no love.)[extra]
-Obviously[l] {this[s] is[x] not the type of glove we usually think of when it('s)[x] cold outside.}[t] {(Most gloves)[s] (don't)[x] come[v] in wrappers.}[t] {They[s] should[x] have[v] 5 fingers,}[t] {(shouldn't)[x] they[s]?}[extra] Hmm.
 
-Maybe[l] {(the term)[s] (doesn't)[x] matter[v].}[t] {(The real point)[s] is[x] protection.}[t] {People[s] may[x] joke[v] about it or say[v] they (don't)[x] like[v] it,}[t=] but[j] {since this can[x] help prevent transmission of HIV,}[f] {(don't)[x] you[s] think[v] it('s)[x] worth it?}[t]
+Obviously[l] {this[s] is[x] not the type of glove we usually think of when it('s)[x] cold outside.}[t] {(Most gloves)[s] (don't)[x] come[v] in wrappers.}[t] {They[s] should[x] also have[v] 5 fingers,}[t] {(shouldn't)[x] they[s]?}[extra] Hmm.
 
-{(The picture)[s] was[x] taken[dtn] at a bookstore in lower Manhattan.}[t] {It[s]('s)[x] called[dtn] Housing Works,}[t] and {(the people who work there)[s] are[x] volunteers,}[t] (sharing a mission: ending HIV/AIDS and homelessness.)[extra] {(Activists and others)[s] have[x] worked[dtn] on these goals}[t] {since at least 1990.}[e] {(A lot of progress)[s] has[x] been[v] made,}[t] but[j] {more[s] can[x] be[v] done.}[t]
+Maybe[l] {(the term)[s] (doesn't)[x] matter[v].}[t] {(The real point)[s] is[x] protection.}[t] {People[s] may[x] joke[v] about it or say[v] they (don't)[x] like[v] it,}[t=] but[j] {since this can[x] help prevent transmission of HIV,}[f-r] {(don't)[x] you[s] think[v] it('s)[x] worth it?}[t]
+
+{(The picture)[s] was[x] taken[dtn] at a bookstore in lower Manhattan.}[t] {It[s]('s)[x] called[dtn] Housing Works,}[t] and {(the people who work there)[s] are[x] volunteers,}[t] (sharing a mission: ending HIV/AIDS and homelessness.)[extra] {(Activists and others)[s] have[x] worked[dtn] on these goals}[t] {since at least 1990.}[e-t] {(A lot of progress)[s] has[x] been[v] made,}[t] but[j] {more[s] can[x] be[v] done.}[t]
 
 {What are[x] you[s] doing[v] (to raise)[inf] awareness of HIV/AIDS and ways people can[x] stay safe?}[t]
