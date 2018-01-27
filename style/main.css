@@ -18,6 +18,9 @@ body {
 .main.menu .item img.logo {
 	margin-right: 1.5em;
 }
+img.button.compact {
+	width: 160px;
+}
 
 .overlay {
 	float: left;

@@ -13,6 +13,12 @@ function generate_article_link( data ){
 	html += '			<p></p>';
 	html += '		</div>';
 	html += '		<div class="extra">';
+	html += '			<img class="ui right floated blue button compact" data-link-url="articles/#'+data.url.split('/').slice(1).join('/')+'?exercise=xwords" src="style/images/xwords.jpg" />';
+	html += '			<img class="ui right floated red button compact" data-link-url="articles/#'+data.url.split('/').slice(1).join('/')+'?exercise=hidden-x-words" src="style/images/hidden-xwords.jpg" />';
+	html += '			<img class="ui right floated olive button compact" data-link-url="articles/#'+data.url.split('/').slice(1).join('/')+'?exercise=subjects" src="style/images/subjects.jpg" />';
+	html += '			<img class="ui right floated pink button compact" data-link-url="articles/#'+data.url.split('/').slice(1).join('/')+'?exercise=verbs" src="style/images/verbs.jpg" />';
+	html += '			<img class="ui right floated teal button compact" data-link-url="articles/#'+data.url.split('/').slice(1).join('/')+'?exercise=sentence-patterns" src="style/images/sentence-patterns.jpg" />';
+	/*
 	html += '			<div class="ui right floated blue button compact" data-link-url="articles/#'+data.url.split('/').slice(1).join('/')+'?exercise=xwords">';
 	html += '				Find the X-Words';
 	html += '				<i class="right chevron icon"></i>';
@@ -33,6 +39,7 @@ function generate_article_link( data ){
 	html += '				Sentence patterns';
 	html += '				<i class="right chevron icon"></i>';
 	html += '			</div>';
+	*/
 	html += '		</div>';
 	html += '	</div>';
 	html += '</div>';
