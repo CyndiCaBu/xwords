@@ -89,26 +89,81 @@ Some have specific structures:
 
 	./libs/name-of-library-v-0.0.1/all-of-the-stuff-for-that-library
 
-Some useful things:
+TODO:
+ [ ] Main page replacing the image links with words
+ [ ] Trunk identifier exercise
+ [ ] Linker identifier exercise
+ [ ] Extra info identifier exercise
+ [ ] Shifter exercises, (menu entry)
+ [ ] General Trunk [markup: trunk-time-question]; [t-p-nq]
+ [ ] Time Exercises
+     [ ] Markup for past, now, both; t-p, t-n, t-b
+ [ ] Question Exercises
+     [ ] Mark for questionizable, no questionizable; [t-nq], [t-q]
+ [ ] NEGATIVES - not for now
+ 
+Next steps - Create trunk-based exercises/
+This means divide up article at trunks and each trunk is its own question/thingy
 
+Time - 3 options: past, now, both - labelled on trunk, todo: list of automark indicator words
+
+Automark list "now":
+	do
+	does
+	can
+	will
+	shall
+	am
+	is
+	are
+	don't
+	doesn't
+	can't
+	won't
+	isn't
+	aren't
+	'm
+	're
+	'll
+
+Automark Past:
+	did
+	had
+	was
+	were
+	didn't
+	hadn't
+	wasn't
+	weren't
+
+Automark Both:
+	have
+	has
+	haven't
+	hasn't
+
+Shifter Types:
+ - make a menu for shifter finding shifters, (dont forget about end shifters too)
+    (front-shifter-time)[f-t]
+    (front-shifter-place)[f-p]
+    (front-shifter-reason)[f-r]
+    (front-shifter-condition)[f-cd]
+    (front-shifter-contrast)[f-ct]
+
+Making questions:
+ - only trunks can be questions -- we take the trunks and create an exercise to make questions
+ - a similar technique can be applied to make xwords/verbs negative
+ - mark trunks as not being questionizable
+ - by default trunks will be treated as questionizable
+
+Change article button exercise type image with text.
+ 
 Goals:
- - design home page
- - create article page template
-   - determine folder structure for storage
- - automate homepage creation
- - what is involved in each exercies
- [x] finding xwords
- [x] finding subjects
- [x] finding verbs
- [x] finding hidden xwords
- [ ] change xwords/verbs to negative
-     one sentence at a time
-     xword/verb is highlighted already
-     click -> type negative
  [ ] Time
      multiple choice for before/now
      verb (and xword) is already highlighted
-     how do we want to break it up? (subjects can have xwords which have a difference time than the main thingy)
+     how do we want to break it up? (subjects can have xwords which have a difference time than the main thingy
+     needs additional markup (except for am, is, are, was, were, did, does, VXD, has, have)
  [ ] showing number
      needs icons for 1 or many (like time)
  [ ] find infinitive
