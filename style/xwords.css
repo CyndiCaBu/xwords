@@ -10,7 +10,8 @@
 .verbs-paragraph-summary,
 .subject-paragraph-summary,
 .xw-hidden-paragraph-summary,
-.infinitive-paragraph-summary {
+.infinitive-paragraph-summary,
+.trunks-paragraph-summary {
 	color: #AAA;
 	font-size: 60%;
 	position: relative;
@@ -45,4 +46,7 @@
 .infinitive-found {
 	border: 2px solid #000;
 	border-radius: 50%;
+}
+.trunk-found {
+	background: #F8F;
 }

@@ -190,6 +190,12 @@ var Infinitives = new FindTheWord({
 	classSummary: 'infinitive-paragraph-summary',
 	label: 'infinitives'
 });
+var Trunks = new FindTheWord({
+	classFind: 'trunk',
+	classFound: 'trunk-found',
+	classSummary: 'trunks-paragraph-summary',
+	label: 'trunks'
+});
 
 // Handled by the class, except for 
 function updateCounts(content){
@@ -284,6 +290,7 @@ $('#menu-item-verbs').on('click',function(){load_content(path+'/content.txt',Ver
 $('#menu-item-hidden-xwords').on('click',function(){load_content(path+'/content.txt',HiddenXWords,'Find the Hidden X Words'); return false;});
 $('#menu-item-subjects').on('click',function(){load_content(path+'/content.txt',Subjects,'Find the Subjects'); return false;});
 $('#menu-item-infinitives').on('click',function(){load_content(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
+$('#menu-item-trunks').on('click',function(){load_content(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
 
 $(document)
 	.ready(function() {
