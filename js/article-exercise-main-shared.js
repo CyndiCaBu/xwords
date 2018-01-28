@@ -1,14 +1,14 @@
 /* XWG Markup to HTML Code */
 var tokens = {
 	
-	'vxo': '<span class="xw-hidden hidden-do">|</span>',
-	'hidden-do': '<span class="xw-hidden hidden-do">|</span>',
+	'vxo': '<span class="hidden-do">|</span>',
+	'hidden-do': '<span class="hidden-do">|</span>',
 	
-	'vxs': '<span class="xw-hidden hidden-does">|</span>',
-	'hidden-does': '<span class="xw-hidden hidden-does">|</span>',
+	'vxs': '<span class="hidden-does">|</span>',
+	'hidden-does': '<span class="hidden-does">|</span>',
 	
-	'vxd': '<span class="xw-hidden hidden-did">|</span>',
-	'hidden-did': '<span class="xw-hidden hidden-did">|</span>',
+	'vxd': '<span class="hidden-did">|</span>',
+	'hidden-did': '<span class="hidden-did">|</span>',
 	
 	'inf': '<span class="infinitive">|</span>',
 	'infinitive': '<span class="infinitive">|</span>',
@@ -22,14 +22,11 @@ var tokens = {
 	'v': '<span class="verb">|</span>',
 	'verb': '<span class="verb">|</span>',
 	
-	'x': '<span class="xw">|</span>',
-	'xword': '<span class="xw">|</span>',
+	'x': '<span class="xword">|</span>',
+	'xword': '<span class="xword">|</span>',
 	
 	's': '<span class="subject">|</span>',
 	'subject': '<span class="subject">|</span>',
-	
-	't': '<span class="trunk">|</span>',
-	'trunk': '<span class="trunk">|</span>',
 	
 	'l': '<span class="linker">|</span>',
 	'linker': '<span class="linker">|</span>',
@@ -46,9 +43,23 @@ var tokens = {
 	'e': '<span class="end-shifter">|</span>',
 	'end-shifter': '<span class="end-shifter">|</span>',
 
+	't': '<span class="trunk">|</span>',
+	'trunk': '<span class="trunk">|</span>',
+	't-p': '<span class="trunk past-tense">|</span>',
+	't-n': '<span class="trunk present-tense">|</span>',
+	't-b': '<span class="trunk both-tense">|</span>',
+	't-p-nq': '<span class="trunk past-tense not-questionizable">|</span>',
+	't-n-nq': '<span class="trunk present-tense not-questionizable">|</span>',
+	't-b-nq': '<span class="trunk both-tense not-questionizable">|</span>',
+	't-p-q': '<span class="trunk past-tense questionizable">|</span>',
+	't-n-q': '<span class="trunk present-tense questionizable">|</span>',
+	't-b-q': '<span class="trunk both-tense questionizable">|</span>',
+	't-nq': '<span class="trunk not-questionizable">|</span>',
+	't-q': '<span class="trunk questionizable">|</span>',
+
 	't=': '<span class="trunk-multi">|</span>',
 	'trunk-multi': '<span class="trunk-multi">|</span>',
-	
+
 	'f-t': '<span class="front-shifter-time">|</span>',
 	'front-shifter-time': '<span class="front-shifter-time">|</span>',
 	'f-p': '<span class="front-shifter-place">|</span>',

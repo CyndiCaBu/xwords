@@ -139,6 +139,18 @@ subject[s]
 
 trunk[t]
 
+(trunk past-tense)[t-p]
+
+(trunk now-tense)[t-n]
+
+(trunk both-tense)[t-b]
+
+(trunk past-tense not-questionizable)[t-p-nq]
+
+(trunk now-tense not-questionizable)[t-n-nq]
+
+(trunk both-tense not-questionizable)[t-b-nq]
+
 linker[l]
 
 joiner[j]
@@ -215,9 +227,6 @@ var tokens = {
 	's': '<span class="subject">|</span>',
 	'subject': '<span class="subject">|</span>',
 	
-	't': '<span class="trunk">|</span>',
-	'trunk': '<span class="trunk">|</span>',
-	
 	'l': '<span class="linker">|</span>',
 	'linker': '<span class="linker">|</span>',
 	
@@ -232,6 +241,20 @@ var tokens = {
 	
 	'e': '<span class="end-shifter">|</span>',
 	'end-shifter': '<span class="end-shifter">|</span>',
+
+	't': '<span class="trunk">|</span>',
+	'trunk': '<span class="trunk">|</span>',
+	't-p': '<span class="trunk past-tense">|</span>',
+	't-n': '<span class="trunk present-tense">|</span>',
+	't-b': '<span class="trunk both-tense">|</span>',
+	't-p-nq': '<span class="trunk past-tense not-questionizable">|</span>',
+	't-n-nq': '<span class="trunk present-tense not-questionizable">|</span>',
+	't-b-nq': '<span class="trunk both-tense not-questionizable">|</span>',
+	't-p-q': '<span class="trunk past-tense questionizable">|</span>',
+	't-n-q': '<span class="trunk present-tense questionizable">|</span>',
+	't-b-q': '<span class="trunk both-tense questionizable">|</span>',
+	't-nq': '<span class="trunk not-questionizable">|</span>',
+	't-q': '<span class="trunk questionizable">|</span>',
 
 	't=': '<span class="trunk-multi">|</span>',
 	'trunk-multi': '<span class="trunk-multi">|</span>',
