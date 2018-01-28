@@ -12,7 +12,8 @@
 .xw-hidden-paragraph-summary,
 .infinitive-paragraph-summary,
 .trunks-paragraph-summary,
-.linkers-paragraph-summary {
+.linkers-paragraph-summary,
+.extra-information-paragraph-summary {
 	color: #AAA;
 	font-size: 60%;
 	position: relative;
@@ -52,5 +53,8 @@
 	background: #F8F;
 }
 .linker-found {
+	background: #F8F;
+}
+.extra-information-found {
 	background: #F8F;
 }

@@ -202,6 +202,12 @@ var Linkers = new FindTheWord({
 	classSummary: 'linkers-paragraph-summary',
 	label: 'linkers'
 });
+var ExtraInfo = new FindTheWord({
+	classFind: 'extra-information',
+	classFound: 'extra-information-found',
+	classSummary: 'extra-information-paragraph-summary',
+	label: 'extra information'
+});
 
 // Handled by the class, except for 
 function updateCounts(content){
@@ -298,6 +304,7 @@ $('#menu-item-subjects').on('click',function(){load_content(path+'/content.txt',
 $('#menu-item-infinitives').on('click',function(){load_content(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
 $('#menu-item-trunks').on('click',function(){load_content(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
 $('#menu-item-linkers').on('click',function(){load_content(path+'/content.txt',Linkers,'Find the Linkers'); return false;});
+$('#menu-item-extra-info').on('click',function(){load_content(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;});
 
 $(document)
 	.ready(function() {
