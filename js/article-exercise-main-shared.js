@@ -1,14 +1,14 @@
 /* XWG Markup to HTML Code */
 var tokens = {
 	
-	'vxo': '<span class="hidden-do">|</span>',
-	'hidden-do': '<span class="hidden-do">|</span>',
+	'vxo': '<span class="hidden-do xword-hidden">|</span>',
+	'hidden-do': '<span class="hidden-do xword-hidden">|</span>',
 	
-	'vxs': '<span class="hidden-does">|</span>',
-	'hidden-does': '<span class="hidden-does">|</span>',
+	'vxs': '<span class="hidden-does xword-hidden">|</span>',
+	'hidden-does': '<span class="hidden-does xword-hidden">|</span>',
 	
-	'vxd': '<span class="hidden-did">|</span>',
-	'hidden-did': '<span class="hidden-did">|</span>',
+	'vxd': '<span class="hidden-did xword-hidden">|</span>',
+	'hidden-did': '<span class="hidden-did xword-hidden">|</span>',
 	
 	'inf': '<span class="infinitive">|</span>',
 	'infinitive': '<span class="infinitive">|</span>',
@@ -171,16 +171,16 @@ FindTheWord.prototype.updateCounts = function(content){
 
 
 var XWords = new FindTheWord({
-	classFind: 'xw',
-	classFound: 'xw-found',
-	classSummary: 'xw-paragraph-summary',
+	classFind: 'xword',
+	classFound: 'xword-found',
+	classSummary: 'xword-paragraph-summary',
 	label: 'xwords'
 });
 
 var HiddenXWords = new FindTheWord({
-	classFind: 'xw-hidden',
-	classFound: 'xw-hidden-found',
-	classSummary: 'xw-hidden-paragraph-summary',
+	classFind: 'xword-hidden',
+	classFound: 'xword-hidden-found',
+	classSummary: 'xword-hidden-paragraph-summary',
 	label: 'hidden xwords'
 });
 var Verbs = new FindTheWord({

@@ -1,15 +1,17 @@
-.xw {
+.xw, .xword {
 	border-bottom: 1px dashed #0FF;
 }
-.xw-found {
+.xw-found, .xword-found {
 	border: 2px solid #080 !important;
 	border-radius: 4px;
 	background: #0F0;
 }
 .xw-paragraph-summary,
+.xword-paragraph-summary,
 .verbs-paragraph-summary,
 .subject-paragraph-summary,
 .xw-hidden-paragraph-summary,
+.xword-hidden-paragraph-summary,
 .infinitive-paragraph-summary,
 .trunks-paragraph-summary,
 .linkers-paragraph-summary,
@@ -19,7 +21,6 @@
 	position: relative;
 	top: -8px;
 }
-
 
 .subject {
 	border-bottom: 1px dashed #0F0;
@@ -35,10 +36,12 @@
 	border: 2px solid #F00;
 }
 
-.xw-hidden {
+.xw-hidden,
+.xword-hidden {
 	border-bottom: 1px dashed #000;
 }
-.xw-hidden-found {
+.xw-hidden-found,
+.xword-hidden-found {
 	border: 2px solid #000;
 }
 
