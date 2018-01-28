@@ -15,7 +15,12 @@
 .infinitive-paragraph-summary,
 .trunks-paragraph-summary,
 .linkers-paragraph-summary,
-.extra-information-paragraph-summary {
+.extra-information-paragraph-summary,
+.shifter-time-paragraph-summary,
+.shifter-place-paragraph-summary,
+.shifter-reason-paragraph-summary,
+.shifter-condition-paragraph-summary,
+.shifter-contrast-paragraph-summary {
 	color: #AAA;
 	font-size: 60%;
 	position: relative;
@@ -59,5 +64,12 @@
 	background: #F8F;
 }
 .extra-information-found {
+	background: #F8F;
+}
+.shifter-time-found,
+.shifter-place-found,
+.shifter-reason-found,
+.shifter-condition-found,
+.shifter-contrast-found {
 	background: #F8F;
 }

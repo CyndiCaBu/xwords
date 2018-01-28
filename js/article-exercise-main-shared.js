@@ -1,14 +1,14 @@
 /* XWG Markup to HTML Code */
 var tokens = {
 	
-	'vxo': '<span class="hidden-do xword-hidden">|</span>',
-	'hidden-do': '<span class="hidden-do xword-hidden">|</span>',
+	'vxo': '<span class="hidden-do">|</span>',
+	'hidden-do': '<span class="hidden-do">|</span>',
 	
-	'vxs': '<span class="hidden-does xword-hidden">|</span>',
-	'hidden-does': '<span class="hidden-does xword-hidden">|</span>',
+	'vxs': '<span class="hidden-does">|</span>',
+	'hidden-does': '<span class="hidden-does">|</span>',
 	
-	'vxd': '<span class="hidden-did xword-hidden">|</span>',
-	'hidden-did': '<span class="hidden-did xword-hidden">|</span>',
+	'vxd': '<span class="hidden-did">|</span>',
+	'hidden-did': '<span class="hidden-did">|</span>',
 	
 	'inf': '<span class="infinitive">|</span>',
 	'infinitive': '<span class="infinitive">|</span>',
@@ -60,27 +60,27 @@ var tokens = {
 	't=': '<span class="trunk-multi">|</span>',
 	'trunk-multi': '<span class="trunk-multi">|</span>',
 
-	'f-t': '<span class="front-shifter-time">|</span>',
-	'front-shifter-time': '<span class="front-shifter-time">|</span>',
-	'f-p': '<span class="front-shifter-place">|</span>',
-	'front-shifter-place': '<span class="front-shifter-place">|</span>',
-	'f-r': '<span class="front-shifter-reason">|</span>',
-	'front-shifter-reason': '<span class="front-shifter-reason">|</span>',
-	'f-cd': '<span class="front-shifter-condition">|</span>',
-	'front-shifter-condition': '<span class="front-shifter-condition">|</span>',
-	'f-ct': '<span class="front-shifter-contrast">|</span>',
-	'front-shifter-contrast': '<span class="front-shifter-contrast">|</span>',
+	'f-t': '<span class="shifter-front shifter-time">|</span>',
+	'front-shifter-time': '<span class="shifter-front shifter-time">|</span>',
+	'f-p': '<span class="shifter-front shifter-place">|</span>',
+	'front-shifter-place': '<span class="shifter-front shifter-place">|</span>',
+	'f-r': '<span class="shifter-front shifter-reason">|</span>',
+	'front-shifter-reason': '<span class="shifter-front shifter-reason">|</span>',
+	'f-cd': '<span class="shifter-front shifter-condition">|</span>',
+	'front-shifter-condition': '<span class="shifter-front shifter-condition">|</span>',
+	'f-ct': '<span class="shifter-front shifter-contrast">|</span>',
+	'front-shifter-contrast': '<span class="shifter-front shifter-contrast">|</span>',
 	
-	'e-t': '<span class="end-shifter-time">|</span>',
-	'end-shifter-time': '<span class="end-shifter-time">|</span>',
-	'e-p': '<span class="end-shifter-place">|</span>',
-	'end-shifter-place': '<span class="end-shifter-place">|</span>',
-	'e-r': '<span class="end-shifter-reason">|</span>',
-	'end-shifter-reason': '<span class="end-shifter-reason">|</span>',
-	'e-cd': '<span class="end-shifter-condition">|</span>',
-	'end-shifter-condition': '<span class="end-shifter-condition">|</span>',
-	'e-ct': '<span class="end-shifter-contrast">|</span>',
-	'end-shifter-contrast': '<span class="end-shifter-contrast">|</span>'
+	'e-t': '<span class="shifter-end shifter-time">|</span>',
+	'end-shifter-time': '<span class="shifter-end shifter-time">|</span>',
+	'e-p': '<span class="shifter-end shifter-place">|</span>',
+	'end-shifter-place': '<span class="shifter-end shifter-place">|</span>',
+	'e-r': '<span class="shifter-end shifter-reason">|</span>',
+	'end-shifter-reason': '<span class="shifter-end shifter-reason">|</span>',
+	'e-cd': '<span class="shifter-end shifter-condition">|</span>',
+	'end-shifter-condition': '<span class="shifter-end shifter-condition">|</span>',
+	'e-ct': '<span class="shifter-end shifter-contrast">|</span>',
+	'end-shifter-contrast': '<span class="shifter-end shifter-contrast">|</span>'
 };
 
 function parse_text( text, tokens ){
@@ -219,6 +219,36 @@ var ExtraInfo = new FindTheWord({
 	classSummary: 'extra-information-paragraph-summary',
 	label: 'extra information'
 });
+var ShifterTime = new FindTheWord({
+	classFind: 'shifter-time',
+	classFound: 'shifter-time-found',
+	classSummary: 'shifter-time-paragraph-summary',
+	label: 'time shifter'
+});
+var ShifterPlace = new FindTheWord({
+	classFind: 'shifter-place',
+	classFound: 'shifter-place-found',
+	classSummary: 'shifter-place-paragraph-summary',
+	label: 'place shifter'
+});
+var ShifterReason = new FindTheWord({
+	classFind: 'shifter-reason',
+	classFound: 'shifter-reason-found',
+	classSummary: 'shifter-reason-paragraph-summary',
+	label: 'reason shifter'
+});
+var ShifterCondition = new FindTheWord({
+	classFind: 'condition-time',
+	classFound: 'condition-time-found',
+	classSummary: 'condition-time-paragraph-summary',
+	label: 'condition shifter'
+});
+var ShifterContrast = new FindTheWord({
+	classFind: 'shifter-contrast',
+	classFound: 'shifter-constrast-found',
+	classSummary: 'shifter-contrast-paragraph-summary',
+	label: 'contrast shifter'
+});
 
 // Handled by the class, except for 
 function updateCounts(content){
@@ -316,6 +346,11 @@ $('#menu-item-infinitives').on('click',function(){load_content(path+'/content.tx
 $('#menu-item-trunks').on('click',function(){load_content(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
 $('#menu-item-linkers').on('click',function(){load_content(path+'/content.txt',Linkers,'Find the Linkers'); return false;});
 $('#menu-item-extra-info').on('click',function(){load_content(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;});
+$('#menu-item-shifter-time').on('click',function(){load_content(path+'/content.txt',ShifterTime,'Find the Time Shifters'); return false;});
+$('#menu-item-shifter-place').on('click',function(){load_content(path+'/content.txt',ShifterPlace,'Find the Place Shifters'); return false;});
+$('#menu-item-shifter-reason').on('click',function(){load_content(path+'/content.txt',ShifterPlace,'Find the Reason Shifters'); return false;});
+$('#menu-item-shifter-condition').on('click',function(){load_content(path+'/content.txt',ShifterCondition,'Find the Condition Shifters'); return false;});
+$('#menu-item-shifter-contrast').on('click',function(){load_content(path+'/content.txt',ShifterContrast,'Find the Contrast Shifters'); return false;});
 
 $(document)
 	.ready(function() {
