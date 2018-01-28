@@ -11,7 +11,8 @@
 .subject-paragraph-summary,
 .xw-hidden-paragraph-summary,
 .infinitive-paragraph-summary,
-.trunks-paragraph-summary {
+.trunks-paragraph-summary,
+.linkers-paragraph-summary {
 	color: #AAA;
 	font-size: 60%;
 	position: relative;
@@ -48,5 +49,8 @@
 	border-radius: 50%;
 }
 .trunk-found {
+	background: #F8F;
+}
+.linker-found {
 	background: #F8F;
 }

@@ -196,6 +196,12 @@ var Trunks = new FindTheWord({
 	classSummary: 'trunks-paragraph-summary',
 	label: 'trunks'
 });
+var Linkers = new FindTheWord({
+	classFind: 'linker',
+	classFound: 'linker-found',
+	classSummary: 'linkers-paragraph-summary',
+	label: 'linkers'
+});
 
 // Handled by the class, except for 
 function updateCounts(content){
@@ -291,6 +297,7 @@ $('#menu-item-hidden-xwords').on('click',function(){load_content(path+'/content.
 $('#menu-item-subjects').on('click',function(){load_content(path+'/content.txt',Subjects,'Find the Subjects'); return false;});
 $('#menu-item-infinitives').on('click',function(){load_content(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
 $('#menu-item-trunks').on('click',function(){load_content(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
+$('#menu-item-linkers').on('click',function(){load_content(path+'/content.txt',Linkers,'Find the Linkers'); return false;});
 
 $(document)
 	.ready(function() {
