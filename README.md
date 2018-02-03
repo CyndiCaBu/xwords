@@ -90,16 +90,20 @@ Some have specific structures:
 	./libs/name-of-library-v-0.0.1/all-of-the-stuff-for-that-library
 
 TODO:
- [ ] Main page replacing the image links with words
- [ ] Trunk identifier exercise
- [ ] Linker identifier exercise
- [ ] Extra info identifier exercise
- [ ] Shifter exercises, (menu entry)
- [ ] General Trunk [markup: trunk-time-question]; [t-p-nq]
+ [X] Main page replacing the image links with words
+ [X] Trunk identifier exercise
+ [X] Linker identifier exercise
+ [X] Extra info identifier exercise
+ [X] Shifter exercises, (menu entry) -> do i need to handle multiple css search classes in the FindWords class?
+ [X] General Trunk [markup: trunk-time-question]; [t-p-nq]
  [ ] Time Exercises
-     [ ] Markup for past, now, both; t-p, t-n, t-b
+     [X] Markup for past, now, both; t-p, t-n, t-b
  [ ] Question Exercises
-     [ ] Mark for questionizable, no questionizable; [t-nq], [t-q]
+     [X] Mark for questionizable, no questionizable; [t-nq], [t-q]
+ [X] Refactor and reuse xword code in editor and games (DONT COPY/PASTE, only use 1 file)
+ [X] Editor - alert to puncation error type (ie he ran,[x] -- doesnt work, should be -- he {ran,}[x])
+ [ ] Editor - new line in brackets error (there should not be newlines in brackets)
+ [ ] Alert user when nothing exists for a particular exercise in an article
  [ ] NEGATIVES - not for now
  
 Next steps - Create trunk-based exercises/
