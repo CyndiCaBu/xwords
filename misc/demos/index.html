@@ -93,53 +93,6 @@
 		}
 	</style>
 
-  <script>
-  $(document)
-    .ready(function() {
-
-			// Why do i need to manully convert a node list or jquery
-			// object to an array?
-			var nodes = document.querySelectorAll('.xw-drag-sentence');
-			var containers = [];
-			for( var i=0, l=nodes.length; i<l; i+=1 ){
-				containers.push( nodes[i] );
-			}
-
-			dragula( containers, {
-			}).on('drop', function (el) {
-				var sentence = $(el).parent();
-
-				// make all the contained words lower case
-				var $words = sentence.find('.xw-drag-word');
-				$words.each( function(i,el){
-					el.innerHTML = el.innerHTML.toLowerCase();
-				} );
-
-				// Capitalize the first letter
-				$words[0].innerHTML = $words[0].innerHTML.charAt(0).toUpperCase() + $words[0].innerHTML.substr(1).toLowerCase();
-
-				// Determine if sentence or question
-				var subjectPlace = -1;
-				var xWordPlace = -1;
-				for( var i=0, l=$words.length; i<l; i+=1 ){
-					if( $($words[i]).hasClass( 'xw-subject' ) && subjectPlace < 0 ){
-						subjectPlace = i;
-					}
-					if( $($words[i]).hasClass( 'xw-xword' ) && xWordPlace < 0 ){
-						xWordPlace = i;
-					}
-				}
-				if( xWordPlace < subjectPlace ){
-					sentence.find('.xw-drag-word-end').html('?');
-				}else{
-					sentence.find('.xw-drag-word-end').html('.');
-				}
-			});
-
-    })
-  ;
-  </script>
-
 </head>
 <body>
   <div class="ui text container fluid main-column">
@@ -221,6 +174,50 @@ updateCounts( '.x-words-content' );
 	Make a sentence negative with hidden and visible xwords
 	First identify xword then type the negative xword
 -->
+
+<script>
+	$(document).ready(function() {
+
+		// Why do i need to manually convert a node list or jquery
+		// object to an array?
+		var nodes = document.querySelectorAll('.xw-drag-sentence');
+		var containers = [];
+		for( var i=0, l=nodes.length; i<l; i+=1 ){
+			containers.push( nodes[i] );
+		}
+
+		dragula( containers, {
+		}).on('drop', function (el) {
+			var sentence = $(el).parent();
+
+			// make all the contained words lower case
+			var $words = sentence.find('.xw-drag-word');
+			$words.each( function(i,el){
+				el.innerHTML = el.innerHTML.toLowerCase();
+			} );
+
+			// Capitalize the first letter
+			$words[0].innerHTML = $words[0].innerHTML.charAt(0).toUpperCase() + $words[0].innerHTML.substr(1).toLowerCase();
+
+			// Determine if sentence or question
+			var subjectPlace = -1;
+			var xWordPlace = -1;
+			for( var i=0, l=$words.length; i<l; i+=1 ){
+				if( $($words[i]).hasClass( 'xw-subject' ) && subjectPlace < 0 ){
+					subjectPlace = i;
+				}
+				if( $($words[i]).hasClass( 'xw-xword' ) && xWordPlace < 0 ){
+					xWordPlace = i;
+				}
+			}
+			if( xWordPlace < subjectPlace ){
+				sentence.find('.xw-drag-word-end').html('?');
+			}else{
+				sentence.find('.xw-drag-word-end').html('.');
+			}
+		});
+	});
+</script>
 <h1>Questions</h1>
 <p>Drag the words around to change the statements into questions.</p>
 <span class="xw-drag-sentence">
