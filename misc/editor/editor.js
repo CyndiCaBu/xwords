@@ -178,6 +178,14 @@ $(function(){
 		};
 		txt.replace( /\{[^}]+?\}[^[]/g, label_test );
 		txt.replace( /\([^)]+?\)[^[]/g, label_test );
+		
+		// Look for punctation before a [marker]
+		var punctation_test = function(match,word,marker,offset,string){
+			if( found_error ){ return; }
+			found_error = true;
+			alert( 'The text: "'+match+'" has a punction before a [label]. Please enclose it like: ('+word+')['+marker+']' );
+		}
+		txt.replace( /(\S+?)[,.:;?]\[([^]*?)\]/g, punctation_test );
 
 		if( found_error === false ){
 			alert( 'No errors found!' );
