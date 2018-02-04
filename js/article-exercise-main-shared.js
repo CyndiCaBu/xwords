@@ -207,9 +207,9 @@ $('#article-title').html( article );
 $('title').html( article +' - X-Words Grammar' );
 */
 // http://x-words.com/articles/#/a-hawk-in-queens?extra_stuff=useless_crap -> a-hawk-in-queens
-var path = window.location.href.split(window.location.host)[1].split('#')[1].split('?')[0];
+var path = window.location.href.split(window.location.host)[1].split('#')[1];
 try{
-	var options = JSON.parse('{"' + decodeURI( window.location.href.split('?')[1] ).replace(/"/g, '\\"').replace(/&/g, '","').replace(/=/g,'":"') + '"}');
+	var options = JSON.parse('{"' + decodeURI( window.location.href.split('?')[1].split('#')[0] ).replace(/"/g, '\\"').replace(/&/g, '","').replace(/=/g,'":"') + '"}');
 }catch(e){
 	var options = {};
 }

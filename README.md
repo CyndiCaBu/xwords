@@ -108,7 +108,7 @@ TODO:
  [ ] Alert user when nothing exists for a particular exercise in an article
  [ ] NEGATIVES - not for now
  [X] Remove old event handlers when changing exercises
- [ ] Correct URL format is "xwg.com/articles/?parameters=blah&stuff#do-it-write -- https://stackoverflow.com/questions/12682952/proper-url-forming-with-query-string-and-anchor-hashtag#12683131
+ [X] Correct URL format is "xwg.com/articles/?parameters=blah&stuff#do-it-write -- https://stackoverflow.com/questions/12682952/proper-url-forming-with-query-string-and-anchor-hashtag#12683131
  [ ] Determine optimal size for image (tell Cyndi)
  [X] Auto-find error -- newlines in brackets
  [X] Use grep to find which things are in each exercise, and test each exercise
