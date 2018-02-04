@@ -99,12 +99,21 @@ TODO:
  [ ] Time Exercises
      [X] Markup for past, now, both; t-p, t-n, t-b
  [ ] Question Exercises
-     [X] Mark for questionizable, no questionizable; [t-nq], [t-q]
+     [X] Mark for questionable, no questionable; [t-nq], [t-q]
+     [ ] Appropriate labels for question: VXO = do, VXS = does, VXD = did
+ [ ] Add stuff for [t=] (ie t=-p, t=-n, t=-nq, etc...)
  [X] Refactor and reuse xword code in editor and games (DONT COPY/PASTE, only use 1 file)
- [X] Editor - alert to puncation error type (ie he ran,[x] -- doesnt work, should be -- he {ran,}[x])
+ [X] Editor - alert to punctuation error type (ie he ran,[x] -- doesnt work, should be -- he {ran,}[x])
  [ ] Editor - new line in brackets error (there should not be newlines in brackets)
  [ ] Alert user when nothing exists for a particular exercise in an article
  [ ] NEGATIVES - not for now
+ [ ] Remove old event handlers when changing exercises
+ [ ] Correct URL format is "xwg.com/articles/?parameters=blah&stuff#do-it-write -- https://stackoverflow.com/questions/12682952/proper-url-forming-with-query-string-and-anchor-hashtag#12683131
+ [ ] Determine optimal size for image (tell Cyndi)
+ [ ] Auto-find error -- newlines in brackets
+ [ ] Use grep to find which things are in each exercise, and test each exercise
+ [ ] Make multi-word subjects (or other multi-word structures) as a single thing when dragging
+
  
 Next steps - Create trunk-based exercises/
 This means divide up article at trunks and each trunk is its own question/thingy
