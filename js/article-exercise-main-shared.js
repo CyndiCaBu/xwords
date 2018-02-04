@@ -154,9 +154,9 @@ var ShifterReason = new FindTheWord({
 	label: 'reason shifter'
 });
 var ShifterCondition = new FindTheWord({
-	classFind: 'condition-time',
-	classFound: 'condition-time-found',
-	classSummary: 'condition-time-paragraph-summary',
+	classFind: 'shifter-condition',
+	classFound: 'shifter-condition-found',
+	classSummary: 'shifter-condition-paragraph-summary',
 	label: 'condition shifter'
 });
 var ShifterContrast = new FindTheWord({
