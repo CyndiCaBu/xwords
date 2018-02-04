@@ -104,8 +104,8 @@ TODO:
  [ ] Add stuff for [t=] (ie t=-p, t=-n, t=-nq, etc...)
  [X] Refactor and reuse xword code in editor and games (DONT COPY/PASTE, only use 1 file)
  [X] Editor - alert to punctuation error type (ie he ran,[x] -- doesnt work, should be -- he {ran,}[x])
- [ ] Editor - new line in brackets error (there should not be newlines in brackets)
- [ ] Alert user when nothing exists for a particular exercise in an article
+ [X] Editor - new line in brackets error (there should not be newlines in brackets)
+ [X] Alert user when nothing exists for a particular exercise in an article
  [ ] NEGATIVES - not for now
  [X] Remove old event handlers when changing exercises
  [X] Correct URL format is "xwg.com/articles/?parameters=blah&stuff#do-it-write -- https://stackoverflow.com/questions/12682952/proper-url-forming-with-query-string-and-anchor-hashtag#12683131

@@ -245,6 +245,9 @@ function load_content( content, game, title ){
 	$.get( content, function(response){
 		var parsed = parse_text( response, tokens );
 		$('.x-words-content').html( parsed );
+		if( game.total( '.x-words-content' ) === 0 ){
+			alert( 'There are no examples of '+game.label+' in this article. Please choose a different exercise' );
+		}
 		//$('#article-image')[0].src = '../../../articles/'+articleUrl+'image.jpg';
 		//$('#article-icon')[0].src = '../../../articles/'+articleUrl+'image.jpg';
 		game.setup( '.x-words-content' );
