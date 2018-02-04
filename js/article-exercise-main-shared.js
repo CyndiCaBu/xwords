@@ -57,7 +57,7 @@ function FindTheWord( options ){
 }
 FindTheWord.prototype.setup = function(content){
 	var that = this;
-	$(content).on('click','.'+this.classFind,function(){
+	$(content).off('click.findTheWord').on('click.findTheWord','.'+this.classFind,function(){
 		$(this).addClass( that.classFound );
 		that.updateCounts( content ); // ???
 	});
