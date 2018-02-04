@@ -267,7 +267,7 @@ $('#menu-item-linkers').on('click',function(){load_content(path+'/content.txt',L
 $('#menu-item-extra-info').on('click',function(){load_content(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;});
 $('#menu-item-shifter-time').on('click',function(){load_content(path+'/content.txt',ShifterTime,'Find the Time Shifters'); return false;});
 $('#menu-item-shifter-place').on('click',function(){load_content(path+'/content.txt',ShifterPlace,'Find the Place Shifters'); return false;});
-$('#menu-item-shifter-reason').on('click',function(){load_content(path+'/content.txt',ShifterPlace,'Find the Reason Shifters'); return false;});
+$('#menu-item-shifter-reason').on('click',function(){load_content(path+'/content.txt',ShifterReason,'Find the Reason Shifters'); return false;});
 $('#menu-item-shifter-condition').on('click',function(){load_content(path+'/content.txt',ShifterCondition,'Find the Condition Shifters'); return false;});
 $('#menu-item-shifter-contrast').on('click',function(){load_content(path+'/content.txt',ShifterContrast,'Find the Contrast Shifters'); return false;});
 
