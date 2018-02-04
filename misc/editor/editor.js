@@ -187,6 +187,16 @@ $(function(){
 		}
 		txt.replace( /(\S+?)[,.:;?]\[([^]*?)\]/g, punctation_test );
 
+		// Look for newlines in brackets
+		var newline_test = function(match,offset,string){
+			if( found_error ){ return; }
+			found_error = true;
+			alert( 'The text: "'+match+'" has a newline within the brackets. Please remove the newline.' );
+		}
+		txt.replace( /\[[^\n]+?\n[^\n]+?\]/gm, newline_test );
+		txt.replace( /\{[^\n]+?\n[^\n]+?\}/gm, newline_test );
+		txt.replace( /\([^\n]+?\n[^\n]+?\)/gm, newline_test );
+
 		if( found_error === false ){
 			alert( 'No errors found!' );
 		}
