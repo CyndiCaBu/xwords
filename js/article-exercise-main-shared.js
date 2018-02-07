@@ -240,8 +240,8 @@ $.get( path+'/content.txt', function(response){
 	exercise.setup( '.x-words-content' );
 	exercise.updateCounts( '.x-words-content' );
 } );
-					
-function load_content( content, game, title ){
+
+function load_content_find_words( content, game, title ){
 	$.get( content, function(response){
 		var parsed = parse_text( response, tokens );
 		$('.x-words-content').html( parsed );
@@ -257,19 +257,85 @@ function load_content( content, game, title ){
 	} );
 }
 
-$('#menu-item-xwords').on('click',function(){load_content(path+'/content.txt',XWords,'Find the X Words'); return false;});
-$('#menu-item-verbs').on('click',function(){load_content(path+'/content.txt',Verbs,'Find the Verbs'); return false;});
-$('#menu-item-hidden-xwords').on('click',function(){load_content(path+'/content.txt',HiddenXWords,'Find the Hidden X Words'); return false;});
-$('#menu-item-subjects').on('click',function(){load_content(path+'/content.txt',Subjects,'Find the Subjects'); return false;});
-$('#menu-item-infinitives').on('click',function(){load_content(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
-$('#menu-item-trunks').on('click',function(){load_content(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
-$('#menu-item-linkers').on('click',function(){load_content(path+'/content.txt',Linkers,'Find the Linkers'); return false;});
-$('#menu-item-extra-info').on('click',function(){load_content(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;});
-$('#menu-item-shifter-time').on('click',function(){load_content(path+'/content.txt',ShifterTime,'Find the Time Shifters'); return false;});
-$('#menu-item-shifter-place').on('click',function(){load_content(path+'/content.txt',ShifterPlace,'Find the Place Shifters'); return false;});
-$('#menu-item-shifter-reason').on('click',function(){load_content(path+'/content.txt',ShifterReason,'Find the Reason Shifters'); return false;});
-$('#menu-item-shifter-condition').on('click',function(){load_content(path+'/content.txt',ShifterCondition,'Find the Condition Shifters'); return false;});
-$('#menu-item-shifter-contrast').on('click',function(){load_content(path+'/content.txt',ShifterContrast,'Find the Contrast Shifters'); return false;});
+function load_content_make_questions( content, game, title ){
+	$.get( content, function(response){
+		var parsed = parse_text( response, tokens );
+		$('.x-words-content').html( '' );
+		extract_trunks( parsed );
+	});
+}
+function extract_trunks( html ){
+	var trunks = $(html).find('.trunk');
+	// Why do i need to manually convert a node list or jquery
+	// object to an array?
+	var nodes = trunks;
+	var containers = [];
+	for( var i=0, l=nodes.length; i<l; i+=1 ){
+		$(nodes[i]).addClass('xw-drag-sentence').find('span').addClass('xw-drag-word');
+		containers.push( nodes[i] );
+	}
+
+	$('.x-words-content').append( trunks );
+	
+	// Capitalize stuff properly
+	$('.trunk').each(function(i,el){
+		var $words = $(el).find('.xw-drag-word');
+		$words[0].innerHTML = $words[0].innerHTML.charAt(0).toUpperCase() + $words[0].innerHTML.substr(1).toLowerCase();
+	});
+	
+	// Put a period at the end of each statement
+	$('.trunk').each(function(i,el){
+		el.innerHTML = el.innerHTML.replace(/[.?,;] *$/,'<span class="xw-drag-word-end">.</span>');
+	});
+	
+	dragula( containers, {
+	}).on('drop', function (el) {
+		var sentence = $(el).parent();
+
+		// make all the contained words lower case
+		var $words = sentence.find('.xw-drag-word');
+		$words.each( function(i,el){
+			el.innerHTML = el.innerHTML.toLowerCase();
+		} );
+
+		// Capitalize the first letter
+		$words[0].innerHTML = $words[0].innerHTML.charAt(0).toUpperCase() + $words[0].innerHTML.substr(1).toLowerCase();
+
+		// Determine if sentence or question
+		var subjectPlace = -1;
+		var xWordPlace = -1;
+		for( var i=0, l=$words.length; i<l; i+=1 ){
+			if( $($words[i]).hasClass( 'subject' ) && subjectPlace < 0 ){
+				subjectPlace = i;
+			}
+			if( $($words[i]).hasClass( 'xword' ) && xWordPlace < 0 ){
+				xWordPlace = i;
+			}
+		}
+		if( xWordPlace < subjectPlace ){
+			sentence.find('.xw-drag-word-end').html('?');
+		}else{
+			sentence.find('.xw-drag-word-end').html('.');
+		}
+	});
+
+}
+
+$('#menu-item-xwords').on('click',function(){load_content_find_words(path+'/content.txt',XWords,'Find the X Words'); return false;});
+$('#menu-item-verbs').on('click',function(){load_content_find_words(path+'/content.txt',Verbs,'Find the Verbs'); return false;});
+$('#menu-item-hidden-xwords').on('click',function(){load_content_find_words(path+'/content.txt',HiddenXWords,'Find the Hidden X Words'); return false;});
+$('#menu-item-subjects').on('click',function(){load_content_find_words(path+'/content.txt',Subjects,'Find the Subjects'); return false;});
+$('#menu-item-infinitives').on('click',function(){load_content_find_words(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
+$('#menu-item-trunks').on('click',function(){load_content_find_words(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
+$('#menu-item-linkers').on('click',function(){load_content_find_words(path+'/content.txt',Linkers,'Find the Linkers'); return false;});
+$('#menu-item-extra-info').on('click',function(){load_content_find_words(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;});
+$('#menu-item-shifter-time').on('click',function(){load_content_find_words(path+'/content.txt',ShifterTime,'Find the Time Shifters'); return false;});
+$('#menu-item-shifter-place').on('click',function(){load_content_find_words(path+'/content.txt',ShifterPlace,'Find the Place Shifters'); return false;});
+$('#menu-item-shifter-reason').on('click',function(){load_content_find_words(path+'/content.txt',ShifterReason,'Find the Reason Shifters'); return false;});
+$('#menu-item-shifter-condition').on('click',function(){load_content_find_words(path+'/content.txt',ShifterCondition,'Find the Condition Shifters'); return false;});
+$('#menu-item-shifter-contrast').on('click',function(){load_content_find_words(path+'/content.txt',ShifterContrast,'Find the Contrast Shifters'); return false;});
+$('#menu-item-make-questions').on('click',function(){load_content_make_questions(path+'/content.txt',null,'Make Question'); return false;});
+
 
 $(document)
 	.ready(function() {

@@ -73,3 +73,23 @@
 .shifter-contrast-found {
 	background: #F8F;
 }
+
+
+.xw-drag-sentence {
+	display: block;
+}
+.xw-drag-word, .xw-drag-word-end {
+	display: inline-block;
+	min-width: 5em;
+	border: 2px solid #F88;
+	background: #FEE;
+	line-height: 1em;
+	height: 2.2em;
+	margin: 0.2em;
+	padding: 0.5em;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 4px;
+}
+.xw-drag-word-end {
+}

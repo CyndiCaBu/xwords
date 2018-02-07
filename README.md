@@ -112,7 +112,7 @@ TODO:
  [ ] Determine optimal size for image (tell Cyndi)
  [X] Auto-find error -- newlines in brackets
  [X] Use grep to find which things are in each exercise, and test each exercise
- [ ] Make multi-word subjects (or other multi-word structures) as a single thing when dragging
+ [X] Make multi-word subjects (or other multi-word structures) as a single thing when dragging
 
  
 Next steps - Create trunk-based exercises/
