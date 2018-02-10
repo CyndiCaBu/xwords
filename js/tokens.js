@@ -55,7 +55,7 @@ var tokens = {
 	't-b-q': '<span class="trunk both-tense questionizable">|</span>',
 	't-nq': '<span class="trunk not-questionizable">|</span>',
 	't-q': '<span class="trunk questionizable">|</span>',
-
+	
 	't=': '<span class="trunk-multi">|</span>',
 	'trunk-multi': '<span class="trunk-multi">|</span>',
 	't=p': '<span class="trunk-multi past-tense">|</span>',
