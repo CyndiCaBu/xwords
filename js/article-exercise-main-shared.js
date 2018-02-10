@@ -161,7 +161,7 @@ var ShifterCondition = new FindTheWord({
 });
 var ShifterContrast = new FindTheWord({
 	classFind: 'shifter-contrast',
-	classFound: 'shifter-constrast-found',
+	classFound: 'shifter-contrast-found',
 	classSummary: 'shifter-contrast-paragraph-summary',
 	label: 'contrast shifter'
 });
@@ -317,6 +317,14 @@ function extract_trunks( html ){
 		}else{
 			sentence.find('.xw-drag-word-end').html('.');
 		}
+		/*
+		 s,x,v -> statment
+		 s,v,x -> error
+		 x,s,v -> question
+		 x,v,s -> error
+		 v,s,x -> error
+		 v,x,s -> error
+		*/
 	});
 
 }
