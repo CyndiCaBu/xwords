@@ -58,6 +58,17 @@ var tokens = {
 
 	't=': '<span class="trunk-multi">|</span>',
 	'trunk-multi': '<span class="trunk-multi">|</span>',
+	't=p': '<span class="trunk-multi past-tense">|</span>',
+	't=n': '<span class="trunk-multi present-tense">|</span>',
+	't=b': '<span class="trunk-multi both-tense">|</span>',
+	't=p-nq': '<span class="trunk-multi past-tense not-questionizable">|</span>',
+	't=n-nq': '<span class="trunk-multi present-tense not-questionizable">|</span>',
+	't=b-nq': '<span class="trunk-multi both-tense not-questionizable">|</span>',
+	't=p-q': '<span class="trunk-multi past-tense questionizable">|</span>',
+	't=n-q': '<span class="trunk-multi present-tense questionizable">|</span>',
+	't=b-q': '<span class="trunk-multi both-tense questionizable">|</span>',
+	't=nq': '<span class="trunk-multi not-questionizable">|</span>',
+	't=q': '<span class="trunk-multi questionizable">|</span>',
 
 	'f-t': '<span class="shifter-front shifter-time">|</span>',
 	'front-shifter-time': '<span class="shifter-front shifter-time">|</span>',
