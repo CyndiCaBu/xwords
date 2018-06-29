@@ -1,22 +1,21 @@
+
 {All over the world}[f-p], {people[s] have[vxo] specific ideas about what('s)[x] right and what('s)[x] wrong}[t-n]. {We[s] have[vxo] a sense of morals and beliefs about what we should[x] and (shouldn't)[x] do}[t-n]. {This[s] includes[vxs] ideas about moral excellence}[t-n], {things we should[x] strive for - in other words, virtues}[extra].
 
 {(Cultures with a written history)[s] show[vxo] us the virtues people have valued for thousands of years}[t-n]. {We[s] can[x] study[v] texts from ancient Greek philosophy, Buddhism, Christianity, Hinduism, Islam, Judaism and more}[t-n]. {(Differences between these religions and traditions)[s] are[x] clear}[t-n]. {Yet[l]  they[s] share[vxo] certain virtues that help people live good lives full of meaning}[t-n]. {(These virtues)[s] are[x] essential for thriving}[t-n].
 
 {According to the book Character Strengths and Virtues}[f-r], {(the 6 core virtues shared across cultures)[s] are[x] courage, justice, humanity, moderation, transcendence and wisdom}[t-n]. 
 
-{Courage[s] is[x] a synonym for bravery}[t-n], {the strength (to do)[inf] something that scares you}[extra]. {It[s]('s)[x] often associated[dtn] with physical actions and physical strength}[t-n], but[j] {courage[s] is[x] also an emotional strength}[t-n]. {It[s] helps[vxs] us accomplish our goals}[t-n] {even if something inside us or outside us makes that difficult}[e-cd].
+{Courage[s] is[x] a synonym for bravery}[t-n], {the strength (to do)[inf] something that scares you}[extra]. {It[s]('s)[x] often associated[dtn] with physical actions and physical strength}[t-n], but[j] {courage[s] is[x] also an emotional strength}[t-n]. {It[s] helps[vxs] us accomplish our goals}[t-n] {even if something inside us or outside us makes that difficult}[e-cd]. {(Learning something new)[s] takes[vxs] courage}[t-n], {especially the courage (to make)[inf] mistakes}[extra]. {(Telling the truth even when it(0's0)[x] painful)[s] takes[vxs] courage}[t-n], (too)[extra]. 
 
-{(Learning something new)[s] takes[vxs] courage}[t-n], {especially the courage (to make)[inf] mistakes}[extra]. {(Telling the truth even when it(0's0)[x] painful)[s] takes[vxs] courage}[t-n], (too)[extra]. {(The character strengths associated with courage)[s] are[x] listed[dtn] below}[t-n]. {Do[x] you[s] see[v] any as your own}[t-n-nq]?
+{Justice[s] is[x] usually associated[dtn] with fairness and with doing what is[x] right}[t-n], {especially according to the law}[extra]. {As a virtue in positive psychology}[f-r], {it[s] includes[vxs] the strengths that help people live together as a community}[t-n]. 
 
-Love. {What is[x] love[s]}? {In his book Flourish}[f-t], {(Martin Seligman)[s] notes[vxs] that we see the strengths associated with a sense of love and humanity}[t-n] {when we see people interact in a positive way}[e-t]. {When you think of your own sense of humanity and love,}[f] {does[x] that[s] make[v] sense?}[t] How about humanity?
+{Humanity[s] is[x] a virtue related to love}[t-n]. {What is[x] love[s]}? {In his book Flourish}[f-t], {(Martin Seligman)[s] notes[vxs] that we see the strengths associated with a sense of love and humanity}[t-n] {when we see people interact in a positive way}[e-t]. 
 
-{Justice[s] is[x] usually associated[dtn] with fairness and with doing what is[x] right,}[t] {especially according to the law.}}[extra] {As a virtue in positive psychology,}[f] {it[s] includes[vxs] the strengths that help people live together as a community.}[t] {These[s] are[x] listed[dtn] below.}[t]
+{Moderation[s] is[x] a synonym for temperance}[t-n]. {It[s] means[vxs] avoiding excess}[t-n]: {not too much, not too little, not too fast, not too slow}[extra]. {With moderation}[f-r], {we[s] avoid[vxo] extremes}[t-n].
 
-{Moderation[s] is[x] a synonym for temperance.}[t] {It[s] means[vxs] avoiding excess:}[t] {not too much, not too little, not too fast, not too slow.}[extra] {With moderation,}[f] {we[s] avoid[vxo] extremes.}[t]
+{Transcendence[s] is[x] a little hard (to explain)[inf]}[t-n]. {(Some definitions)[s] include[vxo] the idea of going beyond the ordinary world}[t-n], {beyond regular limits.}[extra] {Transcendence[s] can[x] refer[v] to excellence}[t-n]. {It[s] can[x] refer[v] to a spiritual or philosophical sense of being free from our physical limitations,}[t] {beyond this material world.}[e] {It[s] might[x] be[v] difficult (to understand)[inf]}[t] {if you[s] (haven't)[x] actually experienced at least some sense of it.}[f]
 
-{Transcendence[s] is[x] a little hard (to explain)[inf].}[t] {(Some definitions)[s] include[vxo] the idea of going beyond the ordinary world,}[t] {beyond regular limits.}[extra] {Transcendence[s] can[x] refer[v] to excellence.}[t] {It[s] can[x] refer[v] to a spiritual or philosophical sense of being free from our physical limitations,}[t] {beyond this material world.}[e] {It[s] might[x] be[v] difficult (to understand)[inf]}[t] {if you[s] (haven't)[x] actually experienced at least some sense of it.}[f]
-
-
+CUT CUT CUT
 {(This book)[s] describes[vxs] character strengths related to these virtues}[t-n]. 
 
 {(One of the main concepts in positive psychology)[s] is[x] that we can[x] live good lives by figuring out our own character strengths and building on them}[t-n]. {(Our strengths)[s] are[x] the foundation for our well-being}[t-n]. {What are[x] (yours)[s]}[t-n-nq]?
