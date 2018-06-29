@@ -1,4 +1,3 @@
-
 {All over the world}[f-p], {people[s] have[vxo] specific ideas about what('s)[x] right and what('s)[x] wrong}[t-n]. {We[s] have[vxo] a sense of morals and beliefs about what we should[x] and (shouldn't)[x] do}[t-n]. {This[s] includes[vxs] ideas about moral excellence}[t-n], {things we should[x] strive for - in other words, virtues}[extra].
 
 {(Cultures with a written history)[s] show[vxo] us the virtues people have valued for thousands of years}[t-n]. {We[s] can[x] study[v] texts from ancient Greek philosophy, Buddhism, Christianity, Hinduism, Islam, Judaism and more}[t-n]. {(Differences between these religions and traditions)[s] are[x] clear}[t-n]. {Yet[l]  they[s] share[vxo] certain virtues that help people live good lives full of meaning}[t-n]. {(These virtues)[s] are[x] essential for thriving}[t-n].
@@ -9,13 +8,8 @@
 
 {Justice[s] is[x] usually associated[dtn] with fairness and with doing what is[x] right}[t-n], {especially according to the law}[extra]. {As a virtue in positive psychology}[f-r], {it[s] includes[vxs] the strengths that help people live together as a community}[t-n]. 
 
-{Humanity[s] is[x] a virtue related to love}[t-n]. {What is[x] love[s]}? {In his book Flourish}[f-t], {(Martin Seligman)[s] notes[vxs] that we see the strengths associated with a sense of love and humanity}[t-n] {when we see people interact in a positive way}[e-t]. 
+{Humanity[s] is[x] a virtue related to love}[t-n]. {Can[x] you[s] define[v] love}[t-n]? {There[s] are[x] many kinds of love}[t-n], {of course}[extra]. {It[s]('s)[x] a feeling and an attitude that helps people interact in a positive way}[t-n] {-- friends, couples, families, even strangers}[extra]. 
 
 {Moderation[s] is[x] a synonym for temperance}[t-n]. {It[s] means[vxs] avoiding excess}[t-n]: {not too much, not too little, not too fast, not too slow}[extra]. {With moderation}[f-r], {we[s] avoid[vxo] extremes}[t-n].
 
-{Transcendence[s] is[x] a little hard (to explain)[inf]}[t-n]. {(Some definitions)[s] include[vxo] the idea of going beyond the ordinary world}[t-n], {beyond regular limits.}[extra] {Transcendence[s] can[x] refer[v] to excellence}[t-n]. {It[s] can[x] refer[v] to a spiritual or philosophical sense of being free from our physical limitations,}[t] {beyond this material world.}[e] {It[s] might[x] be[v] difficult (to understand)[inf]}[t] {if you[s] (haven't)[x] actually experienced at least some sense of it.}[f]
-
-CUT CUT CUT
-{(This book)[s] describes[vxs] character strengths related to these virtues}[t-n]. 
-
-{(One of the main concepts in positive psychology)[s] is[x] that we can[x] live good lives by figuring out our own character strengths and building on them}[t-n]. {(Our strengths)[s] are[x] the foundation for our well-being}[t-n]. {What are[x] (yours)[s]}[t-n-nq]?
+{Like love}[extra], {transcendence[s] is[x] hard (to explain)[inf]}[t-n](;)[j] {it[s]('s)[x] something that we feel}[t-n]. {(Some definitions of transcendence)[s] include[vxo] the idea of going beyond the ordinary world}[t-n], {beyond regular limits}[extra]. {Transcendence[s] can[x] refer[v] to excellence}[t-n]. {It[s] can[x] also refer[v] to a spiritual or philosophical sense of being free from our physical limitations,}[t] {beyond this material world.}[e] {It[s] might[x] be[v] difficult (to understand)[inf]}[t] {if you[s] (haven't)[x] actually experienced at least some sense of it.}[f]
