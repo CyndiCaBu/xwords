@@ -10,11 +10,17 @@ function highlight_guess( text, words, premark, postmark ){
 function parse_text( text, tokens ){
 
 	var replace_function = function(match, text, identifier, offset, string){
-		if( ! tokens.hasOwnProperty( identifier ) ){
-			throw ('Identifier: ['+identifier+'] is unknown. (TODO: add list of valid identifiers)');
+		var ids = identifier.split(',');
+		var result = text;
+		for( var i=0, l=ids.length; i<l; i+=1 ){
+			var ident = ids[i];
+			if( ! tokens.hasOwnProperty( ident ) ){
+				throw ('Identifier: ['+ident+'] is unknown.');
+			}
+			result = tokens[ident].replace('|',result);
 		}
 		
-		return tokens[identifier].replace('|',text);
+		return result;
 	};
 
 	var single_word_regexp = /(\w+?)\[(.+?)\]/g;
