@@ -77,3 +77,7 @@ img.button.compact {
 	width: 700px;
 	height: 300px;
 }
+
+.title-in-text {
+	font-style: italic;
+}
