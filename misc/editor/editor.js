@@ -62,7 +62,17 @@ function parse_text( text, tokens ){
 
 $(function(){
 	setInterval( function(){
-		$('#text-preview').html( parse_text( $('#text-input').val(), tokens ) );
+		try{
+			$('#text-preview').html( parse_text( $('#text-input').val(), tokens ) );
+			if( $('#text-status-parser').html() != 'Parse OK' ){
+				$('#text-status-parser').html('Parse OK').css({backgroundColor:'#8F8'});
+			}
+		}
+		catch(e){
+			if( $('#text-status-parser').html() != 'Parse Error' ){
+				$('#text-status-parser').html('Parse Error').css({backgroundColor:'#F88'});
+			}
+		}
 	}, 50 );
 
 	$('#btn-toggle-size').on('click',function(){

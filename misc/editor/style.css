@@ -50,3 +50,6 @@ body {
 #text-preview.full-width {
 	width: 100%;
 }
+#text-status-parser {
+	padding: 5px;
+}
