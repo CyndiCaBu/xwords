@@ -2,7 +2,7 @@
 
 {In Malawi}[f-p], {(a young problem-solver named William Kamkwamba)[s] used[vxd] teamwork (to solve)[inf] a basic problem}[t-p]: {a lack of light (to study)[inf] by at night}[extra]. {(His story)[s] shows[vxs] how a curious kid with limited resources worked with others (to help)[inf] not only his family but his village}[t-n]. {(A domino effect)[s] took[vxd] him far from rural Malawi (to study)[inf] on two different continents}[t-p]. {Afterwards}[l], {he[s] went[vxd] back to his native country}[t-p] {(to keep)[inf] helping others}[e-r]. {Kamkwamba[s] is[x] an inventor with an entrepreneurial outlook}[t-n]. {In addition to teamwork}[l], {(his strengths)[s] include[vxo] love of learning, persistence and leadership}[t-n]. 
 
-{Kamkwamba[s] teamed[v] with many others (to share)[inf] his story on the radio, on stage and online}[t-p]. {(Bryan Mealer)[s], (a writer)[extra], helped[vxd] him with the book (The Boy Who Harnessed the Wind)[title]. {(Ben Nabors)[s], (who took the photo here)[extra], directed[vxd] and produced[vxd] a documentary film called William and the Windmill}[t=p]. 
+{Kamkwamba[s] teamed[v] with many others (to share)[inf] his story on the radio, on stage and online}[t-p]. {(Bryan Mealer)[s], (a writer)[extra], helped[vxd] him with the book (The Boy Who Harnessed the Wind)[title]. {(Ben Nabors)[s], (who took the photo here)[extra], directed[vxd] and produced[vxd] a documentary film called William and the Windmill[title]}[t=p]. 
 
 {In an English course in New York}[f-p], {(a student named DM)[s] read[vxd] Kamkwamba's book and wrote[vxd] the essay below in response}[t=p].
  
