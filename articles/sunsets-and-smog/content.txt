@@ -1,6 +1,6 @@
 {Smog[s] is[x] a type of air pollution that you can[x] often see low in the sky over cities}[t-n]. {(The term)[s] comes[vxs] from two words that were[x] combined (to make)[inf] one}[t-n]: {smoke[em] plus fog[em] equals smog[em]}[extra]. 
 
-{Would[x] you[s] believe[v] that smog has[x] a positive side}[t-n-nq], {making urban sunsets more colorful}[extra]? {You[s] (shouldn't)[x]}[t-n-nq]. {Evidence[s] shows[vxs] that smog is[x] not healthy}[t-n]. {(Neighborhoods with higher rates of air pollution) tend[vso] (to have)[inf] higher rates of asthma}[t-n]. {Moreover[l], (smog particles)[s] often make[vxo] the sky look hazy}[t-n], {or just a dull gray}[extra]. {(High levels of smog)[s] can[x] even block[v] the sunlight}[t-n], {making the city look dirty}[extra].
+{Would[x] you[s] believe[v] that smog has[x] a positive side}[t-n-nq], {making urban sunsets more colorful}[extra]? {You[s] (shouldn't)[x]}[t-n-nq]. {Evidence[s] shows[vxs] that smog is[x] not healthy}[t-n]. {(Neighborhoods with higher rates of air pollution)[s] tend[vxo] (to have)[inf] higher rates of asthma}[t-n]. {Moreover[l], (smog particles)[s] often make[vxo] the sky look hazy}[t-n], {or just a dull gray}[extra]. {(High levels of smog)[s] can[x] even block[v] the sunlight}[t-n], {making the city look dirty}[extra].
 
 {(The color we typically see in the sky)[s] is[x] a shade of blue}[t-n], {sometimes lighter and sometimes deeper or darker}[extra]. {Sunlight[s] has[vxs] a spectrum of colors}[t-n]. {Imagine[vxo] a rainbow going from red and orange at one end to blue and violet at the other}[t-n-nq]. {In the sky}[f-p], {(air molecules)[s] scatter[vxo] the light}[t-n] - {separating it and making it go in different directions}[extra].
 
@@ -8,6 +8,6 @@
 
 {(Another technique)[s] is[x] (to think)[inf] about what time it is[x] in other parts of the world}[t-n]. {At the same exact moment on a summer day}[f-t], {(the sky that looks light blue in Bangkok, Thailand)[s] might[x] look[v] like this pink sunset in Queens, New York}[t-n-nq]. 
 
-{(Truly colorful sunsets)[s] are[x] actually seen[dtn] more often}[t-n] {in the tropics, deserts and open rural areas than in polluted cities}[e-p]. {(Places with less air pollution) let[vxo] the air molecules scatter in a different way}[t-n].
+{(Truly colorful sunsets)[s] are[x] actually seen[dtn] more often}[t-n] {in the tropics, deserts and open rural areas than in polluted cities}[e-p]. {(Places with less air pollution)[s] let[vxo] the air molecules scatter in a different way}[t-n].
  
 {When was[x] (the last time)[s] you saw a beautiful sunset}[t-p-nq]? {Which do[x] you[s] have[v] stronger memories of}[t-n-nq]: {air pollution or beautiful sunsets}[extra]?
