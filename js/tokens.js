@@ -92,5 +92,6 @@ var tokens = {
 	'e-ct': '<span class="shifter-end shifter-contrast">|</span>',
 	'end-shifter-contrast': '<span class="shifter-end shifter-contrast">|</span>',
 	
-	'title': '<span class="title-in-text">|</span>'
+	'title': '<span class="title-in-text">|</span>',
+	'em': '<em>|</em>'
 };
