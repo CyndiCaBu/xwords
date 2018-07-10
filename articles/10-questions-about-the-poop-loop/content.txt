@@ -6,14 +6,14 @@
 
 {What did[x] (the farmers)[s] do[v] (to make)[inf] sure those plants were[x] full of nutrients?}[t-p-nq]
 
-{If the farmers applied compost}[f-cd], {did[x] it[s] come[v] from animal waste such as manure?}[t-p-nq]
+{If the farmers applied compost}[f-cd], {did[x] it[s] come[v] from animal waste such as manure}[t-p-nq]?
 
-{(What kind of tests)[s] can[x] help[v] farmers and others know that (our food)[s] is[x] safe from any harmful viruses or bacteria that might[x] be in manure or humanure?}[t-n-nq]
+{(What kind of tests)[s] can[x] help[v] farmers and others know that (our food)[s] is[x] safe from any harmful viruses or bacteria that might[x] be in manure or humanure}[t-n-nq]?
 
-{Would[x] you[s] eat[v] plants grown with “humanure”}[t-n-nq], {a type of compost made from human waste?}[extra]
+{Would[x] you[s] be[v] willing (to eat)[inf] plants grown with “humanure”}[t-n-nq], {a type of compost made from human waste}[extra]?
 
-{If you[s] had[vxd] a choice between plants grown with chemical fertilizer or plants grown with humanure}[f-cd], {which would[x] you[s] choose[v]?}[t-n-nq]
+{If you[s] had[vxd] a choice between plants grown with chemical fertilizer or plants grown with humanure}[f-cd], {which would[x] you[s] choose[v]}[t-n-nq]?
 
-{Would[x] you[s] rather use[v] a toilet in a poop loop system or a water-based system?}[t-n-nq]
+{Would[x] you[s] rather use[v] a toilet in a poop loop system or a water-based system}[t-n-nq]?
 
-{If you had[x] some extra money (to donate)[inf] to a good cause}[f-cd], {would[x] you[s] consider[v] giving it to SOIL,}[t-n-nq] {an organization that supports health, soil and human lives in Haiti through the poop loop?}[extra]
+{If you had[x] some extra money (to donate)[inf] to a good cause}[f-cd], {would[x] you[s] consider[v] giving it to SOIL}[t-n-nq], {an organization that supports health, soil and human lives in Haiti through the poop loop}[extra]?
