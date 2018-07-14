@@ -10,7 +10,7 @@
 
 (A passive, constructive response)[em]: Hmm[l], {that[s]('s)[x] nice}[t-n].
 
-(A passive, destructive response)[em]: Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] to the park and played[vxd] cricket with the guys}[t=p]. Afterwards[l] {we[s] went[vxd] out for some food}[t-p]; {it[s] was[x] great}[t-p]!
+(A passive, destructive response)[em]: Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] to the park and played[vxd] cricket with the guys}[t=p]. Afterwards[l] {we[s] went[vxd] out for some food}[t-p](;)[j] {it[s] was[x] great}[t-p]!
 
 {You might[x] wonder[v] why the last response is[x] considered destructive}[t-n-nq]. {It[s] may[x] seem[v] positive}[t-n-nq] {since the person talks about a good day and pleasant activities}[e-r]. {However}[l], {(those comments)[s] take[vxo] the focus off the unicycle day completely}[t-n]. {They[s] ignore[vxo] what the unicycle rider experienced}[t-n], {changing the topic}[extra]. {Even though that('s)[x] not overtly negative}[f-ct], {like the person who talked about the dangers of riding a unicycle}[extra], {it[s]('s)[x] still not supportive}[t-n-nq]. {It[s] (doesn't)[x] encourage[v] the person (to keep)[inf] re-living the positive emotions of their own good news}[t-n-nq].
 
