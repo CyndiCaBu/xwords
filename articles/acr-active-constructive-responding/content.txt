@@ -2,17 +2,19 @@
 
 {How did[x] (the other person)[s] react[v]}[t-p-nq] {when you told them}[e-t]? {Did[x] they[s] seem[v] interested}[t-p-nq]? {Did[x] they[s] ask[v] you questions (to help)[inf] you re-live the experience}[t-p-nq]? {If so}[f-cd], {you[s] probably felt[vxd] better after the conversation}[t-p]. {On the other hand}[l], {if the person (didn't)[x] support you, or changed the topic or even said negative things}[f-cd], {you[s] probably felt[vxd] worse}[t-p]. 
 
-{Research[s] shows[vxs] that we usually respond in 1 of 4 different styles}[t-n], {listed below}[extra]. {Imagine[vxo] riding a unicycle over the Brooklyn Bridge}[t-n-nq], {like the people in the photo}[extra]. {Pretend[vxo] you just told a friend about your amazing day doing something difficult but really fun}[t-n-nq]. {(Your friend)[s] could[x] say[v] anything in response}[t-n]. {Whatever he or she says}[l], {it[s] would[x] probably show[v] one of these response styles}[t-n]. {(Which one)[s] would[x] make[v] you feel the best}[t-n-nq]?
+{Research[s] shows[vxs] that we usually respond in 1 of 4 different styles}[t-n], {listed below}[extra]. 
 
-(An active, constructive response)[em]: {That[s] sounds[vxs] like fun}[t-n]! {Tell[vxo] me more}[t-n-nq]. {Where did[x] you[s] go[v]}[t-p-nq]? {What[s] was[x] your favorite part}[t-p-nq]?
+{Imagine[vxo] that you finally got something you('ve)[x] wanted for a long time}[t-n-nq]: {a piano}[extra]. {You[s] just moved[vxd] it to your apartment with a friend}[t-p] {on a cold winter day}[e-t], {like the people in the photo}[extra]. {It[s] was[x] hard but fun}[t-p](;)[j] {you[s] stopped[vxd] (to take)[inf] breaks}[t-p], and[j] {(your friend)[s] even played[vxd] the piano}[t-p] {on one of those breaks}[e-t]. {Pretend[vxo] you just told another friend about this later}[t-n-nq]. {(Your friend)[s] could[x] say[v] anything in response}[t-n]. {Whatever they say}[l], {it[s] would[x] probably show[v] one of these response styles}[t-n]. {(Which one)[s] would[x] make[v] you feel the best}[t-n-nq]?
 
-(An active, destructive response)[em]: (Oh, no)[l], (a unicycle)[s]? {That[s] sounds[vxs] really dangerous}[t-n]! {You[s] (don't)[x] even have[v] anywhere (to put)[inf] your hands on a unicycle}[t-n-nq]!
+(An active, constructive response)[em]: {Did[x] you[s] really get[v] your own piano}[t-p-nq]? Congratulations! {Where did[x] you[s] find[v] it}[t-p-nq]?
+
+(An active, destructive response)[em]: (Oh, no)[l], {did[x] you[s] move[v] it all by yourselves}[t-p-nq]? {It[s]('s)[x] freezing outside}[t-n]! {You[s] (could)[x] really hurt[v] your hands and your back}[t-n-nq]!
 
 (A passive, constructive response)[em]: Hmm[l], {that[s]('s)[x] nice}[t-n].
 
-(A passive, destructive response)[em]: Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] to the park and played[vxd] cricket with the guys}[t=p]. Afterwards[l] {we[s] went[vxd] out for some food}[t-p](;)[j] {it[s] was[x] great}[t-p]!
+(A passive, destructive response)[em]: Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] ice-skating with my family}[t=p]. Afterwards[l] {we[s] went[vxd] out for some food}[t-p](;)[j] {it[s] was[x] great}[t-p]!
 
-{You might[x] wonder[v] why the last response is[x] considered destructive}[t-n-nq]. {It[s] may[x] seem[v] positive}[t-n-nq] {since the person talks about a good day and pleasant activities}[e-r]. {However}[l], {(those comments)[s] take[vxo] the focus off the unicycle day completely}[t-n]. {They[s] ignore[vxo] what the unicycle rider experienced}[t-n], {changing the topic}[extra]. {Even though that('s)[x] not overtly negative}[f-ct], {like the person who talked about the dangers of riding a unicycle}[extra], {it[s]('s)[x] still not supportive}[t-n-nq]. {It[s] (doesn't)[x] encourage[v] the person (to keep)[inf] re-living the positive emotions of their own good news}[t-n-nq].
+{You might[x] wonder[v] why the last response is[x] considered destructive}[t-n-nq]. {It[s] may[x] seem[v] positive}[t-n-nq] {since the person talks about a good day and pleasant activities}[e-r]. {However}[l], {(those comments)[s] take[vxo] the focus off the friend's good news completely}[t-n]. {They[s] ignore[vxo] what their friend experienced getting the piano}[t-n], {changing the topic}[extra]. {Even though that('s)[x] not overtly negative}[f-ct], {like the person who talked about the dangers of moving a piano}[extra], {it[s]('s)[x] still not supportive}[t-n-nq]. {It[s] (doesn't)[x] encourage[v] the person (to keep)[inf] re-living the positive emotions of their own good news}[t-n-nq].
 
 {Of these 4 response styles}[l], {there[s]('s)[x] only one that can[x] really help[v] make relationships stronger}[t-n]: {active, constructive response}[extra]. {It[s]('s)[x] a choice we either make or miss}[t-n].
 
