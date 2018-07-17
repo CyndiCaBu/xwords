@@ -1,14 +1,15 @@
-{(Enjoying a delicious bowl of soup)[s] is[x] like admiring an unusual car parked on the street}[t-n]. {(The car)[s] (won't)[x] satisfy[v] your hunger}[t-n-nq], but[j] {you[s] can[x] certainly savor[v] it}[t-n]. {Savoring[s] means[vxs] more than just tasting or smelling something}[t-n]. 
+{(Enjoying a delicious bowl of soup)[s] is[x] like smiling when we hear some music we really like}[t-n]. {Both[s] are[x] things we can[x] savor}[t-n]. {In positive psychology}[f-p], {savoring[s] means[vxs] more than just tasting and appreciating something we can[x] eat or drink}[t-n]. {(Paying attention to our positive experiences, appreciating them and enhancing them)[s] are[x] all parts of savoring}[t-n-nq]. {It[s]('s)[x] a process of slowing down (to notice)[inf] what('s)[x] around us and how we feel}[t-n], {considering all 5 senses}[extra].
 
-{In positive psychology}[f-p], {(paying attention to our positive experiences, appreciating them and enhancing them)[s] are[x] all parts of savoring}[t-n-nq]. {It[s]('s)[x] a process of slowing down (to notice)[inf] what('s)[x] around us and how we feel}[t-n], {considering all 5 senses}[extra].
+{We[s] can[x] savor[v] positive experiences that happened in the past}[t-n] {by remembering them and appreciating them again}[e-r]. {We[s] can[x] also savor[v] the present moment}[t-n] {by taking the time (to appreciate)[inf] whatever is[x] positive in what we('re)[x] experiencing right here, right now}[e-r]. {When we look forward to an experience that we expect to be positive}[f-t], {we[s] practice[vxo] savoring the future}[t-n] - {before it even happens}[extra]!
 
-{We[s] can[x] savor[v] positive experiences that happened in the past}[t-n] {by remembering them and appreciating them again}[e-r]. {We[s] can[x] also savor[v] the present moment}[t-n] {by taking the time (to appreciate)[inf] whatever is[x] positive in what we('re)[x] experiencing right here, right now}[e-r]. {(Savoring the future)[s] can[x] happen[v]}[t-n] {when we look forward to an experience that we expect to be positive}[e-t].
+{There[s] are[x] at least 10 different strategies that can[x] help us savor what('s)[x] good}[t-n]. {Here[s] are[x] some (to try)[inf]}[t-n-nq].
 
-{There[s] are[x] at least 10 different strategies that can[x] help us savor what('s)[x] good in our daily lives}[t-n]. {One[s] is[x] sharing positive experiences with others}[t-n]. {(One person)[s] might[x] not notice[v] something pleasant until someone else points it out}[t-n]. (For instance)[l], {one morning in July}[f-t], {(Marta)[s] was[x] walking[v] down the street complaining about the weather}[t-p].  {It[s] was[x] hot and humid}[t-p], and[j] {she[s] could[x] feel[v] sweat running down her neck}[t-p]. {She[s] was[x] focused[dtn] on looking for a hair tie in her bag}[t-p] {when her friend noticed some kiddie rides in the back of a pickup truck}[e-t]. {Marta[s] looked[vxd] up and recognized[vxd] one of the characters}[t=p]. {(She and her friend)[s] stopped[vxd] talking about the heat and started[vxd] sharing memories}[t-p]. {Soon they were[x] laughing[v] and feeling[v] better}[t-p]. {By focusing on something that brought positive emotions}[f-r], {they[s] savored[vxd] an unusual sight on the street}[t-p].
-
-{Here[s] are[x] some other ways (to practice)[inf] savoring}[t-n].
 {Sharpen[vxo] your senses}[t-n-nq]: {taste, touch, sight, sound, smell}[extra].
+
 {Focus[vxo] on certain stimuli and block[vxo] out others}[t=n-nq].
+
 {Immerse[vxo] yourself in the moment}[t-n-nq]. {Let[vxo] yourself experience absorption}[t-n-nq].
+
 {Take[vxo] clear mental photographs}[t-n-nq]. {What do[x] you[s] need[v] (to notice)[inf] now (to help)[inf] you remember this moment later}[t-n-nq]?
+
 {Think[vxo] about how you[s] would[x] share[v] this experience with others}[t-n-nq]. {What[s] would[x] you[s] tell[v] them}[t-n-nq]?
