@@ -60,8 +60,24 @@ function parse_text( text, tokens ){
 	return output.replace(/\n\n/g,'<br/>');
 }
 
+function debounce(func, wait, immediate) {
+	var timeout;
+	return function() {
+		var context = this, args = arguments;
+		var later = function() {
+			timeout = null;
+			if (!immediate) func.apply(context, args);
+		};
+		var callNow = immediate && !timeout;
+		clearTimeout(timeout);
+		timeout = setTimeout(later, wait);
+		if (callNow) func.apply(context, args);
+	};
+};
+
 $(function(){
-	setInterval( function(){
+	
+	var update = debounce( function(){
 		try{
 			$('#text-preview').html( parse_text( $('#text-input').val(), tokens ) );
 			if( $('#text-status-parser').html() != 'Parse OK' ){
@@ -73,7 +89,9 @@ $(function(){
 				$('#text-status-parser').html('Parse Error').css({backgroundColor:'#F88'});
 			}
 		}
-	}, 50 );
+	}, 100, false );
+	
+	$('#text-input').on('keyup', update);
 
 	$('#btn-toggle-size').on('click',function(){
 		$('#text-preview').toggleClass('full-width');
