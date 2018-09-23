@@ -1,16 +1,20 @@
-.hidden-do { border-bottom: 2px dashed #F00; }
-.hidden-does { border-bottom: 2px dashed #F00; }
-.hidden-did { border-bottom: 2px dashed #F00; }
-.infinitive {border: 2px dashed #880; border-radius: 1em;}
+.hidden-do { background-color: #FF0099; }
+.hidden-does { background-color: #FF00EB; }
+.hidden-did { background-color: #D770FF; }
+.infinitive {
+	border: 2px solid #f00;
+	border-radius: 1em;
+	padding: 0.2em;
+}
 .past-participle {border-bottom: 2px dashed #F00;}
-.extra-information {border-bottom: 1px dotted #000;}
-.verb { border-bottom: 2px solid #F00; }
-.xword {font-weight:bold; border-bottom: 2px solid #00F;}
-.subject { border: 2px solid #0F0 }
+.extra-information { border-bottom: 2px dotted #000; }
+.verb { border-bottom: 2px solid #F00; background-color: #FFAFDF }
+.xword {font-weight:bold; border-bottom: 2px solid #000;}
+.subject {background-color: #0F0;}
 .trunk {background-color: #DFF}
 .linker {background-color: #FFD}
 .joiner {background-color: #DDB}
-.shifter {background-color: #FDF}
+.shifter {background-color: #ff4bf3}
 .front-shifter {background-color: #FDF}
 .end-shifter {background-color: #FDF}
 .trunk-multi {background-color: #DFF}
@@ -23,7 +27,7 @@
 .f-cd,
 .front-shifter-condition,
 .f-ct,
-.front-shifter-contrast {background-color: #FDF}
+.front-shifter-contrast {background-color: #ff4bf3}
 .e-t,
 .end-shifter-time,
 .e-p,
@@ -33,5 +37,13 @@
 .e-cd,
 .end-shifter-condition,
 .e-ct,
-.end-shifter-contrast {background-color: #FDF}
+.end-shifter-contrast {background-color: #ff4bf3}
 .title-in-text {font-style: italic;}
+/*
+ page background: ffebce
+ FF0099
+ FF00EB
+ B800FF
+ 5C00FF
+ 0000FF
+ */
