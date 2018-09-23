@@ -63,7 +63,7 @@ function FindTheWord( options ){
 }
 FindTheWord.prototype.setup = function(content){
 	var that = this;
-	$(content).off('click.findTheWord').on('click.findTheWord','.'+this.classFind,function(){
+	$(content).on('click.findTheWord','.'+this.classFind,function(){
 		$(this).addClass( that.classFound );
 		that.updateCounts( content ); // ???
 	});
@@ -91,6 +91,26 @@ FindTheWord.prototype.updateCounts = function(content){
 };
 
 
+function FindTheWordMulti( findTheWords ){
+	this.games = findTheWords;
+}
+FindTheWordMulti.prototype.setup = function( content ){
+	for( var i=0, l=this.games.length; i<l; i+=1 ){
+		this.games[i].setup(content);
+	}
+}
+FindTheWordMulti.prototype.total = function( content ){
+	var total = 0;
+	for( var i=0, l=this.games.length; i<l; i+=1 ){
+		total += this.games[i].total(content);
+	}
+	return total;
+}
+FindTheWordMulti.prototype.updateCounts = function( content ){
+	for( var i=0, l=this.games.length; i<l; i+=1 ){
+		this.games[i].updateCounts(content);
+	}
+}
 
 var XWords = new FindTheWord({
 	classFind: 'xword',
@@ -171,6 +191,8 @@ var ShifterContrast = new FindTheWord({
 	classSummary: 'shifter-contrast-paragraph-summary',
 	label: 'contrast shifter'
 });
+var XVS = new FindTheWordMulti([XWords,Verbs,Subjects]);
+var XS = new FindTheWordMulti([XWords,Subjects]);
 
 // Handled by the class, except for 
 function updateCounts(content){
@@ -251,6 +273,7 @@ function load_content_find_words( content, game, title ){
 	$.get( content, function(response){
 		var parsed = parse_text( response, tokens );
 		$('.x-words-content').html( parsed );
+		$('.x-words-content').off('click.findTheWord');
 		if( game.total( '.x-words-content' ) === 0 ){
 			alert( 'There are no examples of '+game.label+' in this article. Please choose a different exercise' );
 		}
@@ -338,6 +361,8 @@ function extract_trunks( html ){
 $('#menu-item-xwords').on('click',function(){load_content_find_words(path+'/content.txt',XWords,'Find the X Words'); return false;});
 $('#menu-item-verbs').on('click',function(){load_content_find_words(path+'/content.txt',Verbs,'Find the Verbs'); return false;});
 $('#menu-item-hidden-xwords').on('click',function(){load_content_find_words(path+'/content.txt',HiddenXWords,'Find the Hidden X Words'); return false;});
+$('#menu-item-xvs').on('click',function(){load_content_find_words(path+'/content.txt',XVS,'Find the X Words, Subjects and Verbs'); return false;});
+$('#menu-item-xs').on('click',function(){load_content_find_words(path+'/content.txt',XS,'Find the X Words and Subjects'); return false;});
 $('#menu-item-subjects').on('click',function(){load_content_find_words(path+'/content.txt',Subjects,'Find the Subjects'); return false;});
 $('#menu-item-infinitives').on('click',function(){load_content_find_words(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
 $('#menu-item-trunks').on('click',function(){load_content_find_words(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
