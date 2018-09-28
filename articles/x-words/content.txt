@@ -1,24 +1,39 @@
-<p>The x-words are 20 short words with a lot of power. We use them all the time in English. Some of them are marked with an <strong>X </strong> in the text below:</p>
-<p>To learn x-word grammar, first memorize the 20 x-words:
+{(The x-words)[s] are[x] 20 short words with a lot of power}[t-n]. {We[s] use[vxo] them}[t-n] to:
 
-<strong>The DO family</strong> : do, does, did
+make questions
+find subjects and verbs
+show time: now? before? both?
+show number: make the x-word match the subject
+say no: make negative statements
+add meaning: express opinions, be polite, etc.
 
-<strong>The MODALS</strong> : can, could, will, would, shall, should, must, might, may
 
-<strong>The HAVE family</strong> : have, has, had
+{(Every complete sentence in English)[s] has[vxs] an x-word}[t-n]. {You[s] might[x] not see[v] it}[t-n-nq] {because one group of x-words can[x] hide}[e-r]. {When you learn x-word grammar}[f-t], {this[s] will[x] make[v] sense}[t-n]. {(The first step)[s] is[x] (to memorize)[inf] the 20 x-words}[t-n].
 
-<strong>The BE family</strong> : am, is, are, was, were<!--more-->
+do[x], does[x], did[x]
 
-(You might call these words auxiliary verbs or modals.)
+can[x], could[x], will[x], would[x], shall[x], should[x], must[x], might[x], may[x]
 
-Why do the x-words matter? Here are some of their powers:
+have[x], has[x], had[x]
 
-<!--more-->
-<ul>
-	<li>to show <strong>time</strong> (now? before? both?)</li>
-	<li>to show <strong>number </strong>(matching with one subject or more)</li>
-	<li>to make <strong>questions</strong></li>
-	<li>to say <strong>No </strong>(making <strong>negative</strong> statements)</li>
-	<li>to express <strong>opinions</strong></li>
-</ul>
-To learn more x-word grammar, start noticing the x-words whenever you read in English.</p>
+am[x], is[x], are[x], was[x], were[x]
+
+{(To learn)[inf] more}[f-r], {you[s] can[x] start[v] looking for the x-words whenever you[s] read in English}[t-n].
+
+{From the x-word}[f-p], {look[vxo] left (to find)[inf] the subject}[t-n-nq]. {Look[vxo] right (to find)[inf] the verb}[t-n-nq].
+
+{These[s] are[x] the first steps in learning sentence patterns}[t-n]. {There[s] are[x] only 7 basic sentence patterns in English}[t-n]. {(Understanding them)[s] can[x] help[v] you[s] read better and write better}[t-n]. 
+
+{With x-word grammar}[f-r], {you[s]('ll)[x] be[v] able to}[t-n-nq]:
+
+read carefully (to understand)[inf] better, even when sentences are[x] long and complicated
+
+read your own writing (to find)[inf] your mistakes
+
+fix errors like run-ons, fragments, subject-verb agreement and verb form problems, and much more
+
+make your writing sound more like English
+
+{If you[s]'re used to traditional English grammar}[f-cd], {at first}[f-t] {(the terms we use in x-word grammar)[s] might[x] confuse[v] you}[t-n-nq]. {Try[vxo] (to accept)[inf] them}[t-n-nq], {no matter how strange they might[x] sound}[extra]. {With an open mind}[f-r], {you[s] will[x] probably notice[v] a lot of connections to what you[s] already know}[t-n].
+
+{We[s] hope[vxo] that learning x-word grammar will[x] help you[s] read and write much more clearly}[t-n], {by thinking about English and analyzing sentences in a different way}[extra].
