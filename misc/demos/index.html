@@ -331,7 +331,22 @@ Be: am, is, are, was, were
 	This bird <span class="xw xw-time" style="background: #0FF;"><b>(b)</b> did <b>(n)</b></span> swim across the river.
 </div>
 
+<div>
+<h1>Prompt</h1>
+	<button id="btn-prompt-xv-matching-test">XV Matching test</button>
+	Sentence: I can ____ down a mountain but I would need skis.
+	
+	<script type="text/javascript">
+	$(function(){
+		$('#btn-prompt-xv-matching-test').on('click',function(){
+			console.info( prompt('I can ____ down a mountain but I would need skis. Which verb makes sense: go, need, eat? (Please type the correct verb form)', '') );
+		});
+	});
+	</script>
 </div>
+
+</div>
+
 </body>
 
 </html>

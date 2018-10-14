@@ -81,8 +81,8 @@
 .xw-drag-word, .xw-drag-word-end {
 	display: inline-block;
 	min-width: 5em;
-	border: 2px solid #F88;
-	background: #FEE;
+	border: 2px solid #E5BE85;
+	background: #FFD495;
 	line-height: 1em;
 	height: 2.2em;
 	margin: 0.2em;
