@@ -6,7 +6,7 @@
 
 {Is[x] (Earth Hour)[s] effective}[t-n-nq]? {(Turning things off for an hour once a year)[s] will[x] not do much (to slow)[inf] down climate change}[t-n-nq]. {It[s] is[x] a symbolic action}[t-n], {not a solution to the problem of how electricity is[x] generated and used}[extra]. {It[s] may[x] also contribute[v] to the problem}[t-n-nq].
 
-{(Many photos related to Earth Hour)[s] are[x] posted[dtn] online}[t-n] {before and after it}[e-t]. {That[s] involves[vxs] electricity}[t-n]. {(Some images)[s] show[v] messages spelled out by a group of people holding many small candles}[t-n]. {That[s] might[x] look[v] pretty}[t-n-nq], but[j] {it[s] is[x] counter-productive}[t-n]. {Whenever anything is[x] burned[dtn]}[f-t], {carbon[s] is[x] released[dtn] into the atmosphere}[t-n]. {(Burning candles for Earth Hour)[s] makes[vxs] no sense}[t-n].
+{(Many photos related to Earth Hour)[s] are[x] posted[dtn] online}[t-n] {before and after it}[e-t]. {That[s] involves[vxs] electricity}[t-n]. {(Some images)[s] show[v] messages spelled out by a group of people holding many small candles}[t-n]. {That[s] might[x] look[v] pretty}[t-n-nq], but[j] {it[s] is[x] counter-productive}[t-n]. {Whenever anything is[x] burned[dtn]}[f-t], {carbon[s] is[x] released[dtn] into the atmosphere}[t-n]. {(Burning candles for Earth Hour)[s] makes[vxs] no sense}[t-n-nq].
 
 {(Earth Hour)[s] could[x] become[v] more effective}[t-n] {by focusing on solutions}[e-r]. {(The amount of carbon in the atmosphere)[s] is[x] dangerously high}[t-n]. {If everyone (doesn't)[x] start changing}[f-cd], {(those carbon levels)[s] (won't)[x] go down enough (to slow)[inf] down climate change}[t-n-nq]. {Down[s] is[x] actually one direction we should[x] consider}[t-n] {for Earth Hour and every single day}[e-t]. 
 

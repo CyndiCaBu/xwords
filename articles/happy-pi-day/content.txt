@@ -1,4 +1,4 @@
-{You[s] (don’t)[x] have[v] (to love)[inf] math (to appreciate)[inf] Pi Day}[t-n]. {(The enthusiasm of math lovers)[s] can[x] brighten[v] anyone's day}[t-n] {on March 14th every year}[e-t]. {There[s] are[x] plenty of ways (to celebrate)[inf] the number 3.14159265 etc.}[t-n] 
+{You[s] (don’t)[x] have[v] (to love)[inf] math (to appreciate)[inf] Pi Day}[t-n]. {(The enthusiasm of math lovers)[s] can[x] brighten[v] anyone's day}[t-n] {on March 14th every year}[e-t]. {There[s] are[x] plenty of ways (to celebrate)[inf] the number 3.14159265 and on and on}[t-n] 
 
 {(Measuring circles and doing some division)[s] gives[vxs] hands-on practice with pi}[t-n]. {Food[s] adds[vxs] a fun element}[t-n]. {In some places}[f-p], {you[s] can[x] solve[v] math problems in exchange for a piece of pizza}[t-n]. {You[s] might[x] never actually call[v] it pizza pie}[t-n], but[j] {it[s] is[x] a salty type of pie}[t-n]. {You[s] can[x] also celebrate[v] 3.14 with a fruit pie}[t-n] {if you[s] would[x] rather have[v] something sweet}[e-cd]. 
 
