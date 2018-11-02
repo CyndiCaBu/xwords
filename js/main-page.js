@@ -19,7 +19,7 @@ function generate_article_link( data ){
 	html += '			<p>Quia qui voluptatum ipsa quaerat atque. Quibusdam ea facilis veniam ut nesciunt enim non. Ipsum hic voluptatem aperiam natus sunt. Sed libero asperiores quod est. Iure nostrum aperiam assumenda numquam quos. Voluptas optio facere reiciendis corporis blanditiis quae a.</p>';
 	html += '		</div>';
 	html += '		<div class="extra">';
-	html += '			<div class="ui right floated olive button compact" data-link-url="articles/?exercise=subjects#'+data.url.split('/').slice(1).join('/')+'">';
+	html += '			<div style="background-color:#14ad16;" class="ui right floated olive button compact" data-link-url="articles/?exercise=subjects#'+data.url.split('/').slice(1).join('/')+'">';
 	html += '				Subjects and X-Words';
 	html += '				<i class="right chevron icon"></i>';
 	html += '			</div>';
@@ -31,12 +31,12 @@ function generate_article_link( data ){
 	html += '				Verbs and X-Words';
 	html += '				<i class="right chevron icon"></i>';
 	html += '			</div>';
-	html += '			<div class="ui right floated teal button compact" data-link-url="articles/?exercise=sentence-patterns#'+data.url.split('/').slice(1).join('/')+'">';
-	html += '				Sentence patterns';
-	html += '				<i class="right chevron icon"></i>';
-	html += '			</div>';
 	html += '			<div class="ui right floated red button compact" data-link-url="articles/?exercise=hidden-x-words#'+data.url.split('/').slice(1).join('/')+'">';
 	html += '				Find the Hidden X-Words';
+	html += '				<i class="right chevron icon"></i>';
+	html += '			</div>';
+	html += '			<div class="ui right floated teal button compact" data-link-url="articles/?exercise=sentence-patterns#'+data.url.split('/').slice(1).join('/')+'">';
+	html += '				Sentence patterns';
 	html += '				<i class="right chevron icon"></i>';
 	html += '			</div>';
 	html += '		</div>';
