@@ -6,6 +6,6 @@ Obviously[l] {this[s] is[x] not the type of glove we think of when it('s)[x] col
 
 Maybe[l] {(the term)[s] (doesn't)[x] matter[v]}[t-n]. {(The real point)[s] is[x] protection}[t-n]. {People[s] may[x] joke[v] about it or say[v] they (don't)[x] like[v] it}[t=n], but[j] {that[s]('s)[x] short-sighted}[t-n]. {Since this can[x] help prevent transmission of HIV and other infections}[f-r], {(don't)[x] you[s] think[v] it('s)[x] worth it}[t-n]?
 
-{(The picture)[s] was[x] taken[dtn] at Housing Works}[t-p], {a bookstore in lower Manhattan}[extra]. {(The people who work there)[s] are[x] volunteers}[t-n], {sharing a mission: ending HIV/AIDS and homelessness}[extra]. {(Activists and others)[s] have[x] worked[dtn] on these goals}[t-b] {since at least 1990}[e-t]. {(A lot of progress)[s] has[x] been[v] made}[t-b], but[j] {more[s] can[x] be[v] done.}[t]
+{(The picture)[s] was[x] taken[dtn] at Housing Works}[t-p], {a bookstore in lower Manhattan}[extra]. {(The people who work there)[s] are[x] volunteers}[t-n], {sharing[ger] a mission: ending[ger] HIV/AIDS and homelessness}[extra]. {(Activists and others)[s] have[x] worked[dtn] on these goals}[t-b] {since at least 1990}[e-t]. {(A lot of progress)[s] has[x] been[v] made}[t-b], but[j] {more[s] can[x] be[v] done.}[t]
 
-{What are[x] you[s] doing[v] (to raise)[inf] awareness of HIV/AIDS and ways people can[x] stay safe?}[t-n]
+{What are[x] you[s] doing[vg] (to raise)[inf] awareness of HIV/AIDS and ways people can[x] stay safe?}[t-n]
