@@ -8,9 +8,11 @@
 }
 .past-participle {border-bottom: 2px dashed #F00;}
 .extra-information { border-bottom: 2px dotted #000; }
-.verb { border-bottom: 2px solid #F00; background-color: #FFAFDF }
+.verb,
+.verb-ing { border-bottom: 2px solid #F00; background-color: #FFAFDF }
 .xword {font-weight:bold; border-bottom: 2px solid #000;}
 .subject {background-color: #0F0;}
+.gerund {background-color: #0F0;}
 .trunk {background-color: #DFF}
 .linker {background-color: #FFD}
 .joiner {background-color: #DDB}
