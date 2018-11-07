@@ -1,4 +1,5 @@
-{If you like learning new things and trying unfamiliar activities}[f-cd], {curiosity[s] could[x] be[v] one of your strengths}[t-n]. {It[s](’s)[x] about asking questions and exploring ideas and activities (to find)[inf] out more}[t-n]. {Curiosity[s] is[x] part of science, discovery and philosophy}[t-n]. 
+
+{If you like learning[ger] new things and trying[ger] unfamiliar activities}[f-cd], {curiosity[s] could[x] be[v] one of your strengths}[t-n]. {It[s](’s)[x] about asking[ger] questions and exploring[ger] ideas and activities (to find)[inf] out more}[t-n]. {Curiosity[s] is[x] part of science, discovery and philosophy}[t-n]. 
 
 {(The ten questions below)[s] are[x] examples of curiosity}[t-n]. {They[s] were[x] inspired[dtn] by an image from SOIL}[t-n], {Sustainable Organic Integrated Livelihoods}[extra]. {SOIL[s] turns[vxs] waste into resources}[t-n] {in Haiti}[e-p]. {In the process}[f-r], {it[s] provides[vxs] dignity as well as jobs and chances (to learn)[inf] and become healthier}[t-n]. {It[s] uses[vxs] the poop loop (to create)[inf] positive change}[t-n].
 
@@ -20,5 +21,4 @@
 
 {Would[x] you[s] rather use[v] a toilet in a poop loop system or a water-based system}[t-n-nq]?
 
-{If you had[x] some extra money (to donate)[inf] to a good cause}[f-cd], {would[x] you[s] consider[v] giving it to SOIL}[t-n-nq]?
-
+{If you had[x] some extra money (to donate)[inf] to a good cause}[f-cd], {would[x] you[s] consider[v] giving[ger] it to SOIL}[t-n-nq]?
