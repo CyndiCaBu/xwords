@@ -1,4 +1,3 @@
-
 {(People all over the world)[s] have[vxo] specific ideas about what('s)[x] right and what('s)[x] wrong}[t-n]. {We[s] all have[vxo] a sense of morals and beliefs about what we should[x] and (shouldn't)[x] do}[t-n]. {This[s] includes[vxs] ideas about moral excellence}[t-n], {things we should[x] strive for - in other words, virtues}[extra].
 
 {(Cultures with a written history)[s] show[vxo] us the virtues people have[x] valued for thousands of years}[t-n]. {We[s] can[x] study[v] their virtues in texts from ancient Greek philosophy, Buddhism, Christianity, Hinduism, Islam, Judaism and more}[t-n]. {(Differences between these religions and traditions)[s] are[x] clear}[t-n]. {Yet[l]  they[s] share[vxo] certain virtues that help people live good lives full of meaning}[t-n]. 
@@ -11,10 +10,10 @@
 
 {Humanity[s] is[x] a virtue related to love}[t-n]. {It[s]('s)[x] a sense of our connections to each other as humans}[t-n]. {Although time alone is[x] indeed valuable}[f-ct], {we[s] (can't)[x] deny[v] that we need (to be)[inf] with other people}[t-n] {too}[extra]. {Humanity[s] is[x] a feeling and an attitude that helps us interact in a positive way}[t-n] {-- with friends, family members and even strangers}[extra].
 
-{Moderation[s] is[x] a synonym for temperance}[t-n]. {It[s] means[vxs] avoiding excess}[t-n]: {not too much, not too little, not too fast, not too slow}[extra]. {With moderation}[f-r], {we[s] avoid[vxo] extremes}[t-n].
+{Moderation[s] is[x] a synonym for temperance}[t-n]. {It[s] means[vxs] avoiding[ger] excess}[t-n]: {not too much, not too little, not too fast, not too slow}[extra]. {With moderation}[f-r], {we[s] avoid[vxo] extremes}[t-n].
 
 {Transcendence[s] can[x] mean[v] excellence}[t-n], {going[ger] beyond the ordinary}[extra], {beyond regular limits}[extra]. {It[s]('s)[x] also a spiritual or philosophical sense of being[ger] free from our physical limitations}[t-n], {beyond this material world}[e-p]. {We[s] can[x] do[v] activities and create[v] situations that may[x] help us feel transcendence}[t-n] - {if we are[x] open to it}[e-cd]. 
 
-{Wisdom[s] is[x] a combination of knowledge and experience that leads to understanding[ger]}[t-n]. {(A wise person)[s] makes[vxs] good decisions and understands[vxs] what is[x] true and right}[t=n]. {Wisdom[s] can[x] develop[v] over time}[t-n], {as we learn from the ups and downs in our own lives as well as from other people, texts and traditions}[extra]. However[l], {there[s](’s)[x] no guarantee that we will[x] grow wiser as we grow older}[t-n]. {(Developing wisdom)[s] depends[vxs] on how we respond to our experiences and how we focus on what(’s)[x] good for others as well as for ourselves}[t-n].
+{Wisdom[s] is[x] a combination of knowledge and experience that leads to understanding[ger]}[t-n]. {(A wise person)[s] makes[vxs] good decisions and understands[vxs] what is[x] true and right}[t=n]. {Wisdom[s] can[x] develop[v] over time}[t-n], {as we learn from the ups and downs in our own lives as well as from other people, texts and traditions}[extra]. However[l], {there[s](’s)[x] no guarantee that we will[x] grow wiser as we grow older}[t-n]. {(Developing[ger] wisdom)[s] depends[vxs] on how we respond to our experiences and how we focus on what(’s)[x] good for others as well as for ourselves}[t-n].
 
 {(These 6 virtues)[s] - (0courage, justice, humanity, moderation, transcendence and wisdom0)[extra] -  are[x] the foundation for character strengths}[t-n]. {(Learning[ger] our main strengths and developing[ger] them)[s] can[x] help[v] us increase our well-being and flourish[v]}[t-n].
