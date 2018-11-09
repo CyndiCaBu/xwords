@@ -1,1 +1,0 @@
-{(X-word grammar)[s] is[x] a tool (to read and write)[inf] better in English}[t-n]. {You[s] can[x] learn[v] it step by step}[t-n].

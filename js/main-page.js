@@ -7,17 +7,27 @@ function generate_article_link( data ){
 	html += '	<div class="content">';
 	html += '		<a class="header" href="articles/#'+data.url.split('/').slice(1).join('/')+'">'+data.title+'</a>';
 	html += '		<div class="meta">';
-	html += '			<div class="ui label"><i class="chart bar icon"></i> 8</div>';
-	html += '			<div class="ui label"><i class="calendar icon"></i> Oct 31, 2018</div>';
-	html += '			<div class="ui label">Keyword</div>';
-	html += '			<div class="ui label">Tag</div>';
-	html += '			<div class="ui label">Keyword</div>';
-	html += '			<div class="ui label">Keyword</div>';
-	html += '			<div class="ui label">Tag</div>';
+	if( data.hasOwnProperty('date') ){
+		html += '			<div class="ui label"><i class="calendar icon"></i> '+data.date+'</div>';
+	}
+	if( data.hasOwnProperty('gradeLevel') ){
+		html += '			<div class="ui label"><i class="chart bar icon"></i> '+data.gradeLevel+'</div>';
+	}
+	if( data.hasOwnProperty('discipline') ){
+		html += '			<div class="ui label">'+data.discipline+'</div>';
+	}
+	if( data.hasOwnProperty('tags') ){
+		var tags = data.tags.split(',');
+		for( var i=0, l=tags.length; i<l; i+=1 ){
+			html += '			<div class="ui label">'+tags[i].trim()+'</div>';
+		}
+	}
 	html += '		</div>';
-	html += '		<div class="description">';
-	html += '			<p>Quia qui voluptatum ipsa quaerat atque. Quibusdam ea facilis veniam ut nesciunt enim non. Ipsum hic voluptatem aperiam natus sunt. Sed libero asperiores quod est. Iure nostrum aperiam assumenda numquam quos. Voluptas optio facere reiciendis corporis blanditiis quae a.</p>';
-	html += '		</div>';
+	if( data.hasOwnProperty('description') ){
+		html += '		<div class="description">';
+		html += '			<p>'+data.description+'</p>';
+		html += '		</div>';
+	}
 	html += '		<div class="extra">';
 	html += '			<div style="background-color:#14ad16;" class="ui right floated olive button compact" data-link-url="articles/?exercise=subjects#'+data.url.split('/').slice(1).join('/')+'">';
 	html += '				Subjects and X-Words';

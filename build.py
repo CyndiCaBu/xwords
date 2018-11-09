@@ -14,12 +14,23 @@ if __name__ == '__main__':
 			continue
 		if '__' in f:
 			continue
-		data['articles'].append( dict(
+		entry = dict(
 			# change the slashes to forward slashed because the file
 			# may be generated on any system but will be used in linux
 			url = f.replace('\\','/'),
 			title = f.replace('articles\\','').replace('-',' ').title()
-		) )
+		)
+		try:
+			jsonfile = open('%s/info.json' % f)
+			try:
+				entry.update( **json.loads( jsonfile.read() ) )
+			except ValueError:
+				print 'Error parsing json file: %s' % f
+		except IOError:
+			print 'Unable to open info.json: %s' % f
+		finally:
+			jsonfile.close()
+		data['articles'].append( entry )
 	with open( 'articles/list.json', 'w' ) as f:
 		f.write( json.dumps( data ) )
 
