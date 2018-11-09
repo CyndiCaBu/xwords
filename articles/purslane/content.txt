@@ -1,4 +1,4 @@
-{What do[x] you[s] see[v] in this picture}[t-n-nq]? {If you(’re)[x]  the person who gets paid (to cut)[inf] the grass in this Chicago park}[f-cd], {you[s] might[x] see[v] a weed}[t-n-nq]. {On the other hand}[l], {if you are[x] the kind of person who can[x] identify an edible plant no matter where it(’s)[x] growing}[f-cd], {you[s] would[x] be[v] correct (to say)[inf] that this is[x] purslane}[t-n].
+{What do[x] you[s] see[v] in this picture}[t-n-nq]? {If you(’re)[x]  the person who gets paid (to cut)[inf] the grass in this Chicago park}[f-cd], {you[s] might[x] see[v] a weed}[t-n-nq]. {On the other hand}[l], {if you are[x] the kind of person who can[x] identify an edible plant no matter where it(’s)[x] growing[vg]}[f-cd], {you[s] would[x] be[v] correct (to say)[inf] that this is[x] purslane}[t-n].
 
 {Purslane[s] grows[vxs] easily and spreads[vxs] quickly}[t=n]. {(Some people)[s] see[vxo] it as a weed}[t]. so[j] {they[s] pull[vxo] it out}[t-n] {as soon as they can[x]}[e-t]. {Others[s] consider[vxo] it a wild food and appreciate[vxo] its flavor and nutrients}[t=n]. 
 
@@ -6,4 +6,4 @@
 
 {Purslane[s] may[x] be[v] both delicious and healthy}[t](;)[j] {it[s] has[vxs] vitamin A, folate and other nutrients}[t-n]. {It[s] also contains[vxs] cardiac glycosides and oxalic acids}[t-n], (which can[x] be toxic)[extra]. {In other words}[l], {(a certain amount of purslane)[s] can[x] be[v] poisonous}[t-n].
 
-(Knowing that)[l], {if you(’re)[x] one of these people who thinks that everything natural is[x] good for us}[f-cd], {please open[vxo] your eyes}[t-n-nq]. {Check[vxo] more than one source of information and more than one point of view}[t-n-nq]. {(Books like (0Pick Your Poison0)[title] by Monona Rossol and (1Mother Nature Is Trying to Kill You1)[title] by Dan Riskin)[s] can[x] offer[v] useful knowledge}[t-n].
+(Knowing[ger] that)[l], {if you(’re)[x] one of these people who thinks that everything natural is[x] good for us}[f-cd], {please open[vxo] your eyes}[t-n-nq]. {Check[vxo] more than one source of information and more than one point of view}[t-n-nq]. {(Books like (0Pick Your Poison0)[title] by Monona Rossol and (1Mother Nature Is Trying[vg] to Kill You1)[title] by Dan Riskin)[s] can[x] offer[v] useful knowledge}[t-n].
