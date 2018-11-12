@@ -1,0 +1,13 @@
+{In written English}[f-p], {(a sentence)[s] needs[vxs] at least two parts to be complete}[t-n]: {a subject and a verb}[extra]. It usually has a third part, an object. That makes the pattern SVO, subject-verb-object. It's the foundation for English sentences, like the roots and trunks for a tree. That's why x-word grammar calls SVO a trunk. Here's one:
+
+Trees have roots.
+
+We can add information to that sentence, putting two trunks together. 
+
+Trees have roots, and those roots support trunks.
+
+In the sentence above, there are two different subjects. Each has its own verb and its own object. When there's only one subject but multiple verbs, we only need the subject at the beginning. 
+
+Trees both release oxygen and use it.
+
+That sentence has one subject, trees, with two verbs: release and use.
