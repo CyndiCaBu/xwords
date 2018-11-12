@@ -29,3 +29,7 @@ but
 or
 yet
 so
+
+{(Each sentence below)[s] follows[vxs] the pattern T, + T}[t-n]. {If you notice an artificial rhythm when you read the paragraph below}[f-cd], {that[s]('s) a good sign}[t-n]. {(Good writing)[s] has[vxs] a variety of the seven sentence patterns English uses}[t-n]. {(The paragraph below)[s] is[x] a sample of the joiners}[t-n], {not a sample of good writing}[extra]. 
+
+{(The tree trunks in this image)[s] are[x] in lower Manhattan}[t-n], and[j] {(some tree branches)[s] are[x] visible in the glass behind them}[t-n]. {It[s] was[x] a partly cloudy day}[t-p], but[j] {(the building)[s] still reflected[vxd] the light}[t-p]. {It[s] was[x] fall or winter}[t-p], so[j] {(the leaves)[s] were[x] already gone from most trees}[t-n] {in Battery Park}[e-p]. {(People who know trees)[s] could[x] identify[v] at least one of these trees by the markings on its trunk}[t-n], yet[j] {they[s] might[x] not be[v] certain}[t-n]. {(The whole trunk)[s] (isn't)[x] visible}[t-n-nq], nor[j] {are[x] (the branches)[s]}[t-n-nq]. {(An image search)[s] could[x] help[v]}[t-n], for[j] {there[s]('s)[x] lots of information about trees online}[t-n].
