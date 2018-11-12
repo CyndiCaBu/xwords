@@ -2,25 +2,23 @@
 
 {In written English}[f-p], {(some parts of a sentence)[s] can[x] shift[v] like a goalkeeper}[t-n]. {They[s] can[x] go[v] at the front of the sentence or the end}[t-n], {without changing the meaning}[extra]. {(These parts)[s] are[x] called shifters}[t-n].
 
-{(Each sentence in the first paragraph)[s] has[vxs] a shifter}[t-n]. {(To get)[inf] a feel for this}[f-r], {try[v] reading these sentences both ways}[t-n-nq].
+{(Each sentence in the first paragraph)[s] has[vxs] a shifter}[t-n]. {(To get)[inf] a feel for this}[f-r], {try[v] reading these sentences both ways}[t-n-nq]. {When the shifter goes first}[f-t], {(the pattern)[s] is[x] called F, T for Front shifter, trunk}[t-n]. {When the shifter goes after SVO}[f-t], {there[s]('s)[x] no comma}[t-n], and[j] {it[s]('s)[x] called TE Trunk with end shifter}[t-n].
 
-{Sometimes}[f-t], {you[s] just have[vxo] (to move)[inf] around}[t-n].
+{F,T}. {Sometimes}[f-t], {you[s] just have[vxo] (to move)[inf] around}[t-n].
 
-{You[s] just have[vxo] (to move)[inf] around}[t-n] sometimes[e-t].
+TE: {You[s] just have[vxo] (to move)[inf] around}[t-n] sometimes[e-t].
 
-{How could[x] (a goalkeeper like Sean Johnson)[s] succeed[v]}[t-n-nq] {if he (didn't)[x] shift[v] from one side of the goal to the other}[e-cd]?
+TE: {How could[x] (a goalkeeper like Sean Johnson)[s] succeed[v]}[t-n-nq] {if he (didn't)[x] shift[v] from one side of the goal to the other}[e-cd]?
 
-{If he (didn't)[x] shift[v] from one side of the goal to the other}[e-cd], {how could[x] (a goalkeeper like Sean Johnson)[s] succeed[v]}[t-n-nq]?
+{F,T}. {If he (didn't)[x] shift[v] from one side of the goal to the other}[e-cd], {how could[x] (a goalkeeper like Sean Johnson)[s] succeed[v]}[t-n-nq]?
 
-{In that sentence}[f-t], {(the word shift)[s] means[vxs] move }[t-n].
+{F,T}. {In that sentence}[f-t], {(the word shift)[s] means[vxs] move }[t-n].
 
-{(The word shift)[s] means[vxs] move}[t-n] {in that sentence}[e-p]. 
+TE: {(The word shift)[s] means[vxs] move}[t-n] {in that sentence}[e-p]. 
 
-{(Blocking goals)[s] takes[vxs] skill and effort}[t-n], and[j] {that[s] comes[vxs] from practice, practice, practice}[t-n]. 
+{(Blocking goals)[s] takes[vxs] skill and effort}[t-n], and[j] {that[s] comes[vxs] from practice, practice, practice}[t-n]. Likewise[l], {(finding shifters)[s] takes[vxs] effort, attention and practice}[t-n]. {Look for clues related to meaning}[t-n-nq]. {(The most common shifters)[s] give[vxo] information about time, place and reason}[t-n]. {(Less common shifters)[s] tell[vxs] us about conditions and contrast}[t-n].
 
-Likewise[l], {(finding shifters)[s] takes[vxs] effort, attention and practice}[t-n]. {Look for clues related to meaning}[t-n-nq]. {(The most common shifters)[s] give[vxo] information about time, place and reason}[t-n]. {(Less common shifters)[s] tell[vxs] us about conditions and contrast}[t-n].
-
-{(The types of shifters)[s] are[x] listed below}[t-n], {with some words that can serve as clues (to help)[inf] find them}[extra].
+{(The types of shifters)[s] are[x] listed below}[t-n], {with some words that can[x] serve[v] as clues (to help)[inf] find them}[extra].
 
 TIME: Before, During, After, Until, Here and now
 
