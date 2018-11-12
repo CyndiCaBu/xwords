@@ -1,13 +1,31 @@
-{In written English}[f-p], {(a sentence)[s] needs[vxs] at least two parts to be complete}[t-n]: {a subject and a verb}[extra]. It usually has a third part, an object. That makes the pattern SVO, subject-verb-object. It's the foundation for English sentences, like the roots and trunks for a tree. That's why x-word grammar calls SVO a trunk. Here's one:
+{In written English}[f-p], {(a sentence)[s] needs[vxs] at least two parts (to be)[inf] complete}[t-n]: {a subject and a verb}[extra]. {It[s] usually has[vxs] a third part}[t-n], {an object}[extra]. {That[s] makes[vxs] the pattern SVO}[t-n], {subject-verb-object}[extra]. {SVO[s] is[x] the foundation for English sentences}[t-n], {like the roots and trunks for a tree}[extra]. {That[s]('s)[x] why x-word grammar calls SVO a trunk}[t-n]. {Here[s]('s)[x] one}[t-n]:
 
-Trees have roots.
+{Trees[s] have[vxo] roots}[t-n].
 
-We can add information to that sentence, putting two trunks together. 
+{We[s] can[x] add[v] information to that sentence}[t-n], {putting two trunks together}[extra]. 
 
-Trees have roots, and those roots support trunks.
+{Trees[s] have[vxo] roots}[t-n], and[j] {(those roots)[s] support[vxo] trunks}[t-n].
 
-In the sentence above, there are two different subjects. Each has its own verb and its own object. When there's only one subject but multiple verbs, we only need the subject at the beginning. 
+{In the sentence above}[f-p], {there[s] are[x] two different subjects}[t-n]. {Each[s] has[vxs] its own verb and its own object}[t-n]. {When there('s)[x] only one subject but multiple verbs}[f-p], {we[s] only need[vxo] the subject once}[t-n]. 
 
-Trees both release oxygen and use it.
+{Trees[s] both release[vxo] oxygen and use[vxo] it}[t=].
 
-That sentence has one subject, trees, with two verbs: release and use.
+{(That sentence)[s] has[vxs] one subject}[t-n], {trees, with two verbs: release and use}[extra].
+
+{(These three sentence patterns)[s] are[x] called}[t-n]:
+
+T for trunk. 
+
+T, + T for trunk, plus trunk.
+
+T= for trunk with two parts.
+
+{(The plus sign in T, +T)[s] represents[vxs] joiners}[t-n], {also known as coordinating conjunctions or FANBOYS}[extra]. {That[s] stands[vxs] for the joiners}[t-n]:
+
+for
+and
+nor
+but
+or
+yet
+so
