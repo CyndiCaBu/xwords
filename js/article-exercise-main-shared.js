@@ -51,8 +51,35 @@ function parse_text( text, tokens ){
 
 	// Convert all style newlines to \n (Unix newlines) by removing the \r
 	output = output.replace( /\r/g, '' );
+	// Join multiple blank lines into a single one
+	output = output.replace( /\n\n+/g, '\n\n' );
+	// Split the output at newlines
+	var paragraphs = output.split( /\n\n/g );
+	
+	// wrap all of the paragraphs
+	var h1_regex = /^# (.*)/;
+	var h2_regex = /^## (.*)/;
+	var h3_regex = /^### (.*)/;
+	var list_regex = /^ - /;
+	for( var i=0, l=paragraphs.length; i<l; i+=1 ){
+		var p = paragraphs[i];
+		if( h1_regex.test(p) ){
+			p = p.replace(h1_regex,'<h3>$1</h3>\n');
+		}else if( h2_regex.test(p) ){
+			p = p.replace(h2_regex,'<h4>$1</h4>\n');
+		}else if( h3_regex.test(p) ){
+			p = p.replace(h3_regex,'<h5>$1</h5>\n');
+		}else if( list_regex.test(p) ){
+			p = p.replace(/^ - (.*)$/gm,'\t<li>$1</li>\n');
+			p = '<ul>'+p+'</ul>\n';
+		}else{
+			console.info( 'P' );
+			p = '<p>'+p+'</p>';
+		}
+		paragraphs[i] = p;
+	}
 
-	return '<p>'+output.replace(/\n\n/g,'</p><p>')+'</p>';
+	return paragraphs.join('\n');
 }
 
 function FindTheWord( options ){
