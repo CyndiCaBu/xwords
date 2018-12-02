@@ -4,11 +4,11 @@
 
 # Keep it covered
 
-{(The soil)[s] needs[vxs] (to be)[inf] covered at all times}[t-n] - {with plants and trees, not concrete, garbage, dog pee or other signs of disrespect or ignorance}[extra]. {(Soil[s] needs[vxs] living roots}[t-n], {finding their nutrients in it and nourishing it with what they give}[extra]. {For instance}[l], {(lentils and peas)[s] help[vxo] build nitrogen underground}[t-n]. {(Most plants and trees)[s] catch[vxo] carbon}[t-n], {adding[ger] it to the soil and reducing[ger] it in our atmosphere}[e-r].
+{(The soil)[s] needs[vxs] (to be)[inf] covered at all times}[t-n] - {with plants and trees, not concrete, garbage, dog pee or other signs of disrespect or ignorance}[extra]. {If it('s)[x] too cold (to plant)[inf] plants}[f-cd], {(compost and mulch)[s] can[x] cover[v] the soil}[t-n], {slowly adding nutrients to be used in the spring}[extra].
 
 # Keep roots alive
 
-{If it('s)[x] too cold (to plant)[inf] plants}[f-cd], {(compost and mulch)[s] can[x] cover[v] the soil}[t-n], {slowly adding nutrients to be used in the spring}[extra]. {(How cold)[s] is[x] too cold}[t-n-nq]? {It[s] depends[vxs] on the plants and the soil}[t-n], but[j] {(many plants)[s] do[vxo] well}[t-n] {if they get started in the cooler temperatures of fall}[e-cd] - {as plants, not seeds}[extra]. {(Their roots)[s] have[vxo] a chance (to start)[inf] growing[ger] and adjusting[ger] to their new conditions}[t-n] {before their real growth period in spring and summer}[e-t].
+{Soil[s] needs[vxs] living roots}[t-n], {finding their nutrients in it and nourishing it with what they give}[extra]. {For instance}[l], {legumes[s] help[vxo] build nitrogen underground}[t-n]. {(Most plants and trees)[s] catch[vxo] carbon}[t-n], {adding[ger] it to the soil and reducing[ger] it in our atmosphere}[e-r]. {It[s]('s)[x] fine (to start)[inf] growing[ger] them in the cooler temperatures of fall}[e-cd] - {as plants or young trees, not seeds}[extra]. {Without the intense heat of summer}[f-r], {(their roots)[s] have[vxo] a chance (to start)[inf] growing[ger] strong and adjusting[ger] to their new conditions}[t-n] {before their real growth period in spring and summer}[e-t].
 
 # Walk well
 
@@ -16,7 +16,7 @@
 
 # Increase diversity
 
-{Biodiversity[s] means[vxs] different types of living organisms}[t-n]. {What[s] would[x] happen[v]}[t-n-nq] {if a block or a neighborhood had only one type of tree, one that got infected by a beetle, fungus or other problem}[e-cd]? {(Different types of trees and plants)[s] are[x] healthier}[t-n]. {They[s] also attract[vxo] more diverse insects}[t-n], {such as butterflies}[extra].
+{Biodiversity[s] means[vxs] different types of living organisms}[t-n]. {What[s] would[x] happen[v]}[t-n-nq] {if a block or a neighborhood had only one type of tree, one that got infected by a beetle, fungus or other problem}[e-cd]? {(Different types of trees and plants)[s] are[x] healthier}[t-n]. {They[s] also attract[vxo] more diversity}[t-n], {such as butterflies and praying mantises}[extra].
 
 # Participate
 
