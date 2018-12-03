@@ -4,16 +4,28 @@
 
 {According to the book (Character Strengths and Virtues)[title]}[f-r], {there[s] are[x] six core virtues shared across cultures}[t-n]: {courage, justice, humanity, moderation, transcendence and wisdom}[extra]. {Each[s] is[x] described[dtn] below}[t-n].
 
+# Courage
+
 {Courage[s] is[x] a synonym for bravery}[t-n], {the strength (to do)[inf] something that scares you}[extra]. {It[s]('s)[x] often associated[dtn] with physical actions and physical strength}[t-n], but[j] {courage[s] is[x] also an emotional strength}[t-n]. {It[s] helps[vxs] us accomplish our goals}[t-n] {even if something inside us or outside us makes that difficult}[e-cd]. {(Learning[ger] something new)[s] takes[vxs] courage}[t-n] - {the courage (to make)[inf] mistakes and keep learning[ger]}[extra]. {(Telling[ger] the truth even when it(0's0)[x] painful)[s] takes[vxs] courage}[t-n], (too)[extra].
+
+# Justice
 
 {Justice[s] is[x] usually associated[dtn] with fairness and with doing[ger] what is[x] right}[t-n], {especially according to the law}[extra]. {In a just society}[f-p], {you[s] (don't)[x] need[v] (to be)[inf] wealthy (to get)[inf] a good education or (to find)[inf] fair representation in court}[t-n]. {As a virtue in positive psychology}[f-r], {justice[s] includes[vxs] the strengths that help people live together as a community}[t-n].
 
+# Humanity
+
 {Humanity[s] is[x] a virtue related to love}[t-n]. {It[s]('s)[x] a sense of our connections to each other as humans}[t-n]. {Although time alone is[x] indeed valuable}[f-ct], {we[s] (can't)[x] deny[v] that we need (to be)[inf] with other people}[t-n] {too}[extra]. {Humanity[s] is[x] a feeling and an attitude that helps us interact in a positive way}[t-n] {-- with friends, family members and even strangers}[extra].
+
+# Moderation
 
 {Moderation[s] is[x] a synonym for temperance}[t-n]. {It[s] means[vxs] avoiding[ger] excess}[t-n]: {not too much, not too little, not too fast, not too slow}[extra]. {With moderation}[f-r], {we[s] avoid[vxo] extremes}[t-n].
 
+# Transcendence
+
 {Transcendence[s] can[x] mean[v] excellence}[t-n], {going[ger] beyond the ordinary}[extra], {beyond regular limits}[extra]. {It[s]('s)[x] also a spiritual or philosophical sense of being[ger] free from our physical limitations}[t-n], {beyond this material world}[e-p]. {We[s] can[x] do[v] activities and create[v] situations that may[x] help us feel transcendence}[t-n] - {if we are[x] open to it}[e-cd]. 
+
+# Wisdom
 
 {Wisdom[s] is[x] a combination of knowledge and experience that leads to understanding[ger]}[t-n]. {(A wise person)[s] makes[vxs] good decisions and understands[vxs] what is[x] true and right}[t=n]. {Wisdom[s] can[x] develop[v] over time}[t-n], {as we learn from the ups and downs in our own lives as well as from other people, texts and traditions}[extra]. However[l], {there[s](’s)[x] no guarantee that we will[x] grow wiser as we grow older}[t-n]. {(Developing[ger] wisdom)[s] depends[vxs] on how we respond to our experiences and how we focus on what(’s)[x] good for others as well as for ourselves}[t-n].
 
-{(These 6 virtues)[s] - (0courage, justice, humanity, moderation, transcendence and wisdom0)[extra] -  are[x] the foundation for character strengths}[t-n]. {(Learning[ger] our main strengths and developing[ger] them)[s] can[x] help[v] us increase our well-being and flourish[v]}[t-n].
+{(These 6 virtues)[s] - (0courage, justice, humanity, moderation, transcendence and wisdom0)[extra] -  are[x] the foundation for character strengths}[t-n]. {(Learning[ger] our main strengths and developing[ger] them)[s] can[x] help[v] us increase our well-being[ger] and flourish[v]}[t-n].
