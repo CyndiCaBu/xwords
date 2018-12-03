@@ -1,26 +1,32 @@
-{In written English}[f-p], {(a sentence)[s] needs[vxs] at least two parts (to be)[inf] complete}[t-n]: {a subject and a verb}[extra]. {It[s] usually has[vxs] a third part}[t-n], {an object}[extra]. {That[s] makes[vxs] the pattern SVO}[t-n], {subject-verb-object}[extra]. {SVO[s] is[x] the foundation for English sentences}[t-n], {like the roots and trunks for a tree}[extra]. {That[s]('s)[x] why x-word grammar calls SVO a trunk}[t-n]. {Here[s]('s)[x] one}[t-n]:
+{In written English}[f-p], {(a sentence)[s] needs[vxs] at least two parts (to be)[inf] complete}[t-n]: {a subject and a verb}[extra]. {It[s] usually has[vxs] a third part}[t-n], {an object}[extra]. {That[s] makes[vxs] the pattern SVO}[t-n], {subject-verb-object}[extra]. 
+
+# Trunk Means SVO
+
+{SVO[s] is[x] the foundation for English sentences}[t-n], {like the roots and trunks for a tree}[extra]. {That[s]('s)[x] why x-word grammar calls SVO a trunk}[t-n]. {Here[s]('s)[x] one}[t-n]:
+
+# Trunk
 
 {Trees[s] have[vxo] roots}[t-n].
+
+# Trunk,  Plus Trunk
 
 {We[s] can[x] add[v] information to that sentence}[t-n], {putting two trunks together}[extra]. 
 
 {Trees[s] have[vxo] roots}[t-n], and[j] {(those roots)[s] support[vxo] trunks}[t-n].
 
-{In the sentence above}[f-p], {there[s] are[x] two different subjects}[t-n]. {Each[s] has[vxs] its own verb and its own object}[t-n]. {When there('s)[x] only one subject but multiple verbs}[f-p], {we[s] only need[vxo] the subject once}[t-n]. 
+{In the sentence above}[f-p], {there[s] are[x] two different subjects}[t-n]. {Each[s] has[vxs] its own verb and its own object}[t-n]. 
+
+# Trunk with Two Parts
+
+{When there('s)[x] only one subject but multiple verbs}[f-p], {we[s] only need[vxo] the subject once}[t-n]. 
 
 {Trees[s] both release[vxo] oxygen and use[vxo] it}[t=].
 
 {(That sentence)[s] has[vxs] one subject}[t-n], {trees, with two verbs: release and use}[extra].
 
-{(These three sentence patterns)[s] are[x] called}[t-n]:
+# Joiners Are FANBOYS
 
-T for trunk. 
-
-T, + T for trunk, plus trunk.
-
-T= for trunk with two parts.
-
-{(The plus sign in T, +T)[s] represents[vxs] joiners}[t-n], {also known as coordinating conjunctions or FANBOYS}[extra]. {That[s] stands[vxs] for the joiners}[t-n]:
+{To connect two trunks}[f-r], {you[s] need[vxo] (to use)[inf] one of the joiners}[t-n], {also known as coordinating conjunctions or FANBOYS}[extra]. {(That acronym)[s] stands[vxs] for these  joiner words}[t-n]:
 
 for
 and
@@ -30,6 +36,10 @@ or
 yet
 so
 
-{(Each sentence below)[s] follows[vxs] the pattern T, + T}[t-n]. {If you notice an artificial rhythm when you read the paragraph below}[f-cd], {that[s]('s)[x] a good sign}[t-n]. {(Good writing)[s] has[vxs] a variety of the seven sentence patterns English uses}[t-n]. {(The paragraph below)[s] is[x] a sample of the joiners}[t-n], {not a sample of good writing}[extra]. 
+# Sentence Patterns and Rhythm
+
+{In the paragraph below}[f-p], {(each sentence)[s] follows[vxs] the pattern Trunk, Plus Trunk}[t-n]. {If you notice an artificial rhythm when you read it}[f-cd], {that[s]('s)[x] a good sign}[t-n]. {With only one sentence pattern}[f-r], {(the paragraph)[s] feels[vxs] monotonous and awkward}[t-n]. {(Written English)[s] follows[vxs] seven sentence patterns}[t-n], and[j] {(good writing)[s] uses[vxs] a variety of them}[t-n]. {(The paragraph below)[s] is[x] an example of trunks and joiners}[t-n] - {not of good writing}[t-n].
+
+# A Paragraph Full of Joiners
 
 {(The tree trunks in this image)[s] are[x] in lower Manhattan}[t-n], and[j] {(some tree branches)[s] are[x] visible in the glass behind them}[t-n]. {It[s] was[x] a partly cloudy day}[t-p], but[j] {(the building)[s] still reflected[vxd] the light}[t-p]. {It[s] was[x] fall or winter}[t-p], so[j] {(the leaves)[s] were[x] already gone from most trees}[t-n] {in Battery Park}[e-p]. {(People who know trees)[s] could[x] identify[v] at least one of these trees by the markings on its trunk}[t-n], yet[j] {they[s] might[x] not be[v] certain}[t-n]. {(The whole trunk)[s] (isn't)[x] visible}[t-n-nq], nor[j] {are[x] (the branches)[s]}[t-n-nq]. {(An image search)[s] could[x] help[v]}[t-n], for[j] {there[s]('s)[x] lots of information about trees online}[t-n].
