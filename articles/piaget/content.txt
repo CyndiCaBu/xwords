@@ -2,7 +2,7 @@
 
 {(Jean Piaget)[s] was[x] an educator and lifelong learner from Switzerland}[t-p]. {Through his work and his books}[f-r], {he[s] inspired[vxd] many others (to think)[inf] deeply about how people think and learn}[t-p]. {When he was[x] young}[f-t], {Piaget[s] studied[vxd] natural sciences}[t]. {He[s] is[x] known[dtn], (however)[l], for his work in education}[t-n]. 
 
-(Instead of thinking[ger] of children as miniature adults)[l], {Piaget[s] suggested[vxd] that their brains work in a different way}[t-p]. {(A younger child)[s] has[vxs] a less logical way of thinking[ger] than an older one}[t-n]. {That[s](’s)[x] why you can[x] take a small child on a 30-minute trip, (one that you[s]’ve taken together before)[extra], and still hear the same questions every 5 minutes}[t-n]: {Are[x] we there yet? When are[x] we going[vg] (to get)[inf] there? How much longer?}[extra]
+(Instead of thinking[ger] of children as miniature adults)[l], {Piaget[s] suggested[vxd] that their brains work in a different way}[t-p]. {(A younger child)[s] has[vxs] a less logical way of thinking[ger] than an older one}[t-n]. {That[s](’s)[x] why you can[x] take a small child on a 30-minute trip, (one that you[s]’ve taken together before)[extra], and still hear the same questions every 5 minutes}[t-n]: {Are[x] we[s] there yet}[extra]? {When are[x] we[s] going[vg] (to get)[inf] there}[extra]? How much longer?}[extra]
 
 Sometimes[l] {we[s] might[x] think[v] a child is[x] being[vg] unreasonable or difficult}[t-n] {when actually they just (can't) understand what we can[x] yet}[e-t]. {(The reality)[s] is[x] that their brains develop and change over time}[t-n] {as they grow}[e-t]. {Even as adults}[f-t], {(our knowledge)[s] grows[vxs]}[t-n], and {(our perspective)[s] changes[vxs]}[t-n].
 
@@ -12,4 +12,4 @@ Sometimes[l] {we[s] might[x] think[v] a child is[x] being[vg] unreasonable or di
 
 Today[f-t] {(the name Piaget)[s] represents a luxurious brand of jewelry}[t-n]. {(A necklace like the one in the photo)[s] probably costs[vxs] as much as or more than a decent car}[t-n]. {If you(’re)[x] ever on Fifth Avenue in Midtown Manhattan or another place with a Piaget shop}[f-cd], {you[s] can[x] take[v] a look for yourself}[t-n].
 
-{Everyone[s] has[vxs] their own ideas of what’s beautiful, interesting, and right}[t-n]. (Considering that)[l], {would[x] you[s] rather learn[v] more about Jean Piaget's ideas of how people learn or Piaget the jeweler's business of how (to sell)[inf] luxury}[t-n-nq]?
+{Everyone[s] has[vxs] their own ideas of what’s beautiful, interesting, and right}[t-n]. {Considering[ger] that}[l], {would[x] you[s] rather learn[v] more about Jean Piaget's ideas of how people learn or Piaget the jeweler's business of how (to sell)[inf] luxury}[t-n-nq]?
