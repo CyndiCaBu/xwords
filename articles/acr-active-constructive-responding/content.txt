@@ -12,7 +12,7 @@
 
 # An active, destructive response
 
-(Oh, no)[l], {did[x] you[s] move[v] it all by yourselves}[t-p-nq]? {It[s]('s)[x] freezing[vg] outside}[t-n]! {You[s] (could)[x] really hurt[v] your hands and your back}[t-n]; {you[s] should[x] have[v] waited[dtn] for a warmer day}[t-p-nq].
+(Oh, no)[l], {it[s]('s)[x] freezing[vg] outside}[t-n]! {You[s] (could)[x] really hurt[v] your hands or your back}[t-n]; {you[s] should[x] have[v] waited[dtn] for a warmer day}[t-p-nq]. {What were[x] you thinking}[t-p-nq]?
 
 # A passive, constructive response
 
@@ -22,7 +22,9 @@ Hmm[l], {that[s]('s)[x] nice}[t-n].
 
 Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] ice-skating with my family}[t=p]. Afterwards[l] {we[s] went[vxd] out for some food}[t-p](;)[j] {it[s] was[x] great}[t-p]!
 
-{You might[x] wonder[v] why the last response is[x] considered destructive}[t-n-nq]. {It[s] may[x] seem[v] positive}[t-n-nq] {since the person talks about a good day and pleasant activities}[e-r]. {However}[l], {(those comments)[s] take[vxo] the focus off the friend's good news completely}[t-n]. {They[s] ignore[vxo] what their friend experienced getting[ger] the piano}[t-n], {changing[ger] the topic}[extra]. {Even though that('s)[x] not overtly negative}[f-ct], {like the person who talked about the dangers of moving[ger] a piano}[extra], {it[s]('s)[x] still not supportive}[t-n-nq]. {It[s] (doesn't)[x] encourage[v] the person (to keep)[inf] re-living[ger] the positive emotions of their own good news}[t-n-nq]. {Let's review the 4 response styles}[t-n-nq].
+{(That last response)[s] sounds[vxs] positive; it[s]('s)[x] about a different piece of good news}[t-n], {with a good day and pleasant activities}[extra]. However[l], it[s]('s)[x] still destructive}[t-n-nq], {in a passive way}[extra]. {(Those comments about ice-skating)[s] take[vxo] the focus off the original good news completely}[t-n]. {They[s] ignore[vxo] what their friend experienced getting[ger] the piano}[t-n], {changing[ger] the topic}[extra]. {Even though that('s)[x] not overtly negative}[f-ct], {like the person who talked about the dangers of moving[ger] a piano}[extra], {it[s]('s)[x] still not supportive}[t-n-nq]. {It[s] (doesn't)[x] encourage[v] the person (to keep)[inf] re-living[ger] the positive emotions of their own good news}[t-n-nq]. 
+
+{Let's review the 4 response styles}[t-n-nq].
 
 # Active, constructive response
 
@@ -40,7 +42,7 @@ Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] ice-skat
 
  - shows distraction
  - provides minimal support
- - creates some talk a little and then ends without joy
+ - talks about the person's story a little and then that's it and the conversation ends
 
 # Passive, destructive response
 
