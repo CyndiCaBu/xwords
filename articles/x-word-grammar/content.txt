@@ -1,4 +1,4 @@
-{(The x-words)[s] are[x] 20 short words with a lot of power}[t-n]. 
+{English[s] has[vxs] 20 short words with a lot of power}[t-n]:
 
 # The X-Words
 
@@ -12,7 +12,7 @@
 
 # Using X-Words
 
-{We[s] use[vxo] x-words 6 ways to}[t-n]:
+{We[s] use[vxo] x-words to}[t-n]:
 
  - make questions
  - find subjects and verbs
@@ -27,9 +27,9 @@
 
 {If you (don't)[x] see[v] an x-word in a sentence}[f-cd], {it[s]('s)[x] hidden inside the main verb}[t-n]. {Only 3 x-words can[x] hide}[e-r]: {do[x], does[x] and did[x]}[extra]. {This[s] will[x] make[v] more sense}[t-n] {when you learn more x-word grammar}[e-t].
 
-# Step by Step
+{(Memorizing the x-words)[s] comes[vxs] first}[t-n]. Then[l] {you[s] can[x] look[v] for them in sentences and mark[v] them}[t-n][t=]. {You[s] can[x] tap[v] or click[v] them here}[t-n]; {on paper}[f-p], {you[s] can[x] write[v] an X over them}[t-n].
 
-{(The first step)[s] is[x] (to learn)[inf] the x-words and mark them in sentences}[t-n]. Then[l] {you[s] can[x] use[v] the x-words (to find)[inf] subjects and verbs}[t-n]. 
+{(Finding x-words)[s] is[x] a way (to find)[inf] subjects and verbs}[t-n], {step by step}[extra].
 
 # Step 1
 
@@ -45,7 +45,7 @@
 
 # Practice, practice, practice
 
-{After practicing these first steps}[f-p], {you[s] can[x] use this knowledge (to learn)[inf] sentence patterns}[t-n]. {There[s] are[x] only 7 basic sentence patterns in English}[t-n], but[j] {it[s] takes[vxs] time (to learn)[inf] them}[t-n]. 
+{After practicing[ger] these first steps}[f-p], {you[s] can[x] use this knowledge (to learn)[inf] sentence patterns}[t-n]. {There[s] are[x] only 7 basic sentence patterns in English}[t-n], but[j] {it[s] takes[vxs] time (to learn)[inf] them}[t-n]. 
 
 # Is it worth the effort?
 
@@ -61,8 +61,4 @@
 
 # An open mind helps.
 
-{If you[s]('re)[x] used to traditional English grammar}[f-cd], {at first}[f-t] {(the terms we use in x-word grammar)[s] might[x] confuse[v] you}[t-n-nq]. {Try[vxo] (to accept)[inf] them}[t-n-nq], {no matter how strange they might[x] sound}[extra]. {With an open mind}[f-r], {you[s] will[x] probably notice[v] a lot of connections to what you[s] already know}[t-n].
-
-# Learn English a logical way.
- 
-{We[s] hope[vxo] that learning[ger] x-word grammar will[x] help[v] you read and write much more clearly}[t-n], {by thinking[ger] about English and analyzing[ger] sentences in a different way}[extra].
+{If you[s]('re)[x] used to traditional English grammar}[f-cd], {(the terms we use in x-word grammar)[s] might[x] confuse[v] you}[t-n-nq] {at first}[e-t]. X-words? Shifters? Linkers?  {With an open mind}[f-r], {you[s] will[x] get[s] used to these terms}[t-n], and[j] {you[s] will[x] probably notice[v] a lot of connections to what you[s] already know}[t-n]. Then[l] {you[s] can[x] use[v] x-word grammar as a tool (to help)[inf] you improve your reading[ger] and writing[ger]}[t-n].
