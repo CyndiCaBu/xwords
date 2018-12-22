@@ -2,7 +2,7 @@ function generate_article_link( data ){
 	var html = '';
 	html += '<div class="item">';
 	html += '	<div class="image">';
-	html += '		<img src="'+data.url+'/image.jpg">';
+	html += '		<img src="'+data.url+'/thumbnail.jpg">';
 	html += '	</div>';
 	html += '	<div class="content">';
 	html += '		<a class="header" href="articles/#'+data.url.split('/').slice(1).join('/')+'">'+data.title+'</a>';
