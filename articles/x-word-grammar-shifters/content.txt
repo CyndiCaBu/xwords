@@ -2,30 +2,56 @@
 
 {In written English}[f-p], {(some parts of a sentence)[s] can[x] shift[v] like a goalkeeper}[t-n]. {They[s] can[x] go[v] at the front of the sentence or the end}[t-n], {without changing the meaning}[extra]. {(These parts)[s] are[x] called shifters}[t-n].
 
-{(Each sentence in the first paragraph)[s] has[vxs] a shifter}[t-n]. {(To get)[inf] a feel for this}[f-r], {try[v] reading these sentences both ways}[t-n-nq]. {When the shifter goes first}[f-t], {(the pattern)[s] is[x] called F, T for Front shifter, trunk}[t-n]. {When the shifter goes after SVO}[f-t], {there[s]('s)[x] no comma}[t-n], and[j] {it[s]('s)[x] called TE Trunk with end shifter}[t-n].
+{(Each sentence in the first paragraph)[s] has[vxs] a shifter}[t-n]. {(To get)[inf] a feel for this}[f-r], {try[v] reading these sentences both ways}[t-n-nq]: {with the shifter at the front and again with it at the end of the sentence}[extra].
 
-{F,T}. {Sometimes}[f-t], {you[s] just have[vxo] (to move)[inf] around}[t-n].
+# Front Shifter, Trunk
 
-TE: {You[s] just have[vxo] (to move)[inf] around}[t-n] sometimes[e-t].
+{Sometimes}[f-t], {you[s] just have[vxo] (to move)[inf] around}[t-n].
 
-TE: {How could[x] (a goalkeeper like Sean Johnson)[s] succeed[v]}[t-n-nq] {if he (didn't)[x] shift[v] from one side of the goal to the other}[e-cd]?
+# Trunk with End Shifter
 
-{F,T}. {If he (didn't)[x] shift[v] from one side of the goal to the other}[e-cd], {how could[x] (a goalkeeper like Sean Johnson)[s] succeed[v]}[t-n-nq]?
+{You[s] just have[vxo] (to move)[inf] around}[t-n] sometimes[e-t].
 
-{F,T}. {In that sentence}[f-t], {(the word shift)[s] means[vxs] move }[t-n].
+# Trunk with End Shifter
 
-TE: {(The word shift)[s] means[vxs] move}[t-n] {in that sentence}[e-p]. 
+{How could[x] (a goalkeeper like Sean Johnson)[s] succeed[v]}[t-n-nq] {if he (didn't)[x] shift[v] from one side of the goal to the other}[e-cd]?
+
+# Front Shifter, Trunk
+
+{If he (didn't)[x] shift[v] from one side of the goal to the other}[e-cd], {how could[x] (a goalkeeper like Sean Johnson)[s] succeed[v]}[t-n-nq]?
+
+# Front Shifter, Trunk
+
+{In that sentence}[f-t], {(the word shift)[s] means[vxs] move }[t-n].
+
+# Trunk with End Shifter
+
+{(The word shift)[s] means[vxs] move}[t-n] {in that sentence}[e-p]. 
+
+# Finding Shifters
 
 {(Blocking goals)[s] takes[vxs] skill and effort}[t-n], and[j] {that[s] comes[vxs] from practice, practice, practice}[t-n]. Likewise[l], {(finding shifters)[s] takes[vxs] effort, attention and practice}[t-n]. {Look for clues related to meaning}[t-n-nq]. {(The most common shifters)[s] give[vxo] information about time, place and reason}[t-n]. {(Less common shifters)[s] tell[vxs] us about conditions and contrast}[t-n].
 
+# Shifter Words
+
 {(The types of shifters)[s] are[x] listed below}[t-n], {with some words that can[x] serve[v] as clues (to help)[inf] find them}[extra].
 
-TIME: Before, During, After, Until, Here and now
+#Time Shifters
 
-PLACE: Near, Far from, Next to, Behind, In front of, Across from
+Before, During, After, Until, Here and now
 
-REASON: Because, Since
+#Place Shifters
 
-CONDITION: If, Whether, Unless, As long as
+Near, Far from, Next to, Behind, In front of, Across from
 
-CONTRAST: Although, Even though, In spite of, Despite
+# Reason Shifters
+
+Because, Since
+
+# Condition Shifters
+
+If, Whether, Unless, As long as
+
+# Contrast Shifters
+
+Although, Even though, In spite of, Despite

@@ -4,7 +4,7 @@
 
 {Disgusted but relieved the saliva (didn’t)[x] hit her face}[extra], {Jasmin[s] paused[vxd] (to clean)[inf] it off her bag}[t-p]. {Although she understood the pressures and dangers of riding[ger] a bike in the city}[f-ct], {she[s] was[x] angry at the biker’s behavior}[t-p]. {What made[vxd] him so aggressive}[t-p-nq]? {It[s] was[x] her turn (to cross)[inf] the street}[t-p]; {for him}[f-r] {(the light)[s] was[x] red}[t-p]. {Was[x] his problem[s] ignorance or arrogance}[t-p-nq]?
 
-{Jasmin[s] kept[vxd] walking[ger] to work}[t-p], {thinking[ger] about self-control}[e-r]. {(That biker)[s] (didn’t)[x] show[v] any}[t-p](;)[j] {he[s] (didn’t)[x] even let[v] the traffic laws control his behavior}[t-p]. {She[s] felt[vxd] proud of herself for not cursing[ger] at him}[t-p]. {She[s] was[x] trying[vg] (to become)[inf] more polite and increase her self-control}[t-p]. {She[s] thought[vxd] about what she(’d)[x] learned by studying[ger] self-regulation as a strength in positive psychology}[t-p].
+{Jasmin[s] kept[vxd] walking[ger] to work}[t-p], {thinking[ger] about self-control}[e-r]. {(That biker)[s] (didn’t)[x] show[v] any}[t-p](;)[j] {he[s] (didn’t)[x] even let[v] the traffic laws control his behavior}[t-p]. {She[s] felt[vxd] proud of herself for not cursing[ger] at him}[t-p]. {She[s] was[x] trying[vg] (to become)[inf] more polite and increase her self-control}[t-p]. {She[s] thought[vxd] about what she(’d)[x] learned[dtn] by studying[ger] self-regulation as a strength in positive psychology}[t-p].
 
 {When our glucose level drops}[f-t], {it[s](’s)[x] harder (to control)[inf] ourselves}[t-n]. {(Eating[ger] just a bit or drinking[ger] something with a little sugar)[s] can[x] help[v]}[t-n]. {(Jasmin’s big breakfast)[s] gave[vxd] her an advantage}[t-p].
 

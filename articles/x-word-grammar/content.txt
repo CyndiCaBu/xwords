@@ -1,19 +1,64 @@
-{(To learn)[inf] more}[f-r], {you[s] can[x] start[v] looking[ger] for the x-words}[t-n] {whenever you[s] read in English}[e-t].
+{English[s] has[vxs] 20 short words with a lot of power}[t-n]:
 
-{From the x-word}[f-p], {look[vxo] left (to find)[inf] the subject}[t-n-nq]. {Look[vxo] right (to find)[inf] the verb}[t-n-nq].
+# The X-Words
 
-{These[s] are[x] the first steps in learning[ger] sentence patterns}[t-n]. {There[s] are[x] only 7 basic sentence patterns in English}[t-n]. {(Understanding[ger] them)[s] can[x] help[v] you[s] read better and write better}[t-n]. 
+ - do[x], does[x], did[x]
+ - can[x], could[x]
+ - will[x], would[x]
+ - shall[x], should[x]
+ - must[x], might[x], may[x]
+ - have[x], has[x], had[x]
+ - am[x], is[x], are[x], was[x], were[x]
+
+# Using X-Words
+
+{We[s] use[vxo] x-words to}[t-n]:
+
+ - make questions
+ - find subjects and verbs
+ - show time: now? before? both?
+ - show number: make the x-word match the subject
+ - say no: make negative statements
+ - add meaning: express opinions, be polite, etc.
+
+# Using X-Word Grammar to Read and Write Better
+
+{(Every complete sentence in English)[s] has[vxs] an x-word}[t-n].  {You[s] can[x] test[v] this by looking[ger] for the x-words}[t-n] {whenever you[s] read in English}[e-t]. 
+
+{If you (don't)[x] see[v] an x-word in a sentence}[f-cd], {it[s]('s)[x] hidden inside the main verb}[t-n]. {Only 3 x-words can[x] hide}[e-r]: {do[x], does[x] and did[x]}[extra]. {This[s] will[x] make[v] more sense}[t-n] {when you learn more x-word grammar}[e-t].
+
+{(Memorizing the x-words)[s] comes[vxs] first}[t-n]. Then[l] {you[s] can[x] look[v] for them in sentences and mark[v] them}[t-n][t=]. {You[s] can[x] tap[v] or click[v] them here}[t-n]; {on paper}[f-p], {you[s] can[x] write[v] an X over them}[t-n].
+
+{(Finding x-words)[s] is[x] a way (to find)[inf] subjects and verbs}[t-n], {step by step}[extra].
+
+# Step 1
+
+{Find[v] the x-word}[t-n].
+
+# Step 2
+
+{From the x-word}[f-p], {look[v] left (to find)[inf] the subject}[t-n-nq]. {Draw[v] a box around it}[t-n-nq].
+
+# Step 3
+
+{From the x-word}[f-p], {look[v] right (to find)[inf] the verb}[t-n-nq]. {Write[v] a V over it}[t-n-nq].
+
+# Practice, practice, practice
+
+{After practicing[ger] these first steps}[f-p], {you[s] can[x] use this knowledge (to learn)[inf] sentence patterns}[t-n]. {There[s] are[x] only 7 basic sentence patterns in English}[t-n], but[j] {it[s] takes[vxs] time (to learn)[inf] them}[t-n]. 
+
+# Is it worth the effort?
 
 {With x-word grammar}[f-r], {you[s]('ll)[x] be[v] able to}[t-n-nq]:
 
-read carefully (to understand)[inf] better, even when sentences are[x] long and complicated
+ - read carefully (to understand)[inf] better, even when sentences are[x] long and complicated
 
-read your own writing[ger] (to find)[inf] your mistakes
+ - read your own writing[ger] (to find)[inf] your mistakes
 
-fix errors like run-ons, fragments, subject-verb agreement and verb form problems, and much more
+ - fix errors like run-ons, fragments, subject-verb agreement and verb form problems, and much more
 
-make your writing[ger] sound more like English
+ - make your writing[ger] sound more like English
 
-{If you[s]('re)[x] used to traditional English grammar}[f-cd], {at first}[f-t] {(the terms we use in x-word grammar)[s] might[x] confuse[v] you}[t-n-nq]. {Try[vxo] (to accept)[inf] them}[t-n-nq], {no matter how strange they might[x] sound}[extra]. {With an open mind}[f-r], {you[s] will[x] probably notice[v] a lot of connections to what you[s] already know}[t-n].
+# An open mind helps.
 
-{We[s] hope[vxo] that learning[ger] x-word grammar will[x] help[v] you read and write much more clearly}[t-n], {by thinking[ger] about English and analyzing[ger] sentences in a different way}[extra].
+{If you[s]('re)[x] used to traditional English grammar}[f-cd], {(the terms we use in x-word grammar)[s] might[x] confuse[v] you}[t-n-nq] {at first}[e-t]. X-words? Trunks? Shifters? Linkers? Inserts? {With an open mind}[f-r], {you[s] will[x] get[s] used to these terms}[t-n], and[j] {you[s] will[x] probably notice[v] a lot of connections to what you[s] already know}[t-n]. Then[l] {you[s] can[x] use[v] x-word grammar as a tool (to help)[inf] you improve your reading[ger] and writing[ger]}[t-n].

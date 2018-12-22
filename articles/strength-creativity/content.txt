@@ -4,6 +4,6 @@
 
 Maybe[l] {(this young woman)[s] escaped[vxd] from a big party her family was[x] having[vg] (to celebrate)[inf] her 15th birthday}[t-p]. {She[s] took[vxd] off the high heels that matched her party dress and picked[vxd] up something she liked much more}[t=p], {her basketball}[extra]. {As her friend took her picture}[f-t], {she[s] felt[vxd] more comfortable than she did[x] wearing[ger] a tiara for formal photos at the party}[t-p]. {She[s] had[vxd] her own ideas about what made her look good and feel strong}[t-p]. 
 
-{On the other hand}[l], maybe[l] {(this young woman)[s] was[x] a ballet dancer and choreographer}[t-p]. {She[s] was[x] working[vg] on promotional materials for a new performance that mixed dance with sports}[t-p]. {After posing with the basketball}[f-t], {she[s] switched[vxd] to a soccer ball and then a tennis racket}[t-p]. 
+{On the other hand}[l], maybe[l] {(this young woman)[s] was[x] a ballet dancer and choreographer}[t-p]. {She[s] was[x] working[vg] on promotional materials for a new performance that mixed dance with sports}[t-p]. {After posing[ger] with the basketball}[f-t], {she[s] switched[vxd] to a soccer ball and then a tennis racket}[t-p]. 
 
 {Could[x] (either of these stories)[s] be[v] true}[t-n-nq]? {(Only the person in the photo and the young photographer with her)[s] would[x] know[v] the answer}[t-n]. {What other versions of her possible story can[x] you[s] think[v] of}[t-n-nq]?
