@@ -1,13 +1,13 @@
 var tokens = {
 	
-	'vxo': '<span class="hidden-do">|</span>',
-	'hidden-do': '<span class="hidden-do">|</span>',
+	'vxo': '<span class="hidden-do xword-hidden">|</span>',
+	'hidden-do': '<span class="hidden-do xword-hidden">|</span>',
 	
-	'vxs': '<span class="hidden-does">|</span>',
-	'hidden-does': '<span class="hidden-does">|</span>',
+	'vxs': '<span class="hidden-does xword-hidden">|</span>',
+	'hidden-does': '<span class="hidden-does xword-hidden">|</span>',
 	
-	'vxd': '<span class="hidden-did">|</span>',
-	'hidden-did': '<span class="hidden-did">|</span>',
+	'vxd': '<span class="hidden-did xword-hidden">|</span>',
+	'hidden-did': '<span class="hidden-did xword-hidden">|</span>',
 	
 	'inf': '<span class="infinitive">|</span>',
 	'infinitive': '<span class="infinitive">|</span>',
