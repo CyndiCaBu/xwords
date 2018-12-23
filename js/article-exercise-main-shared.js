@@ -45,6 +45,22 @@ function parse_text( text, tokens ){
 	];
 	
 	var output = text;
+	
+	// Replace smart quotes with dumb ones
+	output = output.replace(/“/g, '"');
+	output = output.replace(/”/g, '"');
+	
+	// We have to replace the quotation marks first.
+	// The behavior is that inline quotes become italicized AND keep their quotation marks.
+	var quote_regexp = /"([^"]+)"/g;
+	var useSmartQuotes = false;
+	if( useSmartQuotes ){
+		output = output.replace( quote_regexp, '“<span class="inline-quote">$1</span>”' );
+	}else{
+		output = output.replace( quote_regexp, '"<span class="inline-quote">$1</span>"' );
+	}
+	
+	// Do all the custom regular expressions
 	for( var i=0, l=regexps.length; i<l; i+=1 ){
 		output = output.replace( regexps[i], replace_function );
 	}

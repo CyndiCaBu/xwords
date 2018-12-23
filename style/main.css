@@ -81,6 +81,10 @@ img.button.compact {
 .title-in-text {
 	font-style: italic;
 }
+.inline-quote {
+	display: inline;
+	font-style: italic;
+}
 
 /* Overrides: */
 .ui.red.button:hover,
