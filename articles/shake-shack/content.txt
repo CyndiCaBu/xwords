@@ -1,4 +1,4 @@
-{When you think of classic American road food like hamburgers, french fries, and milkshakes}[f-t], {do[x] you[s] see[v] any connection to democracy}[t-n]? {If you have[x] ever heard the history of the original Shake Shack}[f-cd], {you[s] might[x]}[t-n-nq]. 
+{When you think of classic American road food like hamburgers, french fries, and milkshakes}[f-t], {do[x] you[s] see[v] any connection to democracy}[t-n]? {If you have[x] ever heard the history of the original Shake Shack}[f-cd], {you[s] might[x]}[t-n-nq].
 
 {A restaurant with fast food and more}[extra], {(Shake Shack)[s] has[vxs] locations in the United States and abroad}[t-n]. {It[s] started[vxd] in New York}[t-p], {in a park near the Flatiron building in Manhattan}[e-p].
 
