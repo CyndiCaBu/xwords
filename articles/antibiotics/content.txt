@@ -10,7 +10,7 @@
 
 "{You[s] really (don't)[x] want[v] a bone infection}[t-n-nq], {do[x] you[s]}[t-n-nq]?" {her mother said}[extra]. "{Look[vxo] up osteomyelitis}[t-n-nq]. {If you (don't)[x] prevent it}[f-cd], {the next thing you[s] know}[extra], {you[s]('ll)[x] have[v] a big, gaping[ger] wound}[t-n]. {We[s]('ll)[x] have[v] (to start)[inf] catching[ger] flies (to treat)[inf] you with maggots}[t]!"
 
-{Maya[s] laughed[vxd]}[t-p](;)[j] {she[s] was[x] used to her mother's sarcasm}[t-p]. {(An image of little white worms crawling[ger] on her toes)[s] came[vxd] to mind}[t-p]. {It[s] was[x] gross}[t-p], but[j] {it[s] was[x] also funny}[t-p].
+{Maya[s] laughed[vxd]}[t-p](;)[j] {she[s] was[x] used to her mother's sarcasm}[t-p]. {(An image of little white worms crawling[ger] on her toes)[s] came[vxd] to mind}[t-p].
 
 "{You[s] think[vxo] I('m)[x] kidding[vg] about the maggots}[t-n], {(don't)[x] you[s]}[t-n-nq]?" {her mother replied}[extra]. "{When I[s] was[x] in nurses' training[ger] in the 1960s}[f-t], {we[s] had[vxs] a patient with a really bad case of osteomyelitis}[t-p]. {They[s] finally put[v] maggots in the wound (to eat)[inf] up all the dead tissue}[t-p]. {It[s] may[x] sound[v] disgusting}[t-n], but[j] {it[s] worked[vxd]}[t-p]. {(The patient)[s] recovered[vxd]}[t-p]."
 
