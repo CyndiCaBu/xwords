@@ -6,6 +6,6 @@
 
 {(The photo above)[s] was[x] taken[dtn]}[t-p] {outside a major department store in Manhattan}[e-p]. {People[s] were[x] protesting[vg] against the use of fur for fashion}[t-p]. {They[s] were[x] holding[vg] a variety of signs (to try)[inf] (to help)[inf] others understand the cruelty of killing[ger] an animal for its fur}[t-p]. 
 
-{Perhaps}[l] {(the most convincing sign)[s] was[x] a simple message with an image of a small furry animal}[t-p]. {It[s] read[vxd],}[t] {“She[s] needs[vxs] her fur coat.”}[t-n]. {It[s] was[x] convincing}[t-p] {because it was[x] true}[e-r]. {(Animals)[s] really do[x] need[v] their fur}[t-n] - but[j] { do[x] we[s]}[t-n-nq]?
+{Perhaps}[l] {(the most convincing sign)[s] was[x] a simple message with an image of a small furry animal}[t-p]. {It[s] read[vxd],}[t] {“She[s] needs[vxs] her fur coat.”}[t-n] {It[s] was[x] convincing}[t-p] {because it was[x] true}[e-r]. {(Animals)[s] really do[x] need[v] their fur}[t-n] - but[j] { do[x] we[s]}[t-n-nq]?
 
 {You[s] could[x] argue[v] that you (don’t)[x] need fur, but you want it}[t-n]. OK. {Would[x] you[s] be[v] willing (to use)[inf] fur from the animals that most humans would[x] rather not protect}[t-n], {like mice and rats}[extra]?
