@@ -14,4 +14,4 @@
  
 {(The reality)[s] is[x]  that malaria (doesn’t)[x]  cost much (to prevent)[inf] or treat}[t-n], but[j] {it[s] can[x]  take[v] a country years and years before they manage (to get)[inf] rid of it}[t-n]. {Even today}[f-t], {when billions of dollars are[x] spent (to fight)[inf] malaria}[f-t], {it[s] is[x] part of far too many deaths}[t-n]. {This[s] has[vxs] real economic consequences}[t-n]. {(People who are[x]  too sick)[s] (can't)[x]  work[v]}[t-n], so[j] {they[s] lose[vxo] money}[t-n]. {(People who (0can’t0)[x] afford medicine and (1can't1)[x] get access to free medicine)[s] (don’t)[x]  have[v] an effective way (to find)[inf] treatment}[t-n]. {(Drug resistance)[s] has[x]  become[v] a major problem}[t-n], too[extra].
 
-{Are[x] you doing[vg] anything (to educate)[inf] people about health}[t-n]? {What kind of solutions}[s] can[x] you[s] think[v] of}[t-n] {(to reduce)[inf] ignorance, suspicion and diseases like malaria}[e-r]?
+{Are[x] you doing[vg] anything (to educate)[inf] people about health}[t-n]? {What kind of solutions can[x] you[s] think[v] of}[t-n] {(to reduce)[inf] ignorance, suspicion and diseases like malaria}[e-r]?
