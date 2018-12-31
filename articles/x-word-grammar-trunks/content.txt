@@ -2,13 +2,13 @@
 
 # Trunk Means SVO
 
-{SVO[s] is[x] the foundation for English sentences}[t-n], {like the roots and trunks for a tree}[extra]. {That[s]('s)[x] why x-word grammar calls SVO a trunk}[t-n]. {Here[s]('s)[x] one}[t-n]:
+{SVO[s] is[x] the foundation for English sentences}[t-n], {like the roots and trunks for a tree}[extra]. {That[s]('s)[x] why x-word grammar calls SVO a trunk}[t-n]. {It[s]('s)[x] the main part of the sentence}[t-n]. {We[s] can[x] combine[v] trunks and other parts (to make)[inf] 7 different types of sentences}[t-n]. {Here are 3 of them}[t-n](;)[j] {(the others)[s] use[vxo] shifters, linkers and extra information called inserts}[extra].
 
 # Trunk
 
 {Trees[s] have[vxo] roots}[t-n].
 
-# Trunk,  Plus Trunk
+# Trunk,  plus Trunk
 
 {We[s] can[x] add[v] information to that sentence}[t-n], {putting two trunks together}[extra]. 
 
