@@ -52,12 +52,10 @@
 {With x-word grammar}[f-r], {you[s]('ll)[x] be[v] able to}[t-n-nq]:
 
  - read carefully (to understand)[inf] better, even when sentences are[x] long and complicated
-
- - read your own writing[ger] (to find)[inf] your mistakes
-
- - fix errors like run-ons, fragments, subject-verb agreement and verb form problems, and much more
-
+ 
  - make your writing[ger] sound more like English
+
+ - read your own writing[ger] (to find)[inf] mistakes like run-ons, fragments, subject-verb agreement and verb form problems, and much more
 
 # An open mind helps.
 
