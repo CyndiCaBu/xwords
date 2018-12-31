@@ -27,7 +27,7 @@
 
 {If you (don't)[x] see[v] an x-word in a sentence}[f-cd], {it[s]('s)[x] hidden inside the main verb}[t-n]. {Only 3 x-words can[x] hide}[e-r]: {do[x], does[x] and did[x]}[extra]. {This[s] will[x] make[v] more sense}[t-n] {when you learn more x-word grammar}[e-t].
 
-{(Memorizing the x-words)[s] comes[vxs] first}[t-n]. Then[l] {you[s] can[x] look[v] for them in sentences and mark[v] them}[t-n][t=]. {You[s] can[x] tap[v] or click[v] them here}[t-n]; {on paper}[f-p], {you[s] can[x] write[v] an X over them}[t-n].
+{(Memorizing the x-words)[s] comes[vxs] first}[t-n]. Then[l] {you[s] can[x] look[v] for them in sentences and mark[v] them}[t=n]. {You[s] can[x] tap[v] or click[v] them here}[t-n]; {on paper}[f-p], {you[s] can[x] write[v] an X over them}[t-n].
 
 {(Finding x-words)[s] is[x] a way (to find)[inf] subjects and verbs}[t-n], {step by step}[extra].
 
