@@ -1,4 +1,4 @@
-{Sometimes}[f-t], {you[s] just have[vxo] (to move)[inf] around}[t-n]. {How could[x] (a goalkeeper like Sean Johnson)[s] succeed[v]}[t-n-nq] {if he (didn't)[x] shift[v] from one side of the goal to the other}[e-cd]? {In that sentence}[f-t], {(the word shift)[s] means[vxs] move }[t-n].
+{In this picture}[f-p], {(the New York City Football Club)[s] recently scored[vxd] a goal}[t-p], and[j] {(the steam to celebrate it)[s] is[x] still on the field}[t-p]. {Although the action is far away}[f-ct], {(goalkeeper Sean Johson)[s] is[x] not standing[vg] still}[t-n]. {He[s]('s)[x] moving[vg] around}[t-n], {shifting from side to side with his eyes on the ball}[extra]. 
 
 {In written English}[f-p], {(some parts of a sentence)[s] can[x] shift[v] like a goalkeeper}[t-n]. {They[s] can[x] go[v] at the front of the sentence or the end}[t-n], {without changing the meaning}[extra]. {(These parts)[s] are[x] called shifters}[t-n].
 
@@ -6,29 +6,11 @@
 
 # Front Shifter, Trunk
 
-{Sometimes}[f-t], {you[s] just have[vxo] (to move)[inf] around}[t-n].
+{In this picture}[f-p], {(the New York City Football Club)[s] recently scored[vxd] a goal}[t-p].
 
 # Trunk with End Shifter
 
-{You[s] just have[vxo] (to move)[inf] around}[t-n] sometimes[e-t].
-
-# Trunk with End Shifter
-
-{How could[x] (a goalkeeper like Sean Johnson)[s] succeed[v]}[t-n-nq] {if he (didn't)[x] shift[v] from one side of the goal to the other}[e-cd]?
-
-# Front Shifter, Trunk
-
-{If he (didn't)[x] shift[v] from one side of the goal to the other}[e-cd], {how could[x] (a goalkeeper like Sean Johnson)[s] succeed[v]}[t-n-nq]?
-
-# Front Shifter, Trunk
-
-{In that sentence}[f-t], {(the word shift)[s] means[vxs] move }[t-n].
-
-# Trunk with End Shifter
-
-{(The word shift)[s] means[vxs] move}[t-n] {in that sentence}[e-p]. 
-
-# Finding Shifters
+{(The New York City Football Club)[s] recently scored[vxd] a goal}[t-p] {in this picture}[e-p]. 
 
 {(Blocking goals)[s] takes[vxs] skill and effort}[t-n], and[j] {that[s] comes[vxs] from practice, practice, practice}[t-n]. Likewise[l], {(finding shifters)[s] takes[vxs] effort, attention and practice}[t-n]. {Look for clues related to meaning}[t-n-nq]. {(The most common shifters)[s] give[vxo] information about time, place and reason}[t-n]. {(Less common shifters)[s] tell[vxs] us about conditions and contrast}[t-n].
 
