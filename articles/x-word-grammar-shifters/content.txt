@@ -2,7 +2,7 @@
 
 {In written English}[f-p], {(some parts of a sentence)[s] can[x] shift[v] like a goalkeeper}[t-n]. {They[s] can[x] go[v] at the front of the sentence or the end}[t-n], {without changing the meaning}[extra]. {(These parts)[s] are[x] called shifters}[t-n].
 
-{(Each sentence in the first paragraph)[s] has[vxs] a shifter}[t-n]. {(To get)[inf] a feel for this}[f-r], {try[v] reading these sentences both ways}[t-n-nq]: {with the shifter at the front and again with it at the end of the sentence}[extra].
+{(Two sentences in the first paragraph)[s] have[vxo] shifters}[t-n]. {(To get)[inf] a feel for this}[f-r], {try[v] reading these sentences both ways}[t-n-nq]: {with the shifter at the front and again with it at the end of the sentence}[extra].
 
 # Front Shifter, Trunk
 
