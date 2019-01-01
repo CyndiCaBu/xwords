@@ -18,11 +18,11 @@
 
 {(The types of shifters)[s] are[x] listed below}[t-n], {with some words that can[x] serve[v] as clues (to help)[inf] find them}[extra].
 
-#Time Shifters
+# Time Shifters
 
 Before, During, After, Until, Here and now
 
-#Place Shifters
+# Place Shifters
 
 Near, Far from, Next to, Behind, In front of, Across from
 
