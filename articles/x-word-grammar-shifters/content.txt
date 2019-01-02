@@ -1,8 +1,8 @@
-{In this picture}[f-p], {(the New York City Football Club)[s] recently scored[vxd] a goal}[t-p], and[j] {(the steam to celebrate it)[s] is[x] still on the field}[t-p]. {Although the action is far away}[f-ct], {(goalkeeper Sean Johson)[s] is[x] not standing[vg] still}[t-n]. {He[s]('s)[x] moving[vg] around}[t-n], {shifting from side to side with his eyes on the ball}[extra]. 
+{In this picture}[f-p], {(the New York City Football Club)[s] recently scored[vxd] a goal}[t-p], and[j] {(the steam to celebrate it)[s] is[x] still on the field}[t-p]. {(Goalkeeper Sean Johson)[s] is[x] not standing[vg] still}[t-n] {although the action is far away}[e-ct]. {He[s]('s)[x] moving[vg] around}[t-n], {shifting from side to side with his eyes on the ball}[extra]. 
 
-{In written English}[f-p], {(some parts of a sentence)[s] can[x] shift[v] like a goalkeeper}[t-n]. {They[s] can[x] go[v] at the front of the sentence or the end}[t-n], {without changing the meaning}[extra]. {(These parts)[s] are[x] called shifters}[t-n].
+{(Some parts of a sentence in English)[s] can[x] shift[v] like a goalkeeper}[t-n]. {They[s] can[x] go[v] at the front of the sentence or the end}[t-n], {without changing the meaning}[extra]. {(These parts)[s] are[x] called shifters}[t-n].
 
-{(Two sentences in the first paragraph)[s] have[vxo] shifters}[t-n]. {(To get)[inf] a feel for this}[f-r], {try[v] reading these sentences both ways}[t-n-nq]: {with the shifter at the front and again with it at the end of the sentence}[extra].
+{(Two sentences in the first paragraph above)[s] have[vxo] shifters}[t-n]. {(To get)[inf] a feel for this}[f-r], {try[v] reading these sentences both ways}[t-n-nq]: {with the shifter at the front and again with it at the end of the sentence}[extra].
 
 # Front Shifter, Trunk
 
@@ -11,6 +11,14 @@
 # Trunk with End Shifter
 
 {(The New York City Football Club)[s] recently scored[vxd] a goal}[t-p] {in this picture}[e-p]. 
+
+# Trunk with End Shifter
+
+{(Goalkeeper Sean Johson)[s] is[x] not standing[vg] still}[t-n] {although the action is far away}[e-ct].
+
+# Front Shifter, Trunk
+
+{Although the action is far away}[f-ct]}, {(goalkeeper Sean Johson)[s] is[x] not standing[vg] still}[t-n].
 
 {(Blocking goals)[s] takes[vxs] skill and effort}[t-n], and[j] {that[s] comes[vxs] from practice, practice, practice}[t-n]. Likewise[l], {(finding shifters)[s] takes[vxs] effort, attention and practice}[t-n]. {Look for clues related to meaning}[t-n-nq]. {(The most common shifters)[s] give[vxo] information about time, place and reason}[t-n]. {(Less common shifters)[s] tell[vxs] us about conditions and contrast}[t-n].
 
