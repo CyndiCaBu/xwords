@@ -1,4 +1,4 @@
-{In this picture}[f-p], {(the New York City Football Club)[s] recently scored[vxd] a goal}[t-p], and[j] {(the steam to celebrate it)[s] is[x] still on the field}[t-p]. {(Goalkeeper Sean Johson)[s] is[x] not standing[vg] still}[t-n] {although the action is far away}[e-ct]. {He[s]('s)[x] moving[vg] around}[t-n], {shifting from side to side with his eyes on the ball}[extra]. 
+{In this picture}[f-p], {(the New York City Football Club)[s] recently scored[vxd] a goal}[t-p], and[j] {(the steam (0to celebrate0)[inf] it)[s] is[x] still on the field}[t-p]. {(Goalkeeper Sean Johson)[s] is[x] not standing[vg] still}[t-n] {although the action is far away}[e-ct]. {He[s]('s)[x] moving[vg] around}[t-n], {shifting from side to side with his eyes on the ball}[extra]. 
 
 {(Some parts of a sentence in English)[s] can[x] shift[v] like a goalkeeper}[t-n]. {They[s] can[x] go[v] at the front of the sentence or the end}[t-n], {without changing the meaning}[extra]. {(These parts)[s] are[x] called shifters}[t-n].
 
