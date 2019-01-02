@@ -12,13 +12,14 @@
 
 {(The New York City Football Club)[s] recently scored[vxd] a goal}[t-p] {in this picture}[e-p]. 
 
+
 # Trunk with End Shifter
 
 {(Goalkeeper Sean Johson)[s] is[x] not standing[vg] still}[t-n] {although the action is far away}[e-ct].
 
 # Front Shifter, Trunk
 
-{Although the action is far away}[f-ct]}, {(goalkeeper Sean Johson)[s] is[x] not standing[vg] still}[t-n].
+{Although the action is far away}[f-ct], {(goalkeeper Sean Johson)[s] is[x] not standing[vg] still}[t-n].
 
 {(Blocking goals)[s] takes[vxs] skill and effort}[t-n], and[j] {that[s] comes[vxs] from practice, practice, practice}[t-n]. Likewise[l], {(finding shifters)[s] takes[vxs] effort, attention and practice}[t-n]. {Look for clues related to meaning}[t-n-nq]. {(The most common shifters)[s] give[vxo] information about time, place and reason}[t-n]. {(Less common shifters)[s] tell[vxs] us about conditions and contrast}[t-n].
 
