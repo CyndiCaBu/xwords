@@ -12,7 +12,7 @@
 
 {At the Brooklyn Botanic Garden in New York}[f-p], {people[s] can[x] combine[v] these two Japanese traditions}[t-n]. {For a short time in the spring}[f-t], {(the cherry trees)[s] bloom[vxo] and then let[vxo] their pink flowers fall to the ground}[t-n]. {(Walking under them)[s] is[x] a lovely way (to spend)[inf] time in nature}[t-n].
 
-{Here[s] are[x] some common linkers}[t-n], {organized by their general meaning}[extra]. {Although some linkers share meaning with some of the joiner words}[f-ct], {(their position in a sentence)[s] is[x] different}[t-n]. {(Joiner words)[s] connect[vxo] 2 trunks}[t-n](;)[j] {linkers[s] go[vxo] at the beginning of a sentence and connect[vxo] ideas}[t=].
+{Here[s] are[x] some common linkers}[t-n], {organized by their general meaning}[extra]. {Although some linkers share meaning with some of the joiner words}[f-ct], {(their position in a sentence)[s] is[x] different}[t-n]. {(Joiner words)[s] connect[vxo] 2 trunks}[t-n], so[j] {we[s] see[vxo] them in the middle of a Trunk, plus trunk sentence}[t-n]. {Linkers[s] go[vxo] at the beginning of a sentence and connect[vxo] ideas in a paragraph}[t=].
 
  # AND
  
