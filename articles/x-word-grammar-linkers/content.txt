@@ -18,9 +18,9 @@
  
  - Moreover, 
  - Furthermore,
-  - In addition,
-  - Besides, 
-  - Also, 
+ - In addition,
+ - Besides, 
+ - Also, 
 
 # BUT
  
@@ -54,8 +54,8 @@
 # CONTRAST
 
  - On the other hand,
-  - Instead,
-  - Despite that,
+ - Instead,
+ - Despite that,
 
 # OPINIONS
 
