@@ -14,30 +14,54 @@
 
 {Here[s] are[x] some common linkers}[t-n], {organized by their general meaning}[extra]. {Although some linkers share meaning with some of the joiner words}[f-ct], {(their position in a sentence)[s] is[x] different}[t-n]. {(Joiner words)[s] connect[vxo] 2 trunks}[t-n], so[j] {we[s] see[vxo] them in the middle of a Trunk, plus trunk sentence}[t-n]. {Linkers[s] go[vxo] at the beginning of a sentence and connect[vxo] ideas in a paragraph}[t=].
 
- # and
+# AND
  
-Moreover, Furthermore, In addition, Besides, Also, 
+ - Moreover, 
+ - Furthermore,
+  - In addition,
+  - Besides, 
+  - Also, 
 
- # BUT
+# BUT
  
-However, Nevertheless, Nonetheless, Still,
+ - However,
+ - Nevertheless,
+ - Nonetheless,
+ - Still,
 
- # SO
+# SO
  
-Thus, Therefore, Consequently, As a result
+ - Thus,
+ - Therefore,
+ - Consequently,
+ - As a result
 
- # TIME
+# TIME
 
-Meanwhile, Finally, Two days ago, A year later,
+ - Meanwhile,
+ - Finally,
+ - Two days ago,
+ - A year later,
 
- # EXPLANATION
+# EXPLANATION
  
-For example, For instance, In fact, In other words, Actually,
+ - For example,
+ - For instance,
+ - In fact,
+ - In other words,
+ - Actually,
 
- # CONTRAST
+# CONTRAST
 
-On the other hand, Instead, Despite that,
+ - On the other hand,
+  - Instead,
+  - Despite that,
 
- # OPINIONS
+# OPINIONS
 
-Fortunately, Luckily, Unfortunately, Obviously, Clearly, Generally,
+ - Fortunately,
+ - Luckily,
+ - Unfortunately,
+ - Obviously,
+ - Clearly,
+ - Generally,
