@@ -24,44 +24,44 @@
 
 # BUT
  
- - However,
- - Nevertheless,
- - Nonetheless,
- - Still,
+ - However
+ - Nevertheless
+ - Nonetheless
+ - Still
 
 # SO
  
- - Thus,
- - Therefore,
- - Consequently,
+ - Thus
+ - Therefore
+ - Consequently
  - As a result
 
 # TIME
 
- - Meanwhile,
- - Finally,
- - Two days ago,
- - A year later,
+ - Meanwhile
+ - Finally
+ - Two days ago
+ - A year later
 
 # EXPLANATION
  
- - For example,
- - For instance,
- - In fact,
- - In other words,
- - Actually,
-
+ - For example
+ - For instance
+ - In fact
+ - In other words
+ - Actually
+ 
 # CONTRAST
 
- - On the other hand,
- - Instead,
- - Despite that,
+ - On the other hand
+ - Instead
+ - Despite that
 
 # OPINIONS
 
- - Fortunately,
- - Luckily,
- - Unfortunately,
- - Obviously,
- - Clearly,
- - Generally,
+ - Fortunately
+ - Luckily
+ - Unfortunately
+ - Obviously
+ - Clearly
+ - Generally
