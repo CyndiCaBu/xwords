@@ -18,6 +18,7 @@
  - Still[l],
 
 # SO dog
+
  - Therefore[l],
  - Thus[l],
  - Consequently[l],
@@ -30,13 +31,13 @@
  - {Two days ago}[l],
  - {A year later}[l],
 
-# EXPLANATION
+# EXPLANATION cat
 
-{For example}[l],
-{For instance}[l],
-{In fact}[l],
-{In other words}[l],
-Actually[l],
+ - {For example}[l],
+ - {For instance}[l],
+ - {In fact}[l],
+ - {In other words}[l],
+ - Actually[l],
 
 # CONTRAST
 
