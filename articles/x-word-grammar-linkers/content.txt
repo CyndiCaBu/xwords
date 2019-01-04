@@ -10,12 +10,12 @@
  - Besides,
  - Also,
  
-# BUT
-
-However,
-Nevertheless,
-Nonetheless,
-Still,
+ # BUT
+ 
+ - However,
+ - Nonetheless,
+ - Nevertheless,
+ - Still,
  
 # SO
 
@@ -30,9 +30,8 @@ Still,
  - Finally,
  - Two days ago,
  - A year later,
-
-# EXPLANATION
  
+ # EXPLANATION
  - For example,
  - For instance,
  - In fact,
