@@ -17,7 +17,7 @@
  - Nevertheless[l],
  - Still[l],
 
-# SO dog
+# SO
 
  - Therefore[l],
  - Thus[l],
@@ -31,7 +31,7 @@
  - {Two days ago}[l],
  - {A year later}[l],
 
-# EXPLANATION cat
+# EXPLANATION
 
  - {For example}[l],
  - {For instance}[l],
