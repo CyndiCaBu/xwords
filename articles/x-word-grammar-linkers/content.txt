@@ -18,10 +18,10 @@
  - Still[l],
 
 # SO
-Therefore[l],
-Thus[l],
-Consequently[l],
-{As a result}[l],
+ - Therefore[l],
+ - Thus[l],
+ - Consequently[l],
+ - {As a result}[l],
 
 # TIME
 
