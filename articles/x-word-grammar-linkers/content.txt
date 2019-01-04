@@ -1,6 +1,6 @@
 {Link[s] means[vxs] connect}[t-n]. {In x-word grammar}[f-p], {linkers[s] are[x] words or phrases that connect ideas between 1 sentence and the next by adding meaning}[t-n]. 
 
-{In conversation and informal writing}[f-p], {people[s] often use[vxo] words like and, but, so and or instead of linkers}[t-n]. {In academic writing and other more formal types of writing}[f-p], {people[s] use[vxo] linkers like yo the ones listed below}[t-n].
+{In conversation and informal writing}[f-p], {people[s] often use[vxo] words like and, but, so and or instead of linkers}[t-n]. {In academic writing and other more formal types of writing}[f-p], {people[s] use[vxo] linkers like the ones listed below so far below}[t-n].
 
 # AND
 
@@ -18,9 +18,8 @@
  - Still[l],
 
 # SO
- 
- - Thus[l],
  - Therefore[l],
+ - Thus[l],
  - Consequently[l],
  - {As a result}[l],
 
@@ -30,10 +29,10 @@
  - Finally[l],
  - {Two days ago}[l],
  - {A year later}[l],
- 
- # EXPLANATION
 
- - {For example}[l],
+# EXPLANATION
+
+- {For example}[l],
  - {For instance}[l],
  - {In fact}[l],
  - {In other words}[l],
