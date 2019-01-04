@@ -6,83 +6,60 @@
 
 # AND
 
- - Moreover
- - In addition[l], could[x]
- - will[x], would[x]
- - shall[x], should[x]
- - must[x], might[x], may[x]
- - have[x], has[x], had[x]
- - am[x], is[x], are[x], was[x], were[x]
+ - Moreover[l],
+ - Furthermore[l],
+ - In addition[l],
+ - Besides[l],
+ - Also[l], 
 
-# Using X-Words
+# BUT
 
-{We[s] use[vxo] x-words to}[t-n]:
-
- - make questions
- - find subjects and verbs
- - show time: now? before? both?
- - show number: make the x-word match the subject
- - say no: make negative statements
- - add meaning: express opinions, be polite, etc.
-
-# Using X-Word Grammar to Read and Write Better
-
-{(Every complete sentence in English)[s] has[vxs] an x-word}[t-n].  {You[s] can[x] test[v] this by looking[ger] for the x-words}[t-n] {whenever you[s] read in English}[e-t]. 
-# AND
-
- - Moreover,
- - Furthermore,
- - In addition,
- - Besides,
- - Also,
- 
- # BUT
- 
- - However,
- - Nonetheless,
- - Nevertheless,
- - Still,
+ - However[l],
+ - Nonetheless[l],
+ - Nevertheless[l],
+ - Still[l],
 
 # SO
-
- - Thus,
- - Therefore,
- - Consequently,
- - As a result,
+ 
+ - Thus[l],
+ - Therefore[l],
+ - Consequently[l],
+ - As a result[l],
 
 # TIME
 
- - Meanwhile,
- - Finally,
- - Two days ago,
- - A year later,
+ - Meanwhile[l],
+ - Finally[l],
+ - Two days ago[l],
+ - A year later[l],
  
 # EXPLANATION
- - For example,
- - For instance,
- - In fact,
- - In other words,
- - Actually,
+
+ - For example[l],
+ - For instance[l],
+ - In fact[l],
+ - In other words[l],
+ - Actually[l],
 
 # CONTRAST
 
- - On the other hand,
- - Instead,
- - Despite that,
+ - On the other hand[l],
+ - Instead[l],
+ - Despite that[l],
 
 # OPINIONS
 
- - Fortunately,
- - Luckily,
- - Unfortunately,
- - Obviously,
- - Clearly,
- - Generally,
- 
+ - Fortunately[l],
+ - Luckily[l],
+ - Unfortunately[l],
+ - Obviously[l],
+ - Clearly[l],
+ - Generally[l],
+
 {(Using too many linkers in one paragraph or essay)[s] is[x] a mistake}[t-n]. {(The short article below)[s] only has[vxs] one linker}[t-n], and[j] {that[s]('s)[x] enough}[t-n].
 
 {(Spending time in nature)[s] can[x] be[v] good for our mental and physical health}[t-n]. {It[s] can[x] encourage[v] us (to move)[inf] around}[t-n], {taking a walk outside or going hiking in the mountains}[extra]. {It[s](’s)[x] easier (to stay)[inf] in touch with nature in rural areas where there are plenty of trees and open spaces}[t-n]. Nevertheless[l], {if we look for nature everywhere}[f-cd], {we[s] will[x] find[v] it}[t-n], {even in cities}[extra]. {(Choosing experiences in nature)[s] (is)[x] a way (to focus)[inf] on positive emotions}[t-n], {such as interest in the way an animal moves or awe at a beautiful flower}[extra].
 
 {(Some cultures)[s] have[vxo] traditions that help link people to their natural surroundings}[t-n], {often with celebrations of the seasons and harvest}[extra]. {When flowers bloom and leaves start coming out in spring}[f-t], {people[s] are[x] encouraged (to go)[inf] outdoors}[t-n]. {(One Japanese tradition)[s] is[x] an annual festival (to celebrate)[inf] cherry blossoms with their intense but brief beauty}[t-n]. {(Another Japanese practice)[s] is[x] forest therapy}[t-n], {spending time in the woods or other natural areas as a way (to reduce)[inf] stress and feel at peace}[t-n].
 
-{At the Brooklyn Botanic Garden in New York}[f-p], {people[s] can[x] combine[v] these two Japanese traditions}[t-n]. {For a short time in the spring}[f-t], {(the cherry trees)[s] bloom[vxo] and then let[vxo] their pink flowers fall to the ground}[t-n]. {(Walking under them)[s] is[x] a lovely way (to spend)[inf] time in nature}[t-n]. bee
+{At the Brooklyn Botanic Garden in New York}[f-p], {people[s] can[x] combine[v] these two Japanese traditions}[t-n]. {For a short time in the spring}[f-t], {(the cherry trees)[s] bloom[vxo] and then let[vxo] their pink flowers fall to the ground}[t-n]. {(Walking under them)[s] is[x] a lovely way (to spend)[inf] time in nature}[t-n]. Oliveros
