@@ -17,7 +17,7 @@
  - Nevertheless[l],
  - Still[l],
 
-# SO
+# SO dog
  - Therefore[l],
  - Thus[l],
  - Consequently[l],
