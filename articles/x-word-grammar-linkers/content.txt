@@ -10,7 +10,7 @@
  - Besides,
  - Also,
  
- # BUT
+# BUT
 
  - However,
  - Nevertheless,
@@ -30,8 +30,8 @@
  - Finally,
  - Two days ago,
  - A year later,
-
-# EXPLANATION
+ 
+ # EXPLANATION
  
  - For example,
  - For instance,
