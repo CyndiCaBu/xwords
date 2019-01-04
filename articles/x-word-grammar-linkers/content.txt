@@ -1,21 +1,9 @@
-{Link[s] means[vxs] connect}[t-n]. {In x-word grammar}[f-p], {linkers[s] are[x] words or phrases that connect ideas between 1 sentence and the next}[t-n]. 
+{Link[s] means[vxs] connect}[t-n]. {In x-word grammar}[f-p], {linkers[s] are[x] words or phrases that connect ideas between 1 sentence and the next by adding meaning}[t-n]. 
 
-{Linkers[s] usually go[vxo] at the beginning of a sentence}[t-n]. {They[s] are[x] part of a sentence pattern called Linker, Trunk}[t-n].
-
-{Linkers[s] add[vxo] meaning}[t-n], {including the same meaning as some of the common joiner words like and, but, so, and or}[extra]. {(The difference)[s] is[x] in their position in a sentence}[t-n]. {Linkers[s] go[vxo] at the beginning}[t-n], {before the trunk}[e-t]. {Joiners[s] go[vxo] in the middle}[t-n], {between 2 trunks}[extra].
-
-{(The article below)[s] has[vxs] only one linker}[t-n]. {Can[x] you[s] find[v] it}[t-n-nq]? {What does[x] it[s] mean[v]}[t-n-nq]? 
-
-{(Spending time in nature)[s] can[x] be[v] good for our mental and physical health}[t-n]. {It[s] can[x] encourage[v] us (to move)[inf] around}[t-n], {taking a walk outside or going hiking in the mountains}[extra]. {It[s](’s)[x] easier (to stay)[inf] in touch with nature in rural areas where there are plenty of trees and open spaces}[t-n]. Nevertheless[l], {if we look for nature everywhere}[f-cd], {we[s] will[x] find[v] it}[t-n], {even in cities}[extra]. {(Choosing experiences in nature)[s] (is)[x] a way (to focus)[inf] on positive emotions}[t-n], {such as interest in the way an animal moves or awe at a beautiful flower}[extra].
-
-{(Some cultures)[s] have[vxo] traditions that help link people to their natural surroundings}[t-n], {often with celebrations of the seasons and harvest}[extra]. {When flowers bloom and leaves start coming out in spring}[f-t], {people[s] are[x] encouraged (to go)[inf] outdoors}[t-n]. {(One Japanese tradition)[s] is[x] an annual festival (to celebrate)[inf] cherry blossoms with their intense but brief beauty}[t-n]. {(Another Japanese practice)[s] is[x] forest therapy}[t-n], {spending time in the woods or other natural areas as a way (to reduce)[inf] stress and feel at peace}[t-n]. 
-
-{At the Brooklyn Botanic Garden in New York}[f-p], {people[s] can[x] combine[v] these two Japanese traditions}[t-n]. {For a short time in the spring}[f-t], {(the cherry trees)[s] bloom[vxo] and then let[vxo] their pink flowers fall to the ground}[t-n]. {(Walking under them)[s] is[x] a lovely way (to spend)[inf] time in nature}[t-n].
-
-{Here[s] are[x] some common linkers}[t-n], {organized by their general meaning}[extra]. {Although some linkers share meaning with some of the joiner words}[f-ct], {(their position in a sentence)[s] is[x] different}[t-n]. {(Joiner words)[s] connect[vxo] 2 trunks}[t-n], so[j] {we[s] see[vxo] them in the middle of a Trunk, plus trunk sentence}[t-n]. {Linkers[s] go[vxo] at the beginning of a sentence and connect[vxo] ideas in a paragraph}[t=]. {Put a comma after the linker}[t-n-nq].
+{In conversation and informal writing}[f-p], {people[s] often use[vxo] words like and, but, so and or instead of linkers}[t-n]. {In academic writing and other more formal types of writing}[f-p], {people[s] use[vxo] linkers like the ones listed below}[t-n].
 
 # AND
- 
+
  - Moreover
  - Furthermore
  - In addition
@@ -65,3 +53,11 @@
  - Obviously
  - Clearly
  - Generally
+
+{(Using too many linkers in one paragraph or essay)[s] is[x] a mistake}[t-n]. {(The short article below)[s] only has[vxs] one linker}[t-n], and[j] {that[s]('s)[x] enough}[t-n].
+
+{(Spending time in nature)[s] can[x] be[v] good for our mental and physical health}[t-n]. {It[s] can[x] encourage[v] us (to move)[inf] around}[t-n], {taking a walk outside or going hiking in the mountains}[extra]. {It[s](’s)[x] easier (to stay)[inf] in touch with nature in rural areas where there are plenty of trees and open spaces}[t-n]. Nevertheless[l], {if we look for nature everywhere}[f-cd], {we[s] will[x] find[v] it}[t-n], {even in cities}[extra]. {(Choosing experiences in nature)[s] (is)[x] a way (to focus)[inf] on positive emotions}[t-n], {such as interest in the way an animal moves or awe at a beautiful flower}[extra].
+
+{(Some cultures)[s] have[vxo] traditions that help link people to their natural surroundings}[t-n], {often with celebrations of the seasons and harvest}[extra]. {When flowers bloom and leaves start coming out in spring}[f-t], {people[s] are[x] encouraged (to go)[inf] outdoors}[t-n]. {(One Japanese tradition)[s] is[x] an annual festival (to celebrate)[inf] cherry blossoms with their intense but brief beauty}[t-n]. {(Another Japanese practice)[s] is[x] forest therapy}[t-n], {spending time in the woods or other natural areas as a way (to reduce)[inf] stress and feel at peace}[t-n]. 
+
+{At the Brooklyn Botanic Garden in New York}[f-p], {people[s] can[x] combine[v] these two Japanese traditions}[t-n]. {For a short time in the spring}[f-t], {(the cherry trees)[s] bloom[vxo] and then let[vxo] their pink flowers fall to the ground}[t-n]. {(Walking under them)[s] is[x] a lovely way (to spend)[inf] time in nature}[t-n].
