@@ -4,55 +4,55 @@
 
 # AND
 
- - Moreover
- - Furthermore
- - In addition
- - Besides
- - Also
+ - Moreover,
+ - Furthermore,
+ - In addition,
+ - Besides,
+ - Also,
  
-# BUT
- 
- - However
- - Nevertheless
- - Nonetheless
- - Still
+ # BUT
+
+ - However,
+ - Nevertheless,
+ - Nonetheless,
+ - Still,
 
 # SO
  
- - Thus
- - Therefore
- - Consequently
- - As a result
+ - Thus,
+ - Therefore,
+ - Consequently,
+ - As a result,
 
 # TIME
 
- - Meanwhile
- - Finally
- - Two days ago
- - A year later
+ - Meanwhile,
+ - Finally,
+ - Two days ago,
+ - A year later,
 
 # EXPLANATION
  
- - For example
- - For instance
- - In fact
- - In other words
- - Actually
+ - For example,
+ - For instance,
+ - In fact,
+ - In other words,
+ - Actually,
 
 # CONTRAST
 
- - On the other hand
- - Instead
- - Despite that
+ - On the other hand,
+ - Instead,
+ - Despite that,
 
 # OPINIONS
 
- - Fortunately
- - Luckily
- - Unfortunately
- - Obviously
- - Clearly
- - Generally
+ - Fortunately,
+ - Luckily,
+ - Unfortunately,
+ - Obviously,
+ - Clearly,
+ - Generally,
  
 {(Using too many linkers in one paragraph or essay)[s] is[x] a mistake}[t-n]. {(The short article below)[s] only has[vxs] one linker}[t-n], and[j] {that[s]('s)[x] enough}[t-n].
 
