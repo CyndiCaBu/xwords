@@ -1,6 +1,6 @@
 {Link[s] means[vxs] connect}[t-n]. {In x-word grammar}[f-p], {linkers[s] are[x] words or phrases that connect ideas between 1 sentence and the next by adding meaning}[t-n]. 
 
-{In conversation and informal writing}[f-p], {people[s] often use[vxo] words like and, but, so and or instead of linkers}[t-n]. {In academic writing and other more formal types of writing}[f-p], {people[s] use[vxo] linkers like the ones listed below so far below}[t-n].
+{In conversation and informal writing}[f-p], {people[s] often use[vxo] words like and, but, so and or instead of linkers}[t-n]. {In academic writing and other more formal types of writing}[f-p], {people[s] use[vxo] linkers like the ones listed below}[t-n].
 
 # AND
 
@@ -18,10 +18,10 @@
  - Still[l],
 
 # SO
- - Therefore[l],
- - Thus[l],
- - Consequently[l],
- - {As a result}[l],
+Therefore[l],
+Thus[l],
+Consequently[l],
+{As a result}[l],
 
 # TIME
 
@@ -32,11 +32,11 @@
 
 # EXPLANATION
 
-- {For example}[l],
- - {For instance}[l],
- - {In fact}[l],
- - {In other words}[l],
- - Actually[l],
+{For example}[l],
+{For instance}[l],
+{In fact}[l],
+{In other words}[l],
+Actually[l],
 
 # CONTRAST
 
@@ -59,4 +59,4 @@
 
 {(Some cultures)[s] have[vxo] traditions that help link people to their natural surroundings}[t-n], {often with celebrations of the seasons and harvest}[extra]. {When flowers bloom and leaves start coming out in spring}[f-t], {people[s] are[x] encouraged (to go)[inf] outdoors}[t-n]. {(One Japanese tradition)[s] is[x] an annual festival (to celebrate)[inf] cherry blossoms with their intense but brief beauty}[t-n]. {(Another Japanese practice)[s] is[x] forest therapy}[t-n], {spending time in the woods or other natural areas as a way (to reduce)[inf] stress and feel at peace}[t-n].
 
-{At the Brooklyn Botanic Garden in New York}[f-p], {people[s] can[x] combine[v] these two Japanese traditions}[t-n]. {For a short time in the spring}[f-t], {(the cherry trees)[s] bloom[vxo] and then let[vxo] their pink flowers fall to the ground}[t-n]. {(Walking under them)[s] is[x] a lovely way (to spend)[inf] time in nature}[t-n]. late
+{At the Brooklyn Botanic Garden in New York}[f-p], {people[s] can[x] combine[v] these two Japanese traditions}[t-n]. {For a short time in the spring}[f-t], {(the cherry trees)[s] bloom[vxo] and then let[vxo] their pink flowers fall to the ground}[t-n]. {(Walking under them)[s] is[x] a lovely way (to spend)[inf] time in nature}[t-n].
