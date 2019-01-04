@@ -18,6 +18,7 @@
  - Still,
  
 # SO
+
  - Thus,
  - Therefore,
  - Consequently,
@@ -59,4 +60,4 @@
 
 {(Some cultures)[s] have[vxo] traditions that help link people to their natural surroundings}[t-n], {often with celebrations of the seasons and harvest}[extra]. {When flowers bloom and leaves start coming out in spring}[f-t], {people[s] are[x] encouraged (to go)[inf] outdoors}[t-n]. {(One Japanese tradition)[s] is[x] an annual festival (to celebrate)[inf] cherry blossoms with their intense but brief beauty}[t-n]. {(Another Japanese practice)[s] is[x] forest therapy}[t-n], {spending time in the woods or other natural areas as a way (to reduce)[inf] stress and feel at peace}[t-n].
 
-{At the Brooklyn Botanic Garden in New York}[f-p], {people[s] can[x] combine[v] these two Japanese traditions}[t-n]. {For a short time in the spring}[f-t], {(the cherry trees)[s] bloom[vxo] and then let[vxo] their pink flowers fall to the ground}[t-n]. {(Walking under them)[s] is[x] a lovely way (to spend)[inf] time in nature}[t-n]. lizard
+{At the Brooklyn Botanic Garden in New York}[f-p], {people[s] can[x] combine[v] these two Japanese traditions}[t-n]. {For a short time in the spring}[f-t], {(the cherry trees)[s] bloom[vxo] and then let[vxo] their pink flowers fall to the ground}[t-n]. {(Walking under them)[s] is[x] a lovely way (to spend)[inf] time in nature}[t-n]. parrot
