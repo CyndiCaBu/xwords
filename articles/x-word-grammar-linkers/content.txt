@@ -38,10 +38,10 @@
  - In fact
  - In other words
  - Actually
- 
+
 # CONTRAST
 
- - On the other hand
+- On the other hand
  - Instead
  - Despite that
 
@@ -53,7 +53,7 @@
  - Obviously
  - Clearly
  - Generally
-
+ 
 {(Using too many linkers in one paragraph or essay)[s] is[x] a mistake}[t-n]. {(The short article below)[s] only has[vxs] one linker}[t-n], and[j] {that[s]('s)[x] enough}[t-n].
 
 {(Spending time in nature)[s] can[x] be[v] good for our mental and physical health}[t-n]. {It[s] can[x] encourage[v] us (to move)[inf] around}[t-n], {taking a walk outside or going hiking in the mountains}[extra]. {It[s](’s)[x] easier (to stay)[inf] in touch with nature in rural areas where there are plenty of trees and open spaces}[t-n]. Nevertheless[l], {if we look for nature everywhere}[f-cd], {we[s] will[x] find[v] it}[t-n], {even in cities}[extra]. {(Choosing experiences in nature)[s] (is)[x] a way (to focus)[inf] on positive emotions}[t-n], {such as interest in the way an animal moves or awe at a beautiful flower}[extra].
