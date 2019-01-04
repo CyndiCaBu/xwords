@@ -468,5 +468,10 @@ $(document)
 		$('.main.menu .ui.dropdown').dropdown({
 			on: 'hover'
 		});
+		
+		$('.footer-link').on('click',function(){
+			window.location.href = this.href;
+			window.location.reload();
+		});
 	})
 ;
