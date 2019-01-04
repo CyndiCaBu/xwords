@@ -9,7 +9,7 @@
  - In addition
  - Besides
  - Also
-
+ 
 # BUT
  
  - However
@@ -41,7 +41,7 @@
 
 # CONTRAST
 
-- On the other hand
+ - On the other hand
  - Instead
  - Despite that
 
