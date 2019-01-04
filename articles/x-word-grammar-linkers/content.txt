@@ -2,6 +2,32 @@
 
 {In conversation and informal writing}[f-p], {people[s] often use[vxo] words like and, but, so and or instead of linkers}[t-n]. {In academic writing and other more formal types of writing}[f-p], {people[s] use[vxo] linkers like the ones listed below}[t-n].
 
+{English[s] has[vxs] 20 short words with a lot of power}[t-n]:
+
+# AND
+
+ - Moreover
+ - In addition[l], could[x]
+ - will[x], would[x]
+ - shall[x], should[x]
+ - must[x], might[x], may[x]
+ - have[x], has[x], had[x]
+ - am[x], is[x], are[x], was[x], were[x]
+
+# Using X-Words
+
+{We[s] use[vxo] x-words to}[t-n]:
+
+ - make questions
+ - find subjects and verbs
+ - show time: now? before? both?
+ - show number: make the x-word match the subject
+ - say no: make negative statements
+ - add meaning: express opinions, be polite, etc.
+
+# Using X-Word Grammar to Read and Write Better
+
+{(Every complete sentence in English)[s] has[vxs] an x-word}[t-n].  {You[s] can[x] test[v] this by looking[ger] for the x-words}[t-n] {whenever you[s] read in English}[e-t]. 
 # AND
 
  - Moreover,
