@@ -1,7 +1,9 @@
 {
-	"description": "Look up ...",
-	"tags": "Manhattanhenge, sunset",
-	"discipline": "science",
-	"date": "2018-09-11",
-	"gradeLevel": 7
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "Look up ...", 
+  "tags": "Manhattanhenge, sunset", 
+  "gradeLevel": 7, 
+  "date": "2018-09-11", 
+  "isOnHome": true
 }

@@ -1,7 +1,9 @@
 {
-	"description": "Have you ever ridden an old-fashioned bicycle?",
-	"tags": "bicycle, old-fashioned",
-	"discipline": "culture",
-	"date": "2018-10-09",
-	"gradeLevel": 5
+  "discipline": "culture", 
+  "isInRandom": true, 
+  "description": "Have you ever ridden an old-fashioned bicycle?", 
+  "tags": "bicycle, old-fashioned", 
+  "gradeLevel": 5, 
+  "date": "2018-10-09", 
+  "isOnHome": true
 }

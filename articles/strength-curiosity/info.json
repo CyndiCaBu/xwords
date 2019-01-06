@@ -1,7 +1,9 @@
 {
-       "description": "If you like learning new things and trying unfamiliar ...",
-       "tags": "strength, curiosity",
-       "discipline": "positive psychology",
-       "date": "2018-11-07",
-       "gradeLevel": 7
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "If you like learning new things and trying unfamiliar ...", 
+  "tags": "strength, curiosity", 
+  "gradeLevel": 7, 
+  "date": "2018-11-07", 
+  "isOnHome": true
 }

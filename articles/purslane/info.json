@@ -1,7 +1,9 @@
 {
-    "description": "What do you see in this picture? If you’re the ...",
-    "tags": "plants, traditions",
-    "discipline": "science",
-    "date": "2018-09-01",
-    "gradeLevel": 7
-    }
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "What do you see in this picture? If you\u2019re the ...", 
+  "tags": "plants, traditions", 
+  "gradeLevel": 7, 
+  "date": "2018-09-01", 
+  "isOnHome": true
+}

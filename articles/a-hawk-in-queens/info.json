@@ -1,7 +1,9 @@
 {
-	"description": "A friend and I were walking down a busy ...",
-	"tags": "hawk, nature",
-	"discipline": "science",
-	"date": "2018-09-15",
-	"gradeLevel": 6
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "A friend and I were walking down a busy ...", 
+  "tags": "hawk, nature", 
+  "gradeLevel": 6, 
+  "date": "2018-09-15", 
+  "isOnHome": true
 }

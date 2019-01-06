@@ -1,8 +1,9 @@
 {
-        "description": "One funny thing about humor is ...",
-        "tags": "strength, humor",
-        "tags": "positive, psychology, strength, humor, funny, laugh, transcendence",
-        "discipline": "positive psychology",
-        "date": "2018-10-21",
-        "gradeLevel": 7
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "One funny thing about humor is ...", 
+  "tags": "positive, psychology, strength, humor, funny, laugh, transcendence", 
+  "gradeLevel": 7, 
+  "date": "2018-10-21", 
+  "isOnHome": true
 }

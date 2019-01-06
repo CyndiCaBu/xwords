@@ -1,7 +1,9 @@
 {
-	"description": "Tom Fruin is an artist born in ...",
-	"tags": "watertower, public art",
-	"discipline": "culture",
-	"date": "2018-10-10",
-	"gradeLevel": 8
+  "discipline": "culture", 
+  "isInRandom": true, 
+  "description": "Tom Fruin is an artist born in ...", 
+  "tags": "watertower, public art", 
+  "gradeLevel": 8, 
+  "date": "2018-10-10", 
+  "isOnHome": true
 }

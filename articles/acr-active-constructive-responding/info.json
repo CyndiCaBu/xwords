@@ -1,7 +1,9 @@
 {
-	"description": "Think about a time when you told someone some good news ...",
-	"tags": "positive relationships, communication",
-	"discipline": "positive psychology",
-	"date": "2018-11-11",
-	"gradeLevel": 7
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "Think about a time when you told someone some good news ...", 
+  "tags": "positive relationships, communication", 
+  "gradeLevel": 7, 
+  "date": "2018-11-11", 
+  "isOnHome": true
 }

@@ -1,6 +1,8 @@
 {
-	"description": "Link means connect. In x-word grammar, linkers are ... ",
-	"tags": "linkers, transition words",
-	"date": "2018-08-27",
-	"gradeLevel": 7
+  "isInRandom": true, 
+  "description": "Link means connect. In x-word grammar, linkers are ... ", 
+  "tags": "linkers, transition words", 
+  "gradeLevel": 7, 
+  "date": "2018-08-27", 
+  "isOnHome": true
 }

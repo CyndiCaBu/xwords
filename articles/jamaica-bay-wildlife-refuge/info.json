@@ -1,7 +1,9 @@
 {
-	"description": "Jamaica Bay Wildlife Refuge is a place to forget about...",
-	"tags": "water, nature",
-	"discipline": "science",
-	"date": "2018-09-08",
-	"gradeLevel": 7
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "Jamaica Bay Wildlife Refuge is a place to forget about...", 
+  "tags": "water, nature", 
+  "gradeLevel": 7, 
+  "date": "2018-09-08", 
+  "isOnHome": true
 }

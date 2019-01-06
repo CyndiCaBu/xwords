@@ -1,7 +1,9 @@
 {
-	"description": "In New York, anyone who rides the ...",
-	"tags": "subway, art",
-	"discipline": "culture",
-	"date": "2018-10-05",
-	"gradeLevel": 8
+  "discipline": "culture", 
+  "isInRandom": true, 
+  "description": "In New York, anyone who rides the ...", 
+  "tags": "subway, art", 
+  "gradeLevel": 8, 
+  "date": "2018-10-05", 
+  "isOnHome": true
 }

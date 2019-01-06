@@ -1,6 +1,8 @@
 {
-	"description": "English students can learn more about x-word grammar with ...",
-	"tags": "books, x-word grammar books",
-	"date": "2018-08-23",
-	"gradeLevel": 9
+  "isInRandom": true, 
+  "description": "English students can learn more about x-word grammar with ...", 
+  "tags": "books, x-word grammar books", 
+  "gradeLevel": 9, 
+  "date": "2018-08-23", 
+  "isOnHome": true
 }

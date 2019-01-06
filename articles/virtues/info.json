@@ -1,7 +1,9 @@
 {
-	"description": "People all over the world have specific ideas about ...",
-  	"tags": "virtues, morals",
-	"discipline": "positive psychology",
-  	"date": "2018-10-17",
-	"gradeLevel": 9
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "People all over the world have specific ideas about ...", 
+  "tags": "virtues, morals", 
+  "gradeLevel": 9, 
+  "date": "2018-10-17", 
+  "isOnHome": true
 }

@@ -1,7 +1,9 @@
 {
-	"description": "As humans, we have a strong survival instinct, a ...",
-	"tags": "positive, emotions",
-	"discipline": "positive psychology",
-	"date": "2018-10-14",
-	"gradeLevel": 10
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "As humans, we have a strong survival instinct, a ...", 
+  "tags": "positive, emotions", 
+  "gradeLevel": 10, 
+  "date": "2018-10-14", 
+  "isOnHome": true
 }

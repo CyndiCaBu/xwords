@@ -1,7 +1,9 @@
 {
-	"description": "Are you afraid of heights? Some people can't look ...",
-	"tags": "fly, float",
-	"discipline": "science",
-	"date": "2018-09-13",
-	"gradeLevel": 6
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "Are you afraid of heights? Some people can't look ...", 
+  "tags": "fly, float", 
+  "gradeLevel": 6, 
+  "date": "2018-09-13", 
+  "isOnHome": true
 }

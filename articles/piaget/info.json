@@ -1,7 +1,9 @@
 {
-	"description": "The name Piaget means different things to ...",
-	"tags": "learning, jewelry",
-	"discipline": "learning, business",
-	"date": "2018-09-06",
-	"gradeLevel": 8
+  "discipline": "learning, business", 
+  "isInRandom": true, 
+  "description": "The name Piaget means different things to ...", 
+  "tags": "learning, jewelry", 
+  "gradeLevel": 8, 
+  "date": "2018-09-06", 
+  "isOnHome": true
 }

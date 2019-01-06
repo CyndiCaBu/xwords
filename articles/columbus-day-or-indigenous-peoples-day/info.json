@@ -1,7 +1,9 @@
 {
-	"description": "In the United States, the second Monday in October is ...",
-	"tags": "indigenous, history",
-	"discipline": "history",
-	"date": "2018-10-01",
-	"gradeLevel": 9
+  "discipline": "history", 
+  "isInRandom": true, 
+  "description": "In the United States, the second Monday in October is ...", 
+  "tags": "indigenous, history", 
+  "gradeLevel": 9, 
+  "date": "2018-10-01", 
+  "isOnHome": true
 }

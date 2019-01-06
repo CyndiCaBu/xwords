@@ -1,7 +1,9 @@
 {
-	"description": "Tigers are often called big ...",
-	"tags": "cats, birds",
-	"discipline": "science",
-	"date": "2018-09-20",
-	"gradeLevel": 5
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "Tigers are often called big ...", 
+  "tags": "cats, birds", 
+  "gradeLevel": 5, 
+  "date": "2018-09-20", 
+  "isOnHome": true
 }

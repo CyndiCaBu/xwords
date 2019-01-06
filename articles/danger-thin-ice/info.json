@@ -1,7 +1,9 @@
 {
-	"description": "The warning on the sign here is very ...",
-	"tags": "winter, danger",
-	"discipline": "science",
-	"date": "2018-12-08",
-	"gradeLevel": 6
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "The warning on the sign here is very ...", 
+  "tags": "winter, danger", 
+  "gradeLevel": 6, 
+  "date": "2018-12-08", 
+  "isOnHome": true
 }

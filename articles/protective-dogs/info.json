@@ -1,7 +1,9 @@
 {
-	"description": "Puppies, like some other mammals, can’t ...",
-	"tags": "parent, animal",
-	"discipline": "science",
-	"date": "2018-09-21",
-	"gradeLevel": 6
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "Puppies, like some other mammals, can\u2019t ...", 
+  "tags": "parent, animal", 
+  "gradeLevel": 6, 
+  "date": "2018-09-21", 
+  "isOnHome": true
 }

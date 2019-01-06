@@ -1,7 +1,9 @@
 {
-	"description": "How do you feel about fur? If you have any ... ",
-	"tags": "fur, protest",
-	"discipline": "science",
-	"date": "2018-09-16",
-	"gradeLevel": 6
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "How do you feel about fur? If you have any ... ", 
+  "tags": "fur, protest", 
+  "gradeLevel": 6, 
+  "date": "2018-09-16", 
+  "isOnHome": true
 }

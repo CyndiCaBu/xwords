@@ -1,7 +1,9 @@
 {
-	"description": "When you think of classic American road food like ...",
-	"tags": "entrepreneur, Shake Shack",
-	"discipline": "business",
-	"date": "2018-09-04",
-	"gradeLevel": 9
+  "discipline": "business", 
+  "isInRandom": true, 
+  "description": "When you think of classic American road food like ...", 
+  "tags": "entrepreneur, Shake Shack", 
+  "gradeLevel": 9, 
+  "date": "2018-09-04", 
+  "isOnHome": true
 }

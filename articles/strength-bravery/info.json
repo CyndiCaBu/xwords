@@ -1,7 +1,9 @@
 {
-	"description": "Becoming fluent in a language you didn’t grow up with takes ...",
-	"tags": "strength, bravery",
-	"discipline": "positive psychology",
-	"date": "2018-11-2",
-	"gradeLevel": 7
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "Becoming fluent in a language you didn\u2019t grow up with takes ...", 
+  "tags": "strength, bravery", 
+  "gradeLevel": 7, 
+  "date": "2018-11-2", 
+  "isOnHome": true
 }

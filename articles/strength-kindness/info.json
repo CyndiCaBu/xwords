@@ -1,7 +1,9 @@
 {
-    "description": "Being kind to yourself and others can ... ",
-    "tags": "strength, kindness",
-    "discipline": "positive psychology",
-    "date": "2018-10-30",
-    "gradeLevel": 6
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "Being kind to yourself and others can ... ", 
+  "tags": "strength, kindness", 
+  "gradeLevel": 6, 
+  "date": "2018-10-30", 
+  "isOnHome": true
 }

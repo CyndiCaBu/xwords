@@ -1,7 +1,9 @@
 {
-	"description": "Growing up in the northeastern part of ...",
-	"tags": "malaria, drug resistance",
-	"discipline": "health",
-	"date": "2018-09-28",
-	"gradeLevel": 8
+  "discipline": "health", 
+  "isInRandom": true, 
+  "description": "Growing up in the northeastern part of ...", 
+  "tags": "malaria, drug resistance", 
+  "gradeLevel": 8, 
+  "date": "2018-09-28", 
+  "isOnHome": true
 }

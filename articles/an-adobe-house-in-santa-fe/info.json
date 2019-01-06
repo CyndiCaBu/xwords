@@ -1,7 +1,9 @@
 {
-	"description": "Santa Fe, New Mexico is a small city in the ...",
-	"tags": "adobe, traditional",
-	"discipline": "science",
-	"date": "2018-09-12",
-	"gradeLevel": 9
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "Santa Fe, New Mexico is a small city in the ...", 
+  "tags": "adobe, traditional", 
+  "gradeLevel": 9, 
+  "date": "2018-09-12", 
+  "isOnHome": true
 }

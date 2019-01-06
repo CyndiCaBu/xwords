@@ -1,7 +1,9 @@
 {
-	"description": "This character strength has a long name, but ...",
-	"tags": "strength, appreciation",
-	"discipline": "positive psychology",
-	"date": "2018-10-19",
-	"gradeLevel": 8
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "This character strength has a long name, but ...", 
+  "tags": "strength, appreciation", 
+  "gradeLevel": 8, 
+  "date": "2018-10-19", 
+  "isOnHome": true
 }

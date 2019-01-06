@@ -1,7 +1,9 @@
 {
-	"description": "How would it feel to ...",
-	"tags": "fun, exercise",
-	"discipline": "culture, health",
-	"date": "2018-10-08",
-	"gradeLevel": 8
+  "discipline": "culture, health", 
+  "isInRandom": true, 
+  "description": "How would it feel to ...", 
+  "tags": "fun, exercise", 
+  "gradeLevel": 8, 
+  "date": "2018-10-08", 
+  "isOnHome": true
 }

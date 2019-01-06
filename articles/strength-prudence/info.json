@@ -1,7 +1,9 @@
 {
-	"description": "When you put a pot or pan on the ...",
-	"tags": "strength, prudence",
-	"discipline": "positive psychology",
-	"date": "2018-10-24",
-	"gradeLevel": 7
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "When you put a pot or pan on the ...", 
+  "tags": "strength, prudence", 
+  "gradeLevel": 7, 
+  "date": "2018-10-24", 
+  "isOnHome": true
 }

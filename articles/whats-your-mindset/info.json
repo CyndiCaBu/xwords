@@ -1,7 +1,9 @@
 {
-	"description": "A mindset is a way of thinking, especially ...",
- 	"tags": "mindset, mentality",
-	"discipline": "science",
-	"date": "2018-10-16",
-	"gradeLevel": 7
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "A mindset is a way of thinking, especially ...", 
+  "tags": "mindset, mentality", 
+  "gradeLevel": 7, 
+  "date": "2018-10-16", 
+  "isOnHome": true
 }

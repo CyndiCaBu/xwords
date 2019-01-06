@@ -1,6 +1,8 @@
 {
-	"description": "As a verb, insert means put in. It’s a ... ",
-	"tags": "inserts, extra information",
-	"date": "2018-08-28",
-	"gradeLevel": 7
+  "isInRandom": true, 
+  "description": "As a verb, insert means put in. It\u2019s a ... ", 
+  "tags": "inserts, extra information", 
+  "gradeLevel": 7, 
+  "date": "2018-08-28", 
+  "isOnHome": true
 }

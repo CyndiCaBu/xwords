@@ -1,7 +1,9 @@
 {
-	"description": "People have grown and used sage for ...",
-	"tags": "herbs, traditions",
-	"discipline": "science",
-	"date": "2018-09-10",
-	"gradeLevel": 7
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "People have grown and used sage for ...", 
+  "tags": "herbs, traditions", 
+  "gradeLevel": 7, 
+  "date": "2018-09-10", 
+  "isOnHome": true
 }

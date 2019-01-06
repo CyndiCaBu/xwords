@@ -1,6 +1,8 @@
 {
-	"description": "English has 20 short words with a lot of power...",
-	"tags": "grammar, x-word grammar",
-	"date": "2018-08-22",
-	"gradeLevel": 6
+  "isInRandom": true, 
+  "description": "English has 20 short words with a lot of power...", 
+  "tags": "grammar, x-word grammar", 
+  "gradeLevel": 6, 
+  "date": "2018-08-22", 
+  "isOnHome": true
 }

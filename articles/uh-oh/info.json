@@ -1,7 +1,9 @@
 {
-	"description": "One morning in late summer, my friend and I took a ...",
-	"tags": "river, waste",
-	"discipline": "history, culture",
-	"date": "2018-09-07",
-	"gradeLevel": 7
+  "discipline": "history, culture", 
+  "isInRandom": true, 
+  "description": "One morning in late summer, my friend and I took a ...", 
+  "tags": "river, waste", 
+  "gradeLevel": 7, 
+  "date": "2018-09-07", 
+  "isOnHome": true
 }

@@ -1,7 +1,9 @@
 {
-	"description": "Good readers, like good language learners, know how to ...",
-	"tags": "reading, logic",
-	"discipline": "education",
-	"date": "2018-09-26",
-	"gradeLevel": 9
+  "discipline": "education", 
+  "isInRandom": true, 
+  "description": "Good readers, like good language learners, know how to ...", 
+  "tags": "reading, logic", 
+  "gradeLevel": 9, 
+  "date": "2018-09-26", 
+  "isOnHome": true
 }

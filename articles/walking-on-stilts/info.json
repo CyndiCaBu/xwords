@@ -1,7 +1,9 @@
 {
-	"description": "Have you ever stood next to someone walking on ...",
-	"tags": "stilts, perspective",
-	"discipline": "culture",
-	"date": "2018-10-02",
- 	"gradeLevel": 6
+  "discipline": "culture", 
+  "isInRandom": true, 
+  "description": "Have you ever stood next to someone walking on ...", 
+  "tags": "stilts, perspective", 
+  "gradeLevel": 6, 
+  "date": "2018-10-02", 
+  "isOnHome": true
 }

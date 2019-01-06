@@ -1,7 +1,9 @@
 {
-    "description": "You can find people all around the world who enjoy ...",
-    "tags": "food, West Indian Parade",
-    "discipline": "culture",
-    "date": "2018-10-03",
-    "gradeLevel": 6
+  "discipline": "culture", 
+  "isInRandom": true, 
+  "description": "You can find people all around the world who enjoy ...", 
+  "tags": "food, West Indian Parade", 
+  "gradeLevel": 6, 
+  "date": "2018-10-03", 
+  "isOnHome": true
 }

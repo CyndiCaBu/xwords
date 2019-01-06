@@ -1,7 +1,9 @@
 {
-    "description": "Judgment is a character strength related to wisdom.",
-    "tags": "strength, judgment,",
-    "discipline": "positive psychology",
-    "date": "2018-11-09",
-    "gradeLevel": 8
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "Judgment is a character strength related to wisdom.", 
+  "tags": "strength, judgment,", 
+  "gradeLevel": 8, 
+  "date": "2018-11-09", 
+  "isOnHome": true
 }

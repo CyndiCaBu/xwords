@@ -1,7 +1,9 @@
 {
-	"description": "Enjoying a delicious bowl of soup is like smiling when ...",
-	"tags": "savor, appreciate",
-	"discipline": "positive psychology",
-	"date": "2018-10-15",
-	"gradeLevel": 7
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "Enjoying a delicious bowl of soup is like smiling when ...", 
+  "tags": "savor, appreciate", 
+  "gradeLevel": 7, 
+  "date": "2018-10-15", 
+  "isOnHome": true
 }

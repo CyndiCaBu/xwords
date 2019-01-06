@@ -1,7 +1,9 @@
 {
-	"description": "In New York City, it’s easy to feel far from ...",
-	"tags": "rain, sewage",
-	"discipline": "environmental science",
-	"date": "2018-09-03",
-	"gradeLevel": 7
+  "discipline": "environmental science", 
+  "isInRandom": true, 
+  "description": "In New York City, it\u2019s easy to feel far from ...", 
+  "tags": "rain, sewage", 
+  "gradeLevel": 7, 
+  "date": "2018-09-03", 
+  "isOnHome": true
 }

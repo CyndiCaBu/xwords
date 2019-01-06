@@ -1,7 +1,9 @@
 {
-	"description": "Don't let the title fool you. Positive psychology is not ...",
-	"tags": "positive, well-being",
-	"discipline": "positive psychology",
-	"date": "2018-10-13",
-	"gradeLevel": 7
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "Don't let the title fool you. Positive psychology is not ...", 
+  "tags": "positive, well-being", 
+  "gradeLevel": 7, 
+  "date": "2018-10-13", 
+  "isOnHome": true
 }

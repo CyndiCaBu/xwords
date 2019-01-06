@@ -1,7 +1,9 @@
 {
-    "description": "Perseverance means persistence, finishing what you ...",
-    "tags": "strength, perseverance",
-    "discipline": "positive psychology",
-    "date": "2018-11-03",
-    "gradeLevel": 7
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "Perseverance means persistence, finishing what you ...", 
+  "tags": "strength, perseverance", 
+  "gradeLevel": 7, 
+  "date": "2018-11-03", 
+  "isOnHome": true
 }

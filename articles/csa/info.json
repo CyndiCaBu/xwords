@@ -1,7 +1,9 @@
 {
-	"description": "CSA stands for Community Supported ...",
-	"tags": "farms, support",
-	"discipline": "business",
-	"date": "2018-09-05",
-	"gradeLevel": 7
+  "discipline": "business", 
+  "isInRandom": true, 
+  "description": "CSA stands for Community Supported ...", 
+  "tags": "farms, support", 
+  "gradeLevel": 7, 
+  "date": "2018-09-05", 
+  "isOnHome": true
 }

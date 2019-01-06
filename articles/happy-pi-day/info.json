@@ -1,7 +1,9 @@
 {
-	"description": "You don’t have to love math to appreciate Pi ...",
-	"tags": "numbers, ratio",
-	"discipline": "mathematics",
-	"date": "2018-10-12",
-	"gradeLevel": 4
+  "discipline": "mathematics", 
+  "isInRandom": true, 
+  "description": "You don\u2019t have to love math to appreciate Pi ...", 
+  "tags": "numbers, ratio", 
+  "gradeLevel": 4, 
+  "date": "2018-10-12", 
+  "isOnHome": true
 }

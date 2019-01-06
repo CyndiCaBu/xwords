@@ -1,7 +1,9 @@
 {
-	"description": "Leadership involves taking action and serving as ...",
-	"tags": "strength, leadership",
-	"discipline": "positive psychology",
-	"date": "2018-10-27",
-	"gradeLevel": 8
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "Leadership involves taking action and serving as ...", 
+  "tags": "strength, leadership", 
+  "gradeLevel": 8, 
+  "date": "2018-10-27", 
+  "isOnHome": true
 }

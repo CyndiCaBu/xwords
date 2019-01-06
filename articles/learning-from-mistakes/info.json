@@ -1,7 +1,9 @@
 {
-	"description": "One winter afternoon, I went to a ...",
-	"tags": "learning, mistakes",
-	"discipline": "psychology",
-	"date": "2018-09-27",
-	"gradeLevel": 6
+  "discipline": "psychology", 
+  "isInRandom": true, 
+  "description": "One winter afternoon, I went to a ...", 
+  "tags": "learning, mistakes", 
+  "gradeLevel": 6, 
+  "date": "2018-09-27", 
+  "isOnHome": true
 }

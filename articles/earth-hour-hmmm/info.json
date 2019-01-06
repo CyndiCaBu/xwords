@@ -1,7 +1,9 @@
 {
-	"description": "How much energy do you use in the form of ...",
-	"tags": "candles, climate change",
-	"discipline": "science",
-	"date": "2018-09-14",
-	"gradeLevel": 7
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "How much energy do you use in the form of ...", 
+  "tags": "candles, climate change", 
+  "gradeLevel": 7, 
+  "date": "2018-09-14", 
+  "isOnHome": true
 }

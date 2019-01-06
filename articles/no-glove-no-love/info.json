@@ -1,7 +1,9 @@
 {
-	"description": "No glove, no love. I don't remember what ...",
-	"tags": "HIV, prevention",
-	"discipline": "health",
-	"date": "2018-09-29",
-	"gradeLevel": 4
+  "discipline": "health", 
+  "isInRandom": true, 
+  "description": "No glove, no love. I don't remember what ...", 
+  "tags": "HIV, prevention", 
+  "gradeLevel": 4, 
+  "date": "2018-09-29", 
+  "isOnHome": true
 }

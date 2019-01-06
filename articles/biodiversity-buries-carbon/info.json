@@ -1,7 +1,9 @@
 {
-	"description": "Thanks to special programs, grants and the help of many...",
-	"tags": "biodiversity, soil",
-	"discipline": "science",
-	"date": "2018-09-22",
-	"gradeLevel": 8
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "Thanks to special programs, grants and the help of many...", 
+  "tags": "biodiversity, soil", 
+  "gradeLevel": 8, 
+  "date": "2018-09-22", 
+  "isOnHome": true
 }

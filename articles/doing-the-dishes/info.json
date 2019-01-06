@@ -1,7 +1,9 @@
 {
-	"description": "Elisabeth does the dishes by hand even though she has a  ...",
-	"tags": "wash, organize",
-	"discipline": "science",
-	"date": "2018-09-23",
-	"gradeLevel": 6
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "Elisabeth does the dishes by hand even though she has a  ...", 
+  "tags": "wash, organize", 
+  "gradeLevel": 6, 
+  "date": "2018-09-23", 
+  "isOnHome": true
 }

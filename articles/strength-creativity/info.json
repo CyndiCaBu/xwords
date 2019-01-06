@@ -1,7 +1,9 @@
 {
-        "description": "Finding new ways to do things is a sign of ...",
-        "tags": "strength, creativity",
-        "discipline": "positive psychology",
-        "date": "2018-11-06",
-        "gradeLevel": 8
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "Finding new ways to do things is a sign of ...", 
+  "tags": "strength, creativity", 
+  "gradeLevel": 8, 
+  "date": "2018-11-06", 
+  "isOnHome": true
 }

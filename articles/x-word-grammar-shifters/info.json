@@ -1,6 +1,8 @@
 {
-	"description": "In this picture, the NYCFC ...",
-	"tags": "shifters, move, ",
-	"date": "2018-08-26",
-	"gradeLevel": 5
+  "isInRandom": true, 
+  "description": "In this picture, the NYCFC ...", 
+  "tags": "shifters, move, ", 
+  "gradeLevel": 5, 
+  "date": "2018-08-26", 
+  "isOnHome": true
 }

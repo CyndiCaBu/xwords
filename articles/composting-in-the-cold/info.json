@@ -1,7 +1,9 @@
 {
-	"description": "The sun was shining, but the temperature was only about ...",
-	"tags": "compost, freezing",
-	"discipline": "science",
-	"date": "2018-12-09",
-	"gradeLevel": 8
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "The sun was shining, but the temperature was only about ...", 
+  "tags": "compost, freezing", 
+  "gradeLevel": 8, 
+  "date": "2018-12-09", 
+  "isOnHome": true
 }

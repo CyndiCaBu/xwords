@@ -1,7 +1,9 @@
 {
-        "description": "Gratitude is a character strength that ...",
-        "tags": "strength, gratitude",
-        "discipline": "positive psychology",
-        "date": "2018-10-18",
-        "gradeLevel": 8
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "Gratitude is a character strength that ...", 
+  "tags": "strength, gratitude", 
+  "gradeLevel": 8, 
+  "date": "2018-10-18", 
+  "isOnHome": true
 }

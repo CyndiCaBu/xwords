@@ -1,7 +1,9 @@
 {
-	"description": "Smog is a type of air pollution that ...",
-	"tags": "sunsets, smog",
-	"discipline": "science",
-	"date": "2018-09-07",
-	"gradeLevel": 7
+  "discipline": "science", 
+  "isInRandom": true, 
+  "description": "Smog is a type of air pollution that ...", 
+  "tags": "sunsets, smog", 
+  "gradeLevel": 7, 
+  "date": "2018-09-07", 
+  "isOnHome": true
 }

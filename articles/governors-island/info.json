@@ -1,7 +1,9 @@
 {
-	"description": "Governors Island is a small island in New York Harbor ...",
-	"tags": "oysters, history",
-	"discipline": "history",
-	"date": "2018-09-25",
-	"gradeLevel": 9
+  "discipline": "history", 
+  "isInRandom": true, 
+  "description": "Governors Island is a small island in New York Harbor ...", 
+  "tags": "oysters, history", 
+  "gradeLevel": 9, 
+  "date": "2018-09-25", 
+  "isOnHome": true
 }

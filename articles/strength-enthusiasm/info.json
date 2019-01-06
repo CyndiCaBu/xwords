@@ -1,7 +1,9 @@
 {
-        "description": "Enthusiasm is a sense of excitement and interest in ...",
-        "tags": "strength, enthusiasm",
-        "discipline": "positive psychology",
-        "date": "2018-11-05",
-        "gradeLevel": 7
+  "discipline": "positive psychology", 
+  "isInRandom": true, 
+  "description": "Enthusiasm is a sense of excitement and interest in ...", 
+  "tags": "strength, enthusiasm", 
+  "gradeLevel": 7, 
+  "date": "2018-11-05", 
+  "isOnHome": true
 }

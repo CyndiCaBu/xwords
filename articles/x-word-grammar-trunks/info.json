@@ -1,6 +1,8 @@
 {
-	"description": "In written English, a sentence needs at least two parts to be ...",
-	"tags": "trunks, SVO",
-	"date": "2018-08-25",
-	"gradeLevel": 6
+  "isInRandom": true, 
+  "description": "In written English, a sentence needs at least two parts to be ...", 
+  "tags": "trunks, SVO", 
+  "gradeLevel": 6, 
+  "date": "2018-08-25", 
+  "isOnHome": true
 }
