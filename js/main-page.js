@@ -65,15 +65,24 @@ $(document).ready(function() {
 		}else{
 			var data = response;
 		}
-		// Sort by date (YYYY-MM-DD) newest first
-		var articles = data.articles.sort( function(a,b){
+		// Create the links for the articles that should be listed on the homepage
+		// Filter and sort by date (YYYY-MM-DD) newest first
+		var articles = data.articles.filter( function(a){ return a.isOnHome; } );
+		articles = articles.sort( function(a,b){
 			return a.date < b.date;
 		});
 		var html = '';
 		for( var i=0, l=articles.length; i<l; i+=1 ){
-			html += generate_article_link( articles[i] );
+			if( articles[i].isOnHome ){
+				html += generate_article_link( articles[i] );
+			}
 		}
 		$('#article-container').html( html );
+		
+		// Do somethine with the articles that belong in the random section
+		var randoms = data.articles.filter( function(a){ return a.isInRandom; } );
+		// TODO: add more code...
+		
 	});
 	$('#article-container').on('click','.button',function(){
 		window.location.href = $(this).data('link-url');
