@@ -56,7 +56,7 @@ Maybe[l] {it[s] had[vxd] a connection to the holidays that many people were[x] c
 
 # Would and could as present
 
-Now[l] {he[s] wonders[vxd] if he could[x] still do[v] that and if he could[x] find[v] a rocking horse big enough for an adult}[t-p]. {He[s] (doesn't)[x] know[v] where (to look)[inf] for one}[t-n], but[j] {he[s] would[x] like[v] (to try)[inf].
+Now[l] {he[s] wonders[vxd] if he could[x] still do[v] that and if he could[x] find[v] a rocking horse big enough for an adult}[t-p]. {He[s] (doesn't)[x] know[v] where (to look)[inf] for one}[t-n], but[j] {he[s] would[x] like[v] (to try)[inf]}[t-n].
 
 # Would and could as hypothetical, imagining something that's not true and maybe not even possible
 
