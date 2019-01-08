@@ -1,0 +1,36 @@
+{(Hidden x-words)[s] are[x] like Cape May diamonds}[t-n]: {easier (to find)[inf] if you know what you are[x] looking[vg] for}[extra]. 
+
+{(Only 3 x-words)[s] can[x] hide[v]}[t-n]: {do, does and did}[extra]. {When they are[x] not hiding[vg]}[f-t], {they[s] go[vxo] with the base form of the verb}[t-n].   
+
+# Hidden does has -s or -es on the end of the verb
+
+{Tricia[s] lives[vxs] in Cape May}[t-n], {a beach town in the southern tip of New Jersey}[extra]. {She[s] teaches[vxs] music}[t-n] {in one of the public schools there}[e-p]. {During her free time}[f-t], {she[s] enjoys[vxs] walking[ger] on the beach}[t-n]. Sometimes[l] {she[s] sees[vxs] Cape May diamonds}[t-n], {the small, clear stones that are polished to a sparkle by the pressure of sand and waves in the ocean}[extra]. {Although she likes looking at them}[f-ct], {she[s] (doesn’t)[x] collect[v] them the way some people do}[t-n]. {She[s] (doesn’t)[x] like[v] (to break)[inf] the rule “take nothing but pictures; leave nothing but footprints”}[t-n] - {a rule meant (to protect)[s] nature}[extra].
+
+# Hidden did in the -ed or irregular form of the verb in simple past
+
+{Last summer}[f-t] {Tricia[s] started[vxd] taking[ger] pictures of Cape May diamonds}[t-p]. {She[s] wanted[vxd] (to show)[inf] them to some friends who (didn’t)[x] know[v] what they were[x]}[t-p]. {She[s] took[vxd] the picture here}[t-p] {right after a wave came up}[e-t].
+
+# Hidden do looks just like the base form of the verb
+
+{(Lots of tourists)[s] visit[vxo] Cape May}[t-n]. {Many[s] go[vxo]}[t-n] {in summer}[e-t], {planning[ger] (to enjoy)[inf] the Atlantic Ocean and some fun at the beach}[extra]. {Others[s] focus[vxo] on wildlife}[t-n], {especially birds and seasonal butterfly migrations}[extra]. {(The Cape May National Wildlife Refuge and other places)[s] offer[vxo] plenty of activities and information for nature lovers}[t-n]. 
+
+# Turn statements into questions
+
+{(One way (0to find0)[inf] hidden x-words)[s] is[x] (to turn)[inf] sentences into questions}[t-n]. 
+
+# Hidden does plus the base form of the verb
+
+{Tricia[s] lives[vxs] in Cape May}[t-n]. 
+{Does Tricia[s] live[vxs] in Cape May}[t-n-nq]?
+
+# Hidden did plus the base form of the verb
+
+{Last summer}[f-t] {Tricia[s] started[vxd] taking[ger] pictures of Cape May diamonds}[t-p]
+
+{Did[x] Tricia[s] start[vxd] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t]? 
+
+# Hidden do plus the base form of the verb
+
+{(Lots of tourists)[s] visit[vxo] Cape May}[t-n].
+
+{Do[s] (lots of tourists)[s] visit[vxo] Cape May}[t-n-nq]?
