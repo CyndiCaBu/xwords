@@ -84,6 +84,19 @@ img.button.compact {
 	display: inline;
 }
 
+.verb-list-table {
+	width: 100%;
+}
+.verb-list-table tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+.verb-list-table th {
+	text-align: center;
+}
+.verb-list-table td {
+	padding: 0 10px;
+}
+
 /* Overrides: */
 .ui.red.button:hover,
 .ui.red.buttons .button:hover,
