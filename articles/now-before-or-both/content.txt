@@ -23,9 +23,7 @@
 
 {Max[s] has[x] given[dtn] away many toys and clothes}[t-b] {over the years}[e-t]. {(He and his family)[s] have[x] started[dtn] a regular habit of checking[ger] what they own and giving[ger] others whatever they (don’t)[x] want[v] or (don’t)[x] use[v]}[t-b].
 
-{In the two sentences above}[f-p], {(“has[x] given[dtn]” and “have[x] started[dtn]”)[s] show[vxo] a connection between the past and now}[t-n]. {(Max and his family)[s] did[vxd] something}[t-p] {at least once before}[e-t], but[j] {we[s] (don’t)[x] know[v] exactly when or how many times}[t-n]. {They[s](’ll)[x] probably do[x] it again}[t-n] {in the future}[e-t].
-
-{(Some x-words)[s] are[x] very specific about time}[t-n].
+{In the two sentences above}[f-p], {(“has[x] given[dtn]” and “have[x] started[dtn]”)[s] show[vxo] a connection between the past and now}[t-n]. {(Max and his family)[s] did[vxd] something}[t-p] {at least once before}[e-t], but[j] {we[s] (don’t)[x] know[v] exactly when or how many times}[t-n]. {They[s](’ll)[x] probably do[x] it again}[t-n] {in the future}[e-t]. {(The x-words "has" and "have" with the DTN form of the verb)[s] show[vxo] that connection between before and now}[t-n].
 
 # Now, also known as the present
 
@@ -54,7 +52,7 @@ Maybe[l] {it[s] had[vxd] a connection to the holidays that many people were[x] c
 
 # Would and could as past
  
-{(Seeing[ger] that rocking horse or rocking sheep on the sidewalk)[s] made[vxd] Max think about his own childhood}[t-p]. {He[s] used[vxd] (to have)[inf] a similar toy}[t-p], {but bigger}[extra]. {He[s] would[x] ride[v] it every day}[t-p], {especially around nap time}[extra]. {(His parents)[s] told[vxd] him that he would[x] often fall[v] asleep on it}[t-p], and[j] {they[s] were[x] always amazed that he could[x] keep his balance. 
+{(Seeing[ger] that rocking horse or rocking sheep on the sidewalk)[s] made[vxd] Max think about his own childhood}[t-p]. {He[s] used[vxd] (to have)[inf] a similar toy}[t-p], {but bigger}[extra]. {He[s] would[x] ride[v] it every day}[t-p], {especially around nap time}[extra]. {(His parents)[s] told[vxd] him that he would[x] often fall[v] asleep on it}[t-p], and[j] {they[s] were[x] always amazed that he could[x] keep his balance}[t-p]. 
 
 # Would and could as present
 
