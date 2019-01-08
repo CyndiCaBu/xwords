@@ -1,14 +1,14 @@
-{(X-words)[s] show[vxo] time}[t-n]. {Verbs[s] can[x] give[v] you a clue}[t-n], {especially when the x-words are[x] hiding[vg] inside them}[extra]. 
-
-{(The simple past in the -ed and irregular form)[s] makes[vxs] the past easy (to recognize)[inf]}[t-n], {like in “laughed” and “found” here}[extra].
+{(X-words)[s] show[vxo] time}[t-n]. {Verbs[s] can[x] give[v] you a clue}[t-n], {especially when the x-words are[x] hiding[vg] inside them}[extra].
 
 # Before with hidden did[x]
 
+{(The simple past in the -ed and irregular form)[s] makes[vxs] the past easy (to recognize)[inf]}[t-n], {like in “laughed” and “found” here}[extra]:
+
 {Max[s] laughed[vxd] out loud}[t-p] {when he found[vxd] this toy sheep on the sidewalk one morning}[e-t].
 
-{(The simple present)[s] has[x] -s or -es on the end of the verb}[t-n], {as in “walks, says and refuses” below}[extra].
-
 # Now with hidden does[x]
+
+{(The simple present)[s] has[x] -s or -es on the end of the verb}[t-n], {as in “walks, says and refuses” below}[extra].
 
 {He[s] walks[vxs] near that corner often and says[vxs] he never saw anything like that there before}[t=p]. {He[s] refuses[vxs] (to throw)[inf] away cute toys like that from his own family}[t-n], {explaining[ger] that it(’s)[s] more useful (to donate)[inf] them to a thrift shop}[extra].
 
@@ -24,7 +24,6 @@
 {Max[s] has[x] given[dtn] away many toys and clothes}[t-b] {over the years}[e-t]. {(He and his family)[s] have[x] started[dtn] a regular habit of checking[ger] what they own and giving[ger] others whatever they (don’t)[x] want[v] or (don’t)[x] use[v]}[t-b].
 
 {In the two sentences above}[f-p], {(“has[x] given[dtn]” and “have[x] started[dtn]”)[s] show[vxo] a connection between the past and now}[t-n]. {(Max and his family)[s] did[vxd] something}[t-p] {at least once before}[e-t], but[j] {we[s] (don’t)[x] know[v] exactly when or how many times}[t-n]. {They[s](’ll)[x] probably do[x] it again}[t-n] {in the future}[e-t].
-
 
 {(Some x-words)[s] are[x] very specific about time}[t-n].
 
