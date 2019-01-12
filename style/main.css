@@ -97,6 +97,10 @@ img.button.compact {
 	padding: 0 10px;
 }
 
+.about-section{
+	box-shadow: 0px 0px 5px #1678c2 !important;
+}
+
 /* Overrides: */
 .ui.red.button:hover,
 .ui.red.buttons .button:hover,
