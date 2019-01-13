@@ -234,6 +234,7 @@ var ShifterContrast = new FindTheWord({
 	classSummary: 'shifter-contrast-paragraph-summary',
 	label: 'contrast shifter'
 });
+var XV = new FindTheWordMulti([XWords,Verbs]);
 var XVS = new FindTheWordMulti([XWords,Verbs,Subjects]);
 var XS = new FindTheWordMulti([XWords,Subjects]);
 
@@ -426,11 +427,12 @@ function load_content_make_sts( content, game, title ){
 	});
 }
 
-$('#menu-item-xwords').on('click',function(){load_content_find_words(path+'/content.txt',XWords,'Find the X Words'); return false;});
+$('#menu-item-xwords').on('click',function(){load_content_find_words(path+'/content.txt',XWords,'Find the X-Words'); return false;});
+$('#menu-item-xwords-verbs').on('click',function(){load_content_find_words(path+'/content.txt',XV,'Find the X-Word, Verb Pairs'); return false;});
 $('#menu-item-verbs').on('click',function(){load_content_find_words(path+'/content.txt',Verbs,'Find the Verbs'); return false;});
-$('#menu-item-hidden-xwords').on('click',function(){load_content_find_words(path+'/content.txt',HiddenXWords,'Find the Hidden X Words'); return false;});
-$('#menu-item-xvs').on('click',function(){load_content_find_words(path+'/content.txt',XVS,'Find the X Words, Subjects and Verbs'); return false;});
-$('#menu-item-xs').on('click',function(){load_content_find_words(path+'/content.txt',XS,'Find the X Words and Subjects'); return false;});
+$('#menu-item-hidden-xwords').on('click',function(){load_content_find_words(path+'/content.txt',HiddenXWords,'Find the Hidden X-Words'); return false;});
+$('#menu-item-xvs').on('click',function(){load_content_find_words(path+'/content.txt',XVS,'Find the X-Words, Subjects and Verbs'); return false;});
+$('#menu-item-xs').on('click',function(){load_content_find_words(path+'/content.txt',XS,'Find the X-Words and Subjects'); return false;});
 $('#menu-item-subjects').on('click',function(){load_content_find_words(path+'/content.txt',Subjects,'Find the Subjects'); return false;});
 $('#menu-item-infinitives').on('click',function(){load_content_find_words(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
 $('#menu-item-trunks').on('click',function(){load_content_find_words(path+'/content.txt',Trunks,'Find the Trunks'); return false;});

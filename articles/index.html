@@ -61,39 +61,55 @@
 			<span class="item divider"></span>
 
 			<div class="ui dropdown item">
-				<span id="exercise-title">Find the X Words</span>
+				<span id="exercise-title">Find the X-Words</span>
 				<i class="dropdown icon"></i>
 				<div class="menu">
-					<div class="item" id="menu-item-xwords">X Words</div>
-					<div class="item" id="menu-item-verbs">Verbs</div>
-					<div class="item" id="menu-item-hidden-xwords">Hidden X-Words</div>
-					<div class="item" id="menu-item-subjects">Subjects</div>
+					<div class="item">
+						<i class="dropdown icon"></i>
+						X-Words
+						<div class="menu">
+							<div class="item" id="menu-item-xwords">X-Words</div>
+							<!-- new -->
+							<div class="item" id="menu-item-xwords-verbs">X-Word, Verb Pairs</div>
+							<div class="item" id="menu-item-xs">X-Words and Subjects</div>
+							<div class="item" id="menu-item-xvs">X-Words, Subjects, Verbs</div>
+							<div class="item" id="menu-item-hidden-xwords">Hidden X-Words</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<i class="dropdown icon"></i>
+						Sentences
+						<div class="menu">
+							<div class="item" id="menu-item-trunks">Trunks</div>
+							<div class="item" id="menu-item-linkers">Linkers</div>
+							<div class="item" id="menu-item-extra-info">Extra Information</div>
+							<div class="item">
+								<i class="dropdown icon"></i>
+								Shifters
+								<div class="menu">
+									<div class="item" id="menu-item-shifter-time">Time</div>
+									<div class="item" id="menu-item-shifter-place">Place</div>
+									<div class="item" id="menu-item-shifter-reason">Reason</div>
+									<div class="item" id="menu-item-shifter-condition">Condition</div>
+									<div class="item" id="menu-item-shifter-contrast">Contrast</div>
+									<!--<div class="item" id="menu-item-shifter-shift">Shift the Shifters</div>-->
+								</div>
+							</div>
+						</div>
+					</div>
+					
 					<div class="item">
 						<i class="dropdown icon"></i>
 						More ...
 						<div class="menu">
-							<div class="item" id="menu-item-xvs">XWords, Subjects, Verbs</div>
-							<div class="item" id="menu-item-xs">XWords and Subjects</div>
 							<div class="item" id="menu-item-infinitives">Infinitives</div>
-							<div class="item" id="menu-item-trunks">Trunks</div>
-							<div class="item" id="menu-item-linkers">Linkers</div>
-							<div class="item" id="menu-item-extra-info">Extra Information</div>
+							<div class="item" id="menu-item-make-questions">Turn the Statements into Questions</div>
+							<!-- not yet built -->
+							<!-- <div class="item" id="menu-item-time">Time</div> -->
 						</div>
 					</div>
-					<div class="item">
-						<i class="dropdown icon"></i>
-						Shifters
-						<div class="menu">
-							<div class="item" id="menu-item-shifter-time">Time</div>
-							<div class="item" id="menu-item-shifter-place">Place</div>
-							<div class="item" id="menu-item-shifter-reason">Reason</div>
-							<div class="item" id="menu-item-shifter-condition">Condition</div>
-							<div class="item" id="menu-item-shifter-contrast">Contrast</div>
-							<!--<div class="item" id="menu-item-shifter-shift">Shift the Shifters</div>-->
-						</div>
-					</div>
-					<div class="divider"></div>
-					<div class="item" id="menu-item-make-questions">Turn the Statements into Questions</div>
+
 					<!--
 					<div class="divider"></div>
 					<div class="header">Help</div>
