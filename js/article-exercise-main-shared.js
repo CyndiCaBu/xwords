@@ -320,6 +320,8 @@ function load_content_find_words( content, game, title ){
 		$('.x-words-content').off('click.findTheWord');
 		if( game.total( '.x-words-content' ) === 0 ){
 			alert( 'There are no examples of '+game.label+' in this article. Please choose a different exercise' );
+		}else{
+			$("html, body").animate({ scrollTop: 0 }, "slow");
 		}
 		//$('#article-image')[0].src = '../../../articles/'+articleUrl+'image.jpg';
 		//$('#article-icon')[0].src = '../../../articles/'+articleUrl+'image.jpg';
@@ -427,24 +429,24 @@ function load_content_make_sts( content, game, title ){
 	});
 }
 
-$('#menu-item-xwords').on('click',function(){load_content_find_words(path+'/content.txt',XWords,'Find the X-Words'); return false;});
-$('#menu-item-xwords-verbs').on('click',function(){load_content_find_words(path+'/content.txt',XV,'Find the X-Word, Verb Pairs'); return false;});
-$('#menu-item-verbs').on('click',function(){load_content_find_words(path+'/content.txt',Verbs,'Find the Verbs'); return false;});
-$('#menu-item-hidden-xwords').on('click',function(){load_content_find_words(path+'/content.txt',HiddenXWords,'Find the Hidden X-Words'); return false;});
-$('#menu-item-xvs').on('click',function(){load_content_find_words(path+'/content.txt',XVS,'Find the X-Words, Subjects and Verbs'); return false;});
-$('#menu-item-xs').on('click',function(){load_content_find_words(path+'/content.txt',XS,'Find the X-Words and Subjects'); return false;});
-$('#menu-item-subjects').on('click',function(){load_content_find_words(path+'/content.txt',Subjects,'Find the Subjects'); return false;});
-$('#menu-item-infinitives').on('click',function(){load_content_find_words(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
-$('#menu-item-trunks').on('click',function(){load_content_find_words(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
-$('#menu-item-linkers').on('click',function(){load_content_find_words(path+'/content.txt',Linkers,'Find the Linkers'); return false;});
-$('#menu-item-extra-info').on('click',function(){load_content_find_words(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;});
-$('#menu-item-shifter-time').on('click',function(){load_content_find_words(path+'/content.txt',ShifterTime,'Find the Time Shifters'); return false;});
-$('#menu-item-shifter-place').on('click',function(){load_content_find_words(path+'/content.txt',ShifterPlace,'Find the Place Shifters'); return false;});
-$('#menu-item-shifter-reason').on('click',function(){load_content_find_words(path+'/content.txt',ShifterReason,'Find the Reason Shifters'); return false;});
-$('#menu-item-shifter-condition').on('click',function(){load_content_find_words(path+'/content.txt',ShifterCondition,'Find the Condition Shifters'); return false;});
-$('#menu-item-shifter-contrast').on('click',function(){load_content_find_words(path+'/content.txt',ShifterContrast,'Find the Contrast Shifters'); return false;});
-$('#menu-item-shifter-shift').on('click',function(){load_content_make_sts(path+'/content.txt',null,'Shift the Shifters'); return false;});
-$('#menu-item-make-questions').on('click',function(){load_content_make_questions(path+'/content.txt',null,'Make Question'); return false;});
+$('.start-exercise-xwords').on('click',function(){load_content_find_words(path+'/content.txt',XWords,'Find the X-Words'); return false;});
+$('.start-exercise-xwords-verbs').on('click',function(){load_content_find_words(path+'/content.txt',XV,'Find the X-Word, Verb Pairs'); return false;});
+$('.start-exercise-verbs').on('click',function(){load_content_find_words(path+'/content.txt',Verbs,'Find the Verbs'); return false;});
+$('.start-exercise-hidden-xwords').on('click',function(){load_content_find_words(path+'/content.txt',HiddenXWords,'Find the Hidden X-Words'); return false;});
+$('.start-exercise-xvs').on('click',function(){load_content_find_words(path+'/content.txt',XVS,'Find the X-Words, Subjects and Verbs'); return false;});
+$('.start-exercise-xs').on('click',function(){load_content_find_words(path+'/content.txt',XS,'Find the X-Words and Subjects'); return false;});
+$('.start-exercise-subjects').on('click',function(){load_content_find_words(path+'/content.txt',Subjects,'Find the Subjects'); return false;});
+$('.start-exercise-infinitives').on('click',function(){load_content_find_words(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
+$('.start-exercise-trunks').on('click',function(){load_content_find_words(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
+$('.start-exercise-linkers').on('click',function(){load_content_find_words(path+'/content.txt',Linkers,'Find the Linkers'); return false;});
+$('.start-exercise-extra-info').on('click',function(){load_content_find_words(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;});
+$('.start-exercise-shifter-time').on('click',function(){load_content_find_words(path+'/content.txt',ShifterTime,'Find the Time Shifters'); return false;});
+$('.start-exercise-shifter-place').on('click',function(){load_content_find_words(path+'/content.txt',ShifterPlace,'Find the Place Shifters'); return false;});
+$('.start-exercise-shifter-reason').on('click',function(){load_content_find_words(path+'/content.txt',ShifterReason,'Find the Reason Shifters'); return false;});
+$('.start-exercise-shifter-condition').on('click',function(){load_content_find_words(path+'/content.txt',ShifterCondition,'Find the Condition Shifters'); return false;});
+$('.start-exercise-shifter-contrast').on('click',function(){load_content_find_words(path+'/content.txt',ShifterContrast,'Find the Contrast Shifters'); return false;});
+$('.start-exercise-shifter-shift').on('click',function(){load_content_make_sts(path+'/content.txt',null,'Shift the Shifters'); return false;});
+$('.start-exercise-make-questions').on('click',function(){load_content_make_questions(path+'/content.txt',null,'Make Question'); return false;});
 
 
 $(document)
