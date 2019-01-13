@@ -1,10 +1,10 @@
 function generate_article_link( data ){
 	var html = '';
-	html += '<div class="item">';
+	html += '<div class="item search-element">';
 	html += '	<div class="image">';
 	html += '		<img src="'+data.url+'/thumbnail.jpg">';
 	html += '	</div>';
-	html += '	<div class="content">';
+	html += '	<div class="content search-data">';
 	html += '		<a class="header" href="articles/#'+data.url.split('/').slice(1).join('/')+'">'+data.title+'</a>';
 	html += '		<div class="meta">';
 	if( data.hasOwnProperty('date') ){
@@ -83,6 +83,8 @@ $(document).ready(function() {
 		var randoms = data.articles.filter( function(a){ return a.isInRandom; } );
 		// TODO: add more code...
 		
+		// Setup search
+		ArticleSearch();
 	});
 	$('#article-container').on('click','.button',function(){
 		window.location.href = $(this).data('link-url');

@@ -1,4 +1,4 @@
-$(function(){
+function ArticleSearch(){
 
 	var domSearch = new DomSearch( '.search-container', '.search-element', '.search-data' );
 	domSearch.generateIndex();
@@ -18,4 +18,4 @@ $(function(){
 	}
 
 	document.getElementById('search-bar').onkeyup = runSearch;
-});
+};

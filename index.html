@@ -12,11 +12,15 @@
 	<title>X-Word Grammar</title>
 
 	<link rel="stylesheet" type="text/css" href="libs/Semantic-UI-CSS/semantic.min.css">
+	<link rel="stylesheet" type="text/css" href="libs/dom-search/dom-search.css">
 	<link rel="stylesheet" type="text/css" href="style/main.css">
 
 	<script src="libs/jquery.min.js"></script>
 	<script src="libs/Semantic-UI-CSS/semantic.min.js"></script>
 	<script src="libs/list.js"></script>
+	<script src="libs/dom-search/dom-search.js"></script>
+	
+	<script src="js/article-search.js"></script>
 	<script src="js/main-page.js"></script>
 
 </head>
@@ -34,7 +38,12 @@
 
 			<!-- Articles -->
 			<h2 class="ui dividing header"><i class="map icon"></i>Newest Articles</h2>
-			<div class="ui divided items" id="article-container"></div>
+			<div class="ui fluid icon labeled input">
+				<div class="ui label">Search:</div>
+				<input type="text" id="search-bar" placeholder="strength">
+				<i class="search icon"></i>
+			</div>
+			<div class="ui divided items search-container" id="article-container"></div>
 
 
 			<!--
