@@ -47,3 +47,5 @@ if __name__ == '__main__':
 	subprocess.Popen(['git','commit','-am','build.py run and update of site'], shell=True, env=env).communicate()
 	print 'Pushing data to server'
 	subprocess.Popen(['git','push','origin','gh-pages'], shell=True, env=env).communicate()
+
+	# useless change 0
