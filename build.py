@@ -39,12 +39,11 @@ def build_data():
 if __name__ == '__main__':
 	env = os.environ.copy()
 	env['HOME'] = env['USERPROFILE']
-	#print '\n'.join( sorted(env.keys()) )
-	#print env['HOME']
-	#print subprocess.Popen(['git push origin gh-pages'], shell=True, env=env).communicate()
-	print subprocess.Popen(['git','pull'], shell=True, env=env).communicate()
-	#build_data()
-	print subprocess.Popen(['git','commit','-am','build.py run and update of site'], shell=True, env=env).communicate()
-	print subprocess.Popen(['git','push','origin','gh-pages'], shell=True, env=env).communicate()
-	
-	
+	print 'Getting newest data from Git server.'
+	subprocess.Popen(['git','pull'], shell=True, env=env).communicate()
+	print 'Building site content.'
+	build_data()
+	print 'Committing updated site'
+	subprocess.Popen(['git','commit','-am','build.py run and update of site'], shell=True, env=env).communicate()
+	print 'Pushing data to server'
+	subprocess.Popen(['git','push','origin','gh-pages'], shell=True, env=env).communicate()
