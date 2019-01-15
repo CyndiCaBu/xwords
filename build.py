@@ -37,15 +37,27 @@ def build_data():
 		f.write( json.dumps( data ) )
 
 if __name__ == '__main__':
+
+	# THESE environment variables are for the _netrc if we want to use it
+	# %HOME% will be set to 'C:\Users\"username"'.
+	# Go that that folder (cd %HOME%) and make a file called '_netrc'
+	# Note: Again, for Windows, you need a '_netrc' file, not a '.netrc' file.
+	# Its content is quite standard (Replace the <examples> with your values):
+	#	machine <hostname1>
+	#	login <login1>
+	#	password <password1>
+
 	env = os.environ.copy()
 	env['HOME'] = env['USERPROFILE']
+
 	print 'Getting newest data from Git server.'
 	subprocess.Popen(['git','pull'], shell=True, env=env).communicate()
+
 	print 'Building site content.'
 	build_data()
+
 	print 'Committing updated site'
 	subprocess.Popen(['git','commit','-am','build.py run and update of site'], shell=True, env=env).communicate()
+
 	print 'Pushing data to server'
 	subprocess.Popen(['git','push','origin','gh-pages'], shell=True, env=env).communicate()
-
-	# useless change 0
