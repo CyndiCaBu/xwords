@@ -37,11 +37,14 @@ def build_data():
 		f.write( json.dumps( data ) )
 
 if __name__ == '__main__':
-	#build_data()
 	env = os.environ.copy()
 	env['HOME'] = env['USERPROFILE']
 	#print '\n'.join( sorted(env.keys()) )
 	#print env['HOME']
 	#print subprocess.Popen(['git push origin gh-pages'], shell=True, env=env).communicate()
 	print subprocess.Popen(['git','pull'], shell=True, env=env).communicate()
+	#build_data()
+	print subprocess.Popen(['git','commit','-am','build.py run and update of site'], shell=True, env=env).communicate()
 	print subprocess.Popen(['git','push','origin','gh-pages'], shell=True, env=env).communicate()
+	
+	
