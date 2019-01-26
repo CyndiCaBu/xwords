@@ -21,7 +21,7 @@ var tokens = {
 	'v': '<span class="verb">|</span>',
 	'verb': '<span class="verb">|</span>',
 	
-	'vg': '<span class="verb-ing">|</span>',
+	'vg': '<span class="verb verb-ing">|</span>',
 	'ger': '<span class="gerund">|</span>',
 	
 	'x': '<span class="xword">|</span>',
