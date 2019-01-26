@@ -28,13 +28,13 @@
 
 {To connect two trunks}[f-r], {you[s] need[vxo] (to use)[inf] one of the joiners}[t-n], {also known as coordinating conjunctions or FANBOYS}[extra]. {(That acronym)[s] stands[vxs] for these  joiner words}[t-n]:
 
-for
-and
-nor
-but
-or
-yet
-so
+ - for
+ - and
+ - nor
+ - but
+ - or
+ - yet
+ - so
 
 # Sentence Patterns and Rhythm
 
