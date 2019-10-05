@@ -2,6 +2,19 @@
 
 https://cyndicabu.github.io/xwords/
 
+## Workflow for creating new articles
+
+For updating old articles just follow steps 4-6.
+
+1. Copy an article folder in the articles/ folder.
+2. Rename the new folder
+3. Modify the contents of the new folder (images, content.txt, info.json, etc...)
+4. In the xwrords folder, right click -> "Open git bash here"
+5. Type in the terminal (aka black box) "python build.py"
+6. Press enter
+ - read the messages that appear and take appropriate actions
+ - if it asks for a username/password it is your github username/password
+
 ## XWords Markdown Cheatsheet
 
 Paragraphs are separated by a blank link:
