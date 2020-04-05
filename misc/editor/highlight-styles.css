@@ -29,7 +29,9 @@
 .f-cd,
 .front-shifter-condition,
 .f-ct,
-.front-shifter-contrast {background-color: #ff4bf3}
+.front-shifter-contrast,
+.shifter-front,
+.shifter-end {background-color: #ff4bf3}
 .e-t,
 .end-shifter-time,
 .e-p,
