@@ -69,7 +69,13 @@ $(document).ready(function() {
 		// Filter and sort by date (YYYY-MM-DD) newest first
 		var articles = data.articles.filter( function(a){ return a.isOnHome; } );
 		articles = articles.sort( function(a,b){
-			return a.date < b.date;
+			if( a.date == b.date ){
+				return 0;
+			}else if( a.date < b.date ){
+				return 1;
+			}else{
+				return -1;
+			}
 		});
 		var html = '';
 		for( var i=0, l=articles.length; i<l; i+=1 ){
