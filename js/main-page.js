@@ -8,7 +8,8 @@ function generate_article_link( data ){
 	html += '		<a class="header" href="articles/#'+data.url.split('/').slice(1).join('/')+'">'+data.title+'</a>';
 	html += '		<div class="meta">';
 	if( data.hasOwnProperty('date') ){
-		html += '			<div class="ui label"><i class="calendar icon"></i> '+data.date+'</div>';
+		// hiding the date, uncomment to show
+		//html += '			<div class="ui label"><i class="calendar icon"></i> '+data.date+'</div>';
 	}
 	if( data.hasOwnProperty('gradeLevel') ){
 		html += '			<div class="ui label"><i class="chart bar icon"></i> '+data.gradeLevel+'</div>';
@@ -19,7 +20,8 @@ function generate_article_link( data ){
 	if( data.hasOwnProperty('tags') ){
 		var tags = data.tags.split(',');
 		for( var i=0, l=tags.length; i<l; i+=1 ){
-			html += '			<div class="ui label">'+tags[i].trim()+'</div>';
+			// hiding tags, uncomment to show
+			//html += '			<div class="ui label">'+tags[i].trim()+'</div>';
 		}
 	}
 	html += '		</div>';
