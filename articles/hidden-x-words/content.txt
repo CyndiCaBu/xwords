@@ -4,11 +4,11 @@
 
 # Hidden does has -s or -es on the end of the verb
 
-{Tricia[s] lives[vxs] in Cape May}[t-n], {a beach town in the southern tip of New Jersey}[extra]. {She[s] teaches[vxs] music}[t-n] {in one of the public schools there}[e-p]. {During her free time}[f-t], {she[s] enjoys[vxs] walking[ger] on the beach}[t-n]. Sometimes[l] {she[s] sees[vxs] Cape May diamonds}[t-n], {the small, clear stones that are polished to a sparkle by the pressure of sand and waves in the ocean}[extra]. {Although she likes looking at them}[f-ct], {she[s] (doesn’t)[x] collect[v] them the way some people do}[t-n]. {She[s] (doesn’t)[x] like[v] (to break)[inf] the rule “take nothing but pictures; leave nothing but footprints”}[t-n] - {a rule meant (to protect)[s] nature}[extra].
+{Carrie[s] lives[vxs] in Cape May}[t-n], {a beach town in the southern tip of New Jersey}[extra]. {She[s] teaches[vxs] music}[t-n] {in one of the public schools there}[e-p]. {During her free time}[f-t], {she[s] enjoys[vxs] walking[ger] on the beach}[t-n]. Sometimes[l] {she[s] sees[vxs] Cape May diamonds}[t-n], {the small, clear stones that are polished to a sparkle by the pressure of sand and waves in the ocean}[extra]. {Although she likes looking at them}[f-ct], {she[s] (doesn’t)[x] collect[v] them the way some people do}[t-n]. {She[s] (doesn’t)[x] like[v] (to break)[inf] the rule “take nothing but pictures; leave nothing but footprints”}[t-n] - {a rule meant (to protect)[s] nature}[extra].
 
 # Hidden did in the -ed or irregular form of the verb in simple past
 
-{Last summer}[f-t] {Tricia[s] started[vxd] taking[ger] pictures of Cape May diamonds}[t-p]. {She[s] wanted[vxd] (to show)[inf] them to some friends who (didn’t)[x] know[v] what they were[x]}[t-p]. {She[s] took[vxd] the picture here}[t-p] {right after a wave came up}[e-t].
+{Last summer}[f-t] {Carrie[s] started[vxd] taking[ger] pictures of Cape May diamonds}[t-p]. {She[s] wanted[vxd] (to show)[inf] them to some friends who (didn’t)[x] know[v] what they were[x]}[t-p]. {She[s] took[vxd] the picture here}[t-p] {right after a wave came up}[e-t].
 
 # Hidden do looks just like the base form of the verb
 
@@ -20,14 +20,14 @@
 
 # Hidden does plus the base form of the verb
 
-{Tricia[s] lives[vxs] in Cape May}[t-n]. 
-{Does Tricia[s] live[vxs] in Cape May}[t-n-nq]?
+{Carrie[s] lives[vxs] in Cape May}[t-n]. 
+{Does Carrie[s] live[vxs] in Cape May}[t-n-nq]?
 
 # Hidden did plus the base form of the verb
 
-{Last summer}[f-t] {Tricia[s] started[vxd] taking[ger] pictures of Cape May diamonds}[t-p]
+{Last summer}[f-t] {Carrie[s] started[vxd] taking[ger] pictures of Cape May diamonds}[t-p]
 
-{Did[x] Tricia[s] start[vxd] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t]? 
+{Did[x] Carrie[s] start[vxd] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t]? 
 
 # Hidden do plus the base form of the verb
 
