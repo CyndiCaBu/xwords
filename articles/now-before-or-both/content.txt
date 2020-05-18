@@ -2,15 +2,15 @@
 
 # Before with hidden did[x]
 
-{(The simple past in the -ed and irregular form)[s] makes[vxs] the past easy (to recognize)[inf]}[t-n], {like in “laughed” and “found” here}[extra]:
+{(The simple past in the -ed and irregular form)[s] makes[vxs] the past easy (to recognize)[inf]}[t-n], {like in “laughed” here}[extra]:
 
-{Max[s] laughed[vxd] out loud}[t-p] {when he found[vxd] this toy sheep on the sidewalk one morning}[e-t].
+{Max[s] laughed[vxd] out loud}[t-p] {when he saw[vxd] this toy horse outside one morning}[e-t].
 
 # Now with hidden does[x]
 
 {(The simple present)[s] has[x] -s or -es on the end of the verb}[t-n], {as in “walks, says and refuses” below}[extra].
 
-{He[s] walks[vxs] near that corner often and says[vxs] he never saw anything like that there before}[t=p]. {He[s] refuses[vxs] (to throw)[inf] away cute toys like that from his own family}[t-n], {explaining[ger] that it(’s)[s] more useful (to donate)[inf] them to a thrift shop}[extra].
+{He[s] walks[vxs] down that street often and says[vxs] he never saw anything like that there before}[t=p]. {He[s] refuses[vxs] (to throw)[inf] away cute toys like that from his own family}[t-n], {explaining[ger] that it(’s)[s] more useful (to donate)[inf] them to a thrift shop}[extra].
 
 # Check the x-word
 
@@ -42,9 +42,7 @@
  - was[x]
  - were[x]
 
-{Max[s] (doesn’t)[x] know[v] what happened to that sheep}[t-n]. {It[s] was[x] sitting[vg] on the sidewalk}[t-p] {that one morning}[e-t], but[j] {it[s] (isn’t)[x] sitting[vg] there anymore}[t-n].
-
-Maybe[l] {it[s] had[vxd] a connection to the holidays that many people were[x] celebrating[vg] when he first saw it}[t-p]. Perhaps[l] {someone[s] put[vxd] it on the sidewalk (to surprise)[inf] a friend getting off the subway across the street}[t-p]. {It[s](’s)[x] possible that its owner was[x] in the pizza shop behind the little sheep}[t-n], {watching[ger] it the whole time}[extra]. {Max[s] will[x] never know[v] the real story}[t-n], but[j] {he[s] can[x] think[v] of lots of possibilities}[t-n]. 
+{Max[s] (doesn’t)[x] know[v] what happened to that horse}[t-n]. {It[s] was[x] sitting[vg] near the basketball hoop}[t-p] {that one morning}[e-t], but[j] {it[s] (isn’t)[x] sitting[vg] there anymore}[t-n].
 
 # Check the context
 
@@ -52,7 +50,7 @@ Maybe[l] {it[s] had[vxd] a connection to the holidays that many people were[x] c
 
 # Would and could as past
  
-{(Seeing[ger] that rocking horse or rocking sheep on the sidewalk)[s] made[vxd] Max think about his own childhood}[t-p]. {He[s] used[vxd] (to have)[inf] a similar toy}[t-p], {but bigger}[extra]. {He[s] would[x] ride[v] it every day}[t-p], {especially around nap time}[extra]. {(His parents)[s] told[vxd] him that he would[x] often fall[v] asleep on it}[t-p], and[j] {they[s] were[x] always amazed that he could[x] keep his balance}[t-p]. 
+{(Seeing[ger] that rocking horse)[s] made[vxd] Max think about his own childhood}[t-p]. {He[s] used[vxd] (to have)[inf] a similar toy}[t-p], {but bigger}[extra]. {He[s] would[x] ride[v] it every day}[t-p], {especially around nap time}[extra]. {(His parents)[s] told[vxd] him that he would[x] often fall[v] asleep on it}[t-p], and[j] {they[s] were[x] always amazed that he could[x] keep his balance}[t-p]. 
 
 # Would and could as present
 
@@ -60,4 +58,4 @@ Now[l] {he[s] wonders[vxd] if he could[x] still do[v] that and if he could[x] fi
 
 # Would and could as hypothetical, imagining something that's not true and maybe not even possible
 
-{What would[x] you[s] do[x]}[t-n-nq] {if you found a toy like this on the sidewalk}[e-cd]? {Would[x] you[s] ask[x] people nearby for information}[t-n-nq]? {If you[s] could[x] be sure it was[x] clean and available}[f-cd], {would[x] you[s] take[v] it home}[t-n-nq]?
+{What would[x] you[s] do[x]}[t-n-nq] {if you found a toy like this near someone's trash can}[e-cd]? {Would[x] you[s] ask[x] people nearby for information}[t-n-nq]? {If you[s] could[x] be sure it was[x] clean and available}[f-cd], {would[x] you[s] take[v] it home}[t-n-nq]?
