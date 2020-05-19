@@ -1,4 +1,29 @@
-{(English verbs)[s] have[vxo] different forms}[t-n], {like verbs in many other languages}[extra]. {(The base form)[s] is[x] just the verb}[t-n]: {come, go, eat, tell, etc}[extra]. {(The infinitive)[s] is[x] almost the same}[t-n], but[j] {it[s] starts[vxs] with to}[t-n]: {(to come)[inf], (to go)[inf], (to eat)[inf] and (to tell)[inf]}[extra]. 
+{How do[x] x-words[s] match[v] verbs}[t-n-nq]? {To answer that}[f-r], {you[s] need[vxo] (to understand)[inf] verb forms}[t-n]. {Like verbs in many other languages, but not all,}[extra] {(English verbs)[s] have[vxo] different forms}[t-n].
+
+{(The base form)[s] is[x] just the verb}[t-n]: {come, go, eat, tell, work, play, etc}[extra].
+
+{(The past form and the 3rd form)[s] end[vxo] in -ed for regular verbs like worked and played}[t-n], {and something else for irregular verbs like came, went, ate, and told}[extra]. 
+
+{(The -ing form)[s] is[x] the base form plus the -ing ending}[t-n]: {coming, going, eating, working, playing, etc}[extra]. {(The -ing form)[s] can[x] act[v] as the main verb}[t-n]. {For instance}[l], {where was[x] (this sea lion)[s] going[v]}[t-p-nq]? {(The -ing form)[s] can[x] also act[v] as a subject}[t-n]: {(Going to a fish market)[s] (doesn't)[x] usually involve[s] sea lions}[t-n-nq]. {(The -ing form)[s] can[x] also act[v] as an adjective or a source of extra information}[t-n], {too}[extra]. 
+
+{(The infinitive)[s] uses[vxs] "to" in front of the base form}[t-n]: {(to come)[inf], (to go)[inf], (to eat)[inf] and (to tell)[inf]}[extra]. 
+
+{(X-words)[s] match[vxo] verbs in a logical way}[t-n].
+
+# The base form
+ - do[x], does[x], did[x]
+ - can[x], could[x], will[x], would[x], shall[x], should[x]
+ - must[x], might[x], may[x]
+ 
+ # The -ing form
+  - am[x], is[x], are[x], was[x], were[x]
+  
+ # The DTN form
+  - have[x], has[x], had[x]
+
+{(To practice)[inf] matching x-words to verb forms}[f-r], {you[s] can[v] choose[v] (to find)[v] x-words and verbs}[t-n] {in any exercise here}[extra].
+
+{(To learn)[f-r] more about the infinitive}[f-r], {you[s] can[v] read[v] more below}[t-n].
 
 {(The infinitive)[s] is[x] used (to express)[inf] purpose, desire, effort and other ideas}[t-n]. {When 2 verbs are[x] used together}[f-t], {(the second)[s] might[x] need[v] (to be)[inf] in the infinitive form}[t-n]. {It[s] depends[vxs] on the first verb}[t-n]. 
 
