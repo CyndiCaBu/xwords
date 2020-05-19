@@ -1,25 +1,27 @@
 {How do[x] x-words[s] match[v] verbs}[t-n-nq]? {To answer that}[f-r], {you[s] need[vxo] (to understand)[inf] verb forms}[t-n]. {Like verbs in many other languages, but not all,}[extra] {(English verbs)[s] have[vxo] different forms}[t-n].
 
-{(The base form)[s] is[x] just the verb}[t-n]: {come, go, eat, tell, work, play, etc}[extra].
+{(The base form)[s] is[x] just the verb}[t-n]: {work, play, come, go, etc}[extra].
 
-{(The past form and the 3rd form)[s] end[vxo] in -ed for regular verbs like worked and played}[t-n], {and something else for irregular verbs like came, went, ate, and told}[extra]. 
+{(The past form and the 3rd form)[s] end[vxo] in -ed for regular verbs like worked and played}[t-n], {and something else for irregular verbs like came and went}[extra]. 
 
-{(The -ing form)[s] is[x] the base form plus the -ing ending}[t-n]: {coming, going, eating, working, playing, etc}[extra]. {(The -ing form)[s] can[x] act[v] as the main verb}[t-n]. {For instance}[l], {where was[x] (this sea lion)[s] going[v]}[t-p-nq]? {(The -ing form)[s] can[x] also act[v] as a subject}[t-n]: {(Going to a fish market)[s] (doesn't)[x] usually involve[s] sea lions}[t-n-nq]. {(The -ing form)[s] can[x] also act[v] as an adjective or a source of extra information}[t-n], {too}[extra]. 
+{(The -ing form)[s] is[x] the base form plus the -ing ending}[t-n]: {working, playing, coming, going, etc}[extra]. {(The -ing form)[s] can[x] act[v] as the main verb}[t-n]. {For instance}[l], {where was[x] (this sea lion)[s] going[v]}[t-p-nq]? 
 
-{(The infinitive)[s] uses[vxs] "to" in front of the base form}[t-n]: {(to come)[inf], (to go)[inf], (to eat)[inf] and (to tell)[inf]}[extra]. 
+{(The -ing form)[s] can[x] also act[v] as a subject}[t-n]: {(Going to a fish market)[s] (doesn't)[x] usually involve[s] sea lions}[t-n-nq]. 
+
+{(The infinitive)[s] uses[vxs] "to" in front of the base form}[t-n]: {(to work)[inf], (to play)[inf], (to come)[inf],(to go)[inf], etc}[extra]. 
 
 {(X-words)[s] match[vxo] verbs in a logical way}[t-n].
 
 # The base form
- - do[x], does[x], did[x]
- - can[x], could[x], will[x], would[x], shall[x], should[x]
- - must[x], might[x], may[x]
+do[x], does[x], did[x]
+can[x], could[x], will[x], would[x], shall[x], should[x]
+must[x], might[x], may[x]
  
- # The -ing form
-  - am[x], is[x], are[x], was[x], were[x]
+# The -ing form
+am[x], is[x], are[x], was[x], were[x]
   
- # The DTN form
-  - have[x], has[x], had[x]
+# The DTN form
+have[x], has[x], had[x]
 
 {(To practice)[inf] matching x-words to verb forms}[f-r], {you[s] can[v] choose[v] (to find)[v] x-words and verbs}[t-n] {in any exercise here}[extra].
 
