@@ -27,12 +27,12 @@ table, th, td {
 <tr>
 <td>do, does, did, can, could, will, would, shall, should, must, might, may</td>
 <td>Base form</td>
-<td>{Wildlife[s] can[x] go[v] wherever it wants}[t-n] {in the Galapagos}[e-p], {including in shops)[extra].
+<td>{Wildlife[s] can[x] go[v] wherever it wants}[t-n] {in the Galapagos}[e-p].
 </tr>
 <tr>
 <td>am, is, are, was, were</td>
 <td>-ing form</td>
-<td>{(The birds)[s] are[x] facing[v] the opposite direction}[t-n], {compared to the sealion}[extra].
+<td>{(The birds)[s] are[x] standing[v] close to each other}[t-n].</td>
 </tr>
 <tr>
 <td>have, has, had</td>
