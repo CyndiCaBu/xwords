@@ -1,14 +1,31 @@
-{How do[x] x-words[s] match[v] verbs}[t-n-nq]? {To answer that}[f-r], {you[s] need[vxo] (to understand)[inf] verb forms}[t-n]. {Like verbs in many other languages, but not all,}[extra] {(English verbs)[s] have[vxo] different forms}[t-n].
+{How do[x] x-words[s] match[v] verbs}[t-n-nq]? {To answer that}[f-r], {you[s] need[vxo] (to understand)[inf] verb forms}[t-n]. {Like verbs in many other languages, {(English verbs)[s] have[vxo] different forms}[t-n].
 
-{(The base form)[s] is[x] just the verb}[t-n]: {work, play, come, go, etc}[extra].
+<style>
+table, th, td {
+  padding: 10px;
+}
+</style>
+<table>
+<tr>
+<th>The base form</th>
+<th>The past form</th>
+<th>The DTN form</th>
+<th>The -ing form</th>
+</tr>
+<tr>
+<td>work, play, come, go</td>
+<td>worked, played, came, went</td>
+<td>worked, played, came, gone</td>
+<td>working, playing, coming, going</td>
+</tr>
+</table>
 
-{(The past form and the 3rd form)[s] end[vxo] in -ed for regular verbs like worked and played}[t-n], {and something else for irregular verbs like came and went}[extra]. 
 
-{(The -ing form)[s] is[x] the base form plus the -ing ending}[t-n]: {working, playing, coming, going, etc}[extra]. {(The -ing form)[s] can[x] act[v] as the main verb}[t-n]. {For instance}[l], {where was[x] (this sea lion)[s] going[v]}[t-p-nq]? 
+ {(The -ing form)[s] can[x] act[v] as the main verb}[t-n]. 
+ {For instance}[l], {where was[x] (this sea lion)[s] going[v]}[t-p-nq]? 
 
-{(The -ing form)[s] can[x] also act[v] as a subject}[t-n]: {(Going to a fish market)[s] (doesn't)[x] usually involve[v] sea lions}[t-n-nq]. 
-
-{(The infinitive)[s] uses[vxs] "to" in front of the base form}[t-n]: {(to work)[inf], (to play)[inf], (to come)[inf],(to go)[inf], etc}[extra]. 
+{(The -ing form)[s] can[x] also act[v] as a subject}[t-n].
+{(Going to a fish market)[s] (doesn't)[x] usually involve[v] sea lions}[t-n-nq]. 
 
 {(X-words)[s] match[vxo] verbs in a logical way}[t-n].
 
@@ -17,7 +34,6 @@ table, th, td {
   padding: 10px;
 }
 </style>
-<table style="width:100%">
 <table>
 <tr>
 <th>X-words</th>
@@ -47,7 +63,8 @@ table, th, td {
 
 # Infinitives
 
-{(The infinitive)[s] is[x] used (to express)[inf] purpose, desire, effort and other ideas}[t-n]. {When 2 verbs are[x] used together}[f-t], {(the second)[s] might[x] need[v] (to be)[inf] in the infinitive form}[t-n]. {It[s] depends[vxs] on the first verb}[t-n]. 
+{(The infinitive)[s] uses[vxs] "to" in front of the base form}[t-n]: {(to work)[inf], (to play)[inf], (to come)[inf],(to go)[inf], etc}[extra]. 
+{(We)[s] use[vxo] the infinitive (to express)[inf] purpose, desire, effort and other ideas}[t-n]. {When 2 verbs are[x] used together}[f-t], {(the second)[s] might[x] need[v] (to be)[inf] in the infinitive form}[t-n]. {It[s] depends[vxs] on the first verb}[t-n]. 
 
 {Here[s] are[x] several verbs that take infinitive companions}[t-n], {organized by their general meaning}[extra].
 
