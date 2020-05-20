@@ -6,7 +6,7 @@
 
 {(The -ing form)[s] is[x] the base form plus the -ing ending}[t-n]: {working, playing, coming, going, etc}[extra]. {(The -ing form)[s] can[x] act[v] as the main verb}[t-n]. {For instance}[l], {where was[x] (this sea lion)[s] going[v]}[t-p-nq]? 
 
-{(The -ing form)[s] can[x] also act[v] as a subject}[t-n]: {(Going to a fish market)[s] (doesn't)[x] usually involve[s] sea lions}[t-n-nq]. 
+{(The -ing form)[s] can[x] also act[v] as a subject}[t-n]: {(Going to a fish market)[s] (doesn't)[x] usually involve[v] sea lions}[t-n-nq]. 
 
 {(The infinitive)[s] uses[vxs] "to" in front of the base form}[t-n]: {(to work)[inf], (to play)[inf], (to come)[inf],(to go)[inf], etc}[extra]. 
 
@@ -41,9 +41,11 @@ table, th, td {
 </tr>
 </table>
 
-{(To practice)[inf] matching x-words to verb forms}[f-r], {you[s] can[v] choose[v] (to find)[inf] x-words and verbs}[t-n] {in any exercise here}[extra].
+{(To practice)[inf] matching x-words to verb forms}[f-r], {you[s] can[x] choose[v] (to find)[inf] x-words and verbs}[t-n] {in any exercise here}[extra].
 
-{(To learn)[f-r] more about the infinitive}[f-r], {you[s] can[x] read[v] more below}[t-n].
+{(To learn)[inf] more about the infinitive}[f-r], {you[s] can[x] read[v] more below}[t-n].
+
+# Infinitives
 
 {(The infinitive)[s] is[x] used (to express)[inf] purpose, desire, effort and other ideas}[t-n]. {When 2 verbs are[x] used together}[f-t], {(the second)[s] might[x] need[v] (to be)[inf] in the infinitive form}[t-n]. {It[s] depends[vxs] on the first verb}[t-n]. 
 
