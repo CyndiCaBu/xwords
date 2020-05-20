@@ -13,19 +13,22 @@
 {(X-words)[s] match[vxo] verbs in a logical way}[t-n].
 
 # The base form
+
  - do[x], does[x], did[x]
  - can[x], could[x], will[x], would[x], shall[x], should[x]
  - must[x], might[x], may[x]
  
 # The -ing form
+
  - am[x], is[x], are[x], was[x], were[x]
   
 # The DTN form
+
  - have[x], has[x], had[x]
 
-{(To practice)[inf] matching x-words to verb forms}[f-r], {you[s] can[v] choose[v] (to find)[v] x-words and verbs}[t-n] {in any exercise here}[extra].
+{(To practice)[inf] matching x-words to verb forms}[f-r], {you[s] can[v] choose[v] (to find)[inf] x-words and verbs}[t-n] {in any exercise here}[extra].
 
-{(To learn)[f-r] more about the infinitive}[f-r], {you[s] can[v] read[v] more below}[t-n].
+{(To learn)[f-r] more about the infinitive}[f-r], {you[s] can[x] read[v] more below}[t-n].
 
 {(The infinitive)[s] is[x] used (to express)[inf] purpose, desire, effort and other ideas}[t-n]. {When 2 verbs are[x] used together}[f-t], {(the second)[s] might[x] need[v] (to be)[inf] in the infinitive form}[t-n]. {It[s] depends[vxs] on the first verb}[t-n]. 
 
