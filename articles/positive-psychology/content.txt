@@ -1,6 +1,6 @@
-{(Don't)[x] let[v] the title fool you}[t-n-nq]. {(Positive psychology)[s] is[x] not about trying[ger] (to be)[inf] positive all the time}[t-n-nq]. {It[s]('s)[x] not the same as positive thinking}[t-n-nq]. {It[s] (doesn't)[x] deny[v] reality}[t-n-nq]. {It[s] doesn't[x] pretend[v] that you can[x] get whatever you want just by thinking[ger] positive thoughts}[t-n-nq]. {After all}[l], {what will[x] change[v]}[t-n-nq] {if you (don't)[x] make a plan and take real steps (to reach)[inf] your goals}[e-cd]?
+{(Don't)[x] let[v] the title fool you}[t-n-nq]. {(Positive psychology)[s] is[x] not about trying[ger] (to be)[inf] positive all the time}[t-n-nq]. {It[s]('s)[x] not the same as positive thinking}[t-n-nq]. {It[s] (doesn't)[x] deny[v] reality}[t-n-nq]. {It[s] (doesn't)[x] pretend[v] that you can[x] get whatever you want just by thinking[ger] positive thoughts}[t-n-nq]. {After all}[l], {what will[x] change[v]}[t-n-nq] {if you (don't)[x] make a plan and take real steps (to reach)[inf] your goals}[e-cd]?
 
-{(Positive psychology)[s] is[x] a science}[t-n]. {It[s] involves[vxs] hard work and systematic study}[t-n]. {It[s] tries[vxs] (to define)[inf] its terms}[t-n]. (For instance)[l], {what does[x]  (the word "positive")[s] mean[v]}[t-n-nq]? {How can[x] we[s] measure[v] positivity}[t-n-nq]? {How about happiness - what does[x] that[s] mean}[t-n-nq]? {How can[x] we[s] measure[v] it}[t-n-nq]? {Is[x] happiness[s] even the goal}[t-n-nq]}? {(Trying to answer these questions)[s] is[x] part of positive psychology}[t-n].
+{(Positive psychology)[s] is[x] a science}[t-n]. {It[s] involves[vxs] hard work and systematic study}[t-n]. {It[s] tries[vxs] (to define)[inf] its terms}[t-n]. (For instance)[l], {what does[x]  (the word "positive")[s] mean[v]}[t-n-nq]? {How can[x] we[s] measure[v] positivity}[t-n-nq]? {How about happiness - what does[x] that[s] mean}[t-n-nq]? {How can[x] we[s] measure[v] it}[t-n-nq]? {Is[x] happiness[s] even the goal}[t-n-nq]? {(Trying to answer these questions)[s] is[x] part of positive psychology}[t-n].
 
 # Happiness
 
@@ -25,6 +25,6 @@
  - Positive emotions
  - ACR, Active constructive response
 
-{(Those who argue that we can't be happy or enjoy well-being without money)[s] have[vxo] a point}[t-n]. {We[s] do[x] need[v] enough money (to fulfill)[inf] our basic needs without making[ger] us worry about living[ger] from paycheck to paycheck}[t-n]. {We[s] do[x] not, however, need[v] a lot of money (to be)[inf] happy or (to flourish)[inf]}[t-n-nq]. 
+{(Those who argue that we (can't)[x] be happy or enjoy well-being without money)[s] have[vxo] a point}[t-n]. {We[s] do[x] need[v] enough money (to fulfill)[inf] our basic needs without making[ger] us worry about living[ger] from paycheck to paycheck}[t-n]. {We[s] do[x] not, however, need[v] a lot of money (to be)[inf] happy or (to flourish)[inf]}[t-n-nq]. 
 
 {(Increasing[ger] our well-being[ger])[s] is[x] a deeper goal than increasing[ger] our finances beyond a certain point}[t-n]. {It[s]('s)[x] also the main goal of positive psychology}[t-n].
