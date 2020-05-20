@@ -12,19 +12,29 @@
 
 {(X-words)[s] match[vxo] verbs in a logical way}[t-n].
 
-# The base form
-
- - do[x], does[x], did[x]
- - can[x], could[x], will[x], would[x], shall[x], should[x]
- - must[x], might[x], may[x]
- 
-# The -ing form
-
- - am[x], is[x], are[x], was[x], were[x]
-  
-# The DTN form
-
- - have[x], has[x], had[x]
+<table style="width:100%">
+<table>
+<tr>
+<th>X-words</th>
+<th>Verb forms</th>
+<th>Examples</th>
+</tr>
+<tr>
+<td>do, does, did, can, could, will, would, shall, should, must, might, may</td>
+<td>Base form</td>
+<td>{Wildlife[s] can[x] go[v] wherever it wants}[t-n] {in the Galapagos}[e-p], {including in shops)[extra].
+</tr>
+<tr>
+<td>am, is, are, was, were</td>
+<td>-ing form</td>
+<td>{(The birds)[s] are[x] facing[v] the opposite direction}[t-n], {compared to the sealion}[extra].
+</tr>
+<tr>
+<td>have, has, had</td>
+<td>DTN form</td>
+<td>{(Most people)[s] (haven't)[x] been[v] to the Galapagos}[t-n].</td>
+</tr>
+</table>
 
 {(To practice)[inf] matching x-words to verb forms}[f-r], {you[s] can[v] choose[v] (to find)[inf] x-words and verbs}[t-n] {in any exercise here}[extra].
 
