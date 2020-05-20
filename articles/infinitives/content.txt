@@ -12,6 +12,11 @@
 
 {(X-words)[s] match[vxo] verbs in a logical way}[t-n].
 
+<style>
+table, th, td {
+  padding: 10px;
+}
+</style>
 <table style="width:100%">
 <table>
 <tr>
