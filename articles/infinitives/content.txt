@@ -13,15 +13,15 @@
 {(X-words)[s] match[vxo] verbs in a logical way}[t-n].
 
 # The base form
-do[x], does[x], did[x]
-can[x], could[x], will[x], would[x], shall[x], should[x]
-must[x], might[x], may[x]
+ - do[x], does[x], did[x]
+ - can[x], could[x], will[x], would[x], shall[x], should[x]
+ - must[x], might[x], may[x]
  
 # The -ing form
-am[x], is[x], are[x], was[x], were[x]
+ - am[x], is[x], are[x], was[x], were[x]
   
 # The DTN form
-have[x], has[x], had[x]
+ - have[x], has[x], had[x]
 
 {(To practice)[inf] matching x-words to verb forms}[f-r], {you[s] can[v] choose[v] (to find)[v] x-words and verbs}[t-n] {in any exercise here}[extra].
 
