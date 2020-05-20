@@ -1,4 +1,4 @@
-{How do[x] x-words[s] match[v] verbs}[t-n-nq]? {To answer that}[f-r], {you[s] need[vxo] (to understand)[inf] verb forms}[t-n]. {Like verbs in many other languages, {(English verbs)[s] have[vxo] different forms}[t-n].
+{How do[x] x-words[s] match[v] verbs}[t-n-nq]? {To answer that}[f-r], {you[s] need[vxo] (to understand)[inf] verb forms}[t-n]. {Like verbs in many other languages}[f], {(English verbs)[s] have[vxo] different forms}[t-n].
 
 <style>
 table, th, td {
@@ -13,16 +13,15 @@ table, th, td {
 <th>The -ing form</th>
 </tr>
 <tr>
-<td>work, play, come, go</td>
-<td>worked, played, came, went</td>
-<td>worked, played, came, gone</td>
-<td>working, playing, coming, going</td>
+<td>work, play, go</td>
+<td>worked, played, went</td>
+<td>worked, played, gone</td>
+<td>working, playing, going</td>
 </tr>
 </table>
 
-
- {(The -ing form)[s] can[x] act[v] as the main verb}[t-n]. 
- {For instance}[l], {where was[x] (this sea lion)[s] going[v]}[t-p-nq]? 
+{(The -ing form)[s] can[x] act[v] as the main verb}[t-n]. 
+{For instance}[l], {where was[x] (this sea lion)[s] going[v]}[t-p-nq]? 
 
 {(The -ing form)[s] can[x] also act[v] as a subject}[t-n].
 {(Going to a fish market)[s] (doesn't)[x] usually involve[v] sea lions}[t-n-nq]. 
