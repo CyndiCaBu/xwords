@@ -27,9 +27,9 @@ def build_data():
 			try:
 				entry.update( **json.loads( jsonfile.read() ) )
 			except ValueError:
-				print 'Error parsing json file: %s' % f
+				print( 'Error parsing json file: %s' % f )
 		except IOError:
-			print 'Unable to open info.json: %s' % f
+			print('Unable to open info.json: %s' % f)
 		finally:
 			jsonfile.close()
 		data['articles'].append( entry )
@@ -50,14 +50,14 @@ if __name__ == '__main__':
 	env = os.environ.copy()
 	env['HOME'] = env['USERPROFILE']
 
-	print 'Getting newest data from Git server.'
+	print('Getting newest data from Git server.')
 	subprocess.Popen(['git','pull'], shell=True, env=env).communicate()
 
-	print 'Building site content.'
+	print('Building site content.')
 	build_data()
 
-	print 'Committing updated site'
+	print('Committing updated site')
 	subprocess.Popen(['git','commit','-am','build.py run and update of site'], shell=True, env=env).communicate()
 
-	print 'Pushing data to server'
+	print('Pushing data to server')
 	subprocess.Popen(['git','push','origin','gh-pages'], shell=True, env=env).communicate()
