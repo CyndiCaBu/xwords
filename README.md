@@ -2,14 +2,14 @@
 
 https://cyndicabu.github.io/xwords/
 
-## Workflow for creating new articles
+## Workflow for creating new articles - from my desktop?
 
 For updating old articles just follow steps 4-6.
 
-1. Copy an article folder in the articles/ folder.
+1. Copy an article folder in the articles/ folder: HOW if this is not from desktop?
 2. Rename the new folder
 3. Modify the contents of the new folder (images, content.txt, info.json, etc...)
-4. In the xwrords folder, right click -> "Open git bash here"
+4. In the xwords folder, right click -> "Open git bash here"
 5. Type in the terminal (aka black box) "python build.py"
 6. Press enter
  - read the messages that appear and take appropriate actions
