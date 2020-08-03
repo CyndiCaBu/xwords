@@ -1,3 +1,4 @@
+<body>
 <div class="ui text container">
 		
 		<p>The 10 most common verbs in English are <b>irregular verbs</b>. Here’s a list, organized by sound and spelling patterns, with 9 of the top ten in <b>bold</b>.</p>
@@ -495,3 +496,4 @@
 		<p><b>Note</b>: One of the most common verbs is missing from this list because it is also used as an x-word.&nbsp;It’s the <b>BE</b> family: am, is, are, was, were.</p>
 
 	</div>
+	</body>
