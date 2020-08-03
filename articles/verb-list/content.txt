@@ -4,7 +4,7 @@
 		
 		<tbody>
 		<th>Base Form</th>
-		<th>V/XD (Hidden Did)</th>
+		<th>Past</th>
 		<th>D-T-N Form</th>
 		</tr>
 		<tr>
