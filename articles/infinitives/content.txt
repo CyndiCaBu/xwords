@@ -42,17 +42,17 @@ table, th, td {
 <tr>
 <td>do, does, did, can, could, will, would, shall, should, must, might, may</td>
 <td>Base form</td>
-<td>{Wildlife[s] can[x] go[v] wherever it wants}[t-n] {in the Galapagos}[e-p].
+<td>{Wildlife[s] can[x] go[v] wherever it wants}[t-n].
 </tr>
 <tr>
 <td>am, is, are, was, were</td>
 <td>-ing form</td>
-<td>{(The birds)[s] are[x] standing[v] close to each other}[t-n].</td>
+<td>{(The fish market)[s] is[x] open to more than humans}[t-n].</td>
 </tr>
 <tr>
 <td>have, has, had</td>
 <td>DTN form</td>
-<td>{(Most people)[s] (haven't)[x] been[v] to the Galapagos}[t-n].</td>
+<td>{(Wildlife in the Galapagos)[s] (has)[x] been[v] protected}[t-n] {since 1934}[e-t].</td>
 </tr>
 </table>
 
