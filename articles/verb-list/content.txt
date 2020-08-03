@@ -1,5 +1,6 @@
 {(The 10 most common verbs in English)[s] are[x] irregular verbs}[t-n]. {They[s] are[x] bold in the list below}[t-n], {which is[x] organized by spelling patterns and rhyming sounds}[extra]. {(The BE group of x-words)[s], {am[x], is[x], are[x], was[x], were[x]}[extra}, {is[x] not listed here}[t-n].
 		
+	<table>
 		<tbody>
 		<th>Base Form</th>
 		<th>Past</th>
@@ -490,4 +491,4 @@
 		</tbody>
 		</table>
 		</body>
-</div>
+	</table>
