@@ -1,4 +1,4 @@
-{(The 10 most common verbs in English)[s] are[x] irregular verbs}[t-n]. {They[s] are[x] listed first below}[t-n]. {(The rest of this list)[s] is[x] organized by spelling patterns and rhyming sounds}[t-n]. {(The BE group of x-words)[s], {am[x], is[x], are[x], was[x], were[x]}[extra}, {is[x] not included}[t-n].
+{(The 10 most common verbs in English)[s] are[x] irregular verbs}[t-n]. {They[s] are[x] listed first below}[t-n]. {(The rest of this list)[s] is[x] organized by spelling patterns and rhyming sounds}[t-n]. {The BE group of x-words}[s], {am[x], is[x], are[x], was[x], were[x]}[extra], {is[x] not included}[t-n-nq].
 
 |Base Form| Past | DTN|
 |:---|---:|---:|
