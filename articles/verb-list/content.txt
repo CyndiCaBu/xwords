@@ -1,7 +1,8 @@
 <body>
 <div class="ui text container">
 		
-		<p>The 10 most common verbs in English are <b>irregular verbs</b>. Here’s a list, organized by sound and spelling patterns, with 9 of the top ten in <b>bold</b>.</p>
+		<p>The 10 most common verbs in English are <b>irregular verbs</b>. They are <b>bold</b> in the list below. It is organized by sound and spelling patterns, with the DTN forms rhyming. The BE family not on this list because it is also used as x-words: am, is, are, was, were.</p>
+		
 		<table class="verb-list-table">
 		<tbody>
 		<tr class="conversion-firstrow">
@@ -493,7 +494,6 @@
 		</tr>
 		</tbody>
 		</table>
-		<p><b>Note</b>: One of the most common verbs is missing from this list because it is also used as an x-word.&nbsp;It’s the <b>BE</b> family: am, is, are, was, were.</p>
-
-	</div>
+			
+			</div>
 	</body>
