@@ -7,10 +7,10 @@ table, th, td {
 </style>
 <table>
 <tr>
-<th>The base form</th>
-<th>The past form</th>
-<th>The DTN form</th>
-<th>The -ing form</th>
+<th>Base form</th>
+<th>Past</th>
+<th>DTN</th>
+<th>-ing form</th>
 </tr>
 <tr>
 <td>work, play, go</td>
