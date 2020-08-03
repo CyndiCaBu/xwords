@@ -13,10 +13,10 @@ table, th, td {
 <th>-ing form</th>
 </tr>
 <tr>
-<td>work, play, go</td>
-<td>worked, played, went</td>
-<td>worked, played, gone</td>
-<td>working, playing, going</td>
+<td>go</td>
+<td>went</td>
+<td>gone</td>
+<td>going</td>
 </tr>
 </table>
 
@@ -47,12 +47,12 @@ table, th, td {
 <tr>
 <td>am, is, are, was, were</td>
 <td>-ing form</td>
-<td>{(The fish market)[s] is[x] open to more than humans}[t-n].</td>
+<td>{(The birds here)[s] are[x] going[v] to leave soon}[t-n].</td>
 </tr>
 <tr>
 <td>have, has, had</td>
 <td>DTN form</td>
-<td>{(Wildlife in the Galapagos)[s] (has)[x] been[v] protected}[t-n] {since 1934}[e-t].</td>
+<td>{(The other sea lion)[s] (has)[x] already gone[v] back outside}[t-n] {since 1934}[e-t].</td>
 </tr>
 </table>
 
