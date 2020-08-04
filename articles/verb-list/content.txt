@@ -7,7 +7,7 @@ table, th, td {
 </style>
 <table>
 <tr>
-<th>Base form</th>
+<th>Base</th>
 <th>Past</th>
 <th>DTN</th>
 </tr>
