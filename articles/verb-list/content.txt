@@ -44,7 +44,7 @@ table, th, td {
 	</tr>
 <tr>
 	<td>see</td>
-	<td>>saw</td>
+	<td>saw</td>
 	<td>seen</td>
 	</tr>
 <tr>
