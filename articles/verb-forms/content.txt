@@ -52,7 +52,7 @@ table, th, td {
 <tr>
 <td>have, has, had</td>
 <td>DTN form</td>
-<td>{(The other sea lion)[s] (has)[x] already gone[v] back outside}[t-n] {since 1934}[e-t].</td>
+<td>{(The other sea lion)[s] (has)[x] already gone[v] back outside}[t-n].</td>
 </tr>
 </table>
 
