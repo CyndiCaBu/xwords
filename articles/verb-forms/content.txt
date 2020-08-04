@@ -2,15 +2,15 @@
 
 <style>
 table, th, td {
-  padding: 10px;
+  padding: 12px;
 }
 </style>
 <table>
 <tr>
-<th>Base form</th>
+<th>Base</th>
 <th>Past</th>
 <th>DTN</th>
-<th>-ing form</th>
+<th>-ing</th>
 </tr>
 <tr>
 <td>go</td>
@@ -30,7 +30,7 @@ table, th, td {
 
 <style>
 table, th, td {
-  padding: 10px;
+  padding: 12px;
 }
 </style>
 <table>
