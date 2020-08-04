@@ -7,10 +7,10 @@ table, th, td {
 </style>
 <table>
 <tr>
-<th>Base</th>
-<th>Past</th>
-<th>DTN</th>
-</tr>
+	<th>Base</th>
+	<th>Past</th>
+	<th>DTN</th>
+	</tr>
 <tr>
 	<td>come</td>
 	<td>came</td>
