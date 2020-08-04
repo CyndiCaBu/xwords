@@ -12,14 +12,14 @@ table, th, td {
 <th>DTN</th>
 </tr>
 <tr>
-	<td><strong>come</strong></td>
-	<td><strong>came</strong></td>
-	<td><strong>come</strong></td>
+	<td>come></td>
+	<td>came</td>
+	<td>come</td>
 	</tr>
 <tr>
-	<td><strong>go</strong></td>
-	<td><strong>went</strong></td>
-	<td><strong>gone</strong></td>
+	<td>go</td>
+	<td>went</td>
+	<td>gone</td>
 	</tr>
 <tr>
 	<td>give</td>
@@ -27,9 +27,9 @@ table, th, td {
 	<td>given</td>
 	</tr>
 <tr>
-	<td><strong>take</strong></td>
-	<td><strong>took</strong></td>
-	<td><strong>taken</strong></td>
+	<td>take</td>
+	<td>took</td>
+	<td>taken</td>
 	</tr>
 
 <tr>
@@ -38,19 +38,19 @@ table, th, td {
 	<td>thought</td>
 		</tr>
 <tr>
-	<td><strong>get</strong></td>
-	<td><strong>got</strong></td>
-	<td><strong>gotten</strong></td>
+	<td>get</td>
+	<td>got</td>
+	<td>gotten</td>
 	</tr>
 <tr>
-	<td><strong>see</strong></td>
-	<td><strong>saw</strong></td>
-	<td><strong>seen</strong></td>
+	<td>see</td>
+	<td>>saw</td>
+	<td>seen</td>
 	</tr>
 <tr>
-	<td><strong>say</strong></td>
-	<td><strong>said</strong></td>
-	<td><strong>said</strong></td>
+	<td>say</td>
+	<td>said</td>
+	<td>said</td>
 	</tr>
 <tr>
 	<td>find</td>
@@ -58,9 +58,9 @@ table, th, td {
 	<td>found</td>
 	</tr>
 <tr>
-	<td><strong>make</strong></td>
-	<td><strong>made</strong></td>
-	<td><strong>made</strong></td>
+	<td>make</td>
+	<td>made</td>
+	<td>made</td>
 	</tr>
 <tr>
 	<td>become</td>
@@ -68,9 +68,9 @@ table, th, td {
 	<td>become</td>
 	</tr>
 <tr>
-	<td><strong>do</strong></td>
-	<td><strong>did</strong></td>
-	<td><strong>done</strong></td>
+	<td>do</td>
+	<td>di</td>
+	<td>done</td>
 	</tr>
 <tr>
 	<td>run</td>
@@ -273,9 +273,9 @@ table, th, td {
 	<td>worn</td>
 	</tr>
 <tr>
-	<td><strong>have</strong></td>
-	<td><strong>had</strong></td>
-	<td><strong>had</strong></td>
+	<td>have</td>
+	<td>had</td>
+	<td>had</td>
 	</tr>
 <tr>
 	<td>tell</td>
