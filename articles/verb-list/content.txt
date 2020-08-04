@@ -12,7 +12,7 @@ table, th, td {
 <th>DTN</th>
 </tr>
 <tr>
-	<td>come></td>
+	<td>come</td>
 	<td>came</td>
 	<td>come</td>
 	</tr>
@@ -69,7 +69,7 @@ table, th, td {
 	</tr>
 <tr>
 	<td>do</td>
-	<td>di</td>
+	<td>did</td>
 	<td>done</td>
 	</tr>
 <tr>
