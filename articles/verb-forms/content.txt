@@ -26,8 +26,6 @@ table, th, td {
 {(The -ing form)[s] can[x] also act[v] as a subject}[t-n].
 {(Going to a fish market)[s] (doesn't)[x] usually involve[v] sea lions}[t-n-nq]. 
 
-{(X-words)[s] match[vxo] verbs in a logical way}[t-n].
-
 <style>
 table, th, td {
   padding: 12px;
@@ -35,8 +33,8 @@ table, th, td {
 </style>
 <table>
 <tr>
-<th>X-words</th>
-<th>Verb forms</th>
+<th>These x-words only match these</th>
+<th>verb forms</th>
 <th>Examples</th>
 </tr>
 <tr>
