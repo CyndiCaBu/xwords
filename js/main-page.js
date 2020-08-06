@@ -31,7 +31,7 @@ function generate_article_link( data ){
 		html += '		</div>';
 	}
 	html += '		<div class="extra">';
-	html += '			<div style="background-color:#ccffcc;" class="ui right floated olive button compact" data-link-url="articles/?exercise=subjects#'+data.url.split('/').slice(1).join('/')+'">';
+	html += '			<div style="background-color:#00ff00;" class="ui right floated olive button compact" data-link-url="articles/?exercise=subjects#'+data.url.split('/').slice(1).join('/')+'">';
 	html += '				Subjects and X-Words';
 	html += '				<i class="right chevron icon"></i>';
 	html += '			</div>';
