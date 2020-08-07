@@ -25,6 +25,6 @@
  - Positive emotions
  - ACR, Active constructive response
 
-{(Those who argue that we (can't)[x] be happy or enjoy well-being without money)[s] have[vxo] a point}[t-n]. {We[s] do[x] need[v] enough money (to fulfill)[inf] our basic needs without making[ger] us worry about living[ger] from paycheck to paycheck}[t-n]. {We[s] do[x] not, however, need[v] a lot of money (to be)[inf] happy or (to flourish)[inf]}[t-n-nq]. 
+{(Those who argue that we cannot[x] be happy or enjoy well-being without money)[s] have[vxo] a point}[t-n]. {We[s] do[x] need[v] enough money (to fulfill)[inf] our basic needs without making[ger] us worry about living[ger] from paycheck to paycheck}[t-n]. {We[s] do[x] not, however, need[v] a lot of money (to be)[inf] happy or (to flourish)[inf]}[t-n-nq]. 
 
 {(Increasing[ger] our well-being[ger])[s] is[x] a deeper goal than increasing[ger] our finances beyond a certain point}[t-n]. {It[s]('s)[x] also the main goal of positive psychology}[t-n].
