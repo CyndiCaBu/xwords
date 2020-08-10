@@ -1,7 +1,6 @@
-
 {If you like learning[ger] new things and trying[ger] unfamiliar activities}[f-cd], {curiosity[s] could[x] be[v] one of your strengths}[t-n]. {It[s](’s)[x] about asking[ger] questions and exploring[ger] ideas and activities (to find)[inf] out more}[t-n]. {Curiosity[s] is[x] part of science, discovery and philosophy}[t-n]. 
 
-{(The ten questions below)[s] are[x] examples of curiosity}[t-n]. {They[s] were[x] inspired[dtn] by an image from SOIL}[t-n], {Sustainable Organic Integrated Livelihoods}[extra]. {SOIL[s] turns[vxs] waste into resources}[t-n] {in Haiti}[e-p]. {In the process}[f-r], {it[s] provides[vxs] dignity as well as jobs and chances (to learn)[inf] and become healthier}[t-n]. {It[s] uses[vxs] the poop loop (to create)[inf] positive change}[t-n].
+{(The ten questions below)[s] are[x] examples of curiosity}[t-n]. {They[s] were[x] inspired[dtn] by an image from SOIL}[t-n], {Sustainable Organic Integrated Livelihoods}[extra]. {SOIL[s] turns[vxs] waste into resources}[t-n] {in Haiti}[e-p]. {It[s] offers[vxs] dignity as well as jobs and chances (to learn)[inf] and become healthier}[t-n]. {It[s] creates[vxs] positive change through the poop loop}[t-n-nq]: {the process of fertilizer leading to food, which leads to waste, which can become fertilizer to grow more food, and so on}[extra].
 
 {What did[x] you[s] eat[v] today?}[t-p-nq]
 
@@ -11,14 +10,14 @@
 
 {What did[x] (the farmers)[s] do[v] (to make)[inf] sure those plants were[x] full of nutrients?}[t-p-nq]
 
-{If the farmers applied compost}[f-cd], {did[x] it[s] come[v] from animal waste such as manure}[t-p-nq]?
+{If they applied fertilizer}[f-cd], {did[x] it[s] come[v] from animal waste}[t-p-nq], {such as manure}[extra]?
 
-{(What kind of tests)[s] can[x] help[v] farmers and others know that (our food)[s] is[x] safe from any harmful viruses or bacteria that might[x] be in manure or humanure}[t-n-nq]?
+{(What kind of tests)[s] can[x] show[v] if (our food)[s] is[x] safe from any harmful viruses or bacteria that might[x] be in the fertilizer}[t-n-nq]?
 
-{Would[x] you[s] be[v] willing (to eat)[inf] plants grown with “humanure”}[t-n-nq], {a type of compost made from human waste}[extra]?
+{Would[x] you[s] be[v] willing (to eat)[inf] plants grown with “humanure”}[t-n-nq], {a type of fertilizer made from human waste}[extra]?
 
 {If you[s] had[vxd] a choice between plants grown with chemical fertilizer or plants grown with humanure}[f-cd], {which would[x] you[s] choose[v]}[t-n-nq]?
 
 {Would[x] you[s] rather use[v] a toilet in a poop loop system or a water-based system}[t-n-nq]?
 
-{If you had[x] some extra money (to donate)[inf] to a good cause}[f-cd], {would[x] you[s] consider[v] giving[ger] it to SOIL}[t-n-nq]?
+{If you know anyone who could[x] benefit from a poop loop system}[f-cd], {will[x] you[s] tell[v] them about SOIL}[t-n-nq]?
