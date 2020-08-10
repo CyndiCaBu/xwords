@@ -2,8 +2,12 @@
 
 {We[s] can[x] show[v] leadership}[t-n] {at home, at work and in our communities}[e-p]. Likewise[l], {(companies and organizations)[s] can[x] lead[v] by setting[ger] examples and inspiring[ger] others}[t-n]. 
 
-{(The One Acre Fund)[s] is[x] a non-profit organization that has[x] been[dtn] leading[ger] the way (to help)[inf] end extreme poverty}[t-n] - {something often seen as impossible}[extra]. {It[s] started[vxd] from a simple question}[t-p]: {how can[x] farmers go hungry}[extra]? 
+{(A leader)[s] can[x] change[v] how people think about something}[t-n]. {For instance}[l], {poverty[s] is[x] often seen[dtn] as inevitable}[t-n]. {Hunger[s] is[x] part of poverty}[t-n], but[j] {does[x] it[s] have[v] (to be)[inf]}[t-n-nq]? {Consider the people who grow our food}[t-n-nq], {the farmers}[extra]. {(The ones without a lot of land)[s] are[x] often poor}[t-n], but[j] {how can[x] farmers[s] go[v] hungry}[t-n-nq]?
 
-{(The term “fund” in the One Acre Fund’s name)[s] refers[vxs] to a key service hungry farmers were[x] missing[vg]}[t-n]: {credit}[extra].  {With credit}[f-r], {farmers[s] can[x] buy[v] seeds and fertilizer}[t-n] {when the price is[x] right}[e-t]. {By joining[ger] the One Acre Fund}[f-r], {farmers[s] can[x] get[v] training[ger] (to become)[inf] field officers}[t-n] - {the people who  train other farmers, collect cash, and deliver seeds and fertilizer}[extra].
+ {(Thinking about these questions)[s] led[vxd] to the creation of the One Acre Fund}[t-p], {a non-profit organization focused on farmers}[extra]. {By using management lessons to work on a human problem}[f], {the One Acre Fund has[x] become[dtn] a leader in the struggle against extreme rural poverty}[t-n].
+
+{(The term “fund” in the organization’s name)[s] refers[vxs] to a key service that hungry farmers were[x] missing[vg]}[t-n]: {credit}[extra].  {(A lack of cash or credit)[s] means[vxs] that farmers must[x] sell[v] before they can[x] buy[v]}[t-n]. {As a result}[l], {they[s] can[x] get[v] stuck paying[ger] higher prices}[t-n] {due to bad timing}[e]. {With credit}[f-r], {farmers[s] have[vxo] more freedom}[t-n]. {They[s] can[x] buy[v] seeds and fertilizer}[t-n] {when the price is[x] right}[e-t]. 
+
+{By joining[ger] the One Acre Fund}[f-r], {farmers[s] can[x] get[v] training[ger] as well as asset-based financing}[t-n]. {They[s] can[x] become[v] field officers}[t-n] - {the people who  train other farmers, collect cash, and deliver seeds and fertilizer}[extra]. 
  
-{(The One Acre Fund)[s] puts[vxs] farmers first}[t-n]. {It[s] sees[vxs] farmers as leaders and gives[vxs] them what no one can[x] take away}[t=n]: {knowledge}[extra].
+{(The One Acre Fund)[s] sees[vxs] farmers as leaders}[t-n]. {It[s] puts[vxs] farmers first and gives[vxs] them what no one can[x] take away}[t=n]: {knowledge}[extra].
