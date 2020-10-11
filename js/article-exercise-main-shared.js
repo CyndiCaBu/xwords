@@ -161,13 +161,6 @@ var XWords = new FindTheWord({
 	classSummary: 'xword-paragraph-summary',
 	label: 'xwords'
 });
-
-var HiddenXWords = new FindTheWord({
-	classFind: 'xword-hidden',
-	classFound: 'xword-hidden-found',
-	classSummary: 'xword-hidden-paragraph-summary',
-	label: 'hidden xwords'
-});
 var Verbs = new FindTheWord({
 	classFind: 'verb',
 	classFound: 'verb-found',
@@ -297,8 +290,6 @@ $.get( path+'/content.txt', function(response){
 		options.exercise = options.exercise.replace(/[- _]/g,'').toLowerCase();
 		if( options.exercise === 'xwords' ){
 			exercise = XWords;
-		}else if( options.exercise === 'hiddenxwords' ){
-			exercise = HiddenXWords;
 		}else if( options.exercise === 'verbs' ){
 			exercise = Verbs;
 		}else if( options.exercise === 'subjects' ){
@@ -429,7 +420,6 @@ function load_content_make_sts( content, game, title ){
 
 $('.start-exercise-xwords').on('click',function(){load_content_find_words(path+'/content.txt',XWords,'Find the X-Words'); return false;});
 $('.start-exercise-verbs').on('click',function(){load_content_find_words(path+'/content.txt',Verbs,'Find the Verbs'); return false;});
-$('.start-exercise-hidden-xwords').on('click',function(){load_content_find_words(path+'/content.txt',HiddenXWords,'Find the Hidden X-Words'); return false;});
 $('.start-exercise-xvs').on('click',function(){load_content_find_words(path+'/content.txt',XVS,'Find the X-Words, Subjects and Verbs'); return false;});
 $('.start-exercise-subjects').on('click',function(){load_content_find_words(path+'/content.txt',Subjects,'Find the Subjects'); return false;});
 $('.start-exercise-infinitives').on('click',function(){load_content_find_words(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
