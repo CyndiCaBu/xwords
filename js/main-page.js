@@ -31,24 +31,8 @@ function generate_article_link( data ){
 		html += '		</div>';
 	}
 	html += '		<div class="extra">';
-	html += '			<div style="background-color:#00ff00;" class="ui right floated olive button compact" data-link-url="articles/?exercise=subjects#'+data.url.split('/').slice(1).join('/')+'">';
-	html += '				Subjects and X-Words';
-	html += '				<i class="right chevron icon"></i>';
-	html += '			</div>';
 	html += '			<div class="ui right floated blue button compact" data-link-url="articles/?exercise=xwords#'+data.url.split('/').slice(1).join('/')+'">';
 	html += '				Find the X-Words';
-	html += '				<i class="right chevron icon"></i>';
-	html += '			</div>';
-	html += '			<div class="ui right floated pink button compact" data-link-url="articles/?exercise=verbs#'+data.url.split('/').slice(1).join('/')+'">';
-	html += '				Verbs and X-Words';
-	html += '				<i class="right chevron icon"></i>';
-	html += '			</div>';
-	html += '			<div class="ui right floated red button compact" data-link-url="articles/?exercise=hidden-x-words#'+data.url.split('/').slice(1).join('/')+'">';
-	html += '				Find the Hidden X-Words';
-	html += '				<i class="right chevron icon"></i>';
-	html += '			</div>';
-	html += '			<div class="ui right floated teal button compact" data-link-url="articles/?exercise=sentence-patterns#'+data.url.split('/').slice(1).join('/')+'">';
-	html += '				Sentence patterns';
 	html += '				<i class="right chevron icon"></i>';
 	html += '			</div>';
 	html += '		</div>';
