@@ -234,7 +234,6 @@ var ShifterContrast = new FindTheWord({
 	classSummary: 'shifter-contrast-paragraph-summary',
 	label: 'contrast shifter'
 });
-var XV = new FindTheWordMulti([XWords,Verbs]);
 var XVS = new FindTheWordMulti([XWords,Verbs,Subjects]);
 var XS = new FindTheWordMulti([XWords,Subjects]);
 
@@ -430,7 +429,6 @@ function load_content_make_sts( content, game, title ){
 }
 
 $('.start-exercise-xwords').on('click',function(){load_content_find_words(path+'/content.txt',XWords,'Find the X-Words'); return false;});
-$('.start-exercise-xwords-verbs').on('click',function(){load_content_find_words(path+'/content.txt',XV,'Find the X-Word, Verb Pairs'); return false;});
 $('.start-exercise-verbs').on('click',function(){load_content_find_words(path+'/content.txt',Verbs,'Find the Verbs'); return false;});
 $('.start-exercise-hidden-xwords').on('click',function(){load_content_find_words(path+'/content.txt',HiddenXWords,'Find the Hidden X-Words'); return false;});
 $('.start-exercise-xvs').on('click',function(){load_content_find_words(path+'/content.txt',XVS,'Find the X-Words, Subjects and Verbs'); return false;});
