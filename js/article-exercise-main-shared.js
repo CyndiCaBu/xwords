@@ -228,6 +228,7 @@ var ShifterContrast = new FindTheWord({
 	label: 'contrast shifter'
 });
 var XVS = new FindTheWordMulti([XWords,Verbs,Subjects]);
+var Shifters = new FindTheWordMulti([ShifterCondition,ShifterContrast,ShifterPlace,ShifterReason,ShifterTime]);
 
 // Handled by the class, except for 
 function updateCounts(content){
@@ -426,11 +427,7 @@ $('.start-exercise-infinitives').on('click',function(){load_content_find_words(p
 $('.start-exercise-trunks').on('click',function(){load_content_find_words(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
 $('.start-exercise-linkers').on('click',function(){load_content_find_words(path+'/content.txt',Linkers,'Find the Linkers'); return false;});
 $('.start-exercise-extra-info').on('click',function(){load_content_find_words(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;});
-$('.start-exercise-shifter-time').on('click',function(){load_content_find_words(path+'/content.txt',ShifterTime,'Find the Time Shifters'); return false;});
-$('.start-exercise-shifter-place').on('click',function(){load_content_find_words(path+'/content.txt',ShifterPlace,'Find the Place Shifters'); return false;});
-$('.start-exercise-shifter-reason').on('click',function(){load_content_find_words(path+'/content.txt',ShifterReason,'Find the Reason Shifters'); return false;});
-$('.start-exercise-shifter-condition').on('click',function(){load_content_find_words(path+'/content.txt',ShifterCondition,'Find the Condition Shifters'); return false;});
-$('.start-exercise-shifter-contrast').on('click',function(){load_content_find_words(path+'/content.txt',ShifterContrast,'Find the Contrast Shifters'); return false;});
+$('.start-exercise-shifters').on('click',function(){load_content_find_words(path+'/content.txt',Shifters,'Find the Shifters'); return false;});
 $('.start-exercise-shifter-shift').on('click',function(){load_content_make_sts(path+'/content.txt',null,'Shift the Shifters'); return false;});
 $('.start-exercise-make-questions').on('click',function(){load_content_make_questions(path+'/content.txt',null,'Make Question'); return false;});
 
