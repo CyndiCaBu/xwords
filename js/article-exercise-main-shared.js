@@ -235,7 +235,6 @@ var ShifterContrast = new FindTheWord({
 	label: 'contrast shifter'
 });
 var XVS = new FindTheWordMulti([XWords,Verbs,Subjects]);
-var XS = new FindTheWordMulti([XWords,Subjects]);
 
 // Handled by the class, except for 
 function updateCounts(content){
@@ -432,7 +431,6 @@ $('.start-exercise-xwords').on('click',function(){load_content_find_words(path+'
 $('.start-exercise-verbs').on('click',function(){load_content_find_words(path+'/content.txt',Verbs,'Find the Verbs'); return false;});
 $('.start-exercise-hidden-xwords').on('click',function(){load_content_find_words(path+'/content.txt',HiddenXWords,'Find the Hidden X-Words'); return false;});
 $('.start-exercise-xvs').on('click',function(){load_content_find_words(path+'/content.txt',XVS,'Find the X-Words, Subjects and Verbs'); return false;});
-$('.start-exercise-xs').on('click',function(){load_content_find_words(path+'/content.txt',XS,'Find the X-Words and Subjects'); return false;});
 $('.start-exercise-subjects').on('click',function(){load_content_find_words(path+'/content.txt',Subjects,'Find the Subjects'); return false;});
 $('.start-exercise-infinitives').on('click',function(){load_content_find_words(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
 $('.start-exercise-trunks').on('click',function(){load_content_find_words(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
