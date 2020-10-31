@@ -1,0 +1,16 @@
+[
+    {
+        "statement": "Awe is part of the word awesome.",
+        "question": "Is awe part of the word awesome?",
+        "tag_question": "Isn't it?",
+        "negation": "Awe is not part of the word awesome.",
+        "distractors": ""
+    },
+    {
+        "statement": "Awe is part of the word awesome.",
+        "question": "Is awe part of the word awesome?",
+        "tag_question": "Isn't it?",
+        "negation": "Awe is not part of the word awesome.",
+        "distractors": ""
+    }
+]
