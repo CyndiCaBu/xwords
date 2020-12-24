@@ -7,10 +7,10 @@
         "distractors": ""
     },
     {
-        "statement": "Awe is part of the word awesome.",
-        "question": "Is awe part of the word awesome?",
+        "statement": "It is a powerful feeling of something vast, something bigger than us.",
+        "question": "Is it a powerful feeling of something vast, something bigger than us?",
         "tag_question": "Isn't it?",
-        "negation": "Awe is not part of the word awesome.",
+        "negation": "It is not a powerful feeling of something vast, something bigger than us.",
         "distractors": ""
     }
 ] 
