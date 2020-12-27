@@ -23,15 +23,90 @@
 	<script src="question_exercise.js"></script>
 
 	<style type="text/css">
-
+.sentence-builder-sentence {
+	background-color: #AAF;
+	padding: 2em;
+}
+.sentence-builder-bank {
+	background-color: #AFA;
+	padding: 2em;
+}
+.sentence-builder-sentence .sentence-builder-word {
+}
+.sentence-builder-bank .sentence-builder-word {
+}
+.sentence-builder-word {
+	background-color: #FFF;
+	transition: all 1s ease;
+	margin: 0 0.2em;
+	position: relative;
+	cursor: pointer;
+	padding: 1em;
+}
+.sentence-builder-empty {
+	opacity: 0.5;
+	text-align: center;
+	text-shadow: 1px 1px 1px white;
+	display: block;
+}
+.sentence-builder-sentence > .sentence-builder-empty:not(:only-child):first-child {
+	display: none;
+}
+.sentence-builder-bank > .sentence-builder-empty:not(:only-child):first-child {
+	display: none;
+}
 	</style>
 
 </head>
 
 <body>
 	<div class="ui text container fluid main-column">
+	
+		<div class="sentence-builder-exercise">
+			<div class="sentence-builder-prompt">
+				Please turn the following statement into a question: It is raining.
+			</div>
+			<div class="sentence-builder-sentence">
+				<div class="sentence-builder-empty">Click the words below to make a sentence here.</div>
+			</div>
+			<div class="sentence-builder-bank">
+				<div class="sentence-builder-empty">Click a word above to remove it.</div>
+				<span class="sentence-builder-word">It</span>
+				<span class="sentence-builder-word">Is</span>
+				<span class="sentence-builder-word">it</span>
+				<span class="sentence-builder-word">is</span>
+				<span class="sentence-builder-word">raining</span>
+			</div>
+		</div>
 		<script type="text/javascript">
+			/* 
+			 * TODO:
+			 *  - "Check/Submit" button
+			 *  - validation of correct answer
+			 *  - integration and styling on an article page
+			 *  - display of feedback
+			 *  - sentence/prompt matching with the original text
+			 */
 
+			// setup click interactions for the exercise
+			$(function () {
+				$('.sentence-builder-exercise').on('click', '.sentence-builder-word', function(ev){
+					var $t = $(this);
+					var parent = $t.parent();
+					var group = $t.closest('.sentence-builder-exercise');
+					if(parent.hasClass('sentence-builder-bank')){
+						var other = group.find('.sentence-builder-sentence');
+						other.append($t);
+					}else if(parent.hasClass('sentence-builder-sentence')){
+						var other = group.find('.sentence-builder-bank');
+						other.append($t);
+					}
+				});
+			});
+		</script>
+	
+		<script type="text/javascript">
+			// Thing which gets questions and builds a word bank
 			$(function () {
 				$.get('./questions.json').then(function(questions){
 					var q = new QuestionExercise({
