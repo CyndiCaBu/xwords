@@ -25,11 +25,11 @@
 	<style type="text/css">
 .sentence-builder-sentence {
 	background-color: #AAF;
-	padding: 2em;
+	padding: 2em 2em 2.5em 2em;
 }
 .sentence-builder-bank {
 	background-color: #AFA;
-	padding: 2em;
+	padding: 2.5em 2em 2em 2em;
 }
 .sentence-builder-sentence .sentence-builder-word {
 }
@@ -38,22 +38,62 @@
 .sentence-builder-word {
 	background-color: #FFF;
 	transition: all 1s ease;
-	margin: 0 0.2em;
+	margin: 0.5em;
 	position: relative;
 	cursor: pointer;
 	padding: 1em;
+	white-space: pre;
+	display: inline-block;
 }
 .sentence-builder-empty {
 	opacity: 0.5;
 	text-align: center;
 	text-shadow: 1px 1px 1px white;
 	display: block;
+	line-height: 4.5em;
 }
 .sentence-builder-sentence > .sentence-builder-empty:not(:only-child):first-child {
 	display: none;
 }
 .sentence-builder-bank > .sentence-builder-empty:not(:only-child):first-child {
 	display: none;
+}
+.sentence-builder-feedback {
+	position: relative;
+	height: 0em;
+	text-align: center;
+}
+.sentence-builder-divider {
+	border-top: 1px solid #444;
+	border-bottom: 1px solid #AAA;
+	position: relative;
+	top: 50%;
+}
+.sentence-builder-button {
+	border: 1px solid #000;
+	border-radius: 6px;
+	position: absolute;
+	top: -0.8em;
+	left: 40%;
+	right: 40%;
+	cursor: default;
+}
+.sentence-builder-button.active {
+	background-color: #EEE;
+	border: 1px solid #444;
+	cursor: pointer;
+}
+.sentence-builder-button.correct {
+	background-color: #DFD;
+	border: 1px solid #0A0;
+	color: #0A0;
+	cursor: default;
+}
+.sentence-builder-button.wrong {
+	background-color: #FDD;
+	border: 1px solid #A00;
+	color: #A00;
+	cursor: default;
 }
 	</style>
 
@@ -66,25 +106,35 @@
 			<div class="sentence-builder-prompt">
 				Please turn the following statement into a question: It is raining.
 			</div>
+			<div class="sentence-builder-answer">Is it raining?</div>
 			<div class="sentence-builder-sentence">
 				<div class="sentence-builder-empty">Click the words below to make a sentence here.</div>
 			</div>
+			<div class="sentence-builder-feedback">
+				<div class="sentence-builder-divider"></div>
+				<div class="sentence-builder-button active">Check</div>
+			</div>
 			<div class="sentence-builder-bank">
 				<div class="sentence-builder-empty">Click a word above to remove it.</div>
-				<span class="sentence-builder-word">It</span>
-				<span class="sentence-builder-word">Is</span>
-				<span class="sentence-builder-word">it</span>
-				<span class="sentence-builder-word">is</span>
-				<span class="sentence-builder-word">raining</span>
+				<span class="sentence-builder-word"> It </span><span class="sentence-builder-word"> Is </span>
+				<span class="sentence-builder-word"> it </span><span class="sentence-builder-word"> is </span>
+				<span class="sentence-builder-word"> raining?</span><span class="sentence-builder-word"> raining?</span>
+				<span class="sentence-builder-word"> raining?</span><span class="sentence-builder-word"> raining?</span>
+				<span class="sentence-builder-word"> raining?</span><span class="sentence-builder-word"> raining?</span>
+				<span class="sentence-builder-word"> raining?</span>
+				<span class="sentence-builder-word"> raining?</span>
+				<span class="sentence-builder-word"> raining?</span>
+				<span class="sentence-builder-word"> raining?</span>
+				<span class="sentence-builder-word"> raining?</span>
+				<span class="sentence-builder-word"> raining?</span>
+				<span class="sentence-builder-word"> raining?</span>
+				<span class="sentence-builder-word"> raining?</span>
 			</div>
 		</div>
 		<script type="text/javascript">
 			/* 
 			 * TODO:
-			 *  - "Check/Submit" button
-			 *  - validation of correct answer
 			 *  - integration and styling on an article page
-			 *  - display of feedback
 			 *  - sentence/prompt matching with the original text
 			 */
 
@@ -100,6 +150,28 @@
 					}else if(parent.hasClass('sentence-builder-sentence')){
 						var other = group.find('.sentence-builder-bank');
 						other.append($t);
+					}
+					var button = group.find('.sentence-builder-button');
+					button.addClass('active');
+					button.removeClass('correct wrong');
+					button.html('Check');
+				});
+				$('.sentence-builder-button').on('click', function(ev){
+					var $t = $(this);
+					if( ! $t.hasClass('active') ){
+						return;
+					}
+					var parent = $t.parent();
+					var group = $t.closest('.sentence-builder-exercise');
+					var correctAnswer = group.find('.sentence-builder-answer').text();
+					var input = group.find('.sentence-builder-sentence .sentence-builder-word').text();
+					$t.removeClass('correct wrong active');
+					if( input.replace(/\s+/g,' ').trim() == correctAnswer.replace(/\s+/g, ' ').trim() ){
+						$t.html('O - Correct');
+						$t.addClass('correct');
+					}else{
+						$t.html('X - Wrong');
+						$t.addClass('wrong');
 					}
 				});
 			});
