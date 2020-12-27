@@ -280,7 +280,7 @@ try{
 var article = titleCase( path.replace(/-/g,' ') );
 $('#breadcrumb-article').html( article );
 $('#article-title').html( article );
-$('title').html( article +' - X-Words Grammar' );
+$('title').html( article +' - X-Word Grammar' );
 $.get( path+'/content.txt', function(response){
 	var parsed = parse_text( response, tokens );
 	$('.x-words-content').html( parsed );
