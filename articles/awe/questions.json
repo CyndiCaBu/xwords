@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Awe is part of the word awesome.",
+        "question": "Is awe part of the word awesome?",
+        "tag_question": "isn't it?",
+        "negation": "Awe is not part of the word awesome.",
+        "distractors": ""
+    },
+    {
+        "statement": "It is a powerful feeling of something vast, something bigger than us.",
+        "question": "Is it a powerful feeling of something vast, something bigger than us?",
+        "tag_question": "isn't it?",
+        "negation": "It is not a powerful feeling of something vast, something bigger than us.",
+        "distractors": ""
+    },
+    {
+        "statement": "It can help us feel more connected to other people.",
+        "question": "Can it help us feel more connected to other people?",
+        "tag_question": "can't it?",
+        "negation": "It can not help us feel more connected to other people.",
+        "distractors": ""
+    },
+        {
+        "statement": "It can also change how we understand something.",
+        "question": "Can it also change how we understand something?",
+        "tag_question": "can't it?",
+        "negation": "It cannot also change how we understand something.",
+        "distractors": ""
+    },    
+     {
+        "statement": "We also feel this when we admire other people for their virtues or skills.",
+        "question": "Do we also feel this when we admire other people for their virtues or skills?",
+        "tag_question": "don't we?",
+        "negation": "We do not feel this when we admire other people for their virtues or skills.",
+        "distractors": ""
+    },
+] 
