@@ -6,25 +6,25 @@
         "negation": "This character strength does not have a long name.",
         "distractors": "Has"
     },    
-     {
+    {
         "statement": "It just means that you notice and appreciate beauty.",
         "question": "Does it just mean that you notice and appreciate beauty?",
         "tag_question": "doesn't it?",
-        "negation": "It just means that you notice and appreciate beauty.,"
+        "negation": "It just means that you notice and appreciate beauty.",
         "distractors": "Is"
     },
-     {
+    {
         "statement": "Taking the time to notice even simple expressions of beauty, excellence and skill can help us feel better.",
         "question": "Can taking the time to notice even simple expressions of beauty, excellence and skill help us feel better?",
         "tag_question": "can't it?",
         "negation": "Taking the time to notice even simple expressions of beauty, excellence and skill cannot help us feel better.",
         "distractors": ""
     },  
-     {
+    {
         "statement": "It is linked to the main focus of positive psychology.",
         "question": "Is it linked to the main focus of positive psychology?",
         "tag_question": "isn't it?",
         "negation": "It is not linked to the main focus of positive psychology.",
         "distractors": ""
-    },
+    }
  ]

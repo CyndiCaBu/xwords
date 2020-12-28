@@ -20,18 +20,18 @@
         "negation": "It can not help us feel more connected to other people.",
         "distractors": ""
     },
-        {
+    {
         "statement": "It can also change how we understand something.",
         "question": "Can it also change how we understand something?",
         "tag_question": "can't it?",
         "negation": "It cannot also change how we understand something.",
         "distractors": ""
     },    
-     {
+    {
         "statement": "We also feel this when we admire other people for their virtues or skills.",
         "question": "Do we also feel this when we admire other people for their virtues or skills?",
         "tag_question": "don't we?",
         "negation": "We do not feel this when we admire other people for their virtues or skills.",
         "distractors": ""
-    },
-] 
+    }
+]
