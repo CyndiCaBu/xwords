@@ -4,13 +4,14 @@
         "question": "Does this character strength have a long name?",
         "tag_question": "doesn't it?",
         "negation": "This character strength does not have a long name.",
-        "distractors": ""
+        "distractors": "Has"
     },    
      {
-        "statement": "It is not tricky to understand.",
-        "question": "Is it tricky to understand?",
-        "tag_question": "is it?",
-        "distractors": ""
+        "statement": "It just means that you notice and appreciate beauty.",
+        "question": "Does it just mean that you notice and appreciate beauty?",
+        "tag_question": "doesn't it?",
+        "negation": "It just means that you notice and appreciate beauty.,"
+        "distractors": "Is"
     },
      {
         "statement": "Taking the time to notice even simple expressions of beauty, excellence and skill can help us feel better.",
