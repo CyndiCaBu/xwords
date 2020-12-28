@@ -1,0 +1,91 @@
+.muted {
+	opacity: 0.4;
+}
+.sentence-builder-exercise {
+	padding-bottom: 2em;
+}
+.sentence-builder-sentence {
+	background-color: #AAF;
+	padding: 2em 2em 2.5em 2em;
+	border-radius: 8px 8px 0 0;
+}
+.sentence-builder-bank {
+	background-color: #AFA;
+	padding: 2.5em 2em 2em 2em;
+	border-radius: 0 0 8px 8px;
+}
+.sentence-builder-sentence .sentence-builder-word {
+}
+.sentence-builder-bank .sentence-builder-word {
+}
+.sentence-builder-word {
+	background-color: #FFF;
+	transition: all 0.3s ease;
+	margin: 0.5em;
+	position: relative;
+	cursor: pointer;
+	padding: 1em;
+	white-space: pre;
+	display: inline-block;
+	top: 0;
+	left: 0;
+	border-radius: 8px;
+}
+.sentence-builder-word:hover {
+	top: -5px;
+	left: -3px;
+	box-shadow: 3px 3px 7px rgba(0,0,0,0.4);
+}
+.sentence-builder-empty {
+	opacity: 0.5;
+	text-align: center;
+	text-shadow: 1px 1px 1px white;
+	display: block;
+	line-height: 4.5em;
+}
+.sentence-builder-sentence > .sentence-builder-empty:not(:only-child):first-child {
+	display: none;
+}
+.sentence-builder-bank > .sentence-builder-empty:not(:only-child):first-child {
+	display: none;
+}
+.sentence-builder-feedback {
+	position: relative;
+	height: 0em;
+	text-align: center;
+}
+.sentence-builder-divider {
+	border-top: 1px solid #888;
+	border-bottom: 1px solid #DDD;
+	position: relative;
+	top: 50%;
+}
+.sentence-builder-button {
+	border: 1px solid #000;
+	border-radius: 6px;
+	position: absolute;
+	top: -0.8em;
+	left: 40%;
+	right: 40%;
+	cursor: default;
+}
+.sentence-builder-button.active {
+	background-color: #EEE;
+	border: 1px solid #444;
+	cursor: pointer;
+}
+.sentence-builder-button.correct {
+	background-color: #DFD;
+	border: 1px solid #0A0;
+	color: #0A0;
+	cursor: default;
+}
+.sentence-builder-button.wrong {
+	background-color: #FDD;
+	border: 1px solid #A00;
+	color: #A00;
+	cursor: default;
+}
+.sentence-builder-answer {
+	display: none;
+}

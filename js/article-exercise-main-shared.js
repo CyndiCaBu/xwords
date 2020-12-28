@@ -429,11 +429,33 @@ $('.start-exercise-linkers').on('click',function(){load_content_find_words(path+
 $('.start-exercise-extra-info').on('click',function(){load_content_find_words(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;});
 $('.start-exercise-shifters').on('click',function(){load_content_find_words(path+'/content.txt',Shifters,'Find the Shifters'); return false;});
 $('.start-exercise-shifter-shift').on('click',function(){load_content_make_sts(path+'/content.txt',null,'Shift the Shifters'); return false;});
-$('.start-exercise-make-questions').on('click',function(){load_content_make_questions(path+'/content.txt',null,'Make Question'); return false;});
+$('.start-exercise-make-questions').on('click',function(){load_question_exercise(path+'/content.txt', path+'/questions.json', 'Sentence Builder'); return false;});
 
+function load_question_exercise( contentUrl, questionUrl, title ){
+	$.get( contentUrl, function(content){
+		$.get(questionUrl, function(questions){
+			var parsed = parse_text( content, tokens );
+			var paragraphs = $(parsed).text().replace(/\n+/g,'\n').split('\n');
+			var html = '<p>'+paragraphs.join('</p><p>')+'</p>';
+			var questionExercise = new QuestionExercise(questions);
+			console.info(questionExercise.generateWordBank(questions[0]));
+			for( var i=0, l=questions.length; i<l; i+=1 ){
+				html += questionExercise.generateHtml(questions[i], "Please turn following statement into a question: ", questionExercise.JSON_KEY_STATEMENT, questionExercise.JSON_KEY_QUESTION);
+			}
+			$('.x-words-content').html( html );
+			$('.x-words-content').off('click.findTheWord');
+			$("html, body").animate({ scrollTop: 0 }, "slow");
+			$('.main.menu .ui.dropdown').dropdown('hide');
+			$('#exercise-title').html(title);
+			questionExercise.setupUiInteractions('Check', 'O - Correct', 'X - Wrong');
+		});
+	} );
+}
 
 $(document)
 	.ready(function() {
+
+		// load_question_exercise(path+'/content.txt', path+'/questions.json', 'Sentence Builder')
 
 		// fix main menu to page on passing
 		$('.main.menu').visibility({
