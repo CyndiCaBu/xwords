@@ -23,13 +23,21 @@
 	<script src="question_exercise.js"></script>
 
 	<style type="text/css">
+.muted {
+	opacity: 0.4;
+}
+.sentence-builder-exercise {
+	padding-bottom: 2em;
+}
 .sentence-builder-sentence {
 	background-color: #AAF;
 	padding: 2em 2em 2.5em 2em;
+	border-radius: 8px 8px 0 0;
 }
 .sentence-builder-bank {
 	background-color: #AFA;
 	padding: 2.5em 2em 2em 2em;
+	border-radius: 0 0 8px 8px;
 }
 .sentence-builder-sentence .sentence-builder-word {
 }
@@ -46,6 +54,7 @@
 	display: inline-block;
 	top: 0;
 	left: 0;
+	border-radius: 8px;
 }
 .sentence-builder-word:hover {
 	top: -5px;
@@ -71,8 +80,8 @@
 	text-align: center;
 }
 .sentence-builder-divider {
-	border-top: 1px solid #444;
-	border-bottom: 1px solid #AAA;
+	border-top: 1px solid #888;
+	border-bottom: 1px solid #DDD;
 	position: relative;
 	top: 50%;
 }
@@ -102,6 +111,9 @@
 	color: #A00;
 	cursor: default;
 }
+.sentence-builder-answer {
+	display: none;
+}
 	</style>
 
 </head>
@@ -109,11 +121,16 @@
 <body>
 	<div class="ui text container fluid main-column">
 	
+	
+		<p>Awe is part of the word awesome. It is a powerful feeling of something vast, something bigger than us. It can help us feel more connected to other people, inspiring us to be more generous and helpful. It can also change how we understand something.</p>
+
+		<p>A positive experience of awe might give us goosebumps and a tingling sensation. Think of the feeling of looking out on the view from high up on a mountain, or the delight of a rainbow after a storm. That type of awe is a mix of wonder and respect.</p>
+	
 		<div class="sentence-builder-exercise">
 			<div class="sentence-builder-prompt">
-				Please turn the following statement into a question: It is raining.
+				<span class="muted">Please turn the following statement into a question:</span> That type of awe is a mix of wonder and respect.
 			</div>
-			<div class="sentence-builder-answer">Is it raining?</div>
+			<div class="sentence-builder-answer">Is that type of awe a mix of wonder and respect?</div>
 			<div class="sentence-builder-sentence">
 				<div class="sentence-builder-empty">Click the words below to make a sentence here.</div>
 			</div>
@@ -123,21 +140,53 @@
 			</div>
 			<div class="sentence-builder-bank">
 				<div class="sentence-builder-empty">Click a word above to remove it.</div>
-				<span class="sentence-builder-word"> It </span><span class="sentence-builder-word"> Is </span>
-				<span class="sentence-builder-word"> it </span><span class="sentence-builder-word"> is </span>
-				<span class="sentence-builder-word"> raining?</span><span class="sentence-builder-word"> raining?</span>
-				<span class="sentence-builder-word"> raining?</span><span class="sentence-builder-word"> raining?</span>
-				<span class="sentence-builder-word"> raining?</span><span class="sentence-builder-word"> raining?</span>
-				<span class="sentence-builder-word"> raining?</span>
-				<span class="sentence-builder-word"> raining?</span>
-				<span class="sentence-builder-word"> raining?</span>
-				<span class="sentence-builder-word"> raining?</span>
-				<span class="sentence-builder-word"> raining?</span>
-				<span class="sentence-builder-word"> raining?</span>
-				<span class="sentence-builder-word"> raining?</span>
-				<span class="sentence-builder-word"> raining?</span>
+				<span class="sentence-builder-word"> Is </span><span class="sentence-builder-word"> respect. </span>
+				<span class="sentence-builder-word"> that </span><span class="sentence-builder-word"> That </span>
+				<span class="sentence-builder-word"> type </span><span class="sentence-builder-word"> salmon </span>
+				<span class="sentence-builder-word"> of </span><span class="sentence-builder-word"> cake </span>
+				<span class="sentence-builder-word"> awe </span><span class="sentence-builder-word"> ice </span>
+				<span class="sentence-builder-word"> a </span>
+				<span class="sentence-builder-word"> mix </span>
+				<span class="sentence-builder-word"> of </span>
+				<span class="sentence-builder-word"> wonder </span>
+				<span class="sentence-builder-word"> and </span>
+				<span class="sentence-builder-word"> respect? </span>
 			</div>
 		</div>
+
+
+		<p>Awe is part of the word awesome. It is a powerful feeling of something vast, something bigger than us. It can help us feel more connected to other people, inspiring us to be more generous and helpful. It can also change how we understand something.</p>
+
+		<p>A positive experience of awe might give us goosebumps and a tingling sensation. Think of the feeling of looking out on the view from high up on a mountain, or the delight of a rainbow after a storm. That type of awe is a mix of wonder and respect.
+	
+			<div class="sentence-builder-exercise">
+				<div class="sentence-builder-prompt">
+					Please turn the following statement into a question: That type of awe is a mix of wonder and respect.
+				</div>
+				<div class="sentence-builder-answer">Is that type of awe a mix of wonder and respect?</div>
+				<div class="sentence-builder-sentence">
+					<div class="sentence-builder-empty">Click the words below to make a sentence here.</div>
+				</div>
+				<div class="sentence-builder-feedback">
+					<div class="sentence-builder-divider"></div>
+					<div class="sentence-builder-button active">Check</div>
+				</div>
+				<div class="sentence-builder-bank">
+					<div class="sentence-builder-empty">Click a word above to remove it.</div>
+					<span class="sentence-builder-word"> Is </span><span class="sentence-builder-word"> respect. </span>
+					<span class="sentence-builder-word"> that </span><span class="sentence-builder-word"> That </span>
+					<span class="sentence-builder-word"> type </span><span class="sentence-builder-word"> salmon </span>
+					<span class="sentence-builder-word"> of </span><span class="sentence-builder-word"> cake </span>
+					<span class="sentence-builder-word"> awe </span><span class="sentence-builder-word"> ice </span>
+					<span class="sentence-builder-word"> a </span>
+					<span class="sentence-builder-word"> mix </span>
+					<span class="sentence-builder-word"> of </span>
+					<span class="sentence-builder-word"> wonder </span>
+					<span class="sentence-builder-word"> and </span>
+					<span class="sentence-builder-word"> respect? </span>
+				</div>
+			</div>
+		</p>
 		<script type="text/javascript">
 			/* 
 			 * TODO:
