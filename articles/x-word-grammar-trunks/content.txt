@@ -46,7 +46,7 @@
 
 # Sentence Patterns and Rhythm
 
-{SVO[s] is[x] the foundation of written English}[t-n], but[j] {(most paragraphs)[s] have[vxo] a variety of sentence patterns}[t-n]. Otherwise[l] {(the writing)[s] would[x] sound[v] monotonous}[t-n], {like in the paragraph below}[extra]. {(Each sentence)[s] follows[vxs] the pattern Trunk, plus Trunk}[t-n], {SVO,  joiner SVO}[extra]. 
+{SVO[s] is[x] the foundation of written English}[t-n], but[j] {(most paragraphs)[s] have[vxo] a variety of sentence patterns}[t-n]. Otherwise[l] {(the writing)[s] would[x] sound[v] monotonous}[t-n], {like in the paragraph below}[extra]. {(Each sentence)[s] follows[vxs] the same pattern}[t-n]: {Trunk, plus Trunk}[extra]. 
 
 # A Paragraph Full of Trunks
 
