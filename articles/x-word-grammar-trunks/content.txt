@@ -20,7 +20,7 @@
 
 # Joiners are also called FANBOYS
 
-{We[s] (can't)[x] use[v] a comma to connect two trunks}[t-n], but[j] {we[s] can[x] use[v] a joiner or something that looks like a comma}[t-n]: {a semi-colon}[extra]. {Joiners}[s] are[x] also known as coordinating conjunctions or FANBOYS}[t-n]:
+{We[s] (can't)[x] use[v] a comma to connect two trunks}[t-n], but[j] {we[s] can[x] use[v] a joiner or something that looks like a comma}[t-n]: {a semi-colon}[extra]. {Joiners[s] are[x] also known as coordinating conjunctions or FANBOYS}[t-n]:
 
  - for
  - and
@@ -54,22 +54,4 @@
 
 # A Better Paragraph
 
-{(The paragraph above)[s] needs[vxs] more variety}[t-n]. {Instead of using only 1 sentence pattern}[f-ct], {SVO, plus SVO}[extra], {it[s] should[x] have[v] some of the other sentence patterns}[t-n], too[extra]. {They[s] are[x] listed[dtn] below}[t-n]. {(Links at the bottom)[s] offer[vxo] more information about them}[t-n]. 
-
-# The 7 Sentence Patterns
-
-{Do[x] you[s] remember[v] that trunk means SVO}[t-n]? {OK - let's go}[t-n-nq].
-
-# Trunk.
-
-# Trunk, plus trunk.
-
-# Trunk with 2 parts.
-
-# Shifter, trunk.
-
-# Trunk shifter.
-
-# Linker, trunk.
-
-# S, insert, VO. or SVO, insert.
+{(The paragraph above)[s] needs[vxs] more variety}[t-n]. {Instead of using only 1 sentence pattern}[f-ct], {SVO, plus SVO}[extra], {it[s] should[x] have[v] some of the other sentence patterns}[t-n], too[extra]. {(Those patterns)[s] add[vxo] shifters, linkers and inserts (to make)[inf] SVO more interesting}[t-n]. {Are[x] you[s] wondering[v] what those words mean}[t-n]? {(Links at the bottom)[s] offer[vxo] more information}[t-n].
