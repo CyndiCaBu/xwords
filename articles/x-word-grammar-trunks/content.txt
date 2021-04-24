@@ -2,31 +2,25 @@
 
 # Trunk Means SVO
 
-{SVO[s] is[x] the foundation for English sentences}[t-n], {like the roots and trunks for a tree}[extra]. {That[s]('s)[x] why x-word grammar calls SVO a trunk}[t-n]. {It[s]('s)[x] the main part of the sentence}[t-n]. {We[s] can[x] combine[v] trunks and other parts (to make)[inf] 7 different types of sentences}[t-n]. {Here are 3 of them}[t-n](;)[j] {(the others)[s] use[vxo] shifters, linkers and extra information called inserts}[extra].
+{SVO[s] is[x] the foundation for English sentences}[t-n], {like the roots and trunks for a tree}[extra]. {That[s]('s)[x] why x-word grammar calls SVO a trunk}[t-n]. {It[s]('s)[x] the main part of the sentence}[t-n]. {We[s] can[x] combine[v] trunks and other parts (to make)[inf] 7 different types of sentences}[t-n]. {Here are 3 of them}[t-n](;)[j] {(the others)[s] use[vxo] shifters, linkers and extra information called inserts}[t-n].
 
 # Trunk
 
 {Trees[s] have[vxo] roots}[t-n].
 
-# Trunk,  plus Trunk
+{They[s] grow[vxo] both up and down}[t-n].
 
-{We[s] can[x] add[v] information to that sentence}[t-n], {putting two trunks together}[extra]. 
+# Trunk, plus Trunk
 
-{Trees[s] have[vxo] roots}[t-n], and[j] {(those roots)[s] support[vxo] trunks}[t-n].
+{We[s] can[x] connect[v] those to sentences}[t-n], {using a joiner}[t-n]. 
 
-{In the sentence above}[f-p], {there[s] are[x] two different subjects}[t-n]. {Each[s] has[vxs] its own verb and its own object}[t-n]. 
+{Trees[s] have[vxo] roots}[t-n], so[j] {they[s] grow[vxo] both up and down}[t-n].
 
-# Trunk with Two Parts
+{In the sentence above}[f-p], {there[s] are[x] two different trunks}[t-n]. {Each[s] has[vxs] its own subject, verb and object}[t-n]. 
 
-{When there('s)[x] only one subject but multiple verbs}[f-p], {we[s] only need[vxo] the subject once}[t-n]. 
+# Joiners are also called FANBOYS
 
-{Trees[s] both release[vxo] oxygen and use[vxo] it}[t=].
-
-{(That sentence)[s] has[vxs] one subject}[t-n], {trees, with two verbs: release and use}[extra].
-
-# Joiners Are FANBOYS
-
-{To connect two trunks}[f-r], {you[s] need[vxo] (to use)[inf] one of the joiners}[t-n], {also known as coordinating conjunctions or FANBOYS}[extra]. {(That acronym)[s] stands[vxs] for these  joiner words}[t-n]:
+{We[s] (can't)[x] use[v] a comma to connect two trunks}[t-n], but[j] {we[s] can[x] use[v] a joiner or something that looks like a comma}[t-n]: {a semi-colon}[extra]. {Joiners}[s] are[x] also known as coordinating conjunctions or FANBOYS}[t-n]:
 
  - for
  - and
@@ -36,10 +30,46 @@
  - yet
  - so
 
+# Trunk with 2 parts
+
+{We[s] can[x] also use[v] joiners (to connect)[inf] 1 subject with 2 or more verbs}[t-n]. {We[s] call[vxo] this a trunk with 2 parts}[t-n]. {Examples[s] include[vxo] these}[t-n]:
+
+{Trees[s] get[vxo] energy from the sun and[j] give[vxo] us shade from it too}[t=].
+
+{They[s] absorb[vxo] carbon dioxide and[j] release[vxo] oxygen}[t=].
+
+{We[s] see[vxo] them and[j] need[vxo] them}[t=].
+
+# {Why does[s] this[s] matter[v]}[t-n]? 
+
+{(Learning to identify SVO when you read)[s] is[x] a valuable skill}[t-n]. {If you make mistakes in writing that a teacher calls run-ons or comma splices}[f-cd], {(looking for SVO)[s] can[x] show[v] you where you need periods}[t-n]. {If you read a complicated sentence}[f-t], {(looking for SVO)[s] can[x] help[v] you understand what it means}[t-n]. 
+
 # Sentence Patterns and Rhythm
 
-{In the paragraph below}[f-p], {(each sentence)[s] follows[vxs] the pattern Trunk, Plus Trunk}[t-n]. {If you notice an artificial rhythm when you read it}[f-cd], {that[s]('s)[x] a good sign}[t-n]. {With only one sentence pattern}[f-r], {(the paragraph)[s] feels[vxs] monotonous and awkward}[t-n]. {(Written English)[s] follows[vxs] seven sentence patterns}[t-n], and[j] {(good writing)[s] uses[vxs] a variety of them}[t-n]. {(The paragraph below)[s] is[x] an example of trunks and joiners}[t-n] - {not of good writing}[t-n].
+{SVO[s] is[x] the foundation of written English}[t-n], but[j] {(most paragraphs)[s] have[vxo] a variety of sentence patterns}[t-n]. Otherwise[l] {(the writing)[s] would[x] sound[v] monotonous}[t-n], {like in the paragraph below}[extra]. {(Each sentence)[s] follows[vxs] the pattern Trunk, plus Trunk}[t-n], {SVO,  joiner SVO}[extra]. 
 
-# A Paragraph Full of Joiners
+# A Paragraph Full of Trunks
 
-{(The tree trunks in this image)[s] are[x] in lower Manhattan}[t-n], and[j] {(some tree branches)[s] are[x] visible in the glass behind them}[t-n]. {It[s] was[x] a partly cloudy day}[t-p], but[j] {(the building)[s] still reflected[vxd] the light}[t-p]. {It[s] was[x] fall or winter}[t-p], so[j] {(the leaves)[s] were[x] already gone from most trees}[t-n] {in Battery Park}[e-p]. {(People who know trees)[s] could[x] identify[v] at least one of these trees by the markings on its trunk}[t-n], yet[j] {they[s] might[x] not be[v] certain}[t-n]. {(The whole trunk)[s] (isn't)[x] visible}[t-n-nq], nor[j] {are[x] (the branches)[s]}[t-n-nq]. {(An image search)[s] could[x] help[v]}[t-n], for[j] {there[s]('s)[x] lots of information about trees online}[t-n].
+{(The tree trunks in this image)[s] are[x] in lower Manhattan}[t-n], and[j] {(some tree branches)[s] are[x] visible in the glass behind them}[t-n]. {It[s] was[x] a partly cloudy day}[t-p], but[j] {(the building)[s] still reflected[vxd] the light}[t-p]. {It[s] was[x] fall or winter}[t-p], so[j] {(the leaves)[s] were[x] already gone from most trees}[t-n]. {(People who know trees)[s] could[x] identify[v] at least one of these trees by the markings on its trunk}[t-n], yet[j] {they[s] might[x] not be[v] certain}[t-n]. {(The whole trunk)[s] (isn't)[x] visible}[t-n-nq], nor[j] {are[x] (the branches)[s]}[t-n-nq]. {(An image search)[s] could[x] help[v]}[t-n], for[j] {there[s]('s)[x] lots of information about trees online}[t-n].
+
+# A Better Paragraph
+
+{(The paragraph above)[s] needs[vxs] more variety}[t-n]. {Instead of using only 1 sentence pattern}[f-ct], {SVO, plus SVO}[extra], {it[s] should[x] have[v] some of the other sentence patterns}[t-n], too[extra]. {They[s] are[x] listed[dtn] below}[t-n]. {(Links at the bottom)[s] offer[vxo] more information about them}[t-n]. 
+
+# The 7 Sentence Patterns
+
+{Do[x] you[s] remember[v] that trunk means SVO}[t-n]? {OK - let's go}[t-n-nq].
+
+# Trunk.
+
+# Trunk, plus trunk.
+
+# Trunk with 2 parts.
+
+# Shifter, trunk.
+
+# Trunk shifter.
+
+# Linker, trunk.
+
+# S, insert, VO. or SVO, insert.
