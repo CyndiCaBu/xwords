@@ -4,7 +4,7 @@
 
 {We[s] put[vxo] inserts in the middle of a sentence or near the end}[t-n]. {They[s] often add[vxo] information about the subject or the object}[t-n]. {They[s] are[x] a sign of stronger writing}[t-n].
 
-{Punctuation[s] is[x] a clue to inserts}[t-n]. {You[s] can[x] find[v] them by looking for commas, colons, dashes and parentheses}[t-n]. {They[s] also come[vxo] after some expressions from Latin}[t-n]: {e.g. and i.e.}[extra]. {We[s] use[vxo] e.g. (to introduce)[inf] examples and i.e. (to begin)[inf] an explanation}[t-n]. {You[s] might[x] see[v] those expressions}[t-n] {when you read news articles and academic writing}[te].
+{Punctuation[s] is[x] a clue to inserts}[t-n]. {You[s] can[x] find[v] them by looking for commas, colons, dashes and parentheses}[t-n]. {They[s] also come[vxo] after some expressions from Latin}[t-n]: {e.g. and i.e.}[extra]. {We[s] use[vxo] e.g. (to introduce)[inf] examples and i.e. (to begin)[inf] an explanation}[t-n]. {You[s] might[x] see[v] those expressions}[t-n] {when you read news articles and academic writing}[e-t].
 
 {(The paragraph below)[s] uses[vxs] inserts (to discuss)[inf] some of the details you can[x] see[v] in the image}[t-n], {but not all of them}[extra].
 
