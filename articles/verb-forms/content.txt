@@ -1,4 +1,4 @@
-{How do[x] x-words[s] match[v] verbs}[t-n-nq]? {To answer that}[f-r], {you[s] need[vxo] (to understand)[inf] verb forms}[t-n]. {Like verbs in many other languages}[f], {(English verbs)[s] have[vxo] different forms}[t-n].
+{How do[x] (x-words)[s] match[v] verbs}[t-n-nq]? {To answer that}[f-r], {you[s] need[vxo] (to understand)[inf] verb forms}[t-n]. {Like verbs in many other languages}[f], {(English verbs)[s] have[vxo] different forms}[t-n].
 
 <style>
 table, th, td {
@@ -20,7 +20,7 @@ table, th, td {
 </tr>
 </table>
 
-{You[s] might[x] be[v] wondering what the DTN form is[s]}[t-n-nq]. {It[s]('s)[x] just another name for the 3rd form of the verb}[t-n], {also known as the past participle}[extra]. {We[s] use[vxo] it with have[x], has[x] and had[x] in the active form}[t-n], {like this}[extra]: {Have[x] you[s] ever seen[v] live animals inside a fish market}[t-n-nq]?
+{You[s] might[x] be[v] wondering what the DTN form is[x]}[t-n-nq]. {It[s]('s)[x] just another name for the 3rd form of the verb}[t-n], {also known as the past participle}[extra]. {We[s] use[vxo] it with have[x], has[x] and had[x] in the active form}[t-n], {like this}[extra]: {Have[x] you[s] ever seen[v] live animals inside a fish market}[t-n-nq]?
 
 {In the passive form}[f-p], {we[s] use[vxo] the DTN form with the BE family}[t-n], {like this}[extra]: {(This picture)[s] was[x] taken[v] in the Galapagos}[t-p], {where the rules are[x] different}[extra].
 
