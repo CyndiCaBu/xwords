@@ -20,11 +20,13 @@ table, th, td {
 </tr>
 </table>
 
-{(The -ing form)[s] can[x] act[v] as the main verb}[t-n]. 
-{For instance}[l], {where was[x] (this sea lion)[s] going[v]}[t-p-nq]? 
+{You[s] might[x] be[v] wondering what the DTN form is[s]}[t-n-nq]. {It[s]('s)[x] just another name for the 3rd form of the verb}[t-n], {also known as the past participle}[extra]. {We[s] use[vxo] it with have[x], has[x] and had[x] in the active form}[t-n], {like this}[extra]: {Have[x] you[s] ever seen[v] live animals inside a fish market}[t-n-nq]?
 
-{(The -ing form)[s] can[x] also act[v] as a subject}[t-n].
-{(Going to a fish market)[s] (doesn't)[x] usually involve[v] sea lions}[t-n-nq]. 
+{In the passive form}[f-p], {we[s] use[vxo] the DTN form with the BE family}[t-n], {like this}[extra]: {(This picture)[s] was[x] taken[v] in the Galapagos}[t-p], {where the rules are[x] different}[extra].
+
+So[l], {where was[x] (this sea lion)[s] going[v]}[t-p-nq]? {(Active sentences like this)[s] use[vxo] the -ing form with the BE family}[t-n]. {In that case}[f-r], {(the -ing form)[s] is[x] the main verb}[t-n].
+
+{(Looking for x-words and the verbs next to them)[s] is[x] a way (to learn)[inf] verb forms}[t-n]. {You[s] need[vxo] (to notice)[inf] which x-words go with which verb forms}[t-n].
 
 <style>
 table, th, td {
@@ -38,26 +40,26 @@ table, th, td {
 <th>Examples</th>
 </tr>
 <tr>
-<td>do, does, did, can, could, will, would, shall, should, must, might, may</td>
+<td>do[x], does[x], did[x], can[x], could[x], will[x], would[x], shall[x], should[x], must[x], might[x], may[x]</td>
 <td>Base form</td>
-<td>{Wildlife[s] can[x] go[v] wherever it wants}[t-n].
+<td>{In the Galapagos}[f-p], {wildlife[s] can[x] go[v] wherever it wants}[t-n].
 </tr>
 <tr>
-<td>am, is, are, was, were</td>
+<td>am[x], is[x], are[x], was[x], were[x]</td>
 <td>-ing form</td>
-<td>{(The birds here)[s] are[x] going[v] to leave soon}[t-n].</td>
+<td>{(The birds here)[s] are[x] going[v] (to leave)[inf] soon}[t-n].</td>
 </tr>
 <tr>
-<td>have, has, had</td>
+<td>have[x], has[x], had[x]</td>
 <td>DTN form</td>
-<td>{(The other sea lion)[s] (has)[x] already gone[v] back outside}[t-n].</td>
+<td>{(The other sea lion)[s] (has)[x] already left[v]}[t-n].</td>
 </tr>
 </table>
 
-{(To practice)[inf] matching x-words to verb forms}[f-r], {you[s] can[x] choose[v] (to find)[inf] x-words and verbs}[t-n] {in any exercise here}[extra].
+{(To practice)[inf] matching x-words to verb forms}[f-r], {select the exercise called Find x-words, subjects and verbs}[t-n-nq].
 
-{(To protect)[inf] nature on the Galapagos Islands}[extra], {(human visitors)[s] need[vxo] (to respect)[inf] certain rules}[t-n]. {(The Galapagos Conservancy website)[s] makes[vxs] this very clear}[t-n]. {It[s] says[vxs]}[t-n], {“When visiting the Galapagos Islands}[f-t], {a National Park and World Heritage Site}[extra], {(all visitors)[s] are[x] expected (to act)[inf] responsibly and (to treat)[inf] the environment with respect.”}[t-n] {It[s] helps[vxs]}[t-n] {when people  understand that the wildlife comes first}[e-t]. {That[s] includes[vxs] mammals, reptiles, birds, fish, plant life and more}[t-n]. 
+{(To protect)[inf] nature on the Galapagos Islands}[f-r], {(human visitors)[s] need[vxo] (to respect)[inf] certain rules}[t-n]. {(The Galapagos Conservancy website)[s] makes[vxs] this very clear}[t-n]. {It[s] says[vxs]}[t-n], {“When visiting the Galapagos Islands}[f-t], {a National Park and World Heritage Site}[extra], {(all visitors)[s] are[x] expected[v] (to act)[inf] responsibly and (to treat)[inf] the environment with respect.”}[t-n] {It[s] helps[vxs]}[t-n] {when people  understand that the wildlife comes first}[e-t]. {That[s] includes[vxs] mammals, reptiles, birds, fish, plant life and more}[t-n]. 
 
-{Although the wildlife (doesn’t)[x] always make[v] this easy}[f-ct], {people[s] agree[vxo] (to stay)[inf] at least 2 meters from it}[t-n]. {They[s] are[x] supposed (to move)[inf] away}[t-n] {if animals or birds come close by themselves}[e-cd]. {They[s](‘re)[x] allowed (to wander)[inf] freely}[t-n], {including in and out of this fish market}[extra]. 
+{Although the wildlife (doesn’t)[x] always make this easy}[f-ct], {people[s] agree[vxo] (to stay)[inf] at least 2 meters from it}[t-n]. {(The humans)[s] are[x] supposed (to move)[inf] away}[t-n] {if animals or birds come close by their own choice}[e-cd]. {They[s](‘re)[x] allowed (to wander)[inf] freely}[t-n], {including in and out of this fish market}[extra]. 
 
-{(The photo)[s] shows[vxs] a human hand fairly close to some brown pelicans on the opposite side of a fish table and another animal even closer}[t-n]. {(That animal)[s] appears[vxs] (to be)[inf] a seal}[t-n], but[j] {it[s] could[x] be[v] a sea lion instead}[t-n]. {It[s] seems[vxs] (to be)[inf] stretching[ger] itself comfortably and sniffing[ger] the air}[t-n], {savoring the smell of fish all around}[extra]. {(The brown pelicans on the right)[s] are[s] a little harder (to see)[inf]}[t-n]. {It[s] looks[vxs] like they decided (to go)[inf] the opposite way as the bigger animal}[t-n]. Maybe[l] {they[s] hoped[vxd] (to find)[inf] some fish scraps (to eat)[inf] and wanted[vxd] (to avoid)[inf] competition}[t=p].
+{(The photo)[s] shows[vxs] a human hand fairly close to some brown pelicans on the opposite side of a fish table}[t-n], {and another animal even closer}[extra]. {(That animal)[s] appears[vxs] (to be)[inf] a seal}[t-n], but[j] {it[s] could[x] be[v] a sea lion instead}[t-n]. {It[s] seems[vxs] (to be)[inf] stretching[ger] itself comfortably and sniffing[ger] the air}[t-n], {savoring the smell of fish all around}[extra]. {(The brown pelicans on the right)[s] are[x] a little harder (to see)[inf]}[t-n]. {It[s] looks[vxs] like they decided (to go)[inf] the opposite way from the bigger animal}[t-n]. Maybe[l] {they[s] hoped[vxd] (to find)[inf] some fish scraps (to eat)[inf] and wanted[vxd] (to avoid)[inf] competition}[t=p].
