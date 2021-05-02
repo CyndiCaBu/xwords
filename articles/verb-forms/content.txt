@@ -56,7 +56,7 @@ table, th, td {
 </tr>
 </table>
 
-{(To practice)[inf] matching x-words to verb forms}[f-r], {select the exercise called Find x-words, subjects and verbs}[t-n-nq].
+{You[s] can[x] practice matching x-words to verb forms by selecting the exercise called "Find x-words, subjects and verbs"}[t-n-nq].
 
 {(To protect)[inf] nature on the Galapagos Islands}[f-r], {(human visitors)[s] need[vxo] (to respect)[inf] certain rules}[t-n]. {(The Galapagos Conservancy website)[s] makes[vxs] this very clear}[t-n]. {It[s] says[vxs]}[t-n], {“When visiting the Galapagos Islands}[f-t], {a National Park and World Heritage Site}[extra], {(all visitors)[s] are[x] expected[v] (to act)[inf] responsibly and (to treat)[inf] the environment with respect.”}[t-n] {It[s] helps[vxs]}[t-n] {when people  understand that the wildlife comes first}[e-t]. {That[s] includes[vxs] mammals, reptiles, birds, fish, plant life and more}[t-n]. 
 
