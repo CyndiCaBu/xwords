@@ -20,7 +20,7 @@
 
 # STAY ONSHORE
 
-{What if you are[x] on the beach and you see another person caught in a rip current}[t-n-nq]? {(Don't)[x] follow your instinct (to rush)[inf] into the water (to save)[inf] them}[t-n-nq]. {You[s] would[x] have[v] a higher chance of drowning than of succeeding}[t-n]. Instead[l], {use[v] your adrenaline (to yell)[inf] for a lifeguard and throw[v] the person something that will[x] float[v]}[t-n]. {Lifeguards always take[vxo] a flotation device with them}[t-n] {when they go into the water (to rescue)[inf] someone}[e-t} {because they know the risks}[e-r].
+{What if you are[x] on the beach and you see another person caught in a rip current}[t-n-nq]? {(Don't)[x] follow your instinct (to rush)[inf] into the water (to save)[inf] them}[t-n-nq]. {You[s] would[x] have[v] a higher chance of drowning than of succeeding}[t-n]. Instead[l], {use[v] your adrenaline (to yell)[inf] for a lifeguard and throw[v] the person something that will[x] float[v]}[t-n]. {Lifeguards always take[vxo] a flotation device with them}[t-n] {when they go into the water (to rescue)[inf] someone}[e-t] {because they know the risks}[e-r].
 
 # KNOW BEFORE YOU GO.
 
