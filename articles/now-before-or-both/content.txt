@@ -10,7 +10,7 @@
 
 {(The simple present)[s] has[x] -s or -es on the end of the verb}[t-n], {as in “walks, says and refuses” below}[extra].
 
-{He[s] walks[vxs] down that street often and says[vxs] he never saw anything like that there before}[t=p]. {He[s] refuses[vxs] (to throw)[inf] away cute toys like that from his own family}[t-n], {explaining[ger] that it(’s)[s] more useful (to donate)[inf] them to a thrift shop}[extra].
+{He[s] walks[vxs] down that street often and says[vxs] he never saw anything like that there before}[t=p]. {He[s] refuses[vxs] (to throw)[inf] away cute toys like that from his own family}[t-n], {explaining[ger] that it(’s)[x] more useful (to donate)[inf] them to a thrift shop}[extra].
 
 # Check the x-word
 
