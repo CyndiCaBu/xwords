@@ -58,4 +58,4 @@ Now[l] {he[s] wonders[vxd] if he could[x] still do[v] that and if he could[x] fi
 
 # Would and could as hypothetical, imagining something that's not true and maybe not even possible
 
-{What would[x] you[s] do[x]}[t-n-nq] {if you found a toy like this near someone's trash can}[e-cd]? {Would[x] you[s] ask[x] people nearby for information}[t-n-nq]? {If you[s] could[x] be sure it was[x] clean and available}[f-cd], {would[x] you[s] take[v] it home}[t-n-nq]?
+{What would[x] you[s] do[v]}[t-n-nq] {if you found a toy like this near someone's trash can}[e-cd]? {Would[x] you[s] ask[v] people nearby for information}[t-n-nq]? {If you[s] could[x] be sure it was[x] clean and available}[f-cd], {would[x] you[s] take[v] it home}[t-n-nq]?
