@@ -35,6 +35,8 @@
 
 # PRACTICE
 
+{How many x-words can[x] you[s] find[v]}[t-n-nq] {in the passage below}[e-p]?
+
 {(The big metal pipes in the image above)[s] reminded[vxd] me of hidden x-words}[t-p]. However[l], (the x-words)[s] (aren’t)[x] hidden[v] {in the negative form}[e-p]. {They[s](’re)[x] clearly visible}[t-n], {like the x inside some of the pipes}[extra]. 
 
 {I[s] (don’t)[x] know[v] what happened to those pipes or to the green plants growing all around them}[t-n-nq]. {I[s] took[vxd] the picture on the 39th Street Bridge}[t-p] {while walking from Sunnyside to Astoria over the railroad tracks}[e-t]. {(A big construction project)[s] was[x] in process}[t-p] {at Sunnyside Yards}[e-p]. {(The pipes)[s] had[x] been[v] delivered}[t-p], but[j] {they[s] (hadn’t)[x] been[v] used yet}[t-p-nq]. {They[s] began[vxd] (to rust)[inf] in a way that I found beautiful}[t-p]. 
