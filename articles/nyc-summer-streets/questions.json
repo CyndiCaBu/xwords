@@ -1,0 +1,34 @@
+[
+    {
+        "statement": "You can find out through a special program called NYC Summer Streets.",
+        "question": "Can you find out through a special program called NYC Summer Streets?",
+        "tag_question": "can't you?",
+        "negation": "You can't find out through a special program called NYC Summer Streets.",
+        "distractors": "do, could"
+    },
+    {
+    {
+        "statement": "It follows examples first set in Bogotá, Colombia and Paris, France.",
+        "question": "Does it follow examples first set in Bogotá, Colombia and Paris, France?",
+        "tag_question": "doesn't it?",
+        "negation": "It doesn't follow examples first set in Bogotá, Colombia and Paris, France.",
+        "distractors": "do, is"
+    },
+    {
+    
+    {
+        "statement": "The public is invited to participate.",
+        "question": "Is the public invited to participate?",
+        "tag_question": "isn't it?",
+        "negation": "The public is not invited to participate.",
+        "distractors": "are"
+    },
+    {
+     {
+        "statement": "Several fun activities were going on simultaneously.",
+        "question": "Were several fun activities going on simultaneously?",
+        "tag_question": "weren't they?",
+        "negation": "Several fun activities weren't going on simultaneously.",
+        "distractors": "was"
+    },
+]
