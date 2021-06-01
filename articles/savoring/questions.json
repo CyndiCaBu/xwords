@@ -1,0 +1,35 @@
+[
+    {
+        "statement": "Enjoying a delicious bowl of soup is like smiling when we hear some music we really like.",
+        "question": "Is enjoying a delicious bowl of soup like smiling when we hear some music we really like?",
+        "tag_question": "isn't it?",
+        "negation": "Enjoying a delicious bowl of soup isn't like smiling when we hear some music we really like.",
+        "distractors": ""
+    },
+    {
+    {
+        "statement": "Both are things we can savor.",
+        "question": "Are both things we can savor?",
+        "tag_question": "aren't they?",
+        "negation": "Neither are things we can savor.",
+        "distractors": ""
+    },
+    {
+ 
+    {
+        "statement": "Savoring means pausing to notice and enjoy something good.",
+        "question": "Does savoring mean pausing to notice and enjoy something good?",
+        "tag_question": "doesn't it?",
+        "negation": "Savoring doesn't mean pausing to notice and enjoy something good.",
+        "distractors": ""
+    },
+    {
+    {
+        "statement": "Savoring takes practice.",
+        "question": "Does savoring take practice?",
+        "tag_question": "doesn't it?",
+        "negation": "Savoring doesn't take practice.",
+        "distractors": ""
+    },
+    { 
+]
