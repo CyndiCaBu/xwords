@@ -1,30 +1,30 @@
 [
     {
-        "statement": "No means no.",
-        "question": "Does no mean no?",
-        "tag_question": "doesn't it?",
-        "negation": "No doesn't mean no.",
+        "statement": "Anneka bought this blender in the early 1960s.",
+        "question": "Did Anneka buy this blender in the early 1960s?",
+        "tag_question": "didn't she?",
+        "negation": "Anneka didn't buy this blender in the early 1960s.",
         "distractors": ""
     },
     {
-       "statement": "Successful people know how to say no.",
-       "question": "Do successful people know how to say no?",
-       "tag_question": "don't they?",
-       "negation": "Successful people don't know how to say no.",
+       "statement": "Another favorite was a cold potato and leek soup.",
+       "question": "Was another favorite a cold potato and leek soup?",
+       "tag_question": "wasn't it?",
+       "negation": "Another favorite wasn't a cold potato and leek soup.",
        "distractors": ""
     },
     {
-        "statement": "Saying no is a way to take care of ourselves and accomplish our goals..",
-        "question": "Is saying no a way to take care of ourselves and accomplish our goals.?",
-        "tag_question": "isn't it?",
-        "negation": "Saying no is not a way to take care of ourselves and accomplish our goals..",
+        "statement": "She would crush ice in the blender for cold drinks.",
+        "question": "Would she crush ice in the blender for cold drinks?",
+        "tag_question": "wouldn't she?",
+        "negation": "She wouldn't crush ice in the blender for cold drinks.",
         "distractors": ""
     },
     {
-       "statement": "I will respect that and adjust my plan.",
-       "question": "Will I respect that and adjust my plan?",
-       "tag_question": "won't I?",
-       "negation": "I won't respect that and adjust my plan.",
+       "statement": "It still works well.",
+       "question": "Does it still work well?",
+       "tag_question": "doesn't I?",
+       "negation": "It doesn't work well anymore.",
        "distractors": ""
     },
 ]
