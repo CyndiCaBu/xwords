@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "The yellow flower looks like a type of prickly pear cactus.",
+        "question": "Does the yellow flower look like a type of prickly pear cactus?",
+        "tag_question": "doesn't it?",
+        "negation": "The yellow flower doesn't look like a type of prickly pear cactus.",
+        "distractors": ""
+    },
+       {
+        "statement": "The prickly pear cactus is native to the Americas.",
+        "question": "Is the prickly pear cactus native to the Americas?",
+        "tag_question": "isn't it?",
+        "negation": "The prickly pear cactus isn't native to the Americas.",
+        "distractors": ""
+    },
+    {
+        "statement": "It has been around for thousands of years.",
+        "question": "Has it been around for thousands of years?",
+        "tag_question": "hasn't it?",
+        "negation": "It hasn't been around for thousands of years.",
+        "distractors": ""
+    },    
+   {
+        "statement": "The Aztecs were looking for an eagle eating a snake, sitting on top of a nopal cactus.",
+        "question": "Were the Aztecs looking for an eagle eating a snake, sitting on top of a nopal cactus?",
+        "tag_question": "weren't they?",
+        "negation": "The Aztecs weren't looking for an eagle eating a snake, sitting on top of a nopal cactus.",
+        "distractors": ""
+    }, 
+  {
+        "statement": "New York has water below the surface, prickly pear cactus and birds of prey.",
+        "question": "Does New York have water below the surface, prickly pear cactus and birds of prey?",
+        "tag_question": "doesn't it?",
+        "negation": "New York doesn't have water below the surface, prickly pear cactus and birds of prey.",
+        "distractors": ""
+    }
+]
