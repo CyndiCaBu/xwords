@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "No means no.",
+        "question": "Does no mean no?",
+        "tag_question": "doesn't it?",
+        "negation": "No doesn't mean no.",
+        "distractors": ""
+    },
+    {
+       "statement": "Successful people know how to say no.",
+       "question": "Do successful people know how to say no?",
+       "tag_question": "don't they?",
+       "negation": "Successful people don't know how to say no.",
+       "distractors": ""
+    },
+    {
+        "statement": "Saying no is a way to take care of ourselves and accomplish our goals..",
+        "question": "Is saying no a way to take care of ourselves and accomplish our goals.?",
+        "tag_question": "isn't it?",
+        "negation": "Saying no is not a way to take care of ourselves and accomplish our goals..",
+        "distractors": ""
+    },
+    {
+       "statement": "I will respect that and adjust my plan.",
+       "question": "Will I respect that and adjust my plan?",
+       "tag_question": "won't I?",
+       "negation": "I won't respect that and adjust my plan.",
+       "distractors": ""
+    },
+]
