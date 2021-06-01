@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "CSA stands for Community Supported Agriculture.",
+        "question": "Does CSA stand for Community Supported Agriculture?",
+        "tag_question": "doesn't it?",
+        "negation": "CSA doesn't stand for Community Supported Agriculture.",
+        "distractors": ""
+    },
+    {
+        "statement": "The customer pays the farmer for a season’s worth of produce in advance.",
+        "question": "Does the customer pay the farmer for a season’s worth of produce in advance?",
+        "tag_question": "don't they?",
+        "negation": "The customer doesn't pay the farmer for a season’s worth of produce in advance.",
+        "distractors": ""
+    },
+    {
+        "statement": "A CSA can give farmers a sense of stability.",
+        "question": "Can a CSA give farmers a sense of stability?",
+        "tag_question": "can't it?",
+        "negation": "A CSA can't give farmers a sense of stability.",
+        "distractors": ""
+    },
+    {
+        "statement": "This element of surprise is one of the fun parts of being involved in a CSA.",
+        "question": "Is this element of surprise one of the fun parts of being involved in a CSA?",
+        "tag_question": "isn't it?",
+        "negation": "This element of surprise is not one of the fun parts of being involved in a CSA.",
+        "distractors": ""
+    },
+    {
+        "statement": "The CSA system has helped thousands of farmers over the years.",
+        "question": "Has the CSA system helped thousands of farmers over the years?",
+        "tag_question": "hasn't it?",
+        "negation": " The CSA system hasn't helped thousands of farmers over the years.",
+        "distractors": ""
+    },
+]
