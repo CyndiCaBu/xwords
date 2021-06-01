@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "My friend and I took a ferry from Manhattan to Governors Island.",
+        "question": "Did my friend and I take a ferry from Manhattan to Governors Island?",
+        "tag_question": "didn't we?",
+        "negation": "My friend and I didn't take a ferry from Manhattan to Governors Island.",
+        "distractors": "was, wasn't"
+    },
+    {
+        "statement": "We got off and walked up the hill to admire the views.",
+        "question": "Did we get off and walk up the hill to admire the views?",
+        "tag_question": "didn't we?",
+        "negation": "We didn't get off and walk up the hill to admire the views.",
+        "distractors": "were"
+    },
+    {
+        "statement": "It was a beautiful day.",
+        "question": "Was it a beautiful day?",
+        "tag_question": "wasn't it?",
+        "negation": "It was not a beautiful day.",
+        "distractors": "wasn't"
+    },
+    {
+        "statement": "The harbor is much cleaner now than it was 100 years ago.",
+        "question": "Is the harbor much cleaner now than it was 100 years ago?",
+        "tag_question": "isn't it?",
+        "negation": "The harbor isn't much cleaner now than it was 100 years ago.",
+        "distractors": "are, was"
+    },    
+    {
+        "statement": "More oysters in the harbor could help prevent a storm surge.",
+        "question": "Could more oysters in the harbor help prevent a storm surge?",
+        "tag_question": "couldn't they?",
+        "negation": "More oysters in the harbor could not help prevent a storm surge.",
+        "distractors": "could, did"
+    }
+]
