@@ -2,9 +2,7 @@
 
 {(Thinking about possible answers)[s] could[x] be[v] a way (to practice)[inf] the following technique}[t-n]:
 
-#BEST
-
-What(’s)[x] the best thing that could[x] happen[v]?
+#BEST: What(’s)[x] the best thing that could[x] happen[v]?
 
 #WORST
 
