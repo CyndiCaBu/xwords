@@ -2,11 +2,11 @@
 
 {(Thinking about possible answers)[s] could[x] be[v] a way (to practice)[inf] the following technique}[t-n]:
 
-# BEST
+ # BEST
 
 What(’s)[x] the best thing that could[x] happen[v]?
 
-# WORST
+ # WORST
 
 What(’s)[x] the worst thing that could[x] happen[v]?
 
