@@ -3,12 +3,15 @@
 {(Thinking about possible answers)[s] could[x] be[v] a way (to practice)[inf] the following technique}[t-n]:
 
 # BEST
+
 What(’s)[x] the best thing that could[x] happen[v]?
 
 # WORST
+
 What(’s)[x] the worst thing that could[x] happen[v]?
 
 # MOST REALISTIC
+
 What(’s)[x] the most realistic thing that could[x] happen[v]?
 
 
@@ -17,10 +20,13 @@ What(’s)[x] the most realistic thing that could[x] happen[v]?
 {(Considering some of the best, worst and most realistic options)[s] can[x] help[v] people make decisions}[t-n]. {It[s] is[x] also a technique (to manage)[inf] negative thoughts like worry and fear}[t-n]. {For instance}[l], {if you are[x] nervous about a test coming up soon}[f-cd], {you[s] could[x] imagine[v] these 3 options}[t-n]:
 
 # BEST
+
 {You[s] know[v] when the test is[x] and what you need (to do)[inf] (to pass)[inf] it}[t-n]. {As a result}[l], {you[s] spend[v] time studying by yourself and with some of your classmates}[t-n]. {You[s] use[v] the Pomodoro Method}[t-n], {balancing focused study sessions with short breaks}[extra]. {You[s] spend[v] 20 minutes reviewing a specific part of your notes from class}[t-n]. Then[l] {you[s] take[v] a short break}[t-n], {moving away from wherever you(’re)[x] studying[v] and thinking of something else (to refresh)[inf] your mind}[extra]. {When you go back to studying}[f-t], {you[s] test[v] yourself (to see)[inf] what you remember from the first study session}[t-n]. {You[s] review[v] as needed and then begin[v] studying something else that you need for the test}[t-n]. {After about 20 minutes}[f-t], {you[s] take[v] another short break}[t-n], {for about 5 minutes}[extra]. {Then you go back to studying some more}[t-n], {quizzing yourself and your partners when you study with classmates}[extra]. {(This method)[s] helps[s] you practice a lot}[t-n], so[j] {when it(’s)[x] time for the test}[f-t], {you[s](’re)[x] ready}[t-n] and[j] {you[s] do[v] well}[t-n].
 
 # WORST
+
 {You[s] know[v] when the test is[x] and what you need (to do)[inf] (to pass)[inf] it}[t-n]. However[l], {you[s] (don’t)[x] prioritize[v] it}[t-n]. {You[s](’re)[x] too busy working and taking care of other responsibilities}[t-n], and[j] {you[s] actually forget[v] about the test at one point}[t-n]. {On test day}[f-t], {you[s] try[v] your best}[t-n], but[j] {you[s] (don’t)[x] get[v] the score you want}[t-n-nq].
 
 # MOST REALISTIC
+
 {You[s] know[v] when the test is[x] and what you need (to do)[inf] (to pass)[inf] it}[t-n]. {You[s] struggle[v] (to balance)[inf] work and school}[t-n], but[j] {you[s] make[v] a specific plan for what and when (to study)[inf]}[t-n]. {Since you (don’t)[x] have[v] a lot of free time}[f-r], {you[s] focus[v] carefully}[t-n]. {You[s] review[v] the information that you really need}[t-n], and[j] {you[s] read[v] the most important information again}[t-n], quickly[extra]. {Even though you (don’t)[x] get the highest score in the class}[f-ct], {you[s] do[v] well enough (to feel)[inf] satisfied with your score}[t-n]. {It[s] (doesn’t)[x] have[v] (to be)[inf] perfect}[t-n].
