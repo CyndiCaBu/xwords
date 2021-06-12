@@ -1,8 +1,8 @@
 .xw, .xword {}
 .xw-found, .xword-found {
-	border: 2px solid #080 !important;
+	border: 2px solid #7CF9F9 !important;
 	border-radius: 4px;
-	background: #0F0;
+	background: #7CF9F9;
 }
 .xw-paragraph-summary,
 .xword-paragraph-summary,
@@ -27,12 +27,16 @@
 
 .subject {}
 .subject-found {
-	border: 2px solid #0F0;
+	border: 2px solid #FCF;
+	border-radius: 4px;
+	background-color: #FCF;
 }
 
 .verb {}
 .verb-found {
-	border: 2px solid #F00;
+	border: 2px solid #FFDEAD;
+	background-color: #FFDEAD;
+	border-radius: 4px;
 }
 
 .xw-hidden,
