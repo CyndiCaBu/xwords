@@ -89,7 +89,6 @@ function parse_text( text, tokens ){
 			p = p.replace(/^ - (.*)$/gm,'\t<li>$1</li>\n');
 			p = '<ul>'+p+'</ul>\n';
 		}else{
-			console.info( 'P' );
 			p = '<p>'+p+'</p>';
 		}
 		paragraphs[i] = p;
@@ -101,18 +100,25 @@ function parse_text( text, tokens ){
 function FindTheWord( options ){
 	this.classFind = options.classFind;
 	this.classFound = options.classFound;
+	this._finder_selector = '.'+this.classFind;
 	this.classSummary = options.classSummary || '.xw-paragraph-summary';
 	this.label = options.label || 'xwords';
+
+	if( Array.isArray(this.classFind) ){
+		this._finder_selector = '.'+this.classFind.join(', .');
+		console.info('ARRAY');
+	}
+	console.info(this._finder_selector);
 }
 FindTheWord.prototype.setup = function(content){
 	var that = this;
-	$(content).on('click.findTheWord','.'+this.classFind,function(){
+	$(content).on('click.findTheWord', this._finder_selector, function(){
 		$(this).addClass( that.classFound );
 		that.updateCounts( content ); // ???
 	});
 };
 FindTheWord.prototype.total = function( content ){
-	return $(content).find('.'+this.classFind).length;
+	return $(content).find(this._finder_selector).length;
 };
 FindTheWord.prototype.numberFound = function( content ){
 	return $(content).find( '.'+this.classFound ).length;
@@ -166,6 +172,12 @@ var Verbs = new FindTheWord({
 	classFound: 'verb-found',
 	classSummary: 'verbs-paragraph-summary',
 	label: 'verbs'
+});
+var HiddenXWords = new FindTheWord({
+	classFind: ['hidden-does', 'hidden-did', 'hidden-do'],
+	classFound: 'verbs-with-hidden-xword-found',
+	classSummary: 'verbs-with-hidden-xword-paragraph-summary',
+	label: 'verbs with hidden xwords'
 });
 var Subjects = new FindTheWord({
 	classFind: 'subject',
@@ -227,7 +239,7 @@ var ShifterContrast = new FindTheWord({
 	classSummary: 'shifter-contrast-paragraph-summary',
 	label: 'contrast shifter'
 });
-var XVS = new FindTheWordMulti([XWords,Verbs,Subjects]);
+var XVS = new FindTheWordMulti([XWords,Verbs,Subjects,HiddenXWords]);
 var Shifters = new FindTheWordMulti([ShifterCondition,ShifterContrast,ShifterPlace,ShifterReason,ShifterTime]);
 
 // Handled by the class, except for 

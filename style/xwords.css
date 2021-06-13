@@ -18,7 +18,8 @@
 .shifter-place-paragraph-summary,
 .shifter-reason-paragraph-summary,
 .shifter-condition-paragraph-summary,
-.shifter-contrast-paragraph-summary {
+.shifter-contrast-paragraph-summary,
+.verbs-with-hidden-xword-paragraph-summary {
 	color: #AAA;
 	font-size: 60%;
 	position: relative;
@@ -37,6 +38,12 @@
 	border: 2px solid #FFDEAD;
 	background-color: #FFDEAD;
 	border-radius: 4px;
+}
+
+.verbs-with-hidden-xword-found {
+	border: 2px solid #8FA !important;
+	border-radius: 4px;
+	background: #8FA;
 }
 
 .xw-hidden,
