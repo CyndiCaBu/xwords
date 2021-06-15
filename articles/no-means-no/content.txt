@@ -4,7 +4,7 @@
 
 {(X-words)[s] are[x] the key to saying no in English}[t-n]. {It[s] (isn’t)[x] like some languages that just put the word no in front of the verb}[t-n-nq]. {In English}[f-p], {(the word not)[s], (not no)[extra], goes[vxs] after the x-word}[t-n]. {(The verb)[s] uses[vxs] the base form}[t-n], {no matter what}[extra]. {(The x-word)[s] shows[vxs] the time}[t-n]. {Contractions[s] are[x] fine for 15 of the x-words}[t-n], but[j] {(5 of them)[s] just use[vxo] not}[t-n]. 
 
- # NOT, NOT CONTRACTIONS
+# NO CONTRACTIONS
 
  - am[x] not
  - might[x] not
