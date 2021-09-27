@@ -8,7 +8,7 @@
 
 {(An obligation)[s] is[x] something we have[x] (to do)[inf]}[t-n], {like it or not}[extra]. {(An opportunity)[s] is[x] something we get (to do)[inf]}[t-n], {often something we appreciate}[extra]. 
 
-{(Thinking about rules as a choice we get to make)[s] feels[vxs] very different from thinking of rules as a burden}[t-n]. {It[s] makes[vxs] us pause (to consider)[inf] the alternatives}[t-n]. {We[s] get[v] (to think)[inf] of how it would[x] feel[v] (to do)[inf] what the rule wants us (to do)[inf]}[t-n], {instead of what we were planning}[extra]. {We[s] get[v] (to do)[inf] the right thing}[t-n] and[j] feel[v] good about ourselves for choosing that}[t-n], {for not being self-centered}[extra]. {We[s] might[x] even think[v] of something we would[x] actually enjoy[v] more}[t-n-nq]. 
+{(Thinking about rules as a choice we get to make)[s] feels[vxs] very different from thinking of rules as a burden}[t-n]. {It[s] makes[vxs] us pause (to consider)[inf] the alternatives}[t-n]. {We[s] get[v] (to think)[inf] of how it would[x] feel[v] (to do)[inf] what the rule wants us (to do)[inf]}[t-n], {instead of what we were planning}[extra]. {We[s] get[v] (to do)[inf] the right thing and[j] feel[v] good about ourselves for choosing that}[t-n], {for not being self-centered}[extra]. {We[s] might[x] even think[v] of something we would[x] actually enjoy[v] more}[t-n-nq]. 
 
 {If the people with the dog had[x] thought this way}[f-cd], maybe[l] {they[s] would[x] have[v] gone to another part of the park instead of the trail}[t-n]. {They[s] might[x] have[v] seen a different view}[t-n-nq], {closer to the water}[extra]. {(People on the trail)[s] could[x] hear[v] some birds but not see them}[t-n]. Who knows what opportunities they missed.
 
