@@ -1,4 +1,4 @@
-{(Positive psychology)[s] is[x] for people who are already healthy}[t-n], {in a psychological sense}[extra]. {It[s] helps[v] us increase our well-being by focusing on our character strengths}[t-n] - {and those of others}[extra]. {(Strengths like kindness, curiosity and hope)[s] support[v] each element of positive psychology}[t-n]. {(These elements)[s] all contribute[v] to our well-being}[t-n].
+{(Positive psychology)[s] is[x] for people who are[x] already healthy}[t-n], {in a psychological sense}[extra]. {It[s] helps[v] us increase our well-being by focusing on our character strengths}[t-n] - {and those of others}[extra]. {(Strengths like kindness, curiosity and hope)[s] support[v] each element of positive psychology}[t-n]. {(These elements)[s] all contribute[v] to our well-being}[t-n].
 
 # Positive Emotions
 
