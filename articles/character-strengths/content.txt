@@ -2,7 +2,7 @@
 
 # Positive Emotions
 
-{We[s] can[x] use[v] our strengths (to pay)[inf] more attention to positive emotions than negative}[t-n]. {For examaple}[l], {it[s]('s)[x] easier for us (to find)[inf] amusing moments throughout the day}[t-n] {if humor is[x] one of our strengths}[e-cd]. Likewise[l], {we[s] might[x] experience[v] more serenity with the strengths of spirituality, self-control and forgiveness}[t-n].
+{We[s] can[x] use[v] our strengths (to pay)[inf] more attention to positive emotions than negative}[t-n]. {For example}[l], {it[s]('s)[x] easier for us (to find)[inf] amusing moments throughout the day}[t-n] {if humor is[x] one of our strengths}[e-cd]. Likewise[l], {we[s] might[x] experience[v] more serenity with the strengths of spirituality, self-control and forgiveness}[t-n].
 
 # Engagement
 
