@@ -16,26 +16,26 @@ Think about the last time you felt awe. {Did[x] (that feeling)[s] also include[v
 
 # AN UPWARD SPIRAL OF POSITIVE EMOTIONS
 
-amusement
-awe
-gratitude
-hope
-inspiration
-interest
-joy
-love
-pride
-serenity
+ - amusement
+ - awe
+ - gratitude
+ - hope
+ - inspiration
+ - interest
+ - joy
+ - love
+ - pride
+ - serenity
 
 # A DOWNWARD SPIRAL OF NEGATIVE EMOTIONS 
 
-anger
-annoyance
-anxiety
-boredom
-disappointment
-disgust
-fear
-hopelessness
-jealousy
-sadness
+ - anger
+ - annoyance
+ - anxiety
+ - boredom
+ - disappointment
+ - disgust
+ - fear
+ - hopelessness
+ - jealousy
+ - sadness
