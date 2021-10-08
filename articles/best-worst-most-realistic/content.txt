@@ -4,7 +4,7 @@
 
 # BEST
 
-{(The best thing that could[x] happen)[s] would[x] be[v] nothing}[t-n]. {(Whoever decided ((to try))[inf] the mushroom)[s] would[x] pick[v] it, clean[v] it and eat[v] it either raw or cooked}[t-n], {with no harmful effects}[extra].
+{(The best thing that could[x] happen)[s] would[x] be[v] nothing}[t-n]. {(Whoever decided (0to try0)[inf] the mushroom)[s] would[x] pick[v] it, clean[v] it and eat[v] it either raw or cooked}[t-n], {with no harmful effects}[extra].
 
 # WORST
 
