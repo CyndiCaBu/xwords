@@ -14,6 +14,8 @@
 
 {Since we (don’t)[x] know[v] what kind of fungus this is[x]}[f-r], {we[s] also (don’t)[x] know[v] if it(’s)[x] poisonous or not}[t-n]. {That[s] makes[v] it hard (to decide)[inf] on the most realistic result of eating it}[t-n].
 
+# MORE THAN MUSHROOMS
+
 {(Considering some of the best, worst and most realistic options)[s] can[x] help[v] people make decisions}[t-n]. {It[s] is[x] also a technique (to manage)[inf] negative thoughts like worry and fear}[t-n]. {For instance}[l], {if you are[x] nervous about a test coming up soon}[f-cd], {you[s] could[x] imagine[v] the 3 options}[t-n]:
 
 # BEST
