@@ -4,7 +4,7 @@
 
 # BEST
 
-{What(’s)[x] the best thing that could[x] happen[v]}[t-n-nq]?
+{What(’s)[x] ((the best thing that could[x] happen[v]))[s]}[t-n-nq]?
 
 # WORST
 
