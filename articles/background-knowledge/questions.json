@@ -26,7 +26,7 @@
        "tag_question": "She continued reading, didn't she?",
        "negation": "She didn't continue reading.",
        "distractors": ""
-    },
+   },
    {
        "statement": "Background knowledge often makes reading easier.",
        "question": "Does background knowledge often make reading easier?",
@@ -40,5 +40,5 @@
        "tag_question": "Reading often builds background knowledge, doesn't it?",
        "negation": "Reading doesn't often build background knowledge.",
        "distractors": ""
-    },
+    }
 ]
