@@ -1,0 +1,36 @@
+[
+    {
+        "statement": "You know when the test is and what you need to do to pass it.",
+        "question": "Do you know when the test is and what you need to do to pass it. ?",
+        "tag_question": "You know when the test is and what you need to do to pass it, don't you?",
+        "negation": "You don't know when the test is or what you need to do to pass it.",
+        "distractors": ""
+    },
+    {
+       "statement": "You spend time studying by yourself and with some of your classmates.",
+       "question": "Do you spend time studying by yourself and with some of your classmates?",
+       "tag_question": "You spend time studying by yourself and with some of your classmates, don't you?",
+       "negation": "You don't spend time studying by yourself or with some of your classmates.",
+       "distractors": ""
+    },
+    {
+        "statement": "You use the Pomodoro Method, balancing focused study sessions with short breaks.",
+        "question": "Do you use the Pomodoro Method, balancing focused study sessions with short breaks?",
+        "tag_question": "You use the Pomodoro Method, balancing focused study sessions with short breaks, don't they?",
+        "negation": "You don't use the Pomodoro Method, balancing focused study sessions with short breaks.",
+        "distractors": ""
+    },
+    {
+       "statement": "This method helps you practice a lot.",
+       "question": "This method helps you practice a lot?",
+       "tag_question": "This method helps you practice a lot, doesn't it?",
+       "negation": "This method doesn't help you practice a lot.",
+       "distractors": ""
+    },
+    {
+      "statement": "It has to be perfect.",
+      "question": "Does it have to be perfect?",
+      "tag_question": "It has to be perfect, doesn't it?",
+      "negation": "It doesn’t have to be perfect."
+    }  
+]
