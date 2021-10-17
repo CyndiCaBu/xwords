@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "The small dog walking with these people was on a leash..",
+        "question": "Was the small dog walking with these people on a leash?",
+        "tag_question": "The small dog walking with these people was on a leash, wasn't it?",
+        "negation": "The small dog walking with these people wasn't on a leash.",
+        "distractors": ""
+    },
+    {
+       "statement": "It seemed well-behaved.",
+       "question": "It seemed well-behaved?",
+       "tag_question": "It seemed well-behaved, didn't it?",
+       "negation": "It didn't seem well-behaved.",
+       "distractors": ""
+    },
+    {
+        "statement": "A sign at the entrance to the trail made the rules clear.",
+        "question": "Did a sign at the entrance to the trail make the rules clear?",
+        "tag_question": "A sign at the entrance to the trail made the rules clear, didn't it?",
+        "negation": "A sign at the entrance to the trail didn't make the rules clear.",
+        "distractors": ""
+    },
+    {
+       "statement": "The people broke the rules.",
+       "question": "Did the people break the rules?",
+       "tag_question": "The people broke the rules, didn't they?",
+       "negation": "The people didn't break the rules.",
+       "distractors": ""
+    }
+]
