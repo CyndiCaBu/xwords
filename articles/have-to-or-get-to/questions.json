@@ -8,7 +8,7 @@
     },
     {
        "statement": "It seemed well-behaved.",
-       "question": "It seemed well-behaved?",
+       "question": "Did it seem well-behaved?",
        "tag_question": "It seemed well-behaved, didn't it?",
        "negation": "It didn't seem well-behaved.",
        "distractors": ""
