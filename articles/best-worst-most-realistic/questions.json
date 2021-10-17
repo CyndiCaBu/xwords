@@ -31,6 +31,7 @@
       "statement": "It has to be perfect.",
       "question": "Does it have to be perfect?",
       "tag_question": "It has to be perfect, doesn't it?",
-      "negation": "It doesn’t have to be perfect."
+      "negation": "It doesn’t have to be perfect.",
+      "distractors": ""
     }  
 ]
