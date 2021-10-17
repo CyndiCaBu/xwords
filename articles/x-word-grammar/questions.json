@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "English has 20 short words with a lot of power.",
+        "question": "Does English have 20 short words with a lot of power?",
+        "tag_question": "English has 20 short words with a lot of power, doesn't it?",
+        "negation": "English doesn't have 20 short words with a lot of power.",
+        "distractors": ""
+    },
+    {
+       "statement": "We use x-words in several ways.",
+       "question": "Do we use x-words in several ways?",
+       "tag_question": "We use x-words in several ways, don't we?",
+       "negation": "We don't use x-words in several ways.",
+       "distractors": ""
+    },
+    {
+        "statement": "Every complete sentence in English has an x-word.",
+        "question": "Does every complete sentence in English have an x-word?",
+        "tag_question": "Every complete sentence in English has an x-word, doesn't it?",
+        "negation": "Not every complete sentence in English has an x-word.",
+        "distractors": ""
+    },
+    {
+       "statement": "Memorizing the x-words comes first.",
+       "question": "Does memorizing the x-words come first?",
+       "tag_question": "Memorizing the x-words comes first, doesn't it?",
+       "negation": "Memorizing the x-words does not come first.",
+       "distractors": ""
+    },
+    {
+       "statement": "It takes time to learn the 7 sentence patterns.",
+       "question": "Does it take time to learn the 7 sentence patterns?",
+       "tag_question": "It takes time to learn the 7 sentence patterns, doesn't it?",
+       "negation": "It doesn't take time to learn the 7 sentence patterns.",
+       "distractors": ""
+    }
+]
