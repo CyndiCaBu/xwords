@@ -1,7 +1,7 @@
 [
     {
         "statement": "She called it a Conestoga wagon.",
-        "question": "Did she it a Conestoga wagon?",
+        "question": "Did she call it a Conestoga wagon?",
         "tag_question": "She called it a Conestoga wagon, didn't she?",
         "negation": "She didn't call it a Conestoga wagon.",
         "distractors": ""
