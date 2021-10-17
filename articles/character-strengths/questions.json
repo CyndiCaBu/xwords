@@ -1,0 +1,44 @@
+[
+    {
+        "statement": "Positive psychology helps us increase our well-being.",
+        "question": "Does positive psychology help us increase our well-being?", 
+        "tag_question": "Positive psychology helps us increase our well-being, doesn't it?",
+        "negation": "Positive psychology doesn't help us increase our well-being.",
+        "distractors": ""
+    },
+    {
+       "statement": "Strengths support each element of positive psychology.",
+       "question": "Do strengths support each element of positive psychology?",
+       "tag_question": "Strengths support each element of positive psychology, don't they?",
+       "negation": "Strengths don't support each element of positive psychology.",
+       "distractors": ""
+    },
+    {
+       "statement": "Our strengths help us build and nourish positive relationships with others.",
+       "question": "Do our strengths help us build and nourish positive relationships with others?",
+       "tag_question": "Our strengths help us build and nourish positive relationships with others, don't they?",
+       "negation": "Our strengths don't help us build and nourish positive relationships with others.",
+       "distractors": ""
+    },
+      {
+        "statement": "Engagement means being awake, active and involved in our own lives.",
+        "question": "Does engagement mean being awake, active and involved in our own lives?",
+        "tag_question": "Engagement means being awake, active and involved in our own lives, doesn't it?",
+        "negation": "Engagement doesn't mean being awake, active and involved in our own lives.",
+        "distractors": ""
+    },
+    {
+       "statement": " Our strengths increase our chances of accomplishing the goals we set for ourselves.",
+       "question": " Do our strengths increase our chances of accomplishing the goals we set for ourselves?",
+       "tag_question": " Our strengths increase our chances of accomplishing the goals we set for ourselves, don't they?",
+       "negation": " Our strengths don't increase our chances of accomplishing the goals we set for ourselves.",
+       "distractors": ""
+    }
+    {
+       "statement": "Our strengths matter.",
+       "question": "Do our strengths matter?",
+       "tag_question": "Our strengths matter, don't they?",
+       "negation": "Our strengths don't matter.",
+       "distractors": ""
+    }
+]
