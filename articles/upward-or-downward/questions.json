@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "The green plant goes by many names.",
+        "question": "Does the green plant go by many names?",
+        "tag_question": "The green plant goes by many names, doesn't it?",
+        "negation": "The green plant doesn't go by many names.",
+        "distractors": ""
+    },
+    {
+       "statement": "She decided to plant a birdhouse gourd.",
+       "question": "Did she decide to plant a birdhouse gourd?",
+       "tag_question": "She decided to plant a birdhouse gourd, didn't she?",
+       "negation": "She didn't decide to plant a birdhouse gourd.",
+       "distractors": ""
+    },
+    {
+       "statement": "The vine grows up and spreads.",
+       "question": "Does the vine grow up and spread?",
+       "tag_question": "The vine grows up and spreads, doesn't it?",
+       "negation": "The vine doesn't grow up and spread.",
+       "distractors": "" 
+     },
+     {
+        "statement": "It grew taller and taller.",
+        "question": "Did it grow taller and taller?",
+        "tag_question": "It grew taller and taller, didn't it?",
+        "negation": "It didn't grow taller and taller.",
+        "distractors": ""
+     }
+]
