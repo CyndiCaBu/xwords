@@ -1,0 +1,44 @@
+[
+    {
+        "statement": "People have lived in Santa Fe for centuries.",
+        "question": "Have people lived in Santa Fe for centuries?",
+        "tag_question": "People have lived in Santa Fe for centuries, haven't they?",
+        "negation": "People haven't lived in Santa Fe for centuries.",
+        "distractors": ""
+    },
+    {
+       "statement": "They adapted to the desert conditions.",
+       "question": "Did they adapt to the desert conditions?",
+       "tag_question": "They adapted to the desert conditions, didn't they?",
+       "negation": "They didn't adapt to the desert conditions.",
+       "distractors": ""
+    },
+    {
+        "statement": "The temperature drops as the sun goes down.",
+        "question": "Does the temperature drop as the sun goes down?",
+        "tag_question": "The temperature drops as the sun goes down, doesn't it?",
+        "negation": "The temperature doesn't drop as the sun goes down.",
+        "distractors": ""
+    },
+    {
+       "statement": "It makes sense to build the type of house that offers shade while taking advantage of the sun’s power.",
+       "question": "Does it make sense to build the type of house that offers shade while taking advantage of the sun’s power?",
+       "tag_question": "It makes sense to build the type of house that offers shade while taking advantage of the sun’s power, doesn't it?",
+       "negation": "It doesn't make sense to build the type of house that offers shade while taking advantage of the sun’s power.",
+       "distractors": ""
+    },
+    {
+       "statement": "Their thick walls absorb heat during the day.",
+       "question": "Do their thick walls absorb heat during the day?",
+       "tag_question": "Their thick walls absorb heat during the day, don't they?",
+       "negation":"Their thick walls don't absorb heat during the day.", 
+       "distractors": ""
+    },
+    {
+       "statement": "It feels cool inside the house.",
+       "question": "Does it feel cool inside the house?",
+       "tag_question": "It feels cool inside the house, doesn't it?",
+       "negation": "It doesn't feel cool inside the house.",
+       "distractors": ""
+    }
+]
