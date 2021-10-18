@@ -33,5 +33,12 @@
        "tag_question": "Lots of tourists visit Cape May, don't they?",
        "negation": "Lots of tourists don't visit Cape May.",
        "distractors": ""
+    },
+    {
+       "statement": "The Cape May National Wildlife Refuge and other places offer plenty of activities and information for nature lovers.",
+       "question": "Do the Cape May National Wildlife Refuge and other places offer plenty of activities and information for nature lovers?",
+       "tag_question": "The Cape May National Wildlife Refuge and other places offer plenty of activities and information for nature lovers, don't they?",
+       "negation": "The Cape May National Wildlife Refuge and other places don't offer plenty of activities and information for nature lovers.",
+       "distractors": ""
     }
 ]
