@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "X-words show time.",
+        "question": "Do x-words show time?",
+        "tag_question": "X-words show time, don't they?",
+        "negation": "X-words don't show time.",
+        "distractors": ""
+    },
+    {
+       "statement": "Verbs can give you a clue.",
+       "question": "Can verbs give you a clue?",
+       "tag_question": "Verbs can give you a clue, can't they?",
+       "negation": "Verbs can't give you a clue.",
+       "distractors": ""
+    },
+   {
+        "statement": "Some x-words can show either the present or the past.",
+        "question": "Can some x-words show either the present or the past?",
+        "tag_question": "Some x-words can show either the present or the past, can't they?",
+        "negation": "Some x-words can't show either the present or the past.",
+        "distractors": ""
+    },
+    {
+        "statement": "Max laughed out loud.",
+        "question": "Did Max laugh out loud?",
+        "tag_question": "Max laughed out loud, didn't he?",
+        "negation": "Max didn't laugh out loud.",
+        "distractors": ""
+    },
+    {
+       "statement": "He walks down that street often.",
+       "question": "Does he walk down that street often?",
+       "tag_question": "He walks down that street often, doesn't he?",
+       "negation": "He doesn't walk down that street often.",
+       "distractors": ""
+    }
+]
