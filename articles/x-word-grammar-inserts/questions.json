@@ -1,0 +1,38 @@
+[
+    {
+        "statement": "An insert is a word or phrase.",
+        "question": "Is an insert a word or phrase?",
+        "tag_question": "An insert is a word or phrasedoesn't it?",
+        "negation": "n insert is a word or phrase.",
+        "distractors": ""
+    },
+    {
+       "statement": "It adds extra information to a sentence to give more details.",
+       "question": "Does it add extra information to a sentence to give more details?",
+       "tag_question": "It adds extra information to a sentence to give more details, doesn't it?",
+       "negation": "It doesn't add extra information to a sentence to give more details.",
+       "distractors": ""
+    },
+    {
+        "statement": "We put inserts in the middle of a sentence or near the end.",
+        "question": "Do we put inserts in the middle of a sentence or near the end?",
+        "tag_question": "We put inserts in the middle of a sentence or near the end, don't we?",
+        "negation": "We don't put inserts in the middle of a sentence or near the end.",
+        "distractors": ""
+    },
+    {
+       "statement": "Inserts often add information about the subject or the object.",
+       "question": "Do inserts often add information about the subject or the object?",
+       "tag_question": "Inserts often add information about the subject or the object, don't they?",
+       "negation": "Inserts don't often add information about the subject or the object.",
+       "distractors": ""
+    },
+    {
+        "statement": "Punctuation is a clue to inserts.",
+        "question": "Is punctuation a clue to inserts?",
+        "tag_question": "Punctuation is a clue to inserts, isn't it?",
+        "negation": "Punctuation isn't a clue to inserts.",
+        "distractors": ""
+    }
+
+]
