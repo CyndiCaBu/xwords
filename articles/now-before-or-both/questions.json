@@ -7,17 +7,17 @@
         "distractors": ""
     },
     {
-       "statement": "Verbs can give you a clue.",
-       "question": "Can verbs give you a clue?",
-       "tag_question": "Verbs can give you a clue, can't they?",
-       "negation": "Verbs can't give you a clue.",
+       "statement": "Some of them do it very clearly.",
+       "question": "Do some of them do it very clearly?",
+       "tag_question": "Some of them do it very clearly, don't they?",
+       "negation": "Some of them don't do it very clearly.",
        "distractors": ""
     },
    {
-        "statement": "Some x-words can show either the present or the past.",
-        "question": "Can some x-words show either the present or the past?",
-        "tag_question": "Some x-words can show either the present or the past, can't they?",
-        "negation": "Some x-words can't show either the present or the past.",
+        "statement": "Others depend on the context.",
+        "question": "Do others depend on the context?",
+        "tag_question": "Others depend on the context, don't they?",
+        "negation": "Others don't depend on the context.",
         "distractors": ""
     },
     {
@@ -28,10 +28,10 @@
         "distractors": ""
     },
     {
-       "statement": "He walks down that street often.",
-       "question": "Does he walk down that street often?",
-       "tag_question": "He walks down that street often, doesn't he?",
-       "negation": "He doesn't walk down that street often.",
+       "statement": "He has walked up and down that street many times.",
+       "question": "Has he walked up and down that street many times?",
+       "tag_question": "He has walked up and down that street many times, hasn't he?",
+       "negation": "He hasn't walked up and down that street many times.",
        "distractors": ""
     }
 ]
