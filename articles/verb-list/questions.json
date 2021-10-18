@@ -1,0 +1,44 @@
+[
+    {
+        "statement": "The 10 most common verbs in English are irregular verbs.",
+        "question": "The 10 most common verbs in English are irregular verbs?",
+        "tag_question": "The 10 most common verbs in English are irregular verbsdidn't it?",
+        "negation": "The 10 most common verbs in English are irregular verbs.",
+        "distractors": ""
+    },
+    {
+       "statement": "You have to memorize the irregular verbs.",
+       "question": "Do you have to memorize the irregular verbs?",
+       "tag_question": "You have to memorize the irregular verbs, don't you?",
+       "negation": "You don't have to memorize the irregular verbs.",
+       "distractors": ""
+    },
+    {
+        "statement": "Most irregular verb lists are in alphabetical order.",
+        "question": "Are most irregular verb lists in alphabetical order?",
+        "tag_question": "Most irregular verb lists are in alphabetical order, aren't they?",
+        "negation": "Most irregular verb lists are not in alphabetical order.",
+        "distractors": ""
+    },
+    {
+       "statement": "Organizing irregular verbs by sound helps hearing people remember them.",
+       "question": "Does organizing irregular verbs by sound help hearing people remember them?",
+       "tag_question": "Organizing irregular verbs by sound helps hearing people remember them, doesn't it?",
+       "negation": "Organizing irregular verbs by sound does not help hearing people remember them.",
+       "distractors": ""
+    },
+      {
+       "statement": "Feel and fall sound very different in the 3rd form.",
+       "question": "Feel and fall sound very different in the 3rd form?",
+       "tag_question": "Feel and fall sound very different in the 3rd form, don't they?",
+       "negation": "Feel and fall don't sound very different in the 3rd form."
+       "distractors": ""
+    },
+    {
+       "statement": "The past tense of BUY rhymes with 5 other past tense verbs.",
+       "question": "Does the past tense of BUY rhyme with 5 other past tense verbs?",
+       "tag_question": "The past tense of BUY rhymes with 5 other past tense verbs, doesn't it?",
+       "negation": "The past tense of BUY does not rhyme with 5 other past tense verbs.",
+       "distractors": ""
+    }
+]
