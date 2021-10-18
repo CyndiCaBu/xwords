@@ -2,29 +2,29 @@
     {
         "statement": "Rip currents are strong, narrow flows of water that extend away from the shore.",
         "question": "Are rip currents strong, narrow flows of water that extend away from the shore?",
-        "tag_question": "aren't they?",
+        "tag_question": "Rip currents are strong, narrow flows of water that extend away from the shore, aren't they?",
         "negation": "Rip currents are not strong, narrow flows of water that extend away from the shore.",
         "distractors": ""
     },
     {
        "statement": "They can happen at any beach with breaking waves.",
        "question": "Can they happen at any beach with breaking waves?",
-       "tag_question": "can't they?",
+       "tag_question": "They can happen at any beach with breaking waves, can't they?",
        "negation": "They can happen at any beach with breaking waves.",
        "distractors": ""
     },
     {
         "statement": "The water is offering a fast, one-way trip away from the shore.",
         "question": "Is the water offering a fast, one-way trip away from the shore?",
-        "tag_question": "isn't it?",
+        "tag_question": "The water is offering a fast, one-way trip away from the shore, isn't it?",
         "negation": "The water isn't offering a fast, one-way trip away from the shore.",
         "distractors": ""
     },
     {
        "statement": "Hard structures focus the wave energy.",
        "question": "Do hard structures focus the wave energy?",
-       "tag_question": "don't they?",
+       "tag_question": "Hard structures focus the wave energy, don't they?",
        "negation": "Hard structures don't focus the wave energy.",
-do    "distractors": ""
+       "distractors": ""
     }
 ]
