@@ -1,31 +1,19 @@
-{(X-words)[s] show[vxo] time}[t-n]. {Verbs[s] can[x] give[v] you a clue}[t-n], {especially when the x-words are[x] hiding[vg] inside them}[extra].
+{(X-words)[s] show[vxo] time}[t-n]. {(Some of them)[s] do[v] it very clearly}[t-n]. {Others[s] depend[v] on the context}[t-n]. 
 
-# Before with hidden did[x]
+# BEFORE
 
-{(The simple past in the -ed and irregular form)[s] makes[vxs] the past easy (to recognize)[inf]}[t-n], {like in “laughed” here}[extra]:
+{(The BEFORE group)[s] has[v] 4 x-words that always refer to the past}[t-n]:
 
-{Max[s] laughed[vxd] out loud}[t-p] {when he saw[vxd] this toy horse outside one morning}[e-t].
+ - did[x]
+ - had[x]
+ - was[x]
+ - were[x]
 
-# Now with hidden does[x]
+{Max[s] laughed[vxd] out loud}[t-p] {when he saw[vxd] this toy horse outside one morning}[e-t]. {It[s] was[x] sitting[v] near the basketball hoop}[t-p]. {(His neighbors)[s] were[x] not around}[t-p], so[j] {he[s] did[x] not get[v] a chance (to ask)[inf] them about it right then}[t-p]. {He[s] had[x] never seen[v] something like that}[t-p] {in their tiny front yard}[e-p].
 
-{(The simple present)[s] has[x] -s or -es on the end of the verb}[t-n], {as in “walks, says and refuses” below}[extra].
+{(The NOW group)[s] has[v] 7 x-words that always refer to the present or future}[t-n]:
 
-{He[s] walks[vxs] down that street often and says[vxs] he never saw anything like that there before}[t=p]. {He[s] refuses[vxs] (to throw)[inf] away cute toys like that from his own family}[t-n], {explaining[ger] that it(’s)[x] more useful (to donate)[inf] them to a thrift shop}[extra].
-
-# Check the x-word
-
-{(The examples above)[s] show[vxo] how the verb form can[x] help[v] you figure out the time}[t-n]. However[l], {(verbs in the base form, the -ing form and the DTN form)[s] (don’t)[x] show[v] time}[t-n]. {You[s] need[vxo] (to check)[inf] the x-word instead}[t-n].
-
-# Both before and now, and maybe the future too 
-
- - have[x] plus the DTN form of any verb
- - has[x] plus the DTN form of any verb
-
-{Max[s] has[x] given[dtn] away many toys and clothes}[t-b] {over the years}[e-t]. {(He and his family)[s] have[x] started[dtn] a regular habit of checking[ger] what they own and giving[ger] others whatever they (don’t)[x] want[v] or (don’t)[x] use[v]}[t-b].
-
-{In the two sentences above}[f-p], {(“has[x] given[dtn]” and “have[x] started[dtn]”)[s] show[vxo] a connection between the past and now}[t-n]. {(Max and his family)[s] did[vxd] something}[t-p] {at least once before}[e-t], but[j] {we[s] (don’t)[x] know[v] exactly when or how many times}[t-n]. {They[s](’ll)[x] probably do[x] it again}[t-n] {in the future}[e-t]. {(The x-words "has" and "have" with the DTN form of the verb)[s] show[vxo] that connection between before and now}[t-n].
-
-# Now, also known as the present
+# NOW
 
  - do[x]
  - does[x]
@@ -34,28 +22,34 @@
  - are[x]
  - can[x]
  - will[x]
-
-# Before, also known as the past
-
- - did[x]
- - had[x]
- - was[x]
- - were[x]
-
-{Max[s] (doesn’t)[x] know[v] what happened to that horse}[t-n]. {It[s] was[x] sitting[vg] near the basketball hoop}[t-p] {that one morning}[e-t], but[j] {it[s] (isn’t)[x] sitting[vg] there anymore}[t-n].
-
-# Check the context
-
-{(Some x-words)[s] can[x] show[v] either the present or the past}[t-n]. {It[s] depends[vxs] on the context}[t-n].
-
-# Would and could as past
  
-{(Seeing[ger] that rocking horse)[s] made[vxd] Max think about his own childhood}[t-p]. {He[s] used[vxd] (to have)[inf] a similar toy}[t-p], {but bigger}[extra]. {He[s] would[x] ride[v] it every day}[t-p], {especially around nap time}[extra]. {(His parents)[s] told[vxd] him that he would[x] often fall[v] asleep on it}[t-p], and[j] {they[s] were[x] always amazed that he could[x] keep his balance}[t-p]. 
+{Max[s] (doesn’t)[x] know[v] what happened to that toy horse}[t-n]. {(The flowers)[s] are[x] still there}[t-n], but[j] {(the horse)[s] (isn't)[x]}[t-n]. {(He and his friends)[s] do[x] not expect[v] (to see)[inf] it again}[t-n]. {They[s] can[x] look[v]}[t-n], but[j] {will[x] they[s] find[v] it}[t-n]?
 
-# Would and could as present
+#NOW AND BEFORE
+{(These 2 x-words)[s] go[v] with the DTN form of the verb (to connect)[inf] the past to the present}[t-n]:
 
-Now[l] {he[s] wonders[vxd] if he could[x] still do[v] that and if he could[x] find[v] a rocking horse big enough for an adult}[t-p]. {He[s] (doesn't)[x] know[v] where (to look)[inf] for one}[t-n], but[j] {he[s] would[x] like[v] (to try)[inf]}[t-n].
+ - have
+ - has
 
-# Would and could as hypothetical, imagining something that's not true and maybe not even possible
+{Max[s] has[x] walked[v] up and down that street many times}[t-b] {since the day he saw the horse}[e-t]. {(His friends)[s] have[x] been[v] there too}[t-b], but[j] {(they)[s] (have)[x] not seen[v] it again}[t-b].
+ 
+#NOW OR BEFORE
+
+{(This group of 6 x-words)[s] can[x] refer[v] to the present, the past or something hypothetical}[t-n]. {It[s] depends[v] on the context}[t-n].
+
+ - could[x]
+ - would[x]
+ - should[x]
+ - must[x]
+ - might[x]
+ - may[x]
+
+{In the paragraph below}[f-p], {(the x-words would[x] and could[x])[s] refer[v] to the past}[t-n]. {(The clues)[s] start[v] in the first sentences}[t-n], {with verbs in the simple past}[extra].
+ 
+{(Seeing[ger] that toy horse)[s] made[vxd] Max think about his own childhood}[t-p]. {He[s] used[vxd] (to have)[inf] a similar toy}[t-p], {a rocking horse}[extra]. {He[s] would[x] ride[v] it every day}[t-p], {especially around nap time}[extra]. {(His parents)[s] told[vxd] him that he would[x] often fall[v] asleep on it}[t-p], and[j] {they[s] were[x] always amazed that he could[x] keep his balance}[t-p]. 
+
+{In the next paragraph}[f-p], {(those same x-words)[s] refer[v] to the present and to possibilities}[t-n]. {(The clues)[s] are the words "now" and "if"}[t-n].
+
+Now[l] {Max[s] wonders[vxd] if he could[x] still do[v] that and if he could[x] find[v] a rocking horse big enough for an adult}[t-p]. {He[s] (doesn't)[x] know[v] where (to look)[inf] for one}[t-n], but[j] {he[s] would[x] like[v] (to try)[inf]}[t-n].
 
 {What would[x] you[s] do[v]}[t-n-nq] {if you found a toy like this near someone's trash can}[e-cd]? {Would[x] you[s] ask[v] people nearby for information}[t-n-nq]? {If you[s] could[x] be sure it was[x] clean and available}[f-cd], {would[x] you[s] take[v] it home}[t-n-nq]?
