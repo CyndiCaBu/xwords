@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "The NYCFC recently scored a goal.",
+        "question": "Did the NYCFC recently score a goal?",
+        "tag_question": "The NYCFC recently scored a goal, didn't they?",
+        "negation": "The NYCFC didn't score any goals.",
+        "distractors": ""
+    },
+    {
+       "statement": "Some parts of a sentence in English can shift like a goalkeeper.",
+       "question": "Can some parts of a sentence in English shift like a goalkeeper?",
+       "tag_question": "Some parts of a sentence in English can shift like a goalkeeper, can't they?",
+       "negation": "Some parts of a sentence in English can't shift like a goalkeeper.",
+       "distractors": ""
+    },
+    {
+        "statement": "They move.",
+        "question": "Do they move?",
+        "tag_question": "They move, don't they?",
+        "negation": "They don't move.",
+        "distractors": ""
+    },
+    {
+       "statement": "Finding shifters takes effort, attention and practice.",
+       "question": "Does finding shifters take effort, attention and practice?",
+       "tag_question": "Finding shifters takes effort, attention and practice, doesn't it?",
+       "negation": "Finding shifters doesn't take effort, attention or practice.",
+       "distractors": ""
+    },
+    {
+       "statement": "Shifters connect ideas from one sentence to the next.",
+        "question": "Do shifters connect ideas from one sentence to the next?",
+        "tag_question": "Shifters connect ideas from one sentence to the next, don't they?",
+        "negation": "Shifters don't connect ideas from one sentence to the next.",
+        "distractors": ""
+    }
+]
