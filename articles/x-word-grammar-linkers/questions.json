@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Link means connect.",
+        "question": "Does link mean connect?",
+        "tag_question": "Link means connect, doesn't it?",
+        "negation": "Link doesn't mean connect.",
+        "distractors": ""
+    },
+    {
+       "statement": "Linkers are words that addd meaning and connect ideas.",
+       "question": "Are linkers words that addd meaning and connect ideas?",
+       "tag_question": "Linkers are words that addd meaning and connect ideas, aren't they?",
+       "negation": "Linkers aren't words that addd meaning and connect ideas.",
+       "distractors": ""
+    },
+    {
+        "statement": "Most people use more linkers in academic writing than in conversation.",
+        "question": "Do most people use more linkers in academic writing than in conversation?",
+        "tag_question": "Most people use more linkers in academic writing than in conversation, don't they?",
+        "negation": "Most people don't use more linkers in academic writing than in conversation.",
+        "distractors": ""
+    },
+    {
+       "statement": "Using too many linkers in one paragraph makes your writing awkward.",
+       "question": "Dies using too many linkers in one paragraph make your writing awkward?",
+       "tag_question": "Using too many linkers in one paragraph makes your writing awkward, doesn't it?",
+       "negation": "Using too many linkers in one paragraph doesn't make your writing awkward.",
+       "distractors": ""
+    },
+    {
+       "statement": "The short article only has one linker.",
+        "question": "Does the short article only have one linker?",
+        "tag_question": "The short article only has one linker, doesn't it?",
+        "negation": "The short article doesn't have only one linker.",
+        "distractors": ""
+    }
+]
