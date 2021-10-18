@@ -15,16 +15,16 @@
     },
     {
         "statement": "Saying no is a way to take care of ourselves and accomplish our goals.",
-        "question": "Is saying no a way to take care of ourselves and accomplish our goals.?",
-        "tag_question": "isn't it?",
+        "question": "Is saying no a way to take care of ourselves and accomplish our goals?",
+        "tag_question": "Saying no is a way to take care of ourselves and accomplish our goals, isn't it?",
         "negation": "Saying no is not a way to take care of ourselves and accomplish our goals.",
         "distractors": ""
     },
     {
        "statement": "I will respect that and adjust my plan.",
        "question": "Will I respect that and adjust my plan?",
-       "tag_question": "won't I?",
-       "negation": "I won't respect that and adjust my plan.",
+       "tag_question": "I will respect that and adjust my plan, won't I?",
+       "negation": "I won't respect that or adjust my plan.",
        "distractors": ""
     }
 ]
