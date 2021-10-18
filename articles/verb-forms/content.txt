@@ -2,15 +2,17 @@
 
 {Focus[v] on these 4: the base form , the simple past and the 3rd form, plus the -ing form}[t-n]. {(Many people)[s] call[v] the 3rd form the past participle}[t-n], but[j] {(that name)[s] is[x] silly}[t-n]. {(The 3rd form)[s] can[x] be[v] used for the past, the present, the future and more}[t-n]. {There[s] is[x] nothing past about it}[t-n].
 
-{(The x-word)[s], (not the verb form)[extra], {is[x] the clue to the time}[t-n]. {Notice[v] the x-words and main verbs in the 3 sentences below}[t-n]. {What('s)[x] the difference between the time in each}[t-n-nq]?
+{(The x-word)[s] is[x] the clue to the time}[t-n]. {Notice[v] the x-words and main verbs in the 3 sentences below}[t-n]. {What('s)[x] the difference between the time in each}[t-n-nq]?
 
 {(Sea lions like this one)[s] are[x] allowed[v] (to go)[inf] wherever they want}[t-n] {in the Galapagos Islands}[e-p].
+
 {(This sea lion)[s] was[x] allowed[v] (to go)[inf] in the same fish market that my brother visited}[t-n].
+
 {(In fact)[l], (conservation laws)[s] have[x] allowed[v] all wild animals in the Galapagos (to go)[inf] wherever they want}[t-n] {for decades}[e-t].
 
 {(The x-words)[s] show[v] the time}[t-n]: {are[x] for now, was[x] for a time before, and have[x] (to connect)[inf] the past to now}[extra].
 
-{What about the other x-words}[t-n-nq]? {How do[x] they match[v] verbs}[t-n-nq]? 
+{What about the other x-words}[t-n-nq]? {How do[x] they match[v] verbs}[t-n-nq]?
 
 <style>
 table, th, td {
@@ -40,11 +42,11 @@ table, th, td {
 </tr>
 </table>
 
-{(To practice)[inf] matching x-words to verb forms}[f-r], {select[v] the exercise called "Find x-words, subjects and verbs"}[t-n-nq] {in this article and others}[e-p].
+{(To study)[inf] how x-words match verb forms}[f-r], {select[v] the exercise called "Find x-words, subjects and verbs"}[t-n-nq] {in this article and others}[e-p].
 
 {On the Galapagos Islands}[f-p], {wildlife[s] comes[vxs] first}[t-n]. {That[s] includes[vxs] mammals, reptiles, birds, fish, plant life and more}[t-n] - {not humans}[extra]. {(The Galapagos Conservancy website)[s] encourages[vxs] people (to understand)[inf] this}[t-n]. {It[s] says[vxs]}[t-n], {“When visiting the Galapagos Islands}[f-t], {a National Park and World Heritage Site}[extra], {(all visitors)[s] are[x] expected[v] (to act)[inf] responsibly and (to treat)[inf] the environment with respect.”}[t-n] 
 
-{What does[x] that[s] look[v] like}? {(Giving animals some space[s] is[x] one example of respect}[t-n]. {(The humans)[s] are[x] supposed (to move)[inf] away}[t-n] {if animals or birds come close by their own choice}[e-cd]. {Since the wildlife can[x] wander[v] freely}, {it[s]('s)[x] up to the people ((to step))[inf] back}[t-n], {preferably at least 2 meters}[extra].
+{What does[x] that[s] look[v] like}[t-n]? {(Giving animals some space[s] is[x] one example of respect}[t-n]. {(The humans)[s] are[x] supposed (to move)[inf] away}[t-n] {if animals or birds come close by their own choice}[e-cd]. {Since the wildlife can[x] wander[v] freely}[f-r], {it[s]('s)[x] up to the people (to step)[inf] back}[t-n], {preferably at least 2 meters}[extra].
 
 {(The photo)[s] shows[vxs] a human hand fairly close to some brown pelicans on the opposite side of a fish table}[t-n], {with the sea lion even closer to the human}[extra]. {(The sea lion)[s] seems[vxs] (to be)[inf] stretching[ger] itself comfortably and sniffing[ger] the air}[t-n], {savoring the smell of fish all around}[extra]. {(The brown pelicans on the right)[s] are[x] a little harder (to see)[inf]}[t-n]. {It[s] looks[vxs] like they decided (to go)[inf] the opposite way from the bigger animal}[t-n]. Maybe[l] {they[s] hoped[vxd] (to find)[inf] some fish scraps (to eat)[inf] and wanted[vxd] (to avoid)[inf] competition}[t=p].
 
