@@ -16,7 +16,7 @@
     {
         "statement": "You use the Pomodoro Method, balancing focused study sessions with short breaks.",
         "question": "Do you use the Pomodoro Method, balancing focused study sessions with short breaks?",
-        "tag_question": "You use the Pomodoro Method, balancing focused study sessions with short breaks, don't they?",
+        "tag_question": "You use the Pomodoro Method, balancing focused study sessions with short breaks, don't you?",
         "negation": "You don't use the Pomodoro Method, balancing focused study sessions with short breaks.",
         "distractors": ""
     },
