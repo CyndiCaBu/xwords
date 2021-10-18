@@ -26,5 +26,12 @@
        "tag_question": "Hard structures focus the wave energy, don't they?",
        "negation": "Hard structures don't focus the wave energy.",
        "distractors": ""
+    },
+     {
+       "statement": "Lifeguards always take a flotation device with them.", 
+       "question": "Do lifeguards always take a flotation device with them?",
+       "tag_question": "Lifeguards always take a flotation device with them, don't they?",
+       "negation": "Lifeguards don't always take a flotation device with them.",
+       "distractors": ""
     }
 ]
