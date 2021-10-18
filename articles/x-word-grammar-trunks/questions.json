@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "In written English, a sentence needs at least two parts to be complete.",
+        "question": "In written English, does a sentence need at least two parts to be complete?",
+        "tag_question": "In written English, a sentence needs at least two parts to be complete, doesn't it?",
+        "negation": "In written English, a sentence doesn't need at least two parts to be complete.",
+        "distractors": ""
+    },
+    {
+       "statement": "It usually has a third part, an object.",
+       "question": "Does it usually have a third part, an object?",
+       "tag_question": "It usually has a third part, an object, doesn't it?",
+       "negation": "It doesn't usually have a third part, an object.",
+       "distractors": ""
+    },
+    {
+        "statement": "That makes the pattern SVO.",
+        "question": "Does that makes the pattern SVO?",
+        "tag_question": "That makes the pattern SVO, doesn't it?",
+        "negation": "That doesn't make the pattern SVO.",
+        "distractors": ""
+    },
+    {
+       "statement": "X-word grammar calls SVO a trunk.",
+       "question": "Does x-word grammar call SVO a trunk?",
+       "tag_question": "X-word grammar calls SVO a trunk, doesn't it?",
+       "negation": "x-word grammar doesn't call SVO a trunk.",
+       "distractors": ""
+    }
+]
