@@ -1,7 +1,7 @@
 [
     {
         "statement": "You know when the test is and what you need to do to pass it.",
-        "question": "Do you know when the test is and what you need to do to pass it. ?",
+        "question": "Do you know when the test is and what you need to do to pass it?",
         "tag_question": "You know when the test is and what you need to do to pass it, don't you?",
         "negation": "You don't know when the test is or what you need to do to pass it.",
         "distractors": ""
