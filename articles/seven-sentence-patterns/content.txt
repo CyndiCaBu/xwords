@@ -1,0 +1,44 @@
+Seven Sentence Patterns
+
+{(Written English)[s] uses[v] seven sentence patterns}[t-n]. {(These patterns)[s] can[x] make[v] short sentences or long ones}[t-n]. {It[s] depends[v] on the writer's style and the context}[t-n].
+
+{(Business writing)[s] uses[v] concise sentences}[t-n]. {It[s] gets[v] straight to the point}[t-n], {using enough words to explain but[j] nothing more than needed}[extra]. (For example)[l], {(a business email message)[s] might[x] have[v] only 2 or 3 lines}[t-n]. {It[s] greets[v] the reader, explains[v] what the writer wants or needs and ends[v] with gratitude}[t-n]. Period. 
+
+{In other contexts}[f-p], {(the writing style)[s] depends[v] on the writer}[t-n]. {(Some people)[s] prefer[v] short, direct sentences}[t-n]. {Others[s] combine[v] sentence patterns (to write)[inf] long sentences}[t-n].  
+
+So {what are[x] (these seven sentence patterns)[s]}[t-n]? {(Each one)[s] builds[v] on the basic pattern in English}[t-n]: {Subject - Verb - Object}[extra].
+
+#SVO.
+{(The picture above)[s] is[x] from a Mexican celebration}[t-p]. {It[s] was[x] taken[v] in 2018}[t-p].
+
+#SVO, plus SVO.
+{(One of the FANBOYS)[s] connects[v] two SVO sentences}[t-n].  
+
+{(Lots of people)[s] were[x] standing[v] together}[t-p], and[j] {(none of them)[s] were[x] wearing[v] masks}[t-p]. {Musicians[s] provided[v] live music}[t-p], and[j] {people[s] talked[v] to each other}[t-p]. {This[s] was[x] before the pandemic}[t-p], so {(most of us)[s] probably knew[v] very little about coronaviruses}[t-p]. {We[s] had[x] no clue how a tiny virus would[x] change[v] our lives}[t-p], but[j] {we[s] would[x] soon learn[v]}[t-p].
+
+#SVO plus VO. 
+{(This pattern)[s] uses[v] one subject with two or more verbs}[t-n], {connected by commas and FANBOYS}[extra].
+
+{(The celebration)[s] comes[v] from Oaxaca and is[x] called[v] Guelaguetza}[t-n]. {(Many adults and children)[s] wore[v] traditional clothes and seemed[v] happy}[t-p]. {(Some women)[s] wore[v] white lace and carried[v] bowls of colorful flags}[t-p]. {(Some men)[s] were[x] dressed[v] all in white and had[v] big hats}[t-p]. 
+
+#Shifter, SVO. 
+{(A shifter)[s] tells[v] you time, place, reason, contrast or condition}[t-n]. {(Shifters longer than three words)[s] use[v] a comma after at the end}[t-n].
+
+{Under the trees}[f-p], {performers[s] waited[v] in the shade}[t-p].
+{When it was[x] their turn}[f-t], {they[s] walked[v] onstage}[t-p].
+
+#SVO shifter. Same as above but[j] with the shifter after the SVO. No comma.
+{Performers[s] waited[v] in the shade}[t-p] {under the trees}[e-t].
+{They[s] walked[s] onstage}[t-p] {when it was[x] their turn}[e-t].
+
+#Linker, SVO. {Linkers[s] are[x] transition phrases and words like however, thus, etc}[t-n].
+Fortunately[l], {(the weather)[s] was[x] comfortable}[t-p].
+
+#S, insert, VO. or SVO, insert. {Inserts[s] are[x] extra information set apart by commas, colons, dashes or parentheses}[t-n]. 
+{(My friend)[s], (a New Yorker from Mexico)[extra], complained[v] about families that (don't)[x] honor[v] traditional culture}[t-p]. {He[s] noticed[v] some young people looking bored}[t-p], {perhaps even ashamed}[extra]. {They[s] should[x] be[v] proud of their pre-colonial heritage}[t-n], {with its rich history and culture}[extra].
+
+{How can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Look[v] for clues}[t-n]. First[l] {use[v] the x-word (to find)[inf] SVO}[t-n]. Then[l] {look[v] at the punctuation}[t-n]. {What else do[x] you[s] see[v] besides the period at the end of the sentence}[t-n]? {Punctuation[s] is[x] a clue to shifters, linkers and inserts}[t-n]. {Look[v] for information about time, place etc. to figure out the pattern}[t-n]. 
+
+{You[s] can[x] learn[v] more by reading about trunks, shifters, linkers and inserts in the articles at the bottom of the page}[t-n]. {You[s] can[x] practice[v] finding them with several exercises in any article on this site}[t-n]. (Above all)[l], {you[s] should[x] look[v] for them}[t-n] {when you[s] read}[e-t]. 
+
+{With a lot of practice}[f-r], {you[s] will[x] learn[v] the sentence patterns}[t-n]. {(Looking for them)[s] will[x] become[v] a habit}[t-n]. {You[s] can[x] use[v] that habit (to check)[inf] the punctuation and style of your own writing}[t-n].
