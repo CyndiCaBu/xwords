@@ -15,7 +15,7 @@
     },
     {
         "statement": "That makes the pattern SVO.",
-        "question": "Does that makes the pattern SVO?",
+        "question": "Does that make the pattern SVO?",
         "tag_question": "That makes the pattern SVO, doesn't it?",
         "negation": "That doesn't make the pattern SVO.",
         "distractors": ""
