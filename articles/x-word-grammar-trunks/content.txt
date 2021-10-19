@@ -12,7 +12,7 @@
 
 # Trunk, plus Trunk
 
-{We[s] can[x] connect[v] those to sentences}[t-n], {using a joiner}[t-n]. 
+{We[s] can[x] connect[v] those two sentences}[t-n], {using a joiner}[t-n]. 
 
 {Trees[s] have[vxo] roots}[t-n], so[j] {they[s] grow[vxo] both up and down}[t-n].
 
