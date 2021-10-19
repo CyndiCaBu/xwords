@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Written English uses seven sentence patterns.",
+        "question": "Does written English use seven sentence patterns?",
+        "tag_question": "Written English uses seven sentence patterns, doesn't it?",
+        "negation": "Written English doesn't use seven sentence patterns.",
+        "distractors": ""
+    },
+    {
+       "statement": "These patterns can make short sentences or long ones.",
+       "question": "Can these patterns make short sentences or long ones?",
+       "tag_question": "These patterns can make short sentences or long ones, can't they?",
+       "negation": "These patterns can't make short sentences or long ones.",
+       "distractors": ""
+    },
+    {
+        "statement": "It depends on the writer's style and the context.",
+        "question": "Does it depend on the writer's style and the context?",
+        "tag_question": "It depends on the writer's style and the context, doesn't it?",
+        "negation": "It doesn't depend on the writer's style or the context.",
+        "distractors": ""
+    },
+    {
+       "statement": "The basic sentence pattern is SVO.",
+       "question": "Is the basic sentence pattern SVO?",
+       "tag_question": "The basic sentence pattern is SVO, isn't it?",
+       "negation": "The basic sentence pattern is not SVO.",
+       "distractors": ""
+    }
+]
