@@ -1,6 +1,6 @@
 {(Written English)[s] uses[v] seven sentence patterns}[t-n]. {(These patterns)[s] can[x] make[v] short sentences or long ones}[t-n]. {It[s] depends[v] on the writer's style and the context}[t-n].
 
-{(Business writing)[s] uses[v] concise sentences}[t-n]. {It[s] gets[v] straight to the point}[t-n], {using enough words to explain but[j] nothing more than needed}[extra]. (For example)[l], {(a business email message)[s] might[x] have[v] only 2 or 3 lines}[t-n]. {It[s] greets[v] the reader, explains[v] what the writer wants or needs and ends[v] with gratitude}[t-n]. Period. 
+{(Business writing)[s] uses[v] concise sentences}[t-n]. {It[s] gets[v] straight to the point}[t-n], {using enough words to explain but[j] nothing more than needed}[extra]. (For example)[l], {(a business email message)[s] might[x] have[v] only two or three lines}[t-n]. {It[s] greets[v] the reader, explains[v] what the writer wants or needs and ends[v] with gratitude}[t-n]. Period. 
 
 {In other contexts}[f-p], {(the writing style)[s] depends[v] on the writer}[t-n]. {(Some people)[s] prefer[v] short, direct sentences}[t-n]. {Others[s] combine[v] sentence patterns (to write)[inf] long sentences}[t-n].  
 
@@ -38,7 +38,7 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 {(This pattern)[s] is[x] the same as the one above it}[t-n], but[j] {it[s] starts[v] with the SVO}[t-n]. {There[s] is[x] no comma}[t-n] {before the shifter}[e-t].
 
-{Performers[s] waited[v] in the shade}[t-p] {under the trees}[e-t]. {They[s] walked[v] onstage}[t-p] {when it was[x] their turn}[e-t].
+{Performers[s] waited[v] in the shade}[t-p] {under the trees}[e-p]. {They[s] walked[v] onstage}[t-p] {when it was[x] their turn}[e-t].
 
 # Linker, SVO. 
 
@@ -50,4 +50,4 @@ Fortunately[l], {(the weather)[s] was[x] comfortable}[t-p].
 
 {Inserts[s] are[x] extra information set apart by commas, colons, dashes or parentheses}[t-n]. {(Understanding them)[s] helps[v] with reading as well as writing}[t-n].
 
-{(My friend)[s], (a New Yorker from Mexico)[extra], complained[v] about families that (don't)[x] honor[v] traditional culture}[t-p]. {He[s] noticed[v] some young people looking bored}[t-p], {perhaps even ashamed}[extra]. {They[s] should[x] be[v] proud of their pre-colonial heritage}[t-n], {with its rich history and culture}[extra].
+{It[s] was[x] a beautiful day (to be)[inf] in the park}[t-p], {enjoying Guelaguetza}[extra]. {(My friend)[s], (a New Yorker from Mexico)[extra], complained[v] about families that (don't)[x] honor[v] traditional culture like that}[t-p]. {He[s] noticed[v] some young people around us looking bored}[t-p], {perhaps even ashamed}[extra]. {They[s] should[x] be[v] proud of their pre-colonial heritage}[t-n], {with its rich history and culture}[extra].
