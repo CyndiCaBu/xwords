@@ -12,7 +12,7 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 # SVO.
 
-{(One subject)[s] goes[v] with one verb and one ojbect}[t-n] {in the basic SVO pattern}[e-p].
+{(One subject)[s] goes[v] with one verb and one object}[t-n] {in the basic SVO pattern}[e-p].
 
 {(The picture above)[s] is[x] from a Mexican celebration}[t-p]. {It[s] was[x] taken[v] in 2018}[t-p].
 
@@ -24,7 +24,7 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 # SVO plus VO. 
 
-{(This pattern)[s] uses[v] one subject with two or more verbs}[t-n], {connected by commas and FANBOYS}[extra].
+{(This pattern)[s] uses[v] one subject with two or more verbs}[t-n], {connected by FANBOYS}[extra].
 
 {(The celebration)[s] comes[v] from Oaxaca and is[x] called[v] Guelaguetza}[t-n]. {(Many adults and children)[s] wore[v] traditional clothes and seemed[v] happy}[t-p]. {(Some women)[s] wore[v] white lace and carried[v] bowls of colorful flags}[t-p]. {(Some men)[s] were[x] dressed[v] all in white and had[v] big hats}[t-p]. 
 
