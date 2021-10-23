@@ -4,7 +4,7 @@
 
 {Rules[s], (like laws)[extra], are[x] meant[v] (to be)[inf] followed[v]}[t-n]. {(Some people)[s] will[x] follow[v] them out of respect and a sincere wish (to do)[inf] the right thing}[t-n]. {Others[s] will[x] only follow[v] rules that have[x] clear consequences and laws that are[x] enforced}[t-n].
 
-{What could[x] encourage[v] the rule-breakers (to change)[inf] the way they think about rules}[t-n-nq]? {Other than punishment}[extra], perhaps[l] {(a technique for managing anxiety)[s] could[x] help[v]}[t-n]. {(Using the the have to or get to technique)[s] would[x] make[v] them stop[v] for a moment}[t-n]. {It[s] would[x] give[v] them a chance (to think)[inf] about the difference between obligation and opportunity}[t-n] - {instead of thinking only about themselves and doing what they want}[extra], {regardless of the rules}[extra].
+{What could[x] encourage[v] the rule-breakers (to change)[inf] the way they think about rules}[t-n-nq]? {Other than punishment}[extra], perhaps[l] {(a technique for managing anxiety)[s] could[x] help[v]}[t-n]. {(Using the have to or get to technique)[s] would[x] make[v] them stop[v] for a moment}[t-n]. {It[s] would[x] give[v] them a chance (to think)[inf] about the difference between obligation and opportunity}[t-n] - {instead of thinking only about themselves and doing what they want}[extra], {regardless of the rules}[extra].
 
 {(An obligation)[s] is[x] something we have[x] (to do)[inf]}[t-n], {like it or not}[extra]. {(An opportunity)[s] is[x] something we get (to do)[inf]}[t-n], {often something we appreciate}[extra]. {Do[x] we[s] have[v] (to obey)[inf]}[t-n-nq], or {do[x] we[s] have[v] other options}[t-n-nq]?
 
