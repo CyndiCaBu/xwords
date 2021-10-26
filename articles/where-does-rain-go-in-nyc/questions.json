@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "A rainy day in New York is like a rainy day anywhere.",
+        "question": "Is a rainy day in New York like a rainy day anywhere?",
+        "tag_question": "A rainy day in New York is like a rainy day anywhere, isn't it?",
+        "negation": "A rainy day in New York is not like a rainy day anywhere.",
+        "distractors": ""
+    },
+    {
+       "statement": "The rainwater flows along the sidewalks and streets.",
+       "question": "Does the rainwater flow along the sidewalks and streets?",
+       "tag_question": "The rainwater flows along the sidewalks and streets, doesn't it?",
+       "negation": "The rainwater doesn't flow along the sidewalks and streets.",
+       "distractors": ""
+    },
+    {
+        "statement": "It gets treated in the sewer system.",
+        "question": "Does it get treated in the sewer system?",
+        "tag_question": "It gets treated in the sewer system, doesn't it?",
+        "negation": "It doesn't get treated in the sewer system.",
+        "distractors": ""
+    },
+    {
+       "statement": "It flows into our rivers and oceans.",
+       "question": "Does it flow into our rivers and oceans?",
+       "tag_question": "It flows into our rivers and oceans, doesn't it?",
+       "negation": "It doesn't flow into our rivers and oceans.",
+       "distractors": ""
+    }
+]
