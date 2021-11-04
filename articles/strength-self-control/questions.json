@@ -8,7 +8,7 @@
     },
     {
        "statement": "Jasmin was walking to work.",
-       "question": "Jasmin was walking to work?",
+       "question": "Was Jasmin walking to work?",
        "tag_question": "Jasmin was walking to work, wasn't she?",
        "negation": "Jasmin was not walking to work.",
        "distractors": ""
