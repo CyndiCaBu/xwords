@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "The morning rush hour filled the streets.",
+        "question": "Did the morning rush hour fill the streets?",
+        "tag_question": "The morning rush hour filled the streets, didn't it?",
+        "negation": "The morning rush hour didn't fill the streets.",
+        "distractors": ""
+    },
+    {
+       "statement": "Jasmin was walking to work.",
+       "question": "Jasmin was walking to work?",
+       "tag_question": "Jasmin was walking to work, wasn't she?",
+       "negation": "Jasmin was not walking to work.",
+       "distractors": ""
+    },
+    {
+        "statement": "She stood on the corner waiting for her turn.",
+        "question": "Did she stand on the corner waiting for her turn?",
+        "tag_question": "She stood on the corner waiting for her turn, didn't she?",
+        "negation": "She didn't stand on the corner waiting for her turn.",
+        "distractors": ""
+    },
+    {
+       "statement": "Cars zoomed past.",
+       "question": "Did cars zoom past?",
+       "tag_question": "Cars zoomed past, didn't they?",
+       "negation": "Cars didn't zoom past.",
+       "distractors": ""
+    },
+    {
+       "statement": "She was getting better at self-control.",
+       "question": "Was she getting better at self-control?",
+       "tag_question": "She was getting better at self-control, wasn't she?",
+       "negation": "She wasn't getting better at self-control.",
+       "distractors": ""
+    }
+]
