@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "An active, constructive response shows real interest.",
+        "question": "Does an active, constructive response show real interest?",
+        "tag_question": "An active, constructive response shows real interest, doesn't it?",
+        "negation": "An active, constructive response doesn't show real interest.",
+        "distractors": ""
+    },
+    {
+       "statement": "An active, destructive response squashes the person's story.",
+       "question": "Does an active, destructive response squash the person's story?",
+       "tag_question": "An active, destructive response squashes the person's story, doesn't it?",
+       "negation": "An active, destructive response doesn't squash the person's story.",
+       "distractors": ""
+    },
+    {
+        "statement": "A passive, constructive response provides minimal support.",
+        "question": "Does a passive, constructive response provide minimal support?",
+        "tag_question": "A passive, constructive response provides minimal support, doesn't it?",
+        "negation": "A passive, constructive response doesn't provide minimal support.",
+        "distractors": ""
+    },
+    {
+       "statement": "A passive, destructive response changes the topic.",
+       "question": "Does a passive, destructive response change the topic?",
+       "tag_question": "A passive, destructive response changes the topic, doesn't it?",
+       "negation": "A passive, destructive response doesn't change the topic.",
+       "distractors": ""
+    }
+]
