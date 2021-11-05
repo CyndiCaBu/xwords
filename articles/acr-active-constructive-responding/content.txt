@@ -2,7 +2,7 @@
 
 {How did[x] (the other person)[s] react[v]}[t-p-nq] {when you told them your good news}[e-t]? {Did[x] they[s] seem[v] interested}[t-p-nq]? {Did[x] they[s] ask[v] you questions (to help)[inf] you re-live the experience}[t-p-nq]? {If so}[f-cd], {you[s] probably felt[vxd] good after the conversation}[t-p]. {On the other hand}[l], {if the person (didn't)[x] support you, changed the topic or even said negative things}[f-cd], {you[s] may[x] have[v] felt[vxd] worse}[t-p]. 
 
-{(The way we respond to each other)[s] can[x] help[v] our relationships grow either stronger or weaker}[t-n]. {(Constructive response)[s] can[x] build[v] better relationships}[t-n], but[j] {(an active response) is[x] more helpful than a passive one}[t-n]. {(Destructive response)[s] can[x] harm[v] or even destroy relationships}[t-n]. {In this case}[f-r], {(an active response) is[x] worse than a passive one}[t-n]. 
+{(The way we respond to each other)[s] can[x] help[v] our relationships grow either stronger or weaker}[t-n]. {(Constructive response)[s] can[x] build[v] better relationships}[t-n], but[j] {(an active response)[s] is[x] more helpful than a passive one}[t-n]. {(Destructive response)[s] can[x] harm[v] or even destroy relationships}[t-n]. {In this case}[f-r], {(an active response)[s] is[x] worse than a passive one}[t-n]. 
 
 {Since positive relationships are[x] an important part of well-being}[f-r], {it[s]('s)[x] worth learning how (to respond)[inf] well}[t-n]. {(Active, constructive response)[s] is[x] the technique (to focus)[inf] on}[t-n]. 
 
