@@ -2,14 +2,9 @@
 
 {How did[x] (the other person)[s] react[v]}[t-p-nq] {when you told them your good news}[e-t]? {Did[x] they[s] seem[v] interested}[t-p-nq]? {Did[x] they[s] ask[v] you questions (to help)[inf] you re-live the experience}[t-p-nq]? {If so}[f-cd], {you[s] probably felt[vxd] good after the conversation}[t-p]. {On the other hand}[l], {if the person (didn't)[x] support you, changed the topic or even said negative things}[f-cd], {you[s] may[x] have[v] felt[vxd] worse}[t-p]. 
 
-{(The way we respond to each other)[s] can[x] help[v] our relationships grow either stronger or weaker}[t-n]. {Since positive relationships are[x] an important part of well-being}[f-r], {it[s]('s)[x] worth learning how this works}[t-n].
+{(The way we respond to each other)[s] can[x] help[v] our relationships grow either stronger or weaker}[t-n]. {(Constructive response)[s] can[x] build[v] better relationships}[t-n], but[j] {(an active response) is[x] more helpful than a passive one}[t-n]. {(Destructive response)[s] can[x] harm[v] or even destroy relationships}[t-n]. {In this case}[f-r], {(an active response) is[x] worse than a passive one}[t-n]. 
 
-# 4 Response Styles
- 
- - active, constructive response
- - active, destructive response
- - passive, constructive response
- - passive, destructive response
+{Since positive relationships are[x] an important part of well-being}[f-r], {it[s]('s)[x] worth learning how (to respond)[inf] well}[t-n]. {(Active, constructive response)[s] is[x] the technique (to focus)[inf] on}[t-n]. 
 
 {Imagine[vxo] that you finally got something you('ve)[x] wanted for a long time}[t-n-nq]: {a piano}[extra]. {You[s] just moved[vxd] it to your apartment with a friend}[t-p] {on a cold winter day}[e-t], {like the people in the photo}[extra]. {It[s] was[x] hard but fun}[t-p]. {You[s] stopped[vxd] (to take)[inf] breaks}[t-p], and[j] {(your friend)[s] even played[vxd] the piano}[t-p] {for a minute}[e-t]. {You[s] talked[vxd] about the sound and laughed[vxd] together}[t=p].
 
@@ -19,7 +14,7 @@ Now[l] {pretend[vxo] you just told a different friend about this good piano-movi
 
 Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment today}[t-p]. 
 
-# An active, constructive response
+# Active, constructive response
 
 {Did[x] you[s] really get[v] your own piano}[t-p-nq]? Congratulations! {Where did[x] you[s] find[v] it}[t-p-nq]?
 
@@ -28,7 +23,7 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
  - helps[v] the person tell you more about their positive experience
  - creates[v] more joy for both of you
 
-# An active, destructive response
+# Active, destructive response
 
 (Oh, no)[l], {it[s]('s)[x] freezing[vg] outside}[t-n]! {You[s] (could)[x] really hurt[v] your hands or your back}[t-n]; {you[s] should[x] have[v] waited[dtn] for a warmer day}[t-p-nq]. {What were[x] you thinking}[t-p-nq]?
 
@@ -37,7 +32,7 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
  - focuses on the negative
  - takes away their joy
 
-# A passive, constructive response
+# Passive, constructive response
 
 Hmm[l], {that[s]('s)[x] nice}[t-n].
 
@@ -46,7 +41,7 @@ Hmm[l], {that[s]('s)[x] nice}[t-n].
  - provides minimal support
  - talks about the person's story a little and then that's it; the conversation ends
 
-# A passive, destructive response
+# Passive, destructive response
 
 Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] ice-skating with my family}[t=p]. Afterwards[l] {we[s] went[vxd] out for some food}[t-p](;)[j] {it[s] was[x] great}[t-p]!
 
