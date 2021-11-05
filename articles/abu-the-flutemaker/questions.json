@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Abu decided to share his talent with kids.",
+        "question": "Did Abu decide to share his talent with kids?",
+        "tag_question": "Abu decided to share his talent with kids, didn't he?",
+        "negation": "Abu decided not to share his talent with kids.",
+        "distractors": ""
+    },
+    {
+       "statement": "He wanted to work in recreation centers.",
+       "question": "Did he want to work in recreation centers?",
+       "tag_question": "He wanted to work in recreation centers, didn't he?",
+       "negation": "He didn't want to work in recreation centers.",
+       "distractors": ""
+    },
+    {
+        "statement": "He started wearing traditional African clothes and saying he was African.",
+        "question": "Did he start wearing traditional African clothes and saying he was African?",
+        "tag_question": "He started wearing traditional African clothes and saying he was African, didn't he?",
+        "negation": "He didn't start wearing traditional African clothes and saying he was African.",
+        "distractors": ""
+    },
+    {
+       "statement": "He got hired.",
+       "question": "Did he get hired?",
+       "tag_question": "He got hired, didn't he?",
+       "negation": "He didn’t get hired.",
+       "distractors": ""
+    }
+]
