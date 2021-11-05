@@ -5,6 +5,7 @@
 {(The way we respond to each other)[s] can[x] help[v] our relationships grow either stronger or weaker}[t-n]. {Since positive relationships are[x] an important part of well-being}[f-r], {it[s]('s)[x] worth learning how this works}[t-n].
 
  # 4 Response Styles
+ 
  - active, constructive response
  - active, destructive response
  - passive, constructive response
@@ -22,18 +23,16 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
 
 {Did[x] you[s] really get[v] your own piano}[t-p-nq]? Congratulations! {Where did[x] you[s] find[v] it}[t-p-nq]?
 
-{This[s] is[x] an active, constructive response}[t-n] {because it}[e-r]:
-
- - shows real interest
- - helps the person tell you more about their positive experience
- - creates more joy for both of you
+{(This type of response)[s]}[e-r]:
+ - shows[v] real interest
+ - helps[v] the person tell you more about their positive experience
+ - creates[v] more joy for both of you
 
 # An active, destructive response
 
 (Oh, no)[l], {it[s]('s)[x] freezing[vg] outside}[t-n]! {You[s] (could)[x] really hurt[v] your hands or your back}[t-n]; {you[s] should[x] have[v] waited[dtn] for a warmer day}[t-p-nq]. {What were[x] you thinking}[t-p-nq]?
 
-{This[s] is[x] an active, destructive response}[t-n] {because it}[e-r]:
-
+{This type of response)[s]:
  - squashes the person's story
  - focuses on the negative
  - takes away their joy
@@ -42,8 +41,7 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
 
 Hmm[l], {that[s]('s)[x] nice}[t-n].
 
-{This[s] is[x] a passive, constructive response}[t-n] {because it}[e-r]:
-
+{This type of response)[s]:
  - shows distraction
  - provides minimal support
  - talks about the person's story a little and then that's it; the conversation ends
@@ -52,8 +50,7 @@ Hmm[l], {that[s]('s)[x] nice}[t-n].
 
 Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] ice-skating with my family}[t=p]. Afterwards[l] {we[s] went[vxd] out for some food}[t-p](;)[j] {it[s] was[x] great}[t-p]!
 
-{This[s] is[x] an passive, destructive response}[t-n] {because it}[e-r]:
-
+{This type of response)[s]:
  - ignores the person's story
  - changes the topic
  - starts a different conversation
