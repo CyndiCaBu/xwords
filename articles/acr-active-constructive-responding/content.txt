@@ -18,7 +18,7 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
 
 {Did[x] you[s] really get[v] your own piano}[t-p-nq]? Congratulations! {Where did[x] you[s] find[v] it}[t-p-nq]?
 
-{(This type of response)[s]}[e-r]:
+This type of response:
  - shows[v] real interest
  - helps[v] the person tell you more about their positive experience
  - creates[v] more joy for both of you
@@ -27,7 +27,7 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
 
 (Oh, no)[l], {it[s]('s)[x] freezing[vg] outside}[t-n]! {You[s] (could)[x] really hurt[v] your hands or your back}[t-n]; {you[s] should[x] have[v] waited[dtn] for a warmer day}[t-p-nq]. {What were[x] you thinking}[t-p-nq]?
 
-{This type of response)[s]:
+This type of response:
  - squashes the person's story
  - focuses on the negative
  - takes away their joy
@@ -36,7 +36,7 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
 
 Hmm[l], {that[s]('s)[x] nice}[t-n].
 
-{This type of response)[s]:
+This type of response:
  - shows distraction
  - provides minimal support
  - talks about the person's story a little and then that's it; the conversation ends
@@ -45,7 +45,7 @@ Hmm[l], {that[s]('s)[x] nice}[t-n].
 
 Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] ice-skating with my family}[t=p]. Afterwards[l] {we[s] went[vxd] out for some food}[t-p](;)[j] {it[s] was[x] great}[t-p]!
 
-{This type of response)[s]:
+This type of response:
  - ignores the person's story
  - changes the topic
  - starts a different conversation
