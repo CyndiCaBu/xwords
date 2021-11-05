@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "A friend and I were walking down a busy street.",
+        "question": "Were a friend and I walking down a busy street?",
+        "tag_question": "A friend and I were walking down a busy street, weren't we?",
+        "negation": "A friend and I were not walking down a busy street.",
+        "distractors": "", 
+    },
+    {
+       "statement": "An elevated train rumbled by.",
+       "question": "Did an elevated train rumble by?",
+       "tag_question": "An elevated train rumbled by, didn't it?",
+       "negation": "An elevated train did not rumble by.",
+       "distractors": ""
+    },
+    {
+        "statement": "I felt something hit my sneaker lightly.",
+        "question": "Did I feel something hit my sneaker lightly?",
+        "tag_question": "I felt something hit my sneaker lightly, didn't I?",
+        "negation": "I didn't feel something hit my sneaker lightly.",
+        "distractors": ""
+    },
+    {
+       "statement": "I looked down and saw a very small rat running away from us.",
+       "question": "Did I look down and see a very small rat running away from us?",
+       "tag_question": "I looked down and saw a very small rat running away from us, didn't I?",
+       "negation": "I didn't look down or see a very small rat running away from us.",
+       "distractors": ""
+    }
+]
