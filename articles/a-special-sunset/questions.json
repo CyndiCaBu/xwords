@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Skyscrapers make it hard to see the sky well.",
+        "question": "Do skyscrapers make it hard to see the sky well?",
+        "tag_question": "Skyscrapers make it hard to see the sky well, don't they?",
+        "negation": "Skyscrapers don't make it hard to see the sky well.",
+        "distractors": ""
+    },
+    {
+       "statement": "The tall buildings are part of a special effect".",
+       "question": "Are the tall buildings part of a special effect?",
+       "tag_question": "The tall buildings are part of a special effect, aren't they?",
+       "negation": "the tall buildings are part of a special effect.",
+       "distractors": ""
+    },
+    {
+        "statement": "It's called Manhattanhenge.",
+        "question": "Is it called Manhattanhenge?",
+        "tag_question": "It's called Manhattanhenge, isn't it?",
+        "negation": "It's not called Manhattanhenge.",
+        "distractors": ""
+    },
+    {
+       "statement": "The sun looks like a big ball of light falling in slow motion.",
+       "question": "Does the sun look like a big ball of light falling in slow motion?",
+       "tag_question": "The sun looks like a big ball of light falling in slow motion, doesn't it?",
+       "negation": "The sun doesn't look like a big ball of light falling in slow motion.",
+       "distractors": ""
+    },
+    {
+       "statement": "Crowds of people gather to watch and take pictures.",
+       "question": "Do crowds of people gather to watch and take pictures?",
+       "tag_question": "Crowds of people gather to watch and take pictures, don't they?",
+       "negation": "Crowds of people don't gather to watch or take pictures.",
+       "distractors": ""
+    }
+]
