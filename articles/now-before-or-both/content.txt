@@ -25,7 +25,7 @@
  
 {Max[s] (doesn’t)[x] know[v] what happened to that toy horse}[t-n]. {(The flowers)[s] are[x] still there}[t-n], but[j] {(the horse)[s] (isn't)[x]}[t-n]. {(He and his friends)[s] do[x] not expect[v] (to see)[inf] it again}[t-n]. {They[s] can[x] look[v]}[t-n], but[j] {will[x] they[s] find[v] it}[t-n]?
 
-#NOW AND BEFORE
+# NOW AND BEFORE
 {(These 2 x-words)[s] go[v] with the DTN form of the verb (to connect)[inf] the past to the present}[t-n]:
 
  - have
