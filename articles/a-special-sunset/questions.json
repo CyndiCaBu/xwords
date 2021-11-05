@@ -7,7 +7,7 @@
         "distractors": ""
     },
     {
-       "statement": "The tall buildings are part of a special effect".",
+       "statement": "The tall buildings are part of a special effect.",
        "question": "Are the tall buildings part of a special effect?",
        "tag_question": "The tall buildings are part of a special effect, aren't they?",
        "negation": "the tall buildings are part of a special effect.",
