@@ -33,7 +33,7 @@
 
 {Max[s] has[x] walked[v] up and down that street many times}[t-b] {since the day he saw the horse}[e-t]. {(His friends)[s] have[x] been[v] there too}[t-b], but[j] {(they)[s] (have)[x] not seen[v] it again}[t-b].
  
-#NOW OR BEFORE
+# NOW OR BEFORE
 
 {(This group of 6 x-words)[s] can[x] refer[v] to the present, the past or something hypothetical}[t-n]. {It[s] depends[v] on the context}[t-n].
 
