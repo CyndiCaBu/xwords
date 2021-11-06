@@ -35,7 +35,7 @@
  - has[x]
 
 {Max[s] has[x] walked[v] up and down that street many times}[t-b] {since the day he saw the horse}[e-t]. {(His friends)[s] have[x] been[v] there too}[t-b], but[j] {(they)[s] (have)[x] not seen[v] it again}[t-b].
- 
+
 # NOW OR BEFORE
 
 {(This group of 6 x-words)[s] can[x] refer[v] to the present, the past or something hypothetical}[t-n]. {It[s] depends[v] on the context}[t-n].
@@ -55,7 +55,7 @@
 
 # NOW BASED ON THE CONTEXT
 
-{(Would[x] and could[x])[s] refer[v] to the present and to possibilities}[t-n], {with clues like the word now, the S on the end of the first verb, and if (to show)[inf] possibilities}[t-n].
+{(Would[x] and could[x])[s] refer[v] to the present and to possibilities}[t-n], {with clues like now and the S on the end of the first verb (to show)[inf] the present, and if (to show)[inf] possibilities}[t-n].
 
 Now[l] {Max[s] wonders[vxd] if he could[x] still do[v] that and if he could[x] find[v] a rocking horse big enough for an adult}[t-p]. {He[s] (doesn't)[x] know[v] where (to look)[inf] for one}[t-n], but[j] {he[s] would[x] like[v] (to try)[inf]}[t-n].
 
