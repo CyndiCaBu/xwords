@@ -1,10 +1,8 @@
 {Think about a time when you told someone some good news}[t-n]. Maybe[l] {you[s] talked[v] about a positive experience like a good day at work or an afternoon in the park}[t-n]. Perhaps[l] {you[s] told[v] them about something that made you feel successful}[t-n], {such as doing[ger] well on a quiz or taking steps to solve a problem}[extra].
 
-{How did[x] (the other person)[s] react[v]}[t-p-nq] {when you told them your good news}[e-t]? {Did[x] they[s] seem[v] interested}[t-p-nq]? {Did[x] they[s] ask[v] you questions (to help)[inf] you re-live the experience}[t-p-nq]? {If so}[f-cd], {you[s] probably felt[vxd] good after the conversation}[t-p]. {On the other hand}[l], {if the person (didn't)[x] support you, changed the topic or even said negative things}[f-cd], {you[s] may[x] have[v] felt[vxd] worse}[t-p]. 
+{How did[x] (the other person)[s] react[v] to your good news}[t-p-nq]? {Did[x] they[s] seem[v] interested}[t-p-nq]? {Did[x] they[s] ask[v] questions (to help)[inf] you re-live the experience}[t-p-nq]? {If so}[f-cd], {you[s] probably felt[vxd] good after the conversation}[t-p].  {If not}[f-cd], {you[s] may[x] have[v] felt[vxd] uncomfortable, frustrated or ignored}[t-p]. 
 
-{(The way we respond to each other)[s] can[x] help[v] our relationships grow either stronger or weaker}[t-n]. {(Constructive response)[s] can[x] build[v] better relationships}[t-n], but[j] {(an active response)[s] is[x] more helpful than a passive one}[t-n]. {(Destructive response)[s] can[x] harm[v] or even destroy relationships}[t-n]. {In this case}[f-r], {(an active response)[s] is[x] worse than a passive one}[t-n]. 
-
-{Since positive relationships are[x] an important part of well-being}[f-r], {it[s]('s)[x] worth learning how (to respond)[inf] well}[t-n]. {(Active, constructive response)[s] is[x] the technique (to focus)[inf] on}[t-n]. 
+{(The way we respond to each other)[s] can[x] help[v] our relationships grow either stronger or weaker}[t-n]. {(Constructive response)[s] can[x] build[v] better relationships}[t-n]. {(An active response)[s] is[x] more helpful than a passive one}[t-n]. {(Destructive response)[s], (on the other hand)[extra], can[x] harm[v] or even destroy relationships}[t-n]. {In this case}[f-r], {(an active response)[s] is[x] more harmful than a passive one}[t-n]. 
 
 {Imagine[vxo] that you finally got something you('ve)[x] wanted for a long time}[t-n-nq]: {a piano}[extra]. {You[s] just moved[vxd] it to your apartment with a friend}[t-p] {on a cold winter day}[e-t], {like the people in the photo}[extra]. {It[s] was[x] hard but fun}[t-p]. {You[s] stopped[vxd] (to take)[inf] breaks}[t-p], and[j] {(your friend)[s] even played[vxd] the piano}[t-p] {for a minute}[e-t]. {You[s] talked[vxd] about the sound and laughed[vxd] together}[t=p].
 
@@ -18,40 +16,40 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
 
 {Did[x] you[s] really get[v] your own piano}[t-p-nq]? Congratulations! {Where did[x] you[s] find[v] it}[t-p-nq]?
 
-This type of response:
- - shows[v] real interest
- - helps[v] the person tell you more about their positive experience
- - creates[v] more joy for both of you
+{(An active, constructive response like this)[s] can[x] lead[v] to sharing more positive emotions}[t-n].
+ - {It[s] shows[v] real interest}[t-n].
+ - {It[s] helps[v] the person tell you more about their positive experience}[t-n].
+ - {It[s] creates[v] more joy for both of you}[t-n].
 
 # Active, destructive response
 
 (Oh, no)[l], {it[s]('s)[x] freezing[vg] outside}[t-n]! {You[s] (could)[x] really hurt[v] your hands or your back}[t-n]; {you[s] should[x] have[v] waited[dtn] for a warmer day}[t-p-nq]. {What were[x] you thinking}[t-p-nq]?
 
-This type of response:
- - squashes the person's story
- - focuses on the negative
- - takes away their joy
+{(This response)[s] is[x] still active}[t-n], but[j] {it[s] has[v] destructive features}[t-n].
+ - {It[s] squashes[v] the person's story}[t-n].
+ - {It[s] focuses[v] on the negative}[t-n].
+ - {It[s] takes[v] away their joy}[t-n].
 
 # Passive, constructive response
 
 Hmm[l], {that[s]('s)[x] nice}[t-n].
 
-This type of response:
- - shows distraction
- - provides minimal support
- - talks about the person's story a little and then that's it; the conversation ends
+{Although this response is[x] positive}[f-ct], {it[s] (doesn't)[x] contribute[v] to a positive relationship}[t-n].
+ - {It[s] shows[v] distraction}[t-n].
+ - {It[s] provides[v] minimal support}[t-n].
+ - {After a short response}[f-t], {(the conversation)[s] ends[v]}[t-n].
 
 # Passive, destructive response
 
 Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] ice-skating with my family}[t=p]. Afterwards[l] {we[s] went[vxd] out for some food}[t-p](;)[j] {it[s] was[x] great}[t-p]!
 
-This type of response:
- - ignores the person's story
- - changes the topic
- - starts a different conversation
-
-{(That last response)[s] may[x] sounds[v] positive; it[s]('s)[x] about a good day and pleasant activities}[t-n]. However[l], {it[s]('s)[x] still destructive}[t-n-nq], {in a passive way}[extra]. {(Those comments about ice-skating)[s] take[vxo] the focus off the original good news completely}[t-n]. {They[s] ignore[v] what their friend experienced and change[v] the topic to a different piece of good news}[t-n]. {Even though that('s)[x] not overtly negative}[f-ct], {like the person who talked about the dangers of moving[ger] a piano}[extra], {it[s]('s)[x] still not supportive}[t-n-nq]. {It[s] (doesn't)[x] encourage[v] the person (to keep)[inf] re-living[ger] the positive emotions of their own good news}[t-n-nq]. {That[s] makes[v] it destructive}[t-n].
+{(This response)[s] is[x] enthusiastic}[t-n], but[j] {it[s]('s)[x] also destructive}[t-n-nq]. {It[s] (doesn't)[x] encourage[v] the person (to keep)[inf] re-living[ger] the positive emotions of their own good news}[t-n-nq].
+ - {It[s] ignores[v] the person's story}[t-n].
+ - {It[s] changes[v] the topic}[t-n].
+ - {It[s] starts[v] a different conversation}[t-n].
 
 Sometimes[l] {we[s] might[x] not be[v] in the mood (to ask)[inf] questions or really support someone else}[t-n-nq]. {We[s] may[x] not have[v] time (to talk)[inf] much}[t-n-nq], or[j] {we[s] could[x] be[v] distracted}[t-n]. {We[s] might[x] be[v] too tired (to concentrate)[inf] on someone else}[t-n]. {We[s] (wouldn't)[x] choose[v] a destructive response on purpose}[t-n], but[j] {we[s] may[x] use[v] one without realizing it}[t-n]. {(Our relationships)[s] can[x] suffer[v]}[t-n] {as a result}[e-r].
 
-{(To strengthen)[inf] our relationships instead}[f-r], {we[s] need[v] (to practice)[inf] using active, constructive response}[t-n]. {It[s] helps[v] (to say)[inf] sample sentences out loud}[t-n]. {We[s] can[x] also spend[v] some time thinking about the types of good news we often hear and writing possible responses in advance}[t-n], {knowing that what we say can[x] make[v] a difference in how others feel}[extra].
+{We[s] need[v] (to practice)[inf] using active, constructive response}[t-n] {if we want (to strengthen)[inf] our relationships}[e-cd]. {It[s] helps[v] (to consider)[inf] the types of good news that we often hear and write some possible active, constructive responses in advance}[t-n]. {We[s] can[x] practice[v] saying these responses out loud (to prepare)[inf] for the next time we need them}[t-n]. 
+
+{(Positive relationships and positive emotions)[s] go[v] together}[t-n]. {(Active, constructive response)[s] is[x] a tool (to build)[inf] both}[t-n], and[j] {both[s] are[x] essential parts of well-being}[t-n].
