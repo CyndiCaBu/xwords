@@ -1,8 +1,10 @@
-{(X-words)[s] show[vxo] time}[t-n]. {(Some of them)[s] do[v] it very clearly}[t-n]. {Others[s] depend[v] on the context}[t-n]. 
+{How can[x] you[s] tell[v] the difference between the present and the past in English}[t-n-nq]? {(The verb form)[s] is[x] a useful clue}t-n], so[j] {you[s] need[v] (to make)[inf] an effort (to memorize)[inf] the past tense for irregular verbs and the -ed ending for regular ones}[t-n]. {You[s] also need[v] (to pay)[inf] attention to the context for clues}[t-n], {including words like tomorrow, last night, currently, etc}[extra]. 
+
+{(X-words)[s] are another clue}[t-n] {because they show time}[e-r]. {(Some x-words)[s] do[v] this very clearly}[t-n]. {Others[s] depend[v] on the context}[t-n]. 
 
 # BEFORE
 
-{(The BEFORE group)[s] has[v] 4 x-words that always refer to the past}[t-n]:
+{(The 4 x-words in the BEFORE group)[s] always refer[v] to the past}[t-n].
 
  - did[x]
  - had[x]
@@ -11,7 +13,7 @@
 
 {Max[s] laughed[vxd] out loud}[t-p] {when he saw[vxd] this toy horse outside one morning}[e-t]. {It[s] was[x] sitting[v] near the basketball hoop}[t-p]. {(His neighbors)[s] were[x] not around}[t-p], so[j] {he[s] did[x] not get[v] a chance (to ask)[inf] them about it right then}[t-p]. {He[s] had[x] never seen[v] something like that}[t-p] {in their tiny front yard}[e-p].
 
-{(The NOW group)[s] has[v] 7 x-words that always refer to the present or future}[t-n]:
+{(The 7 x-words in the NOW group)[s] always refer[v] to the present or future}[t-n].
 
 # NOW
 
@@ -26,10 +28,11 @@
 {Max[s] (doesn’t)[x] know[v] what happened to that toy horse}[t-n]. {(The flowers)[s] are[x] still there}[t-n], but[j] {(the horse)[s] (isn't)[x]}[t-n]. {(He and his friends)[s] do[x] not expect[v] (to see)[inf] it again}[t-n]. {They[s] can[x] look[v]}[t-n], but[j] {will[x] they[s] find[v] it}[t-n]?
 
 # NOW AND BEFORE
-{(These 2 x-words)[s] go[v] with the DTN form of the verb (to connect)[inf] the past to the present}[t-n]:
 
- - have
- - has
+{(Only 2 x-words)[s] connect[v] the past to the present}[t-n], {using the DTN form of the verb}. {(Other grammar)[s] calls[v] this the present perfect form}. {It[s] means[v] that something happened before}[t-n], {without specifying when it happened}, and[j] {it[s] might[x] happen[v] again}[t-n]. {Clues[s] include[v] the words since and yet}[t-n].
+
+ - have[x]
+ - has[x]
 
 {Max[s] has[x] walked[v] up and down that street many times}[t-b] {since the day he saw the horse}[e-t]. {(His friends)[s] have[x] been[v] there too}[t-b], but[j] {(they)[s] (have)[x] not seen[v] it again}[t-b].
  
@@ -44,11 +47,15 @@
  - might[x]
  - may[x]
 
-{In the paragraph below}[f-p], {(the x-words would[x] and could[x])[s] refer[v] to the past}[t-n]. {(The clues)[s] start[v] in the first sentences}[t-n], {with verbs in the simple past}[extra].
+# BEFORE BASED ON THE CONTEXT
+
+{(Would[x] and could[x])[s] refer[v] to the past}[t-n] {in the paragraph below}[e-p]. {(The clues)[s] start[v] in the first sentences}[t-n], {with verbs in the simple past}[extra].
  
 {(Seeing[ger] that toy horse)[s] made[vxd] Max think about his own childhood}[t-p]. {He[s] used[vxd] (to have)[inf] a similar toy}[t-p], {a rocking horse}[extra]. {He[s] would[x] ride[v] it every day}[t-p], {especially around nap time}[extra]. {(His parents)[s] told[vxd] him that he would[x] often fall[v] asleep on it}[t-p], and[j] {they[s] were[x] always amazed that he could[x] keep his balance}[t-p]. 
 
-{In the next paragraph}[f-p], {(those same x-words)[s] refer[v] to the present and to possibilities}[t-n]. {(The clues)[s] are[x] the words "now" and "if"}[t-n].
+# NOW BASED ON THE CONTEXT
+
+{(Would[x] and could[x])[s] refer[v] to the present and to possibilities}[t-n], {with clues like the word now, the S on the end of the first verb, and if (to show)[inf] possibilities}[t-n].
 
 Now[l] {Max[s] wonders[vxd] if he could[x] still do[v] that and if he could[x] find[v] a rocking horse big enough for an adult}[t-p]. {He[s] (doesn't)[x] know[v] where (to look)[inf] for one}[t-n], but[j] {he[s] would[x] like[v] (to try)[inf]}[t-n].
 
