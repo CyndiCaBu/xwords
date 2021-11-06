@@ -48,7 +48,7 @@
  
 {(Seeing[ger] that toy horse)[s] made[vxd] Max think about his own childhood}[t-p]. {He[s] used[vxd] (to have)[inf] a similar toy}[t-p], {a rocking horse}[extra]. {He[s] would[x] ride[v] it every day}[t-p], {especially around nap time}[extra]. {(His parents)[s] told[vxd] him that he would[x] often fall[v] asleep on it}[t-p], and[j] {they[s] were[x] always amazed that he could[x] keep his balance}[t-p]. 
 
-{In the next paragraph}[f-p], {(those same x-words)[s] refer[v] to the present and to possibilities}[t-n]. {(The clues)[s] are the words "now" and "if"}[t-n].
+{In the next paragraph}[f-p], {(those same x-words)[s] refer[v] to the present and to possibilities}[t-n]. {(The clues)[s] are[x] the words "now" and "if"}[t-n].
 
 Now[l] {Max[s] wonders[vxd] if he could[x] still do[v] that and if he could[x] find[v] a rocking horse big enough for an adult}[t-p]. {He[s] (doesn't)[x] know[v] where (to look)[inf] for one}[t-n], but[j] {he[s] would[x] like[v] (to try)[inf]}[t-n].
 
