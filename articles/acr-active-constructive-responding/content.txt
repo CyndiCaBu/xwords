@@ -18,36 +18,36 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
 
 {(An active, constructive response like this)[s] can[x] lead[v] to sharing more positive emotions}[t-n].
 
- - it shows real interest yes
- - {It[s] helps[v] the person tell you more about their positive experience}[t-n].
- - {It[s] creates[v] more joy for both of you}[t-n].
+ - It shows real interest
+ - It helps the person tell you more about their positive experience
+ - It creates more joy for both of you
 
 # Active, destructive response
 
 (Oh, no)[l], {it[s]('s)[x] freezing[vg] outside}[t-n]! {You[s] (could)[x] really hurt[v] your hands or your back}[t-n]; {you[s] should[x] have[v] waited[dtn] for a warmer day}[t-p-nq]. {What were[x] you thinking}[t-p-nq]?
 
 {(This response)[s] is[x] still active}[t-n], but[j] {it[s] has[v] destructive features}[t-n].
- - {It[s] squashes[v] the person's story}[t-n].
- - {It[s] focuses[v] on the negative}[t-n].
- - {It[s] takes[v] away their joy}[t-n].
+ - It squashes the person's story
+ - It focuses on the negative
+ - It takes away their joy
 
 # Passive, constructive response
 
 Hmm[l], {that[s]('s)[x] nice}[t-n].
 
 {Although this response is[x] positive}[f-ct], {it[s] (doesn't)[x] contribute[v] to a positive relationship}[t-n].
- - {It[s] shows[v] distraction}[t-n].
- - {It[s] provides[v] minimal support}[t-n].
- - {After a short response}[f-t], {(the conversation)[s] ends[v]}[t-n].
+ - It shows distraction
+ - It provides minimal support
+ - It ends the conversation
 
 # Passive, destructive response
 
 Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] ice-skating with my family}[t=p]. Afterwards[l] {we[s] went[vxd] out for some food}[t-p](;)[j] {it[s] was[x] great}[t-p]!
 
 {(This response)[s] is[x] enthusiastic}[t-n], but[j] {it[s]('s)[x] also destructive}[t-n-nq]. {It[s] (doesn't)[x] encourage[v] the person (to keep)[inf] re-living[ger] the positive emotions of their own good news}[t-n-nq].
- - {It[s] ignores[v] the person's story}[t-n].
- - {It[s] changes[v] the topic}[t-n].
- - {It[s] starts[v] a different conversation}[t-n].
+ - It ignores the person's story
+ - It changes the topic
+ - It starts a different conversation
 
 Sometimes[l] {we[s] might[x] not be[v] in the mood (to ask)[inf] questions or really support someone else}[t-n-nq]. {We[s] may[x] not have[v] time (to talk)[inf] much}[t-n-nq], or[j] {we[s] could[x] be[v] distracted}[t-n]. {We[s] might[x] be[v] too tired (to concentrate)[inf] on someone else}[t-n]. {We[s] (wouldn't)[x] choose[v] a destructive response on purpose}[t-n], but[j] {we[s] may[x] use[v] one without realizing it}[t-n]. {(Our relationships)[s] can[x] suffer[v]}[t-n] {as a result}[e-r].
 
