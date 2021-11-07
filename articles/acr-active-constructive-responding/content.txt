@@ -17,8 +17,8 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
 {Did[x] you[s] really get[v] your own piano}[t-p-nq]? Congratulations! {Where did[x] you[s] find[v] it}[t-p-nq]?
 
 {(An active, constructive response like this)[s] can[x] lead[v] to sharing more positive emotions}[t-n].
- - it shows real interest
- - {It[s] shows[v] real interest}[t-n].
+
+ - it shows real interest yes
  - {It[s] helps[v] the person tell you more about their positive experience}[t-n].
  - {It[s] creates[v] more joy for both of you}[t-n].
 
