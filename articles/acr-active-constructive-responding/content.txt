@@ -27,6 +27,7 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
 (Oh, no)[l], {it[s]('s)[x] freezing[vg] outside}[t-n]! {You[s] (could)[x] really hurt[v] your hands or your back}[t-n]; {you[s] should[x] have[v] waited[dtn] for a warmer day}[t-p-nq]. {What were[x] you thinking}[t-p-nq]?
 
 {(This response)[s] is[x] still active}[t-n], but[j] {it[s] has[v] destructive features}[t-n].
+
  - It squashes the person's story
  - It focuses on the negative
  - It takes away their joy
@@ -36,6 +37,7 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
 Hmm[l], {that[s]('s)[x] nice}[t-n].
 
 {Although this response is[x] positive}[f-ct], {it[s] (doesn't)[x] contribute[v] to a positive relationship}[t-n].
+
  - It shows distraction
  - It provides minimal support
  - It ends the conversation
@@ -45,6 +47,7 @@ Hmm[l], {that[s]('s)[x] nice}[t-n].
 Yeah[l], {I[s] had[vxd] a good day}[t-p], (too)[extra]. {I[s] went[vxd] ice-skating with my family}[t=p]. Afterwards[l] {we[s] went[vxd] out for some food}[t-p](;)[j] {it[s] was[x] great}[t-p]!
 
 {(This response)[s] is[x] enthusiastic}[t-n], but[j] {it[s]('s)[x] also destructive}[t-n-nq]. {It[s] (doesn't)[x] encourage[v] the person (to keep)[inf] re-living[ger] the positive emotions of their own good news}[t-n-nq].
+
  - It ignores the person's story
  - It changes the topic
  - It starts a different conversation
