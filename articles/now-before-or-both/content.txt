@@ -1,4 +1,4 @@
-{How can[x] you[s] tell[v] the difference between the present and the past in English}[t-n-nq]? {(The verb form)[s] is[x] a useful clue}t-n], so[j] {you[s] need[v] (to make)[inf] an effort (to memorize)[inf] the past tense for irregular verbs and the -ed ending for regular ones}[t-n]. {You[s] also need[v] (to pay)[inf] attention to the context for clues}[t-n], {including words like tomorrow, last night, currently, etc}[extra]. 
+{How can[x] you[s] tell[v] the difference between the present and the past in English}[t-n-nq]? {(The verb form)[s] is[x] a useful clue}[t-n], so[j] {you[s] need[v] (to make)[inf] an effort (to memorize)[inf] the past tense for irregular verbs and the -ed ending for regular ones}[t-n]. {You[s] also need[v] (to pay)[inf] attention to the context for clues}[t-n], {including words like tomorrow, last night, currently, etc}[extra]. 
 
 {(X-words)[s] are another clue}[t-n] {because they show time}[e-r]. {(Some x-words)[s] do[v] this very clearly}[t-n]. {Others[s] depend[v] on the context}[t-n]. 
 
@@ -29,7 +29,7 @@
 
 # NOW AND BEFORE
 
-{(Only 2 x-words)[s] connect[v] the past to the present}[t-n], {using the DTN form of the verb}[extra]. {(Other grammar)[s] calls[v] this the present perfect form}[t-n]. {It[s] means[v] that something happened before}[t-n], {without specifying when it happened}[extra], and[j[ {it[s] might[x] happen[v] again}[t-n]. {Clues[s] include[v] the words since and yet}[t-n].
+{(Only 2 x-words)[s] connect[v] the past to the present}[t-n], {using the DTN form of the verb}[extra]. {(Other grammar)[s] calls[v] this the present perfect form}[t-n]. {It[s] means[v] that something happened before}[t-n], {without specifying when it happened}[extra], and[j] {it[s] might[x] happen[v] again}[t-n]. {Clues[s] include[v] the words since and yet}[t-n].
 
  - have[x]
  - has[x]
