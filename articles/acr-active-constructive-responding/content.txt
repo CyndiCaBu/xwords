@@ -24,7 +24,7 @@ Hey[l], {I[s] finally got[v] a piano}[t-n]! {We[s] moved[v] it into my apartment
 
 # Active, destructive response
 
-(Oh, no)[l], {it[s]('s)[x] freezing[vg] outside}[t-n]! {You[s] (could)[x] really hurt[v] your hands or your back}[t-n]; {you[s] should[x] have[v] waited[dtn] for a warmer day}[t-p-nq]. {What were[x] you thinking}[t-p-nq]?
+(Oh, no)[l], {it[s]('s)[x] freezing[v] outside}[t-n]! {You[s] (could)[x] really hurt[v] your hands or your back}[t-n]; {you[s] should[x] have[v] waited[dtn] for a warmer day}[t-p-nq]. {What were[x] you[s] thinking[v]}[t-p-nq]?
 
 {(This response)[s] is[x] still active}[t-n], but[j] {it[s] has[v] destructive features}[t-n].
 
