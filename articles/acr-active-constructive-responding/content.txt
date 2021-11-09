@@ -2,7 +2,7 @@
 
 {How did[x] (the other person)[s] react[v] to your good news}[t-p-nq]? {Did[x] they[s] seem[v] interested}[t-p-nq]? {Did[x] they[s] ask[v] questions (to help)[inf] you re-live the experience}[t-p-nq]? {If so}[f-cd], {you[s] probably felt[vxd] good after the conversation}[t-p].  {If not}[f-cd], {you[s] may[x] have[v] felt[vxd] uncomfortable, frustrated or ignored}[t-p]. 
 
-{(The way we respond to each other)[s] can[x] help[v] our relationships grow either stronger or weaker}[t-n]. {(Constructive response)[s] can[x] build[v] better relationships}[t-n]. {(An active response)[s] is[x] more helpful than a passive one}[t-n]. {(Destructive response)[s], (on the other hand)[extra], can[x] harm[v] or even destroy relationships}[t-n]. {In this case}[f-r], {(an active response)[s] is[x] more harmful than a passive one}[t-n]. 
+{(The way we respond to each other)[s] can[x] help[v] our relationships grow either stronger or weaker}[t-n]. {(Constructive response)[s] can[x] build[v] better relationships}[t-n]. {(An active response)[s] is[x] more helpful than a passive one}[t-n]. {(Destructive response)[s], (on the other hand)[extra], can[x] harm[v] or even destroy[v] relationships}[t-n]. {In this case}[f-r], {(an active response)[s] is[x] more harmful than a passive one}[t-n]. 
 
 {Imagine[vxo] that you finally got something you('ve)[x] wanted for a long time}[t-n-nq]: {a piano}[extra]. {You[s] just moved[vxd] it to your apartment with a friend}[t-p] {on a cold winter day}[e-t], {like the people in the photo}[extra]. {It[s] was[x] hard but fun}[t-p]. {You[s] stopped[vxd] (to take)[inf] breaks}[t-p], and[j] {(your friend)[s] even played[vxd] the piano}[t-p] {for a minute}[e-t]. {You[s] talked[vxd] about the sound and laughed[vxd] together}[t=p].
 
