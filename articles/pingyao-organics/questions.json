@@ -1,0 +1,44 @@
+[
+    {
+        "statement": "Pingyao is an ancient city in northern China.",
+        "question": "Is Pingyao an ancient city in northern China?",
+        "tag_question": "Pingyao is an ancient city in northern China, isn't it?",
+        "negation": "Pingyao is not an ancient city in northern China.",
+        "distractors": ""
+    },
+    {
+       "statement": "It's famous for its big city walls.",
+       "question": "Is it famous for its big city walls?",
+       "tag_question": "It's famous for its big city walls, isn't it?",
+       "negation": "It's not famous for its big city walls,",
+       "distractors": ""
+    },
+    {
+        "statement": "Pingyao attracts tourists all year.",
+        "question": "Does Pingyao attract tourists all year?",
+        "tag_question": "Pingyao attracts tourists all year, doesn't it?",
+        "negation": "Pingyao doesn't attract tourists all year.",
+        "distractors": ""
+    },
+    {
+       "statement": "Traditions continue.",
+       "question": "Do traditions continue?",
+       "tag_question": "Traditions continue, don't they?",
+       "negation": "Traditions don't continue.",
+       "distractors": ""
+    },
+    {
+       "statement": "One is the collection of night soil.",
+       "question": "Is one the collection of night soil?",
+       "tag_question": "One is the collection of night soil, isn't it?",
+       "negation": "One is not the collection of night soil.",
+       "distractors": ""
+    },
+    {
+      "statement": "Farmers could use it as fertilizer.",
+      "question": "Could farmers use it as fertilizer?",
+      "tag_question": "Farmers could use it as fertilizer, couldn't they?",
+      "negation": "Farmers couldn't use it as fertilizer.",
+      "distractors": ""
+    }
+]
