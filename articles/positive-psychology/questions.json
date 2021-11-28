@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Positive psychology is a science.",
+        "question": "Is positive psychology a science?",
+        "tag_question": "Positive psychology is a science, isn't it?",
+        "negation": "Positive psychology isn't a science.",
+        "distractors": ""
+    },
+    {
+       "statement": "It tries to define its terms.",
+       "question": "Does it try to define its terms?",
+       "tag_question": "It tries to define its terms, doesn't it?",
+       "negation": "It doesn't try to define its terms.",
+       "distractors": ""
+    },
+    {
+        "statement": "There are many types of happiness.",
+        "question": "Are there many types of happiness?",
+        "tag_question": "There are many types of happiness, aren't there?",
+        "negation": "There aren't many types of happiness.",
+        "distractors": ""
+    },
+    {
+       "statement": "Five elements contribute to wellbeing.",
+       "question": "Do five elements contribute to wellbeing?",
+       "tag_question": "Five elements contribute to wellbeing, don't they?",
+       "negation": "Five elements don't contribute to wellbeing.",
+       "distractors": ""
+    },
+    {
+        "statement": "Each of these elements can be measured.",
+        "question": "Can each of these elements be measured?",
+        "tag_question": "Each of these elements can be measured, can't they?",
+        "negation": "None of these elements can be measured.",
+        "distractors": ""
+    }
+]
