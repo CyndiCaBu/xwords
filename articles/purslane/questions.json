@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Noah was at a farmers market.",
+        "question": "Was Noah at a farmers market?",
+        "tag_question": "Noah was at a farmers market, wasn't he?",
+        "negation": "Noah wasn't at a farmers market.",
+        "distractors": ""
+    },
+    {
+       "statement": "The farmer offered him a sample.",
+       "question": "Did the farmer offer him a sample?",
+       "tag_question": "The farmer offered him a sample, didn't she?",
+       "negation": "The farmer didn't offer him a sample.",
+       "distractors": ""
+    },
+    {
+        "statement": "Noah liked it and bought some.",
+        "question": "Did Noah like it and buy some?",
+        "tag_question": "Noah liked it and bought some, didn't he?",
+        "negation": "Noah didn't like it or buy any.",
+        "distractors": ""
+    },
+    {
+       "statement": "He added some purslane to a pot of soup.",
+       "question": "Did he add some purslane to a pot of soup?",
+       "tag_question": "He added some purslane to a pot of soup, didn't he?",
+       "negation": "He didn't add any purslane to a pot of soup.",
+       "distractors": ""
+    },
+    {
+       "statement": "The nutrients in purslane can vary.",
+       "question": "Can the nutrients in purslane vary?",
+       "tag_question": "The nutrients in purslane can vary, can't they?",
+       "negation": "The nutrients in purslane can't vary.",
+       "distractors": ""
+    }
+]
