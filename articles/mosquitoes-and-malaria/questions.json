@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Mosquitoes were something to avoid.",
+        "question": "Were mosquitoes something to avoid?",
+        "tag_question": "Mosquitoes were something to avoid, weren't they?",
+        "negation": "Mosquitoes weren't something to avoid.",
+        "distractors": ""
+    },
+    {
+       "statement": "I took medicine to prevent malaria.",
+       "question": "Did I take medicine to prevent malaria?",
+       "tag_question": "I took medicine to prevent malaria, didn't I?",
+       "negation": "I didn't take medicine to prevent malaria.",
+       "distractors": ""
+    },
+    {
+        "statement": "I was given a mosquito net to sleep under.",
+        "question": "Was I given a mosquito net to sleep under?",
+        "tag_question": "I was given a mosquito net to sleep under, wasn't I?",
+        "negation": "I wasn't given a mosquito net to sleep under.",
+        "distractors": ""
+    },
+    {
+       "statement": "I was surprised to learn that malaria had once been a problem in northern areas.",
+       "question": "Was I surprised to learn that malaria had once been a problem in northern areas?",
+       "tag_question": "I was surprised to learn that malaria had once been a problem in northern areas, wasn't I?",
+       "negation": " I was not surprised to learn that malaria had once been a problem in northern areas.",
+       "distractors": ""
+    },
+    {
+      "statement": "New York succeeded in eradicating the disease.",
+      "question": "Did New York succeed in eradicating the disease?",
+      "tag_question": "New York succeeded in eradicating the disease, didn't it?",
+      "negation": "New York didn't succeed in eradicating the disease.",
+      "distractors": ""
+    }
+]
