@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "It could have been the message.",
+        "question": "Could it have been the message?",
+        "tag_question": "It could have been the message, couldn't it?",
+        "negation": "It couldn't have been the message.",
+        "distractors": ""
+    },
+    {
+       "statement": "The real point is protection.",
+       "question": "Is the real point protection?",
+       "tag_question": "The real point is protection, isn't it?",
+       "negation": "The real point isn't protection.",
+       "distractors": ""
+    },
+    {
+        "statement": "Activists and others have worked on these goals since at least 1990.",
+        "question": "Have activists and others worked on these goals since at least 1990?",
+        "tag_question": "Activists and others have worked on these goals since at least 1990, haven't they?",
+        "negation": "Activists and others haven't worked on these goals since at least 1990.",
+        "distractors": ""
+    },
+    {
+       "statement": "A lot of progress has been made.",
+       "question": "Has a lot of progress been made?",
+       "tag_question": "A lot of progress has been made, hasn't it?",
+       "negation": "A lot of progress hasn't been made.",
+       "distractors": ""
+    },
+    {
+       "statement": "More can be done.",
+       "question": "Can more be done?",
+       "tag_question": "More can be done, can't it?",
+       "negation": "More can't be done.",
+       "distractors": ""
+    }
+]
