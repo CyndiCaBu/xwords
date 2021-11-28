@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "The name Piaget means different things to different people.",
+        "question": "Does the name Piaget mean different things to different people?",
+        "tag_question": "The name Piaget means different things to different people, doesn't it?",
+        "negation": "The name Piaget doesn't mean different things to different people.",
+        "distractors": ""
+    },
+    {
+       "statement": "It brings memories of teaching and learning.",
+       "question": "Does t bring memories of teaching and learning?",
+       "tag_question": "It brings memories of teaching and learning, doesn't it?",
+       "negation": " It doesn't bring memories of teaching and learning.",
+       "distractors": ""
+    },
+    {
+        "statement": "Jean Piaget was an educator and lifelong learner.",
+        "question": "Was Jean Piaget an educator and lifelong learner?",
+        "tag_question": "Jean Piaget was an educator and lifelong learner, wasn't he?",
+        "negation": "Jean Piaget wasn't an educator and lifelong learner.",
+        "distractors": ""
+    },
+    {
+       "statement": "Another Piaget was born in Switzerland about 20 years before Piaget the educator.",
+       "question": "Was another Piaget born in Switzerland about 20 years before Piaget the educator?",
+       "tag_question": "Another Piaget was born in Switzerland about 20 years before Piaget the educator, wasn't he",
+       "negation": "Another Piaget wasn't born in Switzerland about 20 years before Piaget the educator.",
+       "distractors": ""
+    },
+    {
+        "statement": "Today the name Piaget represents a luxurious brand of jewelry.",
+        "question": "Today does the name Piaget represent a luxurious brand of jewelry?",
+        "tag_question": "Today the name Piaget represents a luxurious brand of jewelry, doesn't it?",
+        "negation": "Today the name Piaget doesn't represent a luxurious brand of jewelry.",
+        "distractors": ""
+    }
+]
