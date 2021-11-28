@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "I went to a restaurant.",
+        "question": "Did I go to a restaurant?",
+        "tag_question": "I went to a restaurant, didn't I?",
+        "negation": "I didn't go to a restaurant.",
+        "distractors": ""
+    },
+    {
+       "statement": "The sky had been gray all day.",
+       "question": "Had the sky been gray all day?",
+       "tag_question": "The sky had been gray all day, hadn't it?",
+       "negation": "The sky hadn't been gray all day.",
+       "distractors": ""
+    },
+    {
+        "statement": "I took an umbrella with me.",
+        "question": "Did I take an umbrella with me?",
+        "tag_question": "I took an umbrella with me, didn't I?",
+        "negation": "I didn't take an umbrella with me.",
+        "distractors": ""
+    },
+    {
+        "statement": "We found out it was already snowing hard.",
+        "question": "Did we find out it was already snowing hard?",
+        "tag_question": "We found out it was already snowing hard, didn't we?",
+        "negation": "We didn't find out it was already snowing hard.",
+        "distractors": ""
+    },
+    {
+       "statement": "Treating umbrellas as disposable items is wrong.",
+       "question": "Is treating umbrellas as disposable items wrong?",
+       "tag_question": "Treating umbrellas as disposable items is wrong, isn't it?",
+       "negation": "Treating umbrellas as disposable items isn't wrong.",
+       "distractors": ""
+    }
+]
