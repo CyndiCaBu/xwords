@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "We have a strong survival instinct.",
+        "question": "Do we have a strong survival instinct?",
+        "tag_question": "We have a strong survival instinct, don't we?",
+        "negation": "We don't have a strong survival instinct.",
+        "distractors": ""
+    },
+    {
+       "statement": "We also have a negativity bias.",
+       "question": "Do we also have a negativity bias?",
+       "tag_question": "We also have a negativity bias, don't we?",
+       "negation": "We don't have a negativity bias.",
+       "distractors": ""
+    },
+    {
+        "statement": "Noticing hope, interest, joy, gratitude and other positive emotions can help us feel better.",
+        "question": "Can noticing hope, interest, joy, gratitude and other positive emotions help us feel better?",
+        "tag_question": "Noticing hope, interest, joy, gratitude and other positive emotions can help us feel better, can't it?",
+        "negation": "Noticing hope, interest, joy, gratitude and other positive emotions can't help us feel better.",
+        "distractors": ""
+    },
+    {
+       "statement": "Our attention becomes broader.",
+       "question": "Does our attention become broader?",
+       "tag_question": "Our attention becomes broader, doesn't it?",
+       "negation": "Our attention doesn't become broader.",
+       "distractors": ""
+    },
+    {
+      "statement": "This helps us become more resilient, closer to others and even physically healthier.",
+      "question": "Does this help us become more resilient, closer to others and even physically healthier
+      "tag_question": "This helps us become more resilient, closer to others and even physically healthier, doesn't it?",
+       "negation": "This doesn't help us become more resilient, closer to others and even physically healthier.",
+       "distractors": ""
+    }
+]
