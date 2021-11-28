@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Governors Island is a small island.",
+        "question": "Is Governors Island a small island?",
+        "tag_question": "Governors Island is a small island, isn't it?",
+        "negation": "Governors Island isn't a small island.",
+        "distractors": ""
+    },
+    {
+       "statement": "It was first inhabited by American Indians.",
+       "question": "Was it first inhabited by American Indians?",
+       "tag_question": "It was first inhabited by American Indians, wasn't it?",
+       "negation": "It was not first inhabited by American Indians.",
+       "distractors": ""
+    },
+    {
+        "statement": "The colonists who were trying to get away from British control had a different idea.",
+        "question": "Did the colonists who were trying to get away from British control have a different idea?",
+        "tag_question": "The colonists who were trying to get away from British control had a different idea, didn't they?",
+        "negation": "the colonists who were trying to get away from British control didn't have a different idea.",
+        "distractors": ""
+    },
+    {
+       "statement": "They resisted.",
+       "question": "Did they resist?",
+       "tag_question": "They resisted, didn't they?",
+       "negation": "They didn't resist.",
+       "distractors": ""
+    }
+]
