@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Columbus was actually looking for India.",
+        "question": "Was Columbus actually looking for India?",
+        "tag_question": "Columbus was actually looking for India, wasn't he?",
+        "negation": "Columbus wasn't actually looking for India.",
+        "distractors": ""
+    },
+    {
+       "statement": "He and his crew landed in the Caribbean.",
+       "question": "Did he and his crew land in the Caribbean?",
+       "tag_question": "He and his crew landed in the Caribbean, didn't they?",
+       "negation": "He and his crew didn't land in the Caribbean.",
+       "distractors": ""
+    },
+    {
+        "statement": "Racism blinded Columbus and his fellow Europeans.",
+        "question": "Did racism blind Columbus and his fellow Europeans?",
+        "tag_question": "Racism blinded Columbus and his fellow Europeans, didn't it?",
+        "negation": "Racism didn't blind Columbus and his fellow Europeans.",
+        "distractors": ""
+    },
+    {
+       "statement": "Exploitation, territorial invasion and even genocide came next.",
+       "question": "Did exploitation, territorial invasion and even genocide come next?",
+       "tag_question": "Exploitation, territorial invasion and even genocide came next, didn't it?",
+       "negation": "Exploitation, territorial invasion and even genocide did not come next.",
+       "distractors": ""
+    },
+    {
+       "statement": "Germs were like a secret weapon.",
+       "question": "Were germs like a secret weapon?",
+       "tag_question": "Germs were like a secret weapon, weren't they?",
+       "negation": "Germs were not like a secret weapon.",
+       "distractors": ""
+    }
+]
