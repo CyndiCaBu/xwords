@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Elisabeth does the dishes by hand.",
+        "question": "Does Elisabeth do the dishes by hand?",
+        "tag_question": "Elisabeth does the dishes by hand, doesn't she?",
+        "negation": "Elisabeth doesn't do the dishes by hand.",
+        "distractors": ""
+    },
+    {
+       "statement": "She lets them air dry.",
+       "question": "Does she let them air dry?",
+       "tag_question": "She lets them air dry, doesn't she?",
+       "negation": "She doesn't let them air dry.",
+       "distractors": ""
+    },
+    {
+        "statement": "She likes the feel of warm water.",
+        "question": "Does she like the feel of warm water?",
+        "tag_question": "She likes the feel of warm water, doesn't she?",
+        "negation": "She doesn't like the feel of warm water.",
+        "distractors": ""
+    },
+    {
+       "statement": "She has a dishwasher.",
+       "question": "Does she have a dishwasher?",
+       "tag_question": "She has a dishwasher, doesn't she?",
+       "negation": "She doesn't have a dishwasher.",
+       "distractors": ""
+    }
+]
