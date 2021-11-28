@@ -1,0 +1,44 @@
+[
+    {
+        "statement": "The sun was shining.",
+        "question": "Was the sun shining?",
+        "tag_question": "The sun was shining, wasn't it?",
+        "negation": "The sun was not shining.",
+        "distractors": ""
+    },
+    {
+        "statement": "The wind was painful.",
+        "question": "Was the wind painful?",
+        "tag_question": "The wind was painful, wasn't it?",
+        "negation": "The wind was not painful.",
+        "distractors": ""
+    },
+    {
+       "statement": "I almost stayed home instead of walking to the compost drop off.",
+       "question": "Did I almost stay home instead of walking to the compost drop off?",
+       "tag_question": "I almost stayed home instead of walking to the compost drop off, didn't I?",
+       "negation": "I didn't almost stay home instead of walking to the compost drop off.",
+       "distractors": ""
+    },
+    {
+        "statement": "I had a lot of food scraps.",
+        "question": "Did I have a lot of food scraps?",
+        "tag_question": "I had a lot of food scraps, didn't I?",
+        "negation": "I didn't have a lot of food scraps.",
+        "distractors": ""
+    },
+    {
+       "statement": "Healthier food depends on healthier soil.",
+       "question": "Does healthier food depend on healthier soil?",
+       "tag_question": "Healthier food depends on healthier soil, doesn't it?",
+       "negation": "Healthier food does not depend on healthier soil.",
+       "distractors": ""
+    }
+    {
+        "statement": "Compost plays a role.",
+        "question": "Does compost play a role?",
+        "tag_question": "Compost plays a role, doesn't it?",
+        "negation": "Compost doesn't play a role.",
+        "distractors": ""
+    },
+]
