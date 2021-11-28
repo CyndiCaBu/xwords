@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "New York City is getting greener.",
+        "question": "Is New York City getting greener?",
+        "tag_question": "New York City is getting greener, isn't it?",
+        "negation": "New York City isn't getting greener.",
+        "distractors": ""
+    },
+    {
+       "statement": "The soil needs to be covered at all times.",
+       "question": "Does the soil need to be covered at all times?",
+       "tag_question": "The soil needs to be covered at all times, doesn't it?",
+       "negation": "The soil doesn't need to be covered at all times.",
+       "distractors": ""
+    },
+    {
+        "statement": "Most plants and trees catch carbon.",
+        "question": "Do most plants and trees catch carbon?",
+        "tag_question": "Most plants and trees catch carbon, don't they?",
+        "negation": "Most plants and trees don't catch carbon.",
+        "distractors": ""
+    },
+    {
+       "statement": "People often walk right over the soil.",
+       "question": "Do people often walk right over the soil?",
+       "tag_question": "People often walk right over the soil, don't they?",
+       "negation": "People don't often walk right over the soil.",
+       "distractors": ""
+    }
+]
