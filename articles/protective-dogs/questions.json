@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Puppies can always find their mother.",
+        "question": "Can puppies always find their mother?",
+        "tag_question": "Puppies can always find their mother, can't they?",
+        "negation": "Puppies can't always find their mother.",
+        "distractors": ""
+    },
+    {
+       "statement": "The mother dog is usually quite protective.",
+       "question": "Is the mother dog usually quite protective?",
+       "tag_question": "The mother dog is usually quite protective, isn't she?",
+       "negation": "The mother dog usually isn't quite protective.",
+       "distractors": ""
+    },
+    {
+        "statement": "Mom and her pups will all feel better.",
+        "question": "Will Mom and her pups all feel better?",
+        "tag_question": "Mom and her pups will all feel better, won't they?",
+        "negation": "Mom and her pups won't all feel better.",
+        "distractors": ""
+    },
+    {
+       "statement": "The puppies will be ready to start exploring.",
+       "question": "Will the puppies be ready to start exploring?",
+       "tag_question": "The puppies will be ready to start exploring, won't they?",
+       "negation": "The puppies won't be ready to start exploring.",
+       "distractors": ""
+    },
+    {
+       "statement": "The mother dog will get back to normal.",
+       "question": "Will the mother dog get back to normal?",
+       "tag_question": "The mother dog will get back to normal, won't she?",
+       "negation": "The mother dog won't get back to normal.",
+       "distractors": ""
+    }
+]
