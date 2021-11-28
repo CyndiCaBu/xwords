@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "The enthusiasm of math lovers can brighten anyone's day.",
+        "question": "Can the enthusiasm of math lovers brighten anyone's day?",
+        "tag_question": "The enthusiasm of math lovers can brighten anyone's day, can't it?",
+        "negation": "The enthusiasm of math lovers can't brighten anyone's day.",
+        "distractors": ""
+    },
+    {
+       "statement": "Pi is part of any circle.",
+       "question": "Is pi part of any circle?",
+       "tag_question": "Pi is part of any circle, isn't it?",
+       "negation": "pi isn't part of any circle.",
+       "distractors": ""
+    },
+    {
+        "statement": "The farm stand had a few pi-celebrating options.",
+        "question": "Did the farm stand have a few pi-celebrating options?",
+        "tag_question": "The farm stand had a few pi-celebrating options, didn't it?",
+        "negation": "The farm stand didn't have a few pi-celebrating options.",
+        "distractors": ""
+    },
+    {
+       "statement": "There were lots of fresh ingredients to make a veggie pie.",
+       "question": "Were there lots of fresh ingredients to make a veggie pie?",
+       "tag_question": "There were lots of fresh ingredients to make a veggie pie, weren't there?",
+       "negation": "There were not lots of fresh ingredients to make a veggie pie.",
+       "distractors": ""
+    }
+]
