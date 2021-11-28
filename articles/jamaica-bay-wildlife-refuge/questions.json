@@ -1,0 +1,50 @@
+[ 
+   {
+       "statement": "Jamaica Bay Wildlife Refuge is a place to forget about the city.",
+       "question": "Is Jamaica Bay Wildlife Refuge a place to forget about the city?",
+       "tag_question": "Jamaica Bay Wildlife Refuge is a place to forget about the city. isn't it?",
+       "negation": "Jamaica Bay Wildlife Refuge isn't a place to forget about the city.",
+       "distractors": ""
+    },
+{
+        "statement": "It feels like another world.",
+        "question": "Does it feel like another world?",
+        "tag_question": "It feels like another world, doesn't it?",
+        "negation": "It doesn't feel like another world.",
+        "distractors": ""
+    },
+    {
+       "statement": "It serves as a safe place for wild birds and other creatures.",
+       "question": "Does it serve as a safe place for wild birds and other creatures?",
+       "tag_question": "It serves as a safe place for wild birds and other creatures, doesn't it?",
+       "negation": "It doesn't serve as a safe place for wild birds and other creatures.",
+       "distractors": ""
+    },
+    {
+        "statement": "You can walk on the trails .",
+        "question": "Can you walk on the trails?",
+        "tag_question": "You can walk on the trails, can't you?",
+        "negation": "You can't walk on the trails .",
+        "distractors": ""
+    },
+    {
+       "statement": "One trail goes past trees and tall grasses.",
+       "question": "Does one trail go past trees and tall grasses?",
+       "tag_question": "One trail goes past trees and tall grasses, doesn't it?",
+       "negation": "One trail doesn't go past trees and tall grasses.",
+       "distractors": ""
+    }, 
+    {
+      "statement": "You can see the Manhattan skyline beyond the marshes.",
+      "question": "Can you see the Manhattan skyline beyond the marshes?",
+      "tag_question": "You can see the Manhattan skyline beyond the marshes, can't you?",
+      "negation": "You can't see the Manhattan skyline beyond the marshes.",
+      "distractors": ""
+],
+  {
+      "statement": "Water separates you from the rest of the city.",
+      "question": "Does Water separate you from the rest of the city?",
+      "tag_question": "Water separates you from the rest of the city, doesn't it?",
+      "negation": "Water doesn't separate you from the rest of the city.",
+      "distractors": ""
+]
