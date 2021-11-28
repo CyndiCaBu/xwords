@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Earth Hour is an annual event.",
+        "question": "Is Earth Hour an annual event?",
+        "tag_question": "Earth Hour is an annual event, isn't it?",
+        "negation": "Earth Hour isn't an annual event.",
+        "distractors": ""
+    },
+    {
+        "statement": "It takes place at night and lasts for one hour.",
+        "question": "Does it take place at night and last for one hour?",
+        "tag_question": "It takes place at night and lasts for one hour, doesn't it?",
+        "negation": "It doesn't take place at night and last for one hour.",
+        "distractors": ""
+    },
+    {
+       "statement": "People turn off all their lights.",
+       "question": "Do people turn off all their lights?",
+       "tag_question": "People turn off all their lights, don't they?",
+       "negation": "People don't turn off all their lights.",
+       "distractors": ""
+    },
+    {
+       "statement": "People can enjoy the dark.",
+       "question": "Can people enjoy the dark?",
+       "tag_question": "People can enjoy the dark, can't they?",
+       "negation": "People can't enjoy the dark.",
+       "distractors": ""
+    }
+    {
+      "statement": "Earth Hour could become more effective.",
+      "question": "Could Earth Hour become more effective?",
+      "tag_question": "Earth Hour could become more effective, couldn't it?",
+      "negation": "Earth Hour couldn't become more effective.",
+      "distractors": ""
+    }
+]
