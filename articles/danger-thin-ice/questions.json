@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "There’s a risk.",
+        "question": "Is there a risk?",
+        "tag_question": "There’s a risk, isn't there?",
+        "negation": "There’s no risk.",
+        "distractors": ""
+    },
+    {
+       "statement": "It looks like someone already tried.",
+       "question": "Does it look like someone already tried?",
+       "tag_question": "It looks like someone already tried, doesn't it?",
+       "negation": "It doesn't look like someone already tried.",
+       "distractors": ""
+    },
+    {
+        "statement": "Matter exists in 3 forms.",
+        "question": "Does matter exist in 3 forms?",
+        "tag_question": "Matter exists in 3 forms, doesn't it?",
+        "negation": "Matter doesn't exist in 3 forms.",
+        "distractors": ""
+    },
+    {
+       "statement": "It can be fun to try visualizing a change of state.",
+       "question": "Can it be fun to try visualizing a change of state?",
+       "tag_question": "It can be fun to try visualizing a change of state, can't it?",
+       "negation": "It can't be fun to try visualizing a change of state.",
+       "distractors": ""
+    },
+    {
+       "statement": "They're a way to review.",
+       "question": "Are they a way to review?",
+       "tag_question": "They're a way to review, aren't they?",
+       "negation": "They're not a way to review.",
+       "distractors": ""
+    }
+]
