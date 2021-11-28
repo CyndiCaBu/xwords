@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Fur is as natural as our hair is to us.",
+        "question": "Is fur as natural as our hair is to us?",
+        "tag_question": "Fur is as natural as our hair is to us, isn't it?",
+        "negation": "Fur is not as natural as our hair is to us.",
+        "distractors": ""
+    },
+    {
+       "statement": "It keeps animals warm.",
+       "question": "Does it keep animals warm?",
+       "tag_question": "It keeps animals warm, doesn't it?",
+       "negation": "It doesn't keep animals warm.",
+       "distractors": ""
+    },
+    {
+        "statement": "Animals need their fur coats.",
+        "question": "Do animals need their fur coats?",
+        "tag_question": "Animals need their fur coats, don't they?",
+        "negation": "Animals don't need their fur coats.",
+        "distractors": ""
+    },
+   {
+       "statement": "People were protesting.",
+       "question": "Were people protesting?",
+       "tag_question": "People were protesting, weren't they?",
+       "negation": "People were not protesting.",
+       "distractors": ""
+    },
+    {
+       "statement": "It was convincing.",
+       "question": "Was it convincing?",
+       "tag_question": "It was convincing, wasn't it?",
+       "negation": "It was not convincing.",
+       "distractors": ""
+    }
+]
