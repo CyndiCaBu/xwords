@@ -1,0 +1,43 @@
+[
+    {
+        "statement": "You need to be in good shape.",
+        "question": "Do you need to be in good shape?",
+        "tag_question": "You need to be in good shape, don't you?",
+        "negation": "You don't need to be in good shape.",
+        "distractors": ""
+    },
+    {
+       "statement": "It depends on the wind.",
+       "question": "Does it depend on the wind?",
+       "tag_question": "It depends on the wind, doesn't it?",
+       "negation": "It doesn't depend on the wind.",
+       "distractors": ""
+    },
+    {
+        "statement": "The idea is to keep moving.",
+        "question": "Is the idea to keep moving?",
+        "tag_question": "The idea is to keep moving, isn't it?",
+        "negation": "The idea is not to keep moving.",
+        "distractors": ""
+    },
+    {
+       "statement": "You could try a hot air balloon.",
+       "question": "Could you try a hot air balloon?",
+       "tag_question": "You could try a hot air balloon, couldn't you?",
+       "negation": "You couldn't try a hot air balloon.",
+       "distractors": ""
+    },
+    {
+       "statement": "Another fuel-burning option is parasailing.",
+       "question": "Is another fuel-burning option parasailing?",
+       "tag_question": "Another fuel-burning option is parasailing, isn't it?",
+       "negation": "Another fuel-burning option is not parasailing.",
+       "distractors": ""
+    },
+    {
+      "statement": "You begin to float slowly.",
+      "question": "Do you begin to float slowly?",
+      "tag_question": "You begin to float slowly, don't you?",
+      "negation": "You don't begin to float slowly.",
+      "distractors": ""
+]
