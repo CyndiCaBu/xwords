@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Tigers are often called big cats.",
+        "question": "Are tigers often called big cats?",
+        "tag_question": "Tigers are often called big cats, aren't they?",
+        "negation": "Tigers are not often called big cats.",
+        "distractors": ""
+    },
+    {
+       "statement": "They look and move like the smaller cats humans have lived with .",
+       "question": "Do they look and move like the smaller cats humans have lived with?",
+       "tag_question": "They look and move like the smaller cats humans have lived with, don't they?",
+       "negation": "They don't look and move like the smaller cats humans have lived with.",
+       "distractors": ""
+    },
+    {
+        "statement": "Both types of cats are carnivores.",
+        "question": "Are both types of cats carnivores?",
+        "tag_question": "Both types of cats are carnivores, aren't they?",
+        "negation": "Both types of cats are not carnivores.",
+        "distractors": ""
+    },
+    {
+       "statement": "Pet cats still have killer instincts.",
+       "question": "Do pet cats still have killer instincts?",
+       "tag_question": "Pet cats still have killer instincts, don't they?",
+       "negation": "Pet cats don't have killer instincts anymore.",
+       "distractors": ""
+    }
+]
