@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "New York is always changing.",
+        "question": "Is New York always changing?",
+        "tag_question": "New York is always changing, isn't it?",
+        "negation": "New York isn't always changing.",
+        "distractors": ""
+    },
+    {
+       "statement": "The old and the new are joined.",
+       "question": "Are the old and the new joined?",
+       "tag_question": "The old and the new are joined, aren't they?",
+       "negation": "The old and the new are not joined.",
+       "distractors": ""
+    },
+    {
+       "statement": "The metal seems to be rusting.",
+       "question": "Does the metal seem to be rusting?",
+       "tag_question": "The metal seems to be rusting, doesn't it?",
+       "negation": "The metal doesn't seem to be rusting.",
+       "distractors": ""
+    },
+    {
+       "statement": "That was done on purpose.",
+       "question": "Was that done on purpose?",
+       "tag_question": "That was done on purpose, wasn't it?",
+       "negation": "That wasn't done on purpose.",
+       "distractors": ""
+    },
+    {
+        "statement": "CorTen steel was designed to rust in a beautiful way.",
+        "question": "Was CorTen steel designed to rust in a beautiful way?",
+        "tag_question": "CorTen steel was designed to rust in a beautiful way, wasn't it?",
+        "negation": "CorTen steel wasn't designed to rust in a beautiful way.",
+        "distractors": ""
+     }
+]
