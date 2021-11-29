@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Shake Shack has locations in the United States and abroad.",
+        "question": "Does Shake Shack have locations in the United States and abroad?",
+        "tag_question": "Shake Shack has locations in the United States and abroad, doesn't it?",
+        "negation": "Shake Shack doesn't have locations in the United States and abroad.",
+        "distractors": ""
+    },
+    {
+       "statement": "It started in New York.",
+       "question": "Did it start in New York?",
+       "tag_question": "It started in New York, didn't it?",
+       "negation": "It didn't start in New York.",
+       "distractors": ""
+    },
+    {
+        "statement": "A Thai artist inspired a New York restaurateur.",
+        "question": "Did a Thai artist inspire a New York restaurateur?",
+        "tag_question": "A Thai artist inspired a New York restaurateur, didn't he?",
+        "negation": "A Thai artist didn't inspire a New York restaurateur.",
+        "distractors": ""
+    },
+    {
+       "statement": "An art project had a hot dog cart.",
+       "question": "Did an art project have a hot dog cart?",
+       "tag_question": "An art project had a hot dog cart, didn't it?",
+       "negation": "An art project didn't have a hot dog cart.",
+       "distractors": ""
+    },
+    {
+       "statement": "Shake Shack is known for burgers.",
+       "question": "Is Shake Shack known for burgers?",
+       "tag_question": "Shake Shack is known for burgers, isn't it?",
+       "negation": "Shake Shack isn't known for burgers.",
+       "distractors": ""
+    }
+]
