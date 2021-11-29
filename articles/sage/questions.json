@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "People have grown and used sage for centuries.",
+        "question": "Have people grown and used sage for centuries?",
+        "tag_question": "People have grown and used sage for centuries, haven't they?",
+        "negation": "People haven't grown and used sage for centuries.",
+        "distractors": ""
+    },
+    {
+       "statement": "It’s associated with herbal remedies.",
+       "question": "Is it associated with herbal remedies?",
+       "tag_question": "It’s associated with herbal remedies, isn't it?",
+       "negation": "It’s not associated with herbal remedies.",
+       "distractors": ""
+    },
+    {
+        "statement": "Some species have a natural chemical compound that can affect the nervous system.",
+        "question": "Do some species have a natural chemical compound that can affect the nervous system?",
+        "tag_question": "Some species have a natural chemical compound that can affect the nervous system, don't they?",
+        "negation": "Some species don't have a natural chemical compound that can affect the nervous system.",
+        "distractors": ""
+    },
+    {
+       "statement": "You can use this herb fresh or dried.",
+       "question": "Can you use this herb fresh or dried?",
+       "tag_question": "You can use this herb fresh or dried, can't you?",
+       "negation": "You can't use this herb fresh or dried.",
+       "distractors": ""
+    },
+    {
+       "statement": "It gives tea a different taste.",
+       "question": "Does it give tea a different taste?",
+       "tag_question": "It gives tea a different taste, doesn't it?",
+       "negation": "It doesn't give tea a different taste.",
+       "distractors": ""
+    }
+]
