@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "We noticed a few couples posing.",
+        "question": "Did we notice a few couples posing?",
+        "tag_question": "We noticed a few couples posing, didn't we?",
+        "negation": "We didn't notice a few couples posing .",
+        "distractors": ""
+    },
+    {
+       "statement": "We stopped to look at them and take some pictures.",
+       "question": "Did we stop to look at them and take some pictures?",
+       "tag_question": "We stopped to look at them and take some pictures, didn't we?",
+       "negation": "We didn't stop to look at them or take some pictures.",
+       "distractors": ""
+    },
+    {
+        "statement": "My friend was focused on a car.",
+        "question": "Was my friend focused on a car?",
+        "tag_question": "My friend was focused on a car, wasn't it?",
+        "negation": "My friend wasn't focused on a car.",
+        "distractors": ""
+    },
+    {
+       "statement": "The couple was laughing.",
+       "question": "Was the couple laughing?",
+       "tag_question": "The couple was laughing, weren't they?",
+       "negation": "The couple wasn't laughing.",
+       "distractors": ""
+    },
+    {
+       "statement": "They drove away.",
+       "question": "Did they drive away?",
+       "tag_question": "They drove away, didn't they?",
+       "negation": "They didn't drive away.",
+       "distractors": ""
+    }
+]
