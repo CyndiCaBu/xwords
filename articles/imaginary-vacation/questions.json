@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Isaac Palomeque is an artist who wants to major in photography.",
+        "question": "Is Isaac Palomeque an artist who wants to major in photography?",
+        "tag_question": "Isaac Palomeque is an artist who wants to major in photography, isn't he?",
+        "negation": "Isaac Palomeque isn't an artist who wants to major in photography.",
+        "distractors": ""
+    },
+    {
+       "statement": "He had a homework assignment about Native American architecture.",
+       "question": "Did he have a homework assignment about Native American architecture?",
+       "tag_question": "He had a homework assignment about Native American architecture, didn't he?",
+       "negation": "He didn't have a homework assignment about Native American architecture.",
+       "distractors": ""
+    },
+    {
+        "statement": "He drew a teepee.",
+        "question": "Did he draw a teepee?",
+        "tag_question": "He drew a teepee, didn't he?",
+        "negation": "He didn't draw a teepee.",
+        "distractors": ""
+    },
+    {
+       "statement": "The moonlight makes it look romantic.",
+       "question": "Does the moonlight make it look romantic?",
+       "tag_question": "The moonlight makes it look romantic, doesn't it?",
+       "negation": "The moonlight doesn't make it look romantic.",
+       "distractors": ""
+    },
+    {
+       "statement": "The fire looks cozy.",
+       "question": "Does the fire look cozy?",
+       "tag_question": "The fire looks cozy, doesn't it?",
+       "negation": "The fire doesn't look cozy.",
+       "distractors": ""
+    }
+]
