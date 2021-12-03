@@ -14,9 +14,9 @@
 
 {(The passage below)[s] uses[v] x-words as main verbs}[t-n].
 
-{Sylhet[s] is[x] a city in Bangladesh}[t-n]. {It[s] has[x] many tea gardens}[t-n], {like the one pictured above}[extra]. {They[s] are[x] green and lush}[t-n] {because tea grows well in a tropical climate}[e-r]. {(Many women)[s] do[x] the hard work of harvesting tea leaves and carrying them to the processing areas}[t-n]. {That way}[l] {they[s] have[x] a chance (to earn)[inf] an income}[t-n], but[j] {is[x] it[s] fair}[t-n-nq]? Not according to Srimoti Bauri, a Bengali woman who works in a tea garden and organizes her fellow workers. 
+{Sylhet[s] is[vxo] a city in Bangladesh}[t-n]. {It[s] has[vxo] many tea gardens}[t-n], {like the one pictured above}[extra]. {They[s] are[vxo] green and lush}[t-n] {because tea grows well in a tropical climate}[e-r]. {(Many women)[s] do[vxo] the hard work of harvesting tea leaves and carrying them to the processing areas}[t-n]. {That way}[l] {they[s] have[vxo] a chance (to earn)[inf] an income}[t-n], but[j] {is[vxo] it[s] fair}[t-n-nq]? Not according to Srimoti Bauri, a Bengali woman who works in a tea garden and organizes her fellow workers. 
 
-{(This type of economic injustice)[s] is[x] not new}[t-n-nq] {in Sylhet or around the world}[e-p]. {(Women’s earnings where Ms. Bauri worked)[s] were[x] typically half of men’s}[t-n] {even though they all did[x] the same tasks}[e-ct]. {Why was[x] (gender discrimination)[s] part of the job}[t-n-nq]? {Progress[s] is[x] possible}[t-n].
+{(This type of economic injustice)[s] is[vxo] not new}[t-n-nq] {in Sylhet or around the world}[e-p]. {(Women’s earnings where Ms. Bauri worked)[s] were[vxo] typically half of men’s}[t-n] {even though they all did[vxo] the same tasks}[e-ct]. {Why was[vxo] (gender discrimination)[s] part of the job}[t-n-nq]? {Is[x] it possible (to improve)[inf] this situation}[t-n-nq]?
 
 # X-word as X-words
 
