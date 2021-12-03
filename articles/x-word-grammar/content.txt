@@ -33,7 +33,7 @@
  - say no: make negative statements
  - add meaning: express opinions, be polite, etc.
 
-{(Every complete sentence in written English)[s] has[v] an x-word}[t-n] - {even if you (don't)[x] see one}[t-n]. {It[s]('s)[x] either hidden inside the main verb}[t-n], or[j] {(the sentence)[s] is[x] a command}[t-n]. {(To learn)[inf] more about this}[f-r], {click[v] for the article about hidden x-words}[t-n-nq].
+{(Every complete sentence in written English)[s] has[v] an x-word}[t-n] - {even if you (don't)[x] see one}[t-n]. {It[s]('s)[x] either hidden inside the main verb}[t-n], or[j] {(the sentence)[s] is[x] a command}[t-n]. {(To learn)[inf] more about this}[f-r], {click[v] the article about hidden x-words}[t-n-nq]. {By the way}[extra], {(the previous sentence)[s] is[x] a command}[t-n], {starting with a verb}[extra] - {not a subject or an x-word}[extra].
 
 # Use X-Word Grammar
 
@@ -49,4 +49,4 @@
  - missing subjects
  - missing verbs
 
-{If you have[x] trouble understanding what you read}[f-cd], {(x-word grammar)[s] can[x] also help[v]}[t-n]. {(Studying sentence patterns and extra information)[s] can[x] teach[v] you (to slow)[inf] down and read[v] more carefully}[t-n], {using the clues to extra information (to help)[inf] you with vocabulary}[extra]. {You[s] still need[v] a good dictionary}, but[j] {(x-word grammar)[s] helps[v] too}[t-n]. {(Successful language learners)[s] use[v] all the tools they can[x]}[t-n]!
+{If you have[x] trouble understanding what you read}[f-cd], {(x-word grammar)[s] can[x] also help[v]}[t-n]. {(Studying sentence patterns and extra information)[s] can[x] teach[v] you (to slow)[inf] down and read[v] more carefully}[t-n], {using the clues to extra information (to figure)[inf] out vocabulary}[extra]. {You[s] still need[v] a good dictionary}[t-n], but[j] {(x-word grammar)[s] helps[v] too}[t-n]. {(Successful language learners)[s] use[v] all the tools they can[x]}[t-n]!
