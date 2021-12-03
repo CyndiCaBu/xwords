@@ -1,4 +1,4 @@
-{English[s] has[vxs] 20 short words with a lot of power}[t-n]. {You[s] might[x] know[v] some of them as helping verbs and others as modal auxiliary verbs}[t-n]. {In x-word grammar}[f-p], {(these 20 words)[s] are called x-words}[t-n].
+{English[s] has[x] 20 short words with a lot of power}[t-n]. {You[s] might[x] know[v] some of them as helping verbs and others as modal auxiliary verbs}[t-n]. {In x-word grammar}[f-p], {(these 20 words)[s] are[x] called[v] x-words}[t-n].
 
 # Learn the X-Words
 
@@ -26,26 +26,20 @@
 
 {We[s] use[vxo] x-words to}[t-n]:
 
- - make questions
+ - ask questions
  - find subjects and verbs
  - show time: now? before? both?
  - show number: make the x-word match the subject
  - say no: make negative statements
  - add meaning: express opinions, be polite, etc.
 
-{(Every complete sentence in written English)[s] has[v] an x-word}[t-n]
+{(Every complete sentence in written English)[s] has[v] an x-word}[t-n] - {even if you (don't)[x] see one}[t-n]. {It[s]('s)[x] either hidden inside the main verb}[t-n], or[j] {(the sentence)[s] is[x] a command}[t-n]. {(To learn)[inf] more about this}[f-r], {click[v] for the article about hidden x-words}[t-n-nq].
 
-{If you (don't)[x] see an x-word in a sentence}[f-cd], {that[s]('s)[x] OK}[t-n]. {That[s] usually means[v] the main verb has[x] an x-word hidden inside it}[t-n]. 
- 
-{If you (don't)[x] see a subject or an x-word in a sentence}[f-cd], {it[s]('s)[x] a command like these}[t-n]:
+# Use X-Word Grammar
 
-{Study[v] hidden x-words}[t-n] {(to learn)[inf] more}[e-r].
-{Learn[v] the simple past form of regular and irregular verbs}[t-n].
-{Look[v] for the verb list here[t-n] {(to practice)[inf] verb forms organized by sound}[e-r].
+{(X-word grammar)[s] is[x] different from traditional grammar}[t-n]. {It[s] takes[v] time (to learn)[inf]}[t-n], and[j] {you[s] need[v] an open mind (to get)[inf] used to the different terms for grammar you might[x] already know}[t-n]. 
 
-{(X-word grammar)[s] is[x] different from traditional grammar}[t-n]. {It[s]('s)[x] a tool (to help)[inf] you improve your reading[ger] and writing[ger]}[t-n]. {It[s] takes[v] time (to learn)[inf]}[t-n], and[j] {you[s] need[v] an open mind (to get)[inf] used to the different terms for grammar you might[x] already know}[t-n]. 
-
-{Is[x] it worth learning}[t-n-nq]? {If your writing shows[v] any of the problems below}[f-cd], {(x-word grammar)[s] can[x] help[v] you fix them}[t-n]. 
+{Is[x] it[s] worth the effort}[t-n-nq]? {If your writing shows[v] any of the problems below}[f-cd], {(x-word grammar)[s] can[x] help[v] you fix them}[t-n]. 
 
  - run-on sentences
  - comma splices
@@ -55,4 +49,4 @@
  - missing subjects
  - missing verbs
 
-{Learn[x] more about x-word grammar and see[v] what you think}[t-n-nq]. {If it helps you read and write better}[f-cd], {it[s]('s)[x] worth the effort (to learn)[inf] it}[t-n]!
+{If you have[x] trouble understanding what you read}[f-cd], {(x-word grammar)[s] can[x] also help[v]}[t-n]. {(Studying sentence patterns and extra information)[s] can[x] teach[v] you (to slow)[inf] down and read[v] more carefully}[t-n], {using the clues to extra information (to help)[inf] you with vocabulary}[extra]. {You[s] still need[v] a good dictionary}, but[j] {(x-word grammar)[s] helps[v] too}[t-n]. {(Successful language learners)[s] use[v] all the tools they can[x]}[t-n]!
