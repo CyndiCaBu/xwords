@@ -1,6 +1,6 @@
-{English[s] has[vxs] 20 short words with a lot of power}[t-n]:
+{English[s] has[vxs] 20 short words with a lot of power}[t-n]. {You[s] might[x] know[v] some of them as helping verbs and others as modal auxiliary verbs}[t-n]. {In x-word grammar}[f-p], {(these 20 words)[s] are called x-words}[t-n].
 
-# The X-Words
+# Learn the X-Words
 
  - do[x], does[x], did[x]
  - can[x], could[x]
@@ -10,7 +10,19 @@
  - have[x], has[x], had[x]
  - am[x], is[x], are[x], was[x], were[x]
 
-# Using X-Words
+{(Memorizing these 20 x-words)[s] is[x] the first step in learning x-word grammar}[t-n]. {You[s] need[v] (to study)[inf] them in the list above and in the negative form below}[t-n].
+
+# Learn the X-Words in the Negative Form
+
+ - (don’t)[x], (doesn’t)[x], (didn’t)[x]
+ - (can’t)[x], (couldn’t)[x]
+ - (won’t)[x], (wouldn’t)[x]
+ - shall[x] not, (shouldn’t)[x]
+ - must[x] not, might[x] not, may[x] not
+ - (haven’t)[x], (hasn’t)[x], (hadn’t)[x]
+ - am[x] not, (isn’t)[x], (aren’t)[x], (wasn’t)[x], (weren’t)[x]
+
+# Use the X-Words
 
 {We[s] use[vxo] x-words to}[t-n]:
 
@@ -21,42 +33,26 @@
  - say no: make negative statements
  - add meaning: express opinions, be polite, etc.
 
-# Using X-Word Grammar to Read and Write Better
+{(Every complete sentence in written English)[s] has[v] an x-word}[t-n]
 
-{(Every complete sentence in English)[s] has[vxs] an x-word}[t-n].  {You[s] can[x] test[v] this by looking[ger] for the x-words}[t-n] {whenever you[s] read in English}[e-t]. 
-
-{If you (don't)[x] see[v] an x-word in a sentence}[f-cd], {it[s]('s)[x] hidden inside the main verb}[t-n]. {Only 3 x-words can[x] hide}[e-r]: {do[x], does[x] and did[x]}[extra]. {This[s] will[x] make[v] more sense}[t-n] {when you learn more x-word grammar}[e-t].
-
-{(Memorizing the x-words)[s] comes[vxs] first}[t-n]. Then[l] {you[s] can[x] look[v] for them in sentences and mark[v] them}[t=n]. {You[s] can[x] tap[v] or click[v] them here}[t-n]; {on paper}[f-p], {you[s] can[x] write[v] an X over them}[t-n].
-
-{(Finding x-words)[s] is[x] a way (to find)[inf] subjects and verbs}[t-n], {step by step}[extra].
-
-# Step 1
-
-{Find[v] the x-word}[t-n].
-
-# Step 2
-
-{From the x-word}[f-p], {look[v] left (to find)[inf] the subject}[t-n-nq]. {Draw[v] a box around it}[t-n-nq].
-
-# Step 3
-
-{From the x-word}[f-p], {look[v] right (to find)[inf] the verb}[t-n-nq]. {Write[v] a V over it}[t-n-nq].
-
-# Practice, practice, practice
-
-{After practicing[ger] these first steps}[f-p], {you[s] can[x] use this knowledge (to learn)[inf] sentence patterns}[t-n]. {There[s] are[x] only 7 basic sentence patterns in English}[t-n], but[j] {it[s] takes[vxs] time (to learn)[inf] them}[t-n]. 
-
-# Is it worth the effort?
-
-{With x-word grammar}[f-r], {you[s]('ll)[x] be[v] able to}[t-n-nq]:
-
- - read carefully (to understand)[inf] better, even when sentences are[x] long and complicated
+{If you (don't)[x] see an x-word in a sentence}[f-cd], {that[s]('s)[x] OK}[t-n]. {That[s] usually means[v] the main verb has[x] an x-word hidden inside it}[t-n]. 
  
- - make your writing[ger] sound more like English
+{If you (don't)[x] see a subject or an x-word in a sentence}[f-cd], {it[s]('s)[x] a command like these}[t-n]:
 
- - read your own writing[ger] (to find)[inf] mistakes like run-ons, fragments, subject-verb agreement and verb form problems, and much more
+{Study[v] hidden x-words}[t-n] {(to learn)[inf] more}[e-r].
+{Learn[v] the simple past form of regular and irregular verbs}[t-n].
+{Look[v] for the verb list here[t-n] {(to practice)[inf] verb forms organized by sound}[e-r].
 
-# An open mind helps.
+{(X-word grammar)[s] is[x] different from traditional grammar}[t-n]. {It[s]('s)[x] a tool (to help)[inf] you improve your reading[ger] and writing[ger]}[t-n]. {It[s] takes[v] time (to learn)[inf]}[t-n], and[j] {you[s] need[v] an open mind (to get)[inf] used to the different terms for grammar you might[x] already know}[t-n]. 
 
-{If you[s]('re)[x] used to traditional English grammar}[f-cd], {(the terms we use in x-word grammar)[s] might[x] confuse[v] you}[t-n-nq] {at first}[e-t]. X-words? Trunks? Shifters? Linkers? Inserts? {With an open mind}[f-r], {you[s] will[x] get[s] used to these terms}[t-n], and[j] {you[s] will[x] probably notice[v] a lot of connections to what you[s] already know}[t-n]. Then[l] {you[s] can[x] use[v] x-word grammar as a tool (to help)[inf] you improve your reading[ger] and writing[ger]}[t-n].
+{Is[x] it worth learning}[t-n-nq]? {If your writing shows[v] any of the problems below}[f-cd], {(x-word grammar)[s] can[x] help[v] you fix them}[t-n]. 
+
+ - run-on sentences
+ - comma splices
+ - incomplete sentences (fragments)
+ - subject-verb agreement errors
+ - verb form errors (wrong form)
+ - missing subjects
+ - missing verbs
+
+{Learn[x] more about x-word grammar and see[v] what you think}[t-n-nq]. {If it helps you read and write better}[f-cd], {it[s]('s)[x] worth the effort (to learn)[inf] it}[t-n]!
