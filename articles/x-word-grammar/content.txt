@@ -27,10 +27,11 @@
 {We[s] use[vxo] x-words to}[t-n]:
 
  - ask questions
+ - give short answers
+ - make negative statements
  - find subjects and verbs
  - show time: now? before? both?
- - show number: make the x-word match the subject
- - say no: make negative statements
+ - show number: match the x-word to the subject
  - add meaning: express opinions, be polite, etc.
 
 {(Every complete sentence in written English)[s] has[v] an x-word}[t-n] - {even if you (don't)[x] see one}[t-n]. {It[s]('s)[x] either hidden inside the main verb}[t-n], or[j] {(the sentence)[s] is[x] a command}[t-n]. {(To learn)[inf] more about this}[f-r], {click[v] the article about hidden x-words}[t-n-nq]. {By the way}[extra], {(the previous sentence)[s] is[x] a command}[t-n], {starting with a verb}[extra] - {not a subject or an x-word}[extra].
