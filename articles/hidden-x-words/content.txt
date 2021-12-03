@@ -10,7 +10,7 @@
  
 # Step 2
 
-{Learn[v] their clues}[t-n-nq]. {(Does[x] and did[x])[s] might[x] be[v] the most obvious hidden x-words}[t-n-nq]. {Look[v] at the verb form for these cluest-n-nq].
+{Learn[v] their clues}[t-n-nq]:
 
  - does[x] hides inside the verb and only the S shows 
  - did[x] hides inside every verb that('s)[x] in the simple past
@@ -35,9 +35,9 @@
  - {Did[x] Carrie[s] start[vxd] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t]?
  - {Carrie[s] (didn't)[x] start[v] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t].
 
-{(Lots of tourists)[s] visit[vxo] Cape May}[t-n].
- - {Do[s] (lots of tourists)[s] visit[vxo] Cape May}[t-n-nq]?
- - {(Lots of tourists)[s] (don't)[x] visit[vxo] Cape May}.
+{(Tourists)[s] visit[vxo] Cape May}[t-n] {(to appreciate)[inf] the beach, the birds and the monarch butterflies}[e-r].
+ - {Do[s] (lots of tourists)[s] visit[vxo] Cape May}[t-n-nq] {(to appreciate)[inf] the beach, the birds and the monarch butterflies}[e-r]?
+ - {(Lots of tourists)[s] (don't)[x] visit[vxo] Cape May}[t-n-nq] {(to appreciate)[inf] the beach, the birds and the monarch butterflies}[e-r].
 
 # Step 4
 
