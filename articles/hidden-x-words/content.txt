@@ -4,17 +4,19 @@
 
 {Learn[x] which x-words can[x] hide[v][t-n-nq] - {only these three)[extra]:
 
- - do
- - does
- - did
+ - do[x]
+ - does[x]
+ - did[x]
  
- # Step 2
+# Step 2
+
+{Learn[v] their clues}[t-n-nq]. {(Does[x] and did[x])[s] might[x] be[v] the most obvious hidden x-words}[t-n-nq]. {Look[v] at the verb form for these cluest-n-nq].
+
+ - does[x] hides inside the verb and only the S shows 
+ - did[x] hides inside every verb that('s)[x] in the simple past
+ - do[x] hides inside verbs that are[x] in the base form
  
- {Learn[v] their clues}[t-n-nq].
- 
-{Is[x] (the main verb)[s] in the simple past}[t-n-nq]? {If so}[f-cd], {did** is[x] hidden[v] inside that verb}[t-n]. 
-{Does[x] (the main verb)[s] end[v] in S}[t-n-nq]? {If so}[f-cd], {__does__ is[x] hidden[v] inside that verb}[t-n].
-{Is[x] (the main verb)[s] in the base form}[t-n-nq]? {If so}[f-cd], {__do__ is[x] hidden[v] inside that verb}[t-n].
+{In other words}[l], {if you see S on the end of the verb}[f-cd], {(the hidden x-word)[s] is[x] does[x]}[t-n]. {If the verb is[x] in the simple past}[f-cd], {(the hidden x-word)[s] is[x] did[x]}[t-n]. {If the verb is[x] in the base form}[f-cd], {(the hidden x-word)[s] is[x] do[x]}[t-n].
 
 # Step 3
 
@@ -26,17 +28,17 @@
 # Examples
 
 {Carrie[s] lives[vxs] in Cape May}[t-n]. 
-{Does Carrie[s] live[vxs] in Cape May}[t-n-nq]?
-No, {that[s]('s)[x] not true}[t-n-nq]. {Carrie[s] (doesn't)[x] live[v] in Cape May}[t-n-nq].
+ - {Does Carrie[s] live[vxs] in Cape May}[t-n-nq]?
+ - {Carrie[s] (doesn't)[x] live[v] in Cape May}[t-n-nq].
 
 {Last summer}[f-t] {Carrie[s] started[vxd] taking[ger] pictures of Cape May diamonds}[t-p].
-{Did[x] Carrie[s] start[vxd] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t]?
-Wrong again. {Carrie[s] (didn't)[x] start[v] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t].
+ - {Did[x] Carrie[s] start[vxd] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t]?
+ - {Carrie[s] (didn't)[x] start[v] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t].
 
 {(Lots of tourists)[s] visit[vxo] Cape May}[t-n].
-{Do[s] (lots of tourists)[s] visit[vxo] Cape May}[t-n-nq]?
-Not anymore. {(Lots of tourists)[s] (don't)[x] visit[vxo] Cape May anymore}.
+ - {Do[s] (lots of tourists)[s] visit[vxo] Cape May}[t-n-nq]?
+ - {(Lots of tourists)[s] (don't)[x] visit[vxo] Cape May}.
 
 # Step 4
 
-{Review[v]}[t-n-nq]. {How many (x-words)[s] can[x] hide[v]}[t-n-nq]? Which ones? {How many can[x] you[s] find[v] them}[t-n-nq]?
+{Review[v]}[t-n-nq]. {How many (x-words)[s] can[x] hide[v]}[t-n-nq]? Which ones? {How can[x] you[s] find[v] them}[t-n-nq]?
