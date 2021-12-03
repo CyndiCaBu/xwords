@@ -1,36 +1,42 @@
-{(Hidden x-words)[s] are[x] like Cape May diamonds}[t-n]: {easier (to find)[inf] if you know what you are[x] looking[vg] for}[extra]. 
+{(Hidden x-words)[s] are[x] like Cape May diamonds}[t-n]: {easier (to find)[inf] if you know what you are[x] looking[vg] for}[extra]. {In both cases}[f-p], {you[s] need[v] (to understand)[inf] the clues}[t-n]. {Let[v]'s focus on hidden x-words}[t-n] {because it('s)[x] possible that the image above (doesn't)[x] even show any Cape May diamonds}[e-r].
 
-{(Only 3 x-words)[s] can[x] hide[v]}[t-n]: {do, does and did}[extra]. {When they are[x] not hiding[vg]}[f-t], {they[s] go[vxo] with the base form of the verb}[t-n].   
+# Step 1
 
-# Hidden does has -s or -es on the end of the verb
+{Learn[x] which x-words can[x] hide[v][t-n-nq] - {only these three)[extra]:
 
-{Carrie[s] lives[vxs] in Cape May}[t-n], {a beach town in the southern tip of New Jersey}[extra]. {She[s] teaches[vxs] music}[t-n] {in one of the public schools there}[e-p]. {During her free time}[f-t], {she[s] enjoys[vxs] walking[ger] on the beach}[t-n]. Sometimes[l] {she[s] sees[vxs] Cape May diamonds}[t-n], {the small, clear stones that are polished to a sparkle by the pressure of sand and waves in the ocean}[extra]. {Although she likes looking at them}[f-ct], {she[s] (doesn’t)[x] collect[v] them the way some people do}[t-n]. {She[s] (doesn’t)[x] like[v] (to break)[inf] the rule “take nothing but pictures; leave nothing but footprints”}[t-n] - {a rule meant (to protect)[s] nature}[extra].
+ - do
+ - does
+ - did
+ 
+ # Step 2
+ 
+ {Learn[v] their clues}[t-n-nq].
+ 
+{Is[x] (the main verb)[s] in the simple past}[t-n-nq]? {If so}[f-cd], {did** is[x] hidden[v] inside that verb}[t-n]. 
+{Does[x] (the main verb)[s] end[v] in S}[t-n-nq]? {If so}[f-cd], {__does__ is[x] hidden[v] inside that verb}[t-n].
+{Is[x] (the main verb)[s] in the base form}[t-n-nq]? {If so}[f-cd], {__do__ is[x] hidden[v] inside that verb}[t-n].
 
-# Hidden did in the -ed or irregular form of the verb in simple past
+# Step 3
 
-{Last summer}[f-t] {Carrie[s] started[vxd] taking[ger] pictures of Cape May diamonds}[t-p]. {She[s] wanted[vxd] (to show)[inf] them to some friends who (didn’t)[x] know[v] what they were[x]}[t-p]. {She[s] took[vxd] the picture here}[t-p] {right after a wave came up}[e-t].
+{Use one of these tools to find hidden do[x], does[x] and did[x]}[t-n-nq].
 
-# Hidden do looks just like the base form of the verb
+ - {Change[v] a statement to a question}[t-n-nq].
+ - {Change[v] an affirmative statement to a negative one}[t-n-nq].
 
-{(Lots of tourists)[s] visit[vxo] Cape May}[t-n]. {Many[s] go[vxo]}[t-n] {in summer}[e-t], {planning[ger] (to enjoy)[inf] the Atlantic Ocean and some fun at the beach}[extra]. {Others[s] focus[vxo] on wildlife}[t-n], {especially birds and seasonal butterfly migrations}[extra]. {(The Cape May National Wildlife Refuge and other places)[s] offer[vxo] plenty of activities and information for nature lovers}[t-n]. 
-
-# Turn statements into questions
-
-{(One way (0to find0)[inf] hidden x-words)[s] is[x] (to turn)[inf] sentences into questions}[t-n]. 
-
-# Hidden does plus the base form of the verb
+# Examples
 
 {Carrie[s] lives[vxs] in Cape May}[t-n]. 
 {Does Carrie[s] live[vxs] in Cape May}[t-n-nq]?
+No, {that[s]('s)[x] not true}[t-n-nq]. {Carrie[s] (doesn't)[x] live[v] in Cape May}[t-n-nq].
 
-# Hidden did plus the base form of the verb
-
-{Last summer}[f-t] {Carrie[s] started[vxd] taking[ger] pictures of Cape May diamonds}[t-p]
-
-{Did[x] Carrie[s] start[vxd] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t]? 
-
-# Hidden do plus the base form of the verb
+{Last summer}[f-t] {Carrie[s] started[vxd] taking[ger] pictures of Cape May diamonds}[t-p].
+{Did[x] Carrie[s] start[vxd] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t]?
+Wrong again. {Carrie[s] (didn't)[x] start[v] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t].
 
 {(Lots of tourists)[s] visit[vxo] Cape May}[t-n].
-
 {Do[s] (lots of tourists)[s] visit[vxo] Cape May}[t-n-nq]?
+Not anymore. {(Lots of tourists)[s] (don't)[x] visit[vxo] Cape May anymore}.
+
+# Step 4
+
+{Review[v]}[t-n-nq]. {How many (x-words)[s] can[x] hide[v]}[t-n-nq]? Which ones? {How many can[x] you[s] find[v] them}[t-n-nq]?
