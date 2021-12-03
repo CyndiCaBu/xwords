@@ -1,0 +1,27 @@
+{(Eleven of the  x-words)[s] can[x] act[v] as either  x-words or main verbs}[t-n]: 
+
+ - do[x], does[x], did[x]
+ - have[x], has[x], had[x]
+ - am[x], is[x], are[x], was[x], were[x]
+
+{In fact}[l], {(the modals)[s] are[x] the only x-words that (can’t)[x] act as main verbs}[t-n]. 
+
+{How can[x] you[s] tell[v] the difference between x-words as main verbs or simply as x-words}[t-n-nq]? {As usual}[l], {(the first step)[s] is[x] (to find)[inf] the x-word}[t-n]. Then[l] {look[v] for the subject and verb}[t-n-nq].
+
+{If you only see an x-word}[f-cd], {without a verb next to it}[extra], {(that x-word)[s]  is[x] the main verb}[t-n]. {(X-words)[s] are[x] x-words}[t-n] {when they help the main verb by adding meaning, making it negative, showing time and more}[e-t]. 
+
+# X-word as Main Verbs
+
+{(The passage below)[s] uses[v] x-words as main verbs}[t-n].
+
+{Sylhet[s] is[x] a city in Bangladesh}[t-n]. {It[s] has[x] many tea gardens}[t-n], {like the one pictured above}[extra]. {They[s] are[x] green and lush}[t-n] {because tea grows well in a tropical climate}[e-r]. {(Many women)[s] do[x] the hard work of harvesting tea leaves and carrying them to the processing areas}[t-n]. {That way}[l] {they[s] have[x] a chance (to earn)[inf] an income}[t-n], but[j] {is[x] it[s] fair}[t-n-nq]? Not according to Srimoti Bauri, a Bengali woman who works in a tea garden and organizes her fellow workers. 
+
+{(This type of economic injustice)[s] is[x] not new}[t-n-nq] {in Sylhet or around the world}[e-p]. {(Women’s earnings where Ms. Bauri worked)[s] were[x] typically half of men’s}[t-n] {even though they all did[x] the same tasks}[e-ct]. {Why was[x] (gender discrimination)[s] part of the job}[t-n-nq]? {Progress[s] is[x] possible}[t-n].
+
+# X-word as X-words
+
+{(The passage)[s] continues[v] with x-words helping verbs}[t-n].
+
+{(Ms. Bauri and other female tea garden workers)[s] have[x] worked[v] for progress}[t-b] {for years}[e-t]. {(Ms. Bauri)[s] has[x] collaborated[v] with the United Nations (to organize)[inf] training sessions and other types of support}[t-b]. {(Workers who do[x] the same tasks)[s] should[x] be[v] paid the same amount}[t-n], {regardless of gender or social status}[extra]. 
+
+{It[s] (doesn’t)[x] matter[v] if progress on equal wages is[x] difficult}[t-n]. {It[s](‘s)[x] essential}[t-n]. {(The world)[s] has[x] changed[v]}[t-b], and {we[s] do[x] not need[v] (to repeat)[inf] the errors of the past}[t-n-nq]. {Injustice[s] is[x] an error}[t-n], so {it[s](‘s)[x] time (to correct)[inf] it}[t-n]. {Do[x] you[s] understand[x] why}[t-n-nq]?
