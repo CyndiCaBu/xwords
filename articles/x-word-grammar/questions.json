@@ -7,31 +7,31 @@
         "distractors": ""
     },
     {
-       "statement": "We use x-words in several ways.",
-       "question": "Do we use x-words in several ways?",
-       "tag_question": "We use x-words in several ways, don't we?",
-       "negation": "We don't use x-words in several ways.",
+       "statement": "These 20 words are called x-words.",
+       "question": "Are these 20 words called x-words?",
+       "tag_question": "These 20 words are called x-words, aren't they?",
+       "negation": "These 20 words aren't called x-words.",
        "distractors": ""
     },
     {
-        "statement": "Every complete sentence in English has an x-word.",
-        "question": "Does every complete sentence in English have an x-word?",
-        "tag_question": "Every complete sentence in English has an x-word, doesn't it?",
-        "negation": "Not every complete sentence in English has an x-word.",
+        "statement": "Every complete sentence in written English has an x-word.",
+        "question": "Does every complete sentence in written English have an x-word?",
+        "tag_question": "Every complete sentence in written English has an x-word, doesn't it?",
+        "negation": "Not every complete sentence in written English has an x-word.",
         "distractors": ""
+    },
+    {
+       "statement": "It takes time to learn.",
+       "question": "Does it take time to learn?",
+       "tag_question": "It takes time to learn, doesn't it?",
+       "negation": "It doesn't take time to learn.",
+       "distractors": ""
     },
     {
        "statement": "Memorizing the x-words comes first.",
        "question": "Does memorizing the x-words come first?",
        "tag_question": "Memorizing the x-words comes first, doesn't it?",
        "negation": "Memorizing the x-words does not come first.",
-       "distractors": ""
-    },
-    {
-       "statement": "It takes time to learn the 7 sentence patterns.",
-       "question": "Does it take time to learn the 7 sentence patterns?",
-       "tag_question": "It takes time to learn the 7 sentence patterns, doesn't it?",
-       "negation": "It doesn't take time to learn the 7 sentence patterns.",
        "distractors": ""
     }
 ]
