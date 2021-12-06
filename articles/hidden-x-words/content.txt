@@ -36,8 +36,8 @@ Use[v] one of these tools to find hidden do[x], does[x] and did[x].
  - {Carrie[s] (didn't)[x] start[v] taking[ger] pictures of Cape May diamonds}[t-p-nq] {last summer}[e-t].
 
 {(Tourists)[s] visit[vxo] Cape May}[t-n] {(to appreciate)[inf] the beach, the birds and the monarch butterflies}[e-r].
- - {Do[s] (lots of tourists)[s] visit[vxo] Cape May}[t-n-nq] {(to appreciate)[inf] the beach, the birds and the monarch butterflies}[e-r]?
- - {(Lots of tourists)[s] (don't)[x] visit[vxo] Cape May}[t-n-nq] {(to appreciate)[inf] the beach, the birds and the monarch butterflies}[e-r].
+ - {Tourists[s] visit[vxo] Cape May}[t-n-nq] {(to appreciate)[inf] the beach, the birds and the monarch butterflies}[e-r]?
+ - {Tourists[s] (don't)[x] visit[vxo] Cape May}[t-n-nq] {(to appreciate)[inf] the beach, the birds and the monarch butterflies}[e-r].
 
 # Step 4
 
