@@ -1,8 +1,76 @@
-{(Hidden x-words)[s] are[x] like Cape May diamonds}[t-n]: {easier (to find)[inf] if you know what you are[x] looking[vg] for}[extra]. {In both cases}[f-p], {you[s] need[v] (to understand)[inf] the clues}[t-n]. {Let[v]'s focus on hidden x-words}[t-n] {because it('s)[x] possible that the image above (doesn't)[x] even show any Cape May diamonds}[e-r].
+(hidden-do)[vxo]
+
+(hidden-does)[vxs]
+
+(hidden-did)[vxd]
+
+(infinitive)[inf]
+
+(past-participle)[dtn]
+
+(extra-information)[extra]
+
+verb[v]
+
+I am verbing[vg]
+
+gerund[ger]
+
+xword[x]
+
+subject[s]
+
+trunk[t]
+
+(trunk past-tense)[t-p]
+
+(trunk now-tense)[t-n]
+
+(trunk both-tense)[t-b]
+
+(trunk past-tense not-questionizable)[t-p-nq]
+
+(trunk now-tense not-questionizable)[t-n-nq]
+
+(trunk both-tense not-questionizable)[t-b-nq]
+
+linker[l]
+
+joiner[j]
+
+shifter[sh]
+
+(front-shifter)[f]
+
+(front-shifter-time)[f-t]
+
+(front-shifter-place)[f-p]
+
+(front-shifter-reason)[f-r]
+
+(front-shifter-condition)[f-cd]
+
+(front-shifter-contrast)[f-ct]
+
+(end-shifter)[e]
+
+(end-shifter-time)[e-t]
+
+(end-shifter-place)[e-p]
+
+(end-shifter-reason)[e-r]
+
+(end-shifter-condition)[e-cd]
+
+(end-shifter-contrast)[e-ct]
+
+(trunk-multi)[t=]
+		
+{(Hidden x-words)[s] are[x] like Cape May diamonds}[t-n]: {easier (to find)[inf] if you know what you are[x] looking[vg] for}[extra]. {In both cases}[f-p], {you[s] need[v] (to understand)[inf] the clues}[t-n]. {(The image above)[s] may[x] or may[x] not actually show[v] any Cape May diamonds}[t-n], so[j] {let's focus[v] on hidden x-words}[t-n].
 
 # Step 1
 
-{Learn[x] which x-words can[x] hide[v][t-n-nq] - {only these three)[extra]:
+Learn[v] which x-words can[x] hide[v] - only these three:
 
  - do[x]
  - does[x]
@@ -10,7 +78,7 @@
  
 # Step 2
 
-{Learn[v] their clues}[t-n-nq]:
+Learn[v] their clues:
 
  - does[x] hides inside the verb and only the S shows 
  - did[x] hides inside every verb that('s)[x] in the simple past
@@ -20,7 +88,7 @@
 
 # Step 3
 
-{Use one of these tools to find hidden do[x], does[x] and did[x]}[t-n-nq].
+Use[v] one of these tools to find hidden do[x], does[x] and did[x].
 
  - {Change[v] a statement to a question}[t-n-nq].
  - {Change[v] an affirmative statement to a negative one}[t-n-nq].
