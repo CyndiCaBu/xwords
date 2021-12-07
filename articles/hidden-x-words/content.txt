@@ -2,7 +2,7 @@
 
 {(Only three x-words)[s] can[x] hide[v]}[t-n]: {do[x], does[x] and did[x]}[extra]. {(The S on the end of a verb)[s] comes[v] from hidden does[x]}[t-n]. {(The D on the end of regular verbs in the simple past)[s] comes from hidden did[x]}[t-n]. {(Hidden did[x])[s] is[x] also in irregular verbs in the simple past}[t-n]. {(Hidden do)[s] is[x] in the base form of any main verb}[t-n]. 
  
-{(To find)[inf] hidden x-words}[f-r], {you[x] can[v] change a statement to a question or make it negative}[t-n]. {(Doing that)[s] makes[v] the x-words visible}[t-n].
+{(To find)[inf] hidden x-words}[f-r], {you[s] can[x] change a statement to a question or make it negative}[t-n]. {(Doing that)[s] makes[v] the x-words visible}[t-n].
 
 # Hidden does[x]
 
