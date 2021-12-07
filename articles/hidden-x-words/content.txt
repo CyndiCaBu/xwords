@@ -12,7 +12,7 @@
 
  - {Carrie[s] (doesn't)[x] live[v] in Cape May}[t-n-nq]. {She[s] (doesn't)[x] love[v] that area}[t-n].
 
-# Examples of hidden did[x]
+# Hidden did[x]
 
 {She[s] looked[vxd] for Cape May diamonds}[t-p]. {She[s] sent[v] us this picture}[t-p].
 
@@ -20,7 +20,7 @@
 
  - {She[s] (didn't)[x] look[vxd] for Cape May diamonds}[t-p]. {She[s] (didn't)[x] send[v] us this picture}[t-p].
 
-# Examples of hidden do[x]
+# Hidden do[x]
 
 {(Birdwatchers)[s] visit[vxo] Cape May with binoculars and cameras}[t-n]. {(Others)[s] go[v] for the butterfly migration}[t-n].
 
