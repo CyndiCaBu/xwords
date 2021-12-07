@@ -15,16 +15,16 @@
     },
     {
         "statement": "She teaches music in one of the public schools there.",
-        "question": "Doe she teach music in one of the public schools there?",
+        "question": "Does she teach music in one of the public schools there?",
         "tag_question": "She teaches music in one of the public schools there, doesn't she?",
         "negation": "She doesn't teach music in one of the public schools there.",
         "distractors": ""
     },
     {
-       "statement": "She took the picture here right after a wave came up.",
-       "question": "Did she take the picture here right after a wave came up?",
-       "tag_question": "She took the picture here right after a wave came up, didn't she?",
-       "negation": "She didn't take the picture here right after a wave came up.",
+       "statement": "She took the picture here right after a wave came.",
+       "question": "Did she take the picture here right after a wave came?",
+       "tag_question": "She took the picture here right after a wave came, didn't she?",
+       "negation": "She didn't take the picture here right after a wave came.",
        "distractors": ""
     },
     {
