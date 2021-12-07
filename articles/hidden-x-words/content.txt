@@ -1,47 +1,32 @@
 {(Hidden x-words)[s] are[x] like Cape May diamonds}[t-n]: {easier (to find)[inf] if you know what you are[x] looking[vg] for}[extra]. {In both cases}[f-p], {you[s] need[v] (to understand)[inf] what you('re)[x] looking for and what clues you might[x] find}[t-n]. 
 
-# Only three x-words can[x] hide[v]: 
- - do[x]
- - does[x]
- - did[x]
-
-# Learn[v] their clues:
-
- - The S on the end of a verb comes from does[x]. 
- - The D on the end of regular verbs in the simple past  comes from did[x].
- - The base form of any main verb has[v] do[x] inside it. 
+{(Only three x-words)[s] can[x] hide[v]}[t-n]: {do[x], does[x] and did[x]}[extra]. {(The S on the end of a verb)[s] comes[v] from hidden does[x]}[t-n]. {(The D on the end of regular verbs in the simple past)[s] comes from hidden did[x]}[t-n]. {(Hidden did[x])[s] is[x] also in irregular verbs in the simple past}[t-n]. {(Hidden do)[s] is[x] in the base form of any main verb}[t-n]. 
  
+{(To find)[inf] hidden x-words}[f-r], {you[x] can[v] change a statement to a question or make it negative}[t-n]. {(Doing that)[s] makes[v] the x-words visible}[t-n].
 
-# Make them visible
+# Hidden does[x]
 
-Use[v] one of these tools to find hidden do[x], does[x] and did[x].
+{Carrie[s] lives[vxs] in Cape May}[t-n]. {She[s] loves[v] that area}[t-n].
 
- - {Change[v] a statement to a question}[t-n-nq].
- - {Change[v] an affirmative statement to a negative one}[t-n-nq].
+ - {Does Carrie[s] live[vxs] in Cape May}[t-n-nq]? {Does[s] she[s] love[v] that area}[t-n-nq]?
 
-# Examples of hidden does[x]
-
-{Carrie[s] lives[vxs] in Cape May}[t-n]. 
-
- - {Does Carrie[s] live[vxs] in Cape May}[t-n-nq]?
-
- - {Carrie[s] (doesn't)[x] live[v] in Cape May}[t-n-nq].
+ - {Carrie[s] (doesn't)[x] live[v] in Cape May}[t-n-nq]. {She[s] (doesn't)[x] love[v] that area}[t-n].
 
 # Examples of hidden did[x]
 
-{She[s] shared[vxd] pictures of Cape May diamonds}[t-p].
+{She[s] looked[vxd] for Cape May diamonds}[t-p]. {She[s] sent[v] us this picture}[t-p].
 
- - {Did[x] she[s] share[v] pictures of Cape May diamonds}[t-p-nq]?
+ - {Did[x] she[s] look[v] for Cape May diamonds}[t-p-nq]? {Did[x] she[s] send[v] us this picture}[t-p-nq]?
 
- - {She[s] (didn't)[x] share[v] pictures of Cape May diamonds}[t-p-nq].
+ - {She[s] (didn't)[x] look[vxd] for Cape May diamonds}[t-p]. {She[s] (didn't)[x] send[v] us this picture}[t-p].
 
 # Examples of hidden do[x]
 
-{(Tourists)[s] visit[vxo] Cape May}[t-n].
+{(Birdwatchers)[s] visit[vxo] Cape May with binoculars and cameras}[t-n]. {(Others)[s] go[v] for the butterfly migration}[t-n].
 
- - {Do tourists[s] visit[vxo] Cape May}[t-n-nq]?
+ - {Do tourists[s] visit[vxo] Cape May with binoculars and cameras}[t-n-nq]? {Do[x] others[s] go[v] for the butterfly migration}[t-n-nq]?
 
- - {Tourists[s] (don't)[x] visit[vxo] Cape May}[t-n-nq].
+ - {Tourists[s] (don't)[x] visit[vxo] Cape May with binoculars and cameras}[t-n-nq]. {(Others)[s] (don't)[x] go[v] for the butterfly migration}[t-n].
 
 # Review[v]
 
