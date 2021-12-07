@@ -24,9 +24,9 @@
 
 {(Birdwatchers)[s] visit[vxo] Cape May with binoculars and cameras}[t-n]. {(Others)[s] go[v] for the butterfly migration}[t-n].
 
- - {Do tourists[s] visit[vxo] Cape May with binoculars and cameras}[t-n-nq]? {Do[x] others[s] go[v] for the butterfly migration}[t-n-nq]?
+ - {Do[x] birdwatchers[s] visit[v] Cape May with binoculars and cameras}[t-n-nq]? {Do[x] others[s] go[v] for the butterfly migration}[t-n-nq]?
 
- - {Tourists[s] (don't)[x] visit[vxo] Cape May with binoculars and cameras}[t-n-nq]. {(Others)[s] (don't)[x] go[v] for the butterfly migration}[t-n].
+ - {Birdwatchers[s] (don't)[x] visit[v] Cape May with binoculars and cameras}[t-n-nq]. {(Others)[s] (don't)[x] go[v] for the butterfly migration}[t-n].
 
 # Review[v]
 
