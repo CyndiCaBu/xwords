@@ -13,7 +13,7 @@
     }, {
         "url": "articles/a-hawk-in-queens",
         "title": "A Hawk In Queens",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "A friend and I were walking down a busy ...",
         "tags": "hawk, nature",
@@ -23,7 +23,7 @@
     }, {
         "url": "articles/a-special-sunset",
         "title": "A Special Sunset",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "Look up ...",
         "tags": "Manhattanhenge, sunset",
@@ -123,7 +123,7 @@
     }, {
         "url": "articles/biodiversity-buries-carbon",
         "title": "Biodiversity Buries Carbon",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "Thanks to special programs, grants and the help of many...",
         "tags": "biodiversity, soil",
@@ -153,7 +153,7 @@
     }, {
         "url": "articles/composting-in-the-cold",
         "title": "Composting In The Cold",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "The sun was shining, but the temperature was only about ...",
         "tags": "compost, freezing",
@@ -183,7 +183,7 @@
     }, {
         "url": "articles/danger-thin-ice",
         "title": "Danger Thin Ice",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "The warning on the sign here is very ...",
         "tags": "winter, danger",
@@ -203,7 +203,7 @@
     }, {
         "url": "articles/earth-hour-hmmm",
         "title": "Earth Hour Hmmm",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "How much energy do you use in the form of ...",
         "tags": "candles, climate change",
@@ -293,7 +293,7 @@
     }, {
         "url": "articles/jamaica-bay-wildlife-refuge",
         "title": "Jamaica Bay Wildlife Refuge",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "Jamaica Bay Wildlife Refuge is a place to forget about...",
         "tags": "water, nature",
@@ -303,7 +303,7 @@
     }, {
         "url": "articles/killer-cats",
         "title": "Killer Cats",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "Tigers are often called big ...",
         "tags": "cats, birds",
@@ -423,7 +423,7 @@
     }, {
         "url": "articles/protective-dogs",
         "title": "Protective Dogs",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "Puppies, like some other mammals, can\u2019t ...",
         "tags": "parent, animal",
@@ -433,7 +433,7 @@
     }, {
         "url": "articles/purslane",
         "title": "Purslane",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "What do you see in this picture? If you\u2019re the ...",
         "tags": "plants, traditions",
@@ -443,7 +443,7 @@
     }, {
         "url": "articles/reforestation-not-deforestation",
         "title": "Reforestation Not Deforestation",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "I don\u2019t know how many times I\u2019ve heard someone say that ...",
         "tags": "trees, solutions",
@@ -663,7 +663,7 @@
     }, {
         "url": "articles/rip-currents",
         "title": "Rip Currents",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "Which would scare you more at the beach...",
         "tags": "rip currents, swimming",
@@ -683,7 +683,7 @@
     }, {
         "url": "articles/sunsets-and-smog",
         "title": "Sunsets And Smog",
-        "discipline": "science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "Smog is a type of air pollution that ...",
         "tags": "sunsets, smog",
@@ -723,7 +723,7 @@
     }, {
         "url": "articles/uh-oh",
         "title": "Uh Oh",
-        "discipline": "history, culture",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "One morning in late summer, my friend and I took a ...",
         "tags": "river, waste",
@@ -783,7 +783,7 @@
     }, {
         "url": "articles/where-does-rain-go-in-nyc",
         "title": "Where Does Rain Go In NYC",
-        "discipline": "environmental science",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "A rainy day in New York is like a rainy day anywhere ...",
         "tags": "rain, sewage",
