@@ -163,7 +163,7 @@
     }, {
         "url": "articles/context-kayak",
         "title": "Context Kayak",
-        "discipline": "education",
+        "discipline": "learning",
         "isInRandom": true,
         "description": "Good readers, like good language learners, know how to ...",
         "tags": "reading, logic",
@@ -313,7 +313,7 @@
     }, {
         "url": "articles/learning-from-mistakes",
         "title": "Learning From Mistakes",
-        "discipline": "psychology",
+        "discipline": "learning",
         "isInRandom": true,
         "description": "One winter afternoon, I went to a ...",
         "tags": "learning, mistakes",
@@ -383,7 +383,7 @@
     }, {
         "url": "articles/piaget",
         "title": "Piaget",
-        "discipline": "learning, business",
+        "discipline": "learning",
         "isInRandom": true,
         "description": "The name Piaget means different things to ...",
         "tags": "learning, jewelry",
@@ -773,7 +773,7 @@
     }, {
         "url": "articles/whats-your-mindset",
         "title": "Whats Your Mindset",
-        "discipline": "psychology",
+        "discipline": "learning",
         "isInRandom": true,
         "description": "A mindset is a way of thinking, especially ...",
         "tags": "mindset, mentality",
