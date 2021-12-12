@@ -193,7 +193,7 @@
     }, {
         "url": "articles/doing-the-dishes",
         "title": "Doing The Dishes",
-        "discipline": "science",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "Elisabeth does the dishes by hand even though she has a  ...",
         "tags": "wash, organize",
@@ -213,7 +213,7 @@
     }, {
         "url": "articles/flying",
         "title": "Flying",
-        "discipline": "science",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "Are you afraid of heights? Some people can't look ...",
         "tags": "fly, float",
@@ -223,7 +223,7 @@
     }, {
         "url": "articles/fur",
         "title": "Fur",
-        "discipline": "science",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "How do you feel about fur? If you have any ... ",
         "tags": "fur, protest",
@@ -233,7 +233,7 @@
     }, {
         "url": "articles/governors-island",
         "title": "Governors Island",
-        "discipline": "history",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "Governors Island is a small island in New York Harbor ...",
         "tags": "oysters, history",
@@ -243,7 +243,7 @@
     }, {
         "url": "articles/happy-pi-day",
         "title": "Happy Pi Day",
-        "discipline": "mathematics",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "You don't have to love math to appreciate Pi ...",
         "tags": "numbers, ratio",
@@ -273,7 +273,7 @@
     }, {
         "url": "articles/imaginary-vacation",
         "title": "Imaginary Vacation",
-        "discipline": "art, culture",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "Isaac Palomeque is an artist who ...",
         "tags": "art, culture, teepee",
@@ -373,7 +373,7 @@
     }, {
         "url": "articles/nyc-summer-streets",
         "title": "NYC Summer Streets",
-        "discipline": "culture, health",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "How would it feel to ...",
         "tags": "fun, exercise",
@@ -393,7 +393,7 @@
     }, {
         "url": "articles/pingyao-organics",
         "title": "Pingyao Organics",
-        "discipline": "science, history",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "Pingyao is an ancient city in ...",
         "tags": "night soil, tradition",
@@ -463,7 +463,7 @@
     }, {
         "url": "articles/rust-for-a-reason",
         "title": "Rust For A Reason",
-        "discipline": "science",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "One thing that does not change about New York City is ...",
         "tags": "design, steel",
@@ -473,7 +473,7 @@
     }, {
         "url": "articles/sage",
         "title": "Sage",
-        "discipline": "science",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "People have grown and used sage for ...",
         "tags": "herbs, traditions",
@@ -503,7 +503,7 @@
     }, {
         "url": "articles/shake-shack",
         "title": "Shake Shack",
-        "discipline": "business",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "When you think of classic American road food like ...",
         "tags": "entrepreneur, Shake Shack",
