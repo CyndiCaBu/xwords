@@ -793,6 +793,7 @@
     }, {
         "url": "articles/x-word-grammar",
         "title": "X Word Grammar",
+        "discipline": "about xwg",
         "isInRandom": true,
         "description": "English has 20 short words with a lot of power...",
         "tags": "grammar, x-word grammar",
@@ -812,6 +813,7 @@
     }, {
         "url": "articles/x-word-grammar-books",
         "title": "X Word Grammar Books",
+        "discipline": "about xwg",
         "isInRandom": true,
         "description": "English students can learn more about x-word grammar with ...",
         "tags": "books, x-word grammar books",
@@ -821,6 +823,7 @@
     }, {
         "url": "articles/x-word-grammar-inserts",
         "title": "X Word Grammar Inserts",
+        "discipline": "about xwg",
         "isInRandom": true,
         "description": "As a verb, insert means put in. It\u2019s a ... ",
         "tags": "inserts, extra information",
@@ -830,6 +833,7 @@
     }, {
         "url": "articles/x-word-grammar-linkers",
         "title": "X Word Grammar Linkers",
+        "discipline": "about xwg",
         "isInRandom": true,
         "description": "Link means connect. In x-word grammar, linkers are ... ",
         "tags": "linkers, transition words",
@@ -839,6 +843,7 @@
     }, {
         "url": "articles/x-word-grammar-shifters",
         "title": "X Word Grammar Shifters",
+        "discipline": "about xwg",
         "isInRandom": true,
         "description": "In this picture, the NYCFC ...",
         "tags": "shifters, move, ",
@@ -848,6 +853,7 @@
     }, {
         "url": "articles/x-word-grammar-trunks",
         "title": "X Word Grammar Trunks",
+        "discipline": "about xwg",
         "isInRandom": true,
         "description": "In written English, a sentence needs at least two parts to be ...",
         "tags": "trunks, SVO",
