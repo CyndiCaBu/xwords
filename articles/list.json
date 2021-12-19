@@ -363,7 +363,7 @@
     }, {
         "url": "articles/now-before-or-both",
         "title": "Now Before Or Both",
-        "discipline": "grammar",
+        "discipline": "about xwg",
         "isInRandom": true,
         "description": "How can you tell the difference between the present and the past ...",
         "tags": "time, verbs",
@@ -733,7 +733,7 @@
     }, {
         "url": "articles/verb-forms",
         "title": "Verb Forms",
-        "discipline": "grammar",
+        "discipline": "about xwg",
         "isInRandom": true,
         "description": "English verbs have different forms, like verbs in many other languages.",
         "tags": "infinitives, verbs, base form",
@@ -743,7 +743,7 @@
     }, {
         "url": "articles/verb-list",
         "title": "Verb List",
-        "discipline": "grammar",
+        "discipline": "about xwg",
         "isInRandom": true,
         "description": "The 10 most common verbs in English are irregular verbs...",
         "tags": "verbs, verb list, irregular verbs",
