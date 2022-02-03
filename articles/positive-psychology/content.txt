@@ -8,7 +8,7 @@
 
 # Well-Being
 
-{(Definitions of well-being[ger])[s] include[vxo] being[ger] healthy and comfortable as well as happy}[t-n]. {You[s] might[x] find[v] information about financial well-being too}[t-n]. {(Some research)[s] indicates[v] that we need enough money (to meet)[inf] our basic needs for food, shelter and safety}[t-n]. {(Living paycheck to paycheck)[s] is[x] hard}[t-n]. {(Worrying that someone will steal your money when you have more)[s] is[x] also hard}[t-n], {in a different way}[extra]. {Although having more money can[x] make[v] us more comfortable}[f-ct], {it[s] (doesn't)[s] always increase[v] our well-being}[t-n].
+{(Definitions of well-being[ger])[s] include[vxo] being[ger] healthy and comfortable as well as happy}[t-n]. {You[s] might[x] find[v] information about financial well-being too}[t-n]. {(Some research)[s] indicates[v] that we need enough money (to meet)[inf] our basic needs for food, shelter and safety}[t-n]. {(Living paycheck to paycheck)[s] is[x] hard}[t-n]. {(Worrying that someone will[x] steal your money when you have more)[s] is[x] also hard}[t-n], {in a different way}[extra]. {Although having more money can[x] make[v] us more comfortable}[f-ct], {it[s] (doesn't)[x] always increase[v] our well-being}[t-n].
 
 So[l] {what does[x]}[t-n-nq]? {(The psychologist Martin Seligman)[s] proposed[vxd] a theory about this}[t-p] {in his book Flourish[title]}[e-p]. {It[s] includes[s] the following 5 elements of well-being}[t-n].
 
@@ -18,9 +18,9 @@ So[l] {what does[x]}[t-n-nq]? {(The psychologist Martin Seligman)[s] proposed[vx
  - Meaning
  - Accomplishment
 
-{(Each of these elements)[s] can[x] be[v] measured}[t-n]. {Like other fields in science}[l] {(positive psychology)[s] looks[v] for clear definitions and evidence}[extra]. {For example}[l], {(the term engagement)[s] has[x] a different meaning than the one you might[x] know}[t-n]. {It[s] involves[v] using your strengths (to live)[inf] a full life and paying attention to life as you live it}[t-n]. {It[s] includes[v] more complicated concepts like flow}[t-n] - {something that is easier (to feel)[inf] than (to explain)[inf]}[extra]. {Along with the other elements of positive psychology}[f-r], {engagement is part of what makes life worth living}[t-n].
+{(Each of these elements)[s] can[x] be[v] measured}[t-n]. {Like other fields in science}[l], {(positive psychology)[s] looks[v] for clear definitions and evidence}[extra]. {For example}[l], {(the term engagement)[s] has[x] a different meaning than the one you might[x] know}[t-n]. {It[s] involves[v] using your strengths (to live)[inf] a full life and paying attention to life as you live it}[t-n]. {It[s] includes[v] more complicated concepts like flow}[t-n] - {something that is[x] easier (to feel)[inf] than (to explain)[inf]}[extra]. {Along with the other elements of positive psychology}[f-r], {engagement[s] is[x] part of what makes life worth living}[t-n].
 
-{In addition to the 5 elements that Seligman proposed}[l], {(other positive psychology researchers)[s] added[v] a 6th one}[t-p]: {health and vitality}[extra]. {(The acronym PERMAH)[s] can[x] help[v] you remember all these elements of well-being}[t-n]. 
+{(The acronym PERMAH)[s] can[x] help[v] you remember the 5 elements of well-being that Seligman proposed}[t-n] - {and a 6th one added by other positive psychology researchers}[extra].
 
  - P for positive emotions
  - E for engagement
@@ -29,7 +29,7 @@ So[l] {what does[x]}[t-n-nq]? {(The psychologist Martin Seligman)[s] proposed[vx
  - A for accomplishment
  - H for health and vitality
 
-{(To learn)[inf] more about positive psychology}[f-r], {look[v] for articles that start with the word strength[title] and for those listed below}[t-n]. {What information can[x] you[s] use[v] (to live)[inf] a good life}[t-n-nq] - {or a better life}[extra]?
+{(To learn)[inf] more about positive psychology}[f-r], {look[v] for articles that start with the word "strength" and for those listed below}[t-n]. {What information can[x] you[s] use[v] (to live)[inf] a good life}[t-n-nq] - {or a better life}[extra]?
 
  - ACR, Active Constructive Response
  - Awe
