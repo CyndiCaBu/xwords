@@ -24,4 +24,4 @@
 
 {(Ms. Bauri and other female tea garden workers)[s] have[x] worked[v] for progress}[t-b] {for years}[e-t]. {(Ms. Bauri)[s] has[x] collaborated[v] with the United Nations (to organize)[inf] training sessions and other types of support}[t-b]. {(Workers who do[x] the same tasks)[s] should[x] be[v] paid the same amount}[t-n], {regardless of gender or social status}[extra]. 
 
-{It[s] (doesn’t)[x] matter[v] if progress on equal wages is[x] difficult}[t-n]. {It[s](‘s)[x] essential}[t-n]. {(The world)[s] has[x] changed[v]}[t-b], and {we[s] do[x] not need[v] (to repeat)[inf] the errors of the past}[t-n-nq]. {Injustice[s] is[x] an error}[t-n], so {it[s](‘s)[x] time (to correct)[inf] it}[t-n]. {Do[x] you[s] understand[x] why}[t-n-nq]?
+{It[s] (doesn’t)[x] matter[v] if progress on equal wages is[x] difficult}[t-n]. {It[s](‘s)[x] essential}[t-n]. {(The world)[s] has[x] changed[v]}[t-b], and {we[s] do[x] not need[v] (to repeat)[inf] the errors of the past}[t-n-nq]. {Injustice[s] is[x] an error}[t-n], so {it[s](‘s)[x] time (to correct)[inf] it}[t-n]. {Do[x] you[s] understand[v] why}[t-n-nq]?
