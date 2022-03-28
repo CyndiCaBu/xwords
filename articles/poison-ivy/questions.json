@@ -1,0 +1,31 @@
+[
+    {
+        "statement": "Raquel stood in the garden.",
+        "question": "Did Raquel stand in the garden?",
+        "tag_question": "Raquel stood in the garden, didn't she?",
+        "negation": "Raquel didn't stand in the garden.",
+        "distractors": ""
+    },
+   {
+       "statement": "A rash was already forming on her skin.",
+       "question": "Was a rash already forming on her skin?",
+       "tag_question": "A rash was already forming on her skin, wasn't it?",
+       "negation": "A rash wasn't forming on her skin yet.",
+       "distractors": ""
+    },
+  {
+        "statement": "It itched terribly.",
+        "question": "Did it itch terribly?",
+        "tag_question": "It itched terribly, didn't it?",
+        "negation": "It didn't itch terribly.",
+        "distractors": ""
+    },
+   {
+        "statement": "She had poison ivy.",
+        "question": "Did she have poison ivy?",
+        "tag_question": "She had poison ivy, didn't she?",
+        "negation": "She didn't have poison ivy.",
+        "distractors": "hadn't"
+    },
+
+
