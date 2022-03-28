@@ -2,7 +2,7 @@
 
 {Although she was[x] wearing[v] gloves (to protect)[inf] her hands and sunscreen (to protect)[inf] her skin}[f-ct], {she[s] realized[vxd] her mistake}[t-p] {as soon as she felt that itch}[e-t]. {She[s] should[x] have[v] worn long sleeves and paid more attention to the plants she was[x] pulling[v] out of the garden}[t-p]. 
 
-{Raquel[s] knew[vxd] how (to identify)[inf] poison ivy by looking for three leaves with a particular shape}[t-p]. {She[s] knew[vxd] the plant had[x] a particular oil that could[x] cause[v] serious reactions}[t-p], {from itchy skin to severe blisters and even trouble breathing}[extra]. 
+{Raquel[s] knew[vxd] how (to identify)[inf] poison ivy by looking for three leaves with a particular shape}[t-p]. {She[s] knew[vxd] the plant had[x] an oil that could[x] cause[v] serious reactions}[t-p], {from itchy skin to severe blisters and even trouble breathing}[extra]. 
 
 {She[s] (hadn't)[x] seen[v] poison ivy in the garden}[t-p], but[j] {she[s] recognized[vxd] her body's response to it}[t-p]. {As soon as she felt it starting}[f-t], {she[s] washed[vxd] her skin with soap and water}[t-p], carefully[extra]. {She[s] (couldn’t)[x] see[v] any oil on her wrist}[t-p], but[j] {she[s] knew[vxd] it was[x] there}[t-p], and[j] {she[s] (didn’t)[x] want[v] (to spread)[inf] it}[t-p].
 
