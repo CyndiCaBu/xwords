@@ -73,7 +73,7 @@
     }, {
         "url": "articles/antibiotics",
         "title": "Antibiotics",
-        "discipline": "health",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "Maya still couldn't believe she'd actually broken a small piece of bone ...",
         "tags": "antibiotics, resistance",
@@ -173,7 +173,7 @@
     }, {
         "url": "articles/csa",
         "title": "CSA",
-        "discipline": "wealth",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "CSA stands for Community Supported ...",
         "tags": "farms, support",
@@ -313,7 +313,7 @@
     }, {
         "url": "articles/mosquitoes-and-malaria",
         "title": "Mosquitoes And Malaria",
-        "discipline": "health",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "Growing up in the northeastern part of ...",
         "tags": "malaria, drug resistance",
@@ -333,7 +333,7 @@
     }, {
         "url": "articles/no-glove-no-love",
         "title": "No Glove No Love",
-        "discipline": "health",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "No glove, no love. I don't remember what ...",
         "tags": "HIV, prevention",
