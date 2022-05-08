@@ -1,13 +1,13 @@
-{(Every building)[s] has[x] parts that you can[x] only see during construction}[t-n], {like the concrete floors here}[extra]. {(Floors like these)[s] get[vxo] covered by wood, tile, carpet or something else later}[t-n]. {You[s] (won't)[x] see[v] the concrete again}[t-n] {unless you do some renovation or repairs}[e-cd].
+{(Every building)[s] has[x] parts that you can[x] only see during construction}[t-n], {like the concrete floors here}[extra]. {(Floors like these)[s] get[vxo] covered by wood, tile, carpet or something else later}[t-n]. {You[s] (won't)[x] see[v] the concrete again}[t-n] {unless you do[x] some renovation or repairs}[e-cd].
 
-Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you[s] (can[x]'t)[x] always see it}[t-n]. {You[s] need[v] (to know)[inf] how (to find)[inf] it by doing some work}[t-n]: {changing the sentence to a question or a negative statement}[extra]. 
+Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you[s] (can[x]'t)[x] always see[v] it}[t-n]. {You[s] need[v] (to know)[inf] how (to find)[inf] it by doing some work}[t-n]: {changing the sentence to a question or a negative statement}[extra]. 
 
 {(This process)[s] is[x] simple}[t-n] {when you can[x] see the x-word}[e-t]. {(To make)[inf] a question}[f-r],  {just move[v] the x-word to the front of the sentence}[t-n], {like this}[extra]:
 
 {(This building)[s] was[x] built[v] in Long Island City, Queens}[t-p].
 {Was[x] (this building)[s] built[v] in Long Island City, Queens}[t-p-nq]?
 
-{(To make)[inf] a negative statement when you[s] see the x-word}[f-r], {just change[v] the x-word to the negative form}[t-n], {like this}[extra]:
+{(To make)[inf] a negative statement when you see the x-word}[f-r], {just change[v] the x-word to the negative form}[t-n], {like this}[extra]:
 
 {(This building)[s] (wasn't)[x] built[v] in Long Island City, Queens}[t-p].
 
@@ -18,9 +18,9 @@ Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you
  - {Find[v] the main verb}[t-n].
  - {Based on the verb form}[l], {decide[v] which x-word is[x] hiding[v]}[t-n]: {do[x], does[x] or did[x]}[extra]. 
 
-{If the main verb ends in S}[f-cd], {(the hidden x-word)[s] is[x] does[x]}[t-n]. {(The clue)[s] is[x] the S from does[x] showing at the end of the verb}[t-n]. {That[s] makes[v] sense}[t-n], {(doesn't)[x] it}[t-n-nq]? 
+{If the main verb ends in S}[f-cd], {(the hidden x-word)[s] is[x] does[x]}[t-n]. {(The clue)[s] is[x] the S from does[x] showing at the end of the verb}[t-n]. {That[s] makes[v] sense}[t-n], {(doesn't)[x] it[s]}[t-n-nq]? 
 
-{If the main verb is[x] in the past tense}[f-cd], {(the hidden x-word)[s] is[x] did[x]}[t-n]. {You[s] can[x] see[v] the D from did[x] at the end of regular verbs}[t-n] {because (their past form)[s] ends[v] in -ed}[t-n]. {Examples[s] include[v] verbs like worked, played, rested, et cetera}[t-n]. {(Many irregular verbs)[s] also end in D in the past}[t-n], {including told, said, found and others}[extra]. {With other irregular verbs}[f-cd], {you[s] (won't)[x] see[v] the D from did[x]}[t-n], so[j] {you[s] need[v] (to study)[inf] verb lists to learn the simple past form}[t-n]. 
+{If the main verb is[x] in the past tense}[f-cd], {(the hidden x-word)[s] is[x] did[x]}[t-n]. {You[s] can[x] see[v] the D from did[x] at the end of regular verbs}[t-n] {because their past form ends in -ed}[e-r]. {Examples[s] include[v] verbs like worked, played, rested, et cetera}[t-n]. {(Many irregular verbs)[s] also end[v] in D in the past}[t-n], {including told, said, found and others}[extra]. {With other irregular verbs}[f-r], {you[s] (won't)[x] see[v] the D from did[x]}[t-n], so[j] {you[s] need[v] (to study)[inf] verb lists (to learn)[inf] the simple past form}[t-n]. 
 
 {If the main verb is[x] in the base form}[f-cd], {(the x-word)[s] is[x] do[x]}[t-n]. {(Knowing the verb forms)[s] is[x] the only way (to figure)[inf] this out}[t-n]; {there[s] is[x] no other clue}[t-n].
 
