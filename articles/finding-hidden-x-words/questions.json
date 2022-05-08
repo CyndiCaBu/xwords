@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Every sentence has an x-word.",
+        "question": "Does every sentence have an x-word?",
+        "tag_question": "Every sentence has an x-word, doesn't it?",
+        "negation": "Not every sentence has an x-word.",
+        "distractors": ""
+    },
+    {
+       "statement": "You need to know how to find it.",
+       "question": "Do you need to know how to find it?",
+       "tag_question": "You need to know how to find it, don't you?",
+       "negation": "You don't need to know how to find it.",
+       "distractors": ""
+    },
+    {
+        "statement": "You have to find the hidden x-word.",
+        "question": "Do you have to find the hidden x-word?",
+        "tag_question": "You have to find the hidden x-word, don't you?",
+        "negation": "You don't have to find the hidden x-word.",
+        "distractors": ""
+    },
+    {
+       "statement": "That makes sense.",
+       "question": "Does that make sense?",
+       "tag_question": "That makes sense, doesn't it?",
+       "negation": "That doesn't make sense.",
+       "distractors": ""
+    },
+    {
+       "statement": "It takes practice.",
+       "question": "Does it take practice?",
+       "tag_question": "It takes practice, doesn't it?",
+       "negation": "It doesn't take practice.",
+       "distractors": ""
+    }
+]
