@@ -860,5 +860,15 @@
         "gradeLevel": 7,
         "date": "2022-03-27",
         "isOnHome": true
+     }, {
+       "url": "articles/finding-hidden-x-words",
+       "title": "Finding Hidden X-words", 
+       "discipline": "grammar", 
+       "isInRandom": true, 
+       "description": "Every building has parts that ...", 
+       "tags": "hidden x-words", 
+       "gradeLevel": 8, 
+       "date": "2022-05-07", 
+       "isOnHome": true
     }]
 }
