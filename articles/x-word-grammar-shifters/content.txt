@@ -1,6 +1,6 @@
 {In this picture}[f-p], {(the New York City Football Club)[s] recently scored[vxd] a goal}[t-p], and[j] {(the steam (0to celebrate0)[inf] it)[s] is[x] still on the field}[t-p]. {(Goalkeeper Sean Johson)[s] is[x] not standing[vg] still}[t-n] {although the action is far away}[e-ct]. {He[s]('s)[x] moving[vg] around}[t-n], {shifting from side to side with his eyes on the ball}[extra]. 
 
-{(Some parts of a sentence in English)[s] can[x] shift[v] like a goalkeeper}[t-n]. {In other words}[l], {they[s] can[x] move[v]}[t-n]. {They[s] can[x] go[v] at the front of the sentence or the end}[t-n], {without changing the meaning}[extra]. {(These parts)[s] are[x] called shifters}[t-n].
+{(Some parts of a sentence in English)[s] can[x] shift[v] like a goalkeeper}[t-n]. {In other words}[l], {they[s] can[x] move[v]}[t-n]. {They[s] can[x] go[v] at the front of the sentence or the end}[t-n], {without changing the meaning}[extra]. {(These parts)[s] are[x] called shifters}[t-n] {in x-word grammar}[e-p]. {In traditional English grammar}[f-p], {they[s] are[x] called[v] dependent clauses}[t-n].
 
 {(Two sentences in the first paragraph)[s] have[vxo] shifters}[t-n], {one in the front of the sentence and one at the end}[extra]. {(To get)[inf] a feel for this}[f-r], {try[v] reading these sentences both ways}[t-n-nq]: {with the shifter at the front and again with it at the end of the sentence}[extra].
 
