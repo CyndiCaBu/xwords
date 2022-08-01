@@ -11,7 +11,7 @@ Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you
 
 {(This building)[s] (wasn't)[x] built[v] in Long Island City, Queens}[t-p].
 
-{What if you[s] (can[x]'t)[x] see[v] an x-word in the sentence}[t-n-nq]? {How can[x] you[s] make[v] a question or negative statement}[t-n]? {You[x] have[v] (to find)[inf] the hidden x-word}[t-n]: {do[x], does[x] or did[x]}[extra].
+{What if you[s] (can't)[x] see[v] an x-word in the sentence}[t-n-nq]? {How can[x] you[s] make[v] a question or negative statement}[t-n]? {You[x] have[v] (to find)[inf] the hidden x-word}[t-n]: {do[x], does[x] or did[x]}[extra].
 
 {Follow[v] these steps}[t-n-nq]:
 
