@@ -29,7 +29,7 @@
 
 # Time Shifters
 
-Before, During, After, Until, Here and now
+When, While, Before, During, After, Until, Here and now
 
 # Place Shifters
 
