@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "She'd been playing soccer.",
+        "question": "Had she been playing soccer?",
+        "tag_question": "She'd been playing soccer, hadn't she?",
+        "negation": "She hadn't been playing soccer.",
+        "distractors": "did, was"
+    },
+    {
+       "statement": "Maya had some blood work done.",
+       "question": "Did Maya have some blood work done?",
+       "tag_question": "Maya had some blood work done, didn't she?",
+       "negation": "Maya didn't have any blood work done.",
+       "distractors": "do, had"
+    },
+    {
+        "statement": "We'll have to start catching flies.",
+        "question": "Will we have to start catching flies?",
+        "tag_question": "We'll have to start catching flies, won't we?",
+        "negation": "We won't have to start catching flies.",
+        "distractors": "was, are"
+    },
+    {
+       "statement": "She was reluctant.",
+       "question": "Was she reluctant?",
+       "tag_question": "She was reluctant, wasn't she?",
+       "negation": "she wasn't reluctant.",
+       "distractors": "is, did"
+    },
+    {
+       "statement": "She had a broken bone.",
+       "question": "Did she have a broken bone?",
+       "tag_question": "She had a broken bone, didn't she?",
+       "negation": "She didn't have a broken bone.",
+       "distractors": "has, was, do"
+    }
+]
