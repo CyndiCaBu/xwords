@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "It looks pretty.",
+        "question": "Does it look pretty?",
+        "tag_question": "It looks pretty, doesn't it?",
+        "negation": "It doesn't look pretty.",
+        "distractors": "is, did, do"
+    },
+    {
+       "statement": "Looking at it brings several questions to mind.",
+       "question": "Does looking at it bring several questions to mind?",
+       "tag_question": "Looking at it brings several questions to mind, doesn't it?",
+       "negation": "Looking at it doesn't bring several questions to mind.",
+       "distractors": "is, are, do"
+    },
+    {
+        "statement": "They were used for delivery.",
+        "question": "Were they used for delivery?",
+        "tag_question": "They were used for delivery, weren't they?",
+        "negation": "They weren't used for delivery.",
+        "distractors": "was, did"
+    },
+    {
+       "statement": "You would need to have good balance.",
+       "question": "Would you need to have good balance?",
+       "tag_question": "You would need to have good balance, wouldn't you?",
+       "negation": "You wouldn't need to have good balance.",
+       "distractors": "do, did, had"
+     }
+]
