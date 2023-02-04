@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Haiti still has trees.",
+        "question": "Haiti still has trees?",
+        "tag_question": "Haiti still has trees, doesn't it?",
+        "negation": "Haiti doesn't have trees anymore.",
+        "distractors": "has, do, did"
+    },
+    {
+       "statement": "Many people are working to make Haiti greener again.",
+       "question": "Many people are working to make Haiti greener again?",
+       "tag_question": "Many people are working to make Haiti greener again, aren't they?",
+       "negation": "Many people aren't working to make Haiti greener again.",
+       "distractors": "do, were"
+    },
+    {
+        "statement": "The average global temperature will keep rising.",
+        "question": " Will the average global temperature keep rising?",
+        "tag_question": "The average global temperature will keep rising, won't it?",
+        "negation": " The average global temperature won't keep rising.",
+        "distractors": "is, would"
+    },
+    {
+       "statement": "Local Haitian people are involved.",
+       "question": "Are local Haitian people involved?",
+       "tag_question": "Local Haitian people are involved, aren't they?",
+       "negation": "Local Haitian people aren't involved.",
+       "distractors": "is, were"
+    }
+]
