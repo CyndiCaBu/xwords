@@ -173,7 +173,7 @@
     }, {
         "url": "articles/csa",
         "title": "CSA",
-        "discipline": "nature",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "CSA stands for Community Supported ...",
         "tags": "farms, support",
@@ -333,7 +333,7 @@
     }, {
         "url": "articles/no-glove-no-love",
         "title": "No Glove No Love",
-        "discipline": "culture",
+        "discipline": "health",
         "isInRandom": true,
         "description": "No glove, no love. I don't remember what ...",
         "tags": "HIV, prevention",
@@ -463,7 +463,7 @@
     }, {
         "url": "articles/sage",
         "title": "Sage",
-        "discipline": "culture",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "People have grown and used sage for ...",
         "tags": "herbs, traditions",
