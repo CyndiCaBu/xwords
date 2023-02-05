@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "This food looks delicious.",
+        "question": "Does this food look delicious?",
+        "tag_question": "This food looks delicious doesn't it?",
+        "negation": "This food doesn't look delicious.",
+        "distractors": "is, do"
+    },
+    {
+       "statement": "You can almost feel the lettuce and peppers crunching.",
+       "question": "Can you almost feel the lettuce and peppers crunching?",
+       "tag_question": "You can almost feel the lettuce and peppers crunching, can't you?",
+       "negation": "You can't quite feel the lettuce and peppers crunching.",
+       "distractors": "are, do"
+    },
+    {
+        "statement": "You’d prefer a fork.",
+        "question": "Would you prefer a fork?",
+        "tag_question": "You’d prefer a fork, wouldn't you?",
+        "negation": "You wouldn’t prefer a fork.",
+        "distractors": ""
+    },
+    {
+       "statement": "The rice and beans look tasty.",
+       "question": "Do the rice and beans look tasty?",
+       "tag_question": "The rice and beans look tasty, don't they?",
+       "negation": "The rice and beans don't look tasty.",
+       "distractors": ""
+    }
+]
