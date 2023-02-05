@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Anyone who rides the subway has a chance.",
+        "question": "Does anyone who rides the subway have a chance?",
+        "tag_question": "Anyone who rides the subway has a chance, don't they?",
+        "negation": "Anyone who rides the subway has no chance.",
+        "distractors": "is, has"
+    },
+    {
+       "statement": "Mosaics are the most common.",
+       "question": "Are mosaics the most common?",
+       "tag_question": "Mosaics are the most common, aren't they?",
+       "negation": "Mosaics aren't the most common.",
+       "distractors": "is, do"
+    },
+    {
+        "statement": "The art often reflects the neighborhood.",
+        "question": "Does the art often reflect the neighborhood?",
+        "tag_question": "The art often reflects the neighborhood, doesn't it?",
+        "negation": "The art doesn't often reflect the neighborhood.",
+        "distractors": "is, has"
+    },
+    {
+       "statement": "Artists have created designs.",
+       "question": "Have artists created designs?",
+       "tag_question": "Artists have created designs, haven't they?",
+       "negation": "Artists haven't created designs.",
+       "distractors": "are, did"
+    },
+    {
+       "statement": "Noticing the art can bring positive emotions.",
+       "question": "Can noticing the art bring positive emotions?",
+       "tag_question": "Noticing the art can bring positive emotions, can't it?",
+       "negation": "Noticing the art can't bring positive emotions.",
+       "distractors": ""
+    }
+]
