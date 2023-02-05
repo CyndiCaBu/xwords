@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "We all laugh.",
+        "question": "Do we all laugh?",
+        "tag_question": "We all laugh, don't we?",
+        "negation": "We don't all laugh.",
+        "distractors": "are, do"
+    },
+    {
+       "statement": "Taste has an influence.",
+       "question": "Does taste also have an influence?",
+       "tag_question": "Taste also has an influence, doesn't it?",
+       "negation": "Taste doesn't have an influence.",
+       "distractors": "is, had"
+    },
+    {
+        "statement": "Humor is universal.",
+        "question": "Is humor universal?",
+        "tag_question": "Humor is universal, isn't it?",
+        "negation": "Humor isn't universal.",
+        "distractors": "do, is"
+    },
+    {
+       "statement": "The turtle was made from brownies.",
+       "question": "Was the turtle made from brownies?",
+       "tag_question": "The turtle was made from brownies, wasn't it?",
+       "negation": "The turtle wasn't made from brownies.",
+       "distractors": "is, did"
+    }
+]
