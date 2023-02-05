@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Gratitude is a character strength.",
+        "question": "Is gratitude a character strength?",
+        "tag_question": "Gratitude is a character strength, isn't it?",
+        "negation": "Gratitude isn't a character strength.",
+        "distractors": ""
+    },
+    {
+       "statement": "Keeping a gratitude journal helps us notice it.",
+       "question": "Does keeping a gratitude journal help us notice it?",
+       "tag_question": "Keeping a gratitude journal helps us notice it, doesn't it?",
+       "negation": "Keeping a gratitude journal doesn't help us notice it.",
+       "distractors": "is, do"
+    },
+    {
+        "statement": "Ahmed felt lucky to be on vacation.",
+        "question": "Did Ahmed feel lucky to be on vacation?",
+        "tag_question": "Ahmed felt lucky to be on vacation, didn't he?",
+        "negation": "Ahmed didn't feel lucky to be on vacation.",
+        "distractors": "was, do"
+    },
+    {
+       "statement": "He had brought an underwater camera.",
+       "question": "Had he brought an underwater camera?",
+       "tag_question": "He had brought an underwater camera, hadn't he?",
+       "negation": "He hadn't brought an underwater camera.",
+       "distractors": "has, did"
+    }
+]
