@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Love of learning is about enjoying new information.",
+        "question": "Is love of learning about enjoying new information?",
+        "tag_question": "Love of learning is about enjoying new information, isn't it?",
+        "negation": "Love of learning isn't about enjoying new information.",
+        "distractors": "was, do"
+    },
+    {
+       "statement": "That led me to a fun process.",
+       "question": "Did that lead you to a fun process?",
+       "tag_question": "That led me to a fun process, didn't it?",
+       "negation": "That didn't lead me to a fun process.",
+       "distractors": "does, was"
+    },
+    {
+        "statement": "I had fun looking for more information.",
+        "question": "Did you have fun looking for more information?",
+        "tag_question": "I had fun looking for more information, didn't I?",
+        "negation": "I didn't have fun looking for more information.",
+        "distractors": "have, do, am"
+    },
+    {
+       "statement": "There is always more to learn.",
+       "question": "Is there always more to learn?",
+       "tag_question": "There is always more to learn, isn't there?",
+       "negation": "There isn't always more to learn.",
+       "distractors": "does, has"
+    }
+]
