@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "We all have a sense of morals .",
+        "question": "Do we all have a sense of morals ?",
+        "tag_question": "We all have a sense of morals, don't we?",
+        "negation": "We don't all have a sense of morals .",
+        "distractors": "are, did"
+    },
+    {
+       "statement": "We can study virtues.",
+       "question": "Can we study virtues?",
+       "tag_question": "We can study virtues, can't we?",
+       "negation": "We can't study virtues.",
+       "distractors": "can, do"
+    },
+    {
+        "statement": "Differences are clear.",
+        "question": "Are differences clear?",
+        "tag_question": "Differences are clear, aren't they?",
+        "negation": "Differences aren't clear.",
+        "distractors": "do, was"
+    },
+    {
+       "statement": "They share certain virtues.",
+       "question": "Do they share certain virtues?",
+       "tag_question": "They share certain virtues, don't they?",
+       "negation": "They don't share certain virtues.",
+       "distractors": "did, have"
+    },
+    {
+       "statement": "Virtues form the foundation for strengths.",
+       "question": "Do virtues form the foundation for strengths?",
+       "tag_question": "Virtues form the foundation for strengths, don't they?",
+       "negation": "Virtues don't form the foundation for strengths.",
+       "distractors": "has, is"
+    }
+]
