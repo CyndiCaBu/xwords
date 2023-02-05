@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Curiosity could be one of your strengths.",
+        "question": "Could curiosity be one of your strengths?",
+        "tag_question": "Curiosity could be one of your strengths, couldn't it?",
+        "negation": "Curiosity couldn't be one of your strengths.",
+        "distractors": "can, is"
+    },
+    {
+       "statement": "It creates positive change.",
+       "question": " Does it create positive change?",
+       "tag_question": " It creates positive change, doesn't it?",
+       "negation": " It doesn't create positive change.",
+       "distractors": "do, is"
+    },
+    {
+        "statement": "It’s about asking questions and exploring ideas.",
+        "question": "Is it about asking questions and exploring ideas?",
+        "tag_question": "It’s about asking questions and exploring ideas, isn't it?",
+        "negation": "It isn't about asking questions and exploring ideas.",
+        "distractors": "does, was"
+    },
+    {
+       "statement": "Curiosity is part of science, discovery and philosophy.",
+       "question": "Is curiosity part of science, discovery and philosophy?",
+       "tag_question": "Curiosity is part of science, discovery and philosophy, isn't it?",
+       "negation": "Curiosity isn't part of science, discovery or philosophy.",
+       "distractors": "are, was"
+    }
+]
