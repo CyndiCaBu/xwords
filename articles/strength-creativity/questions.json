@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Creativity lets us think.",
+        "question": "Does creativity let us think?",
+        "tag_question": "Creativity lets us think, doesn't it?",
+        "negation": "Creativity doesn't let us think.",
+        "distractors": "is, do"
+    },
+    {
+       "statement": "She felt more comfortable.",
+       "question": "Did she feel more comfortable?",
+       "tag_question": "She felt more comfortable, didn't she?",
+       "negation": "She didn't feel more comfortable.",
+       "distractors": "has, does"
+    },
+    {
+        "statement": "She had her own ideas.",
+        "question": "Did she have her own ideas?",
+        "tag_question": "She had her own ideas, didn't she?",
+        "negation": "She didn't have her own ideas.",
+        "distractors": "do, has"
+    },
+    {
+       "statement": "She was working.",
+       "question": "Was she working ?",
+       "tag_question": "She was working, wasn't she?",
+       "negation": "She wasn't working.",
+       "distractors": "did, were"
+    },
+    {
+       "statement": "Creativity also helps us adapt.",
+       "question": "Does creativity also help us adapt?",
+       "tag_question": "Creativity also helps us adapt, doesn't it?",
+       "negation": "Creativity doesn't help us adapt.",
+       "distractors": "is, was"
+    }
+]
