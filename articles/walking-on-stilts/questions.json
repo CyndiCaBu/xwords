@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "You need to balance carefully.",
+        "question": "Do you need to balance carefully?",
+        "tag_question": "You need to balance carefully, don't you?",
+        "negation": "You don't need to balance carefully.",
+        "distractors": "are, did"
+    },
+    {
+       "statement": "Professional painters do it.",
+       "question": "Do professional painters do it?",
+       "tag_question": "Professional painters do it, don't they?",
+       "negation": "Professional painters don't do it.",
+       "distractors": "did, are"
+    },
+    {
+        "statement": "Their height gives them an advantage.",
+        "question": "Does their height give them an advantage?",
+        "tag_question": "Their height gives them an advantage, doesn't it?",
+        "negation": "Their height doesn't give them an advantage.",
+        "distractors": "is, has"
+    },
+    {
+       "statement": "It commands respect and shows power.",
+       "question": "Does it commandsrespect and shows power?",
+       "tag_question": "It commands respect and shows power, doesn't it?",
+       "negation": "It doesn't command respect or show power.",
+       "distractors": "are, was"
+    }
+]
