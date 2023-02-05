@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Enthusiasm is a sense of excitement and interest.",
+        "question": "Is enthusiasm a sense of excitement and interest?",
+        "tag_question": "Enthusiasm is a sense of excitement and interest, isn't it?",
+        "negation": "Enthusiasm isn't a sense of excitement and interest.",
+        "distractors": "did, was"
+    },
+    {
+       "statement": "You can increase it.",
+       "question": "Can you increase it?",
+       "tag_question": "You can increase it, can't you?",
+       "negation": "You can't increase it.",
+       "distractors": "could, are"
+    },
+    {
+        "statement": "His message shows his enthusiasm.",
+        "question": "Does his message show his enthusiasm?",
+        "tag_question": "His message shows his enthusiasm, doesn't it?",
+        "negation": "His message doesn't show his enthusiasm.",
+        "distractors": "did, has"
+    },
+    {
+       "statement": "The Indians were the ones who carried the gold.",
+       "question": "Were the Indians the ones who carried the gold?",
+       "tag_question": "The Indians were the ones who carried the gold, weren't they?",
+       "negation": "The Indians weren't the ones who carried the gold.",
+       "distractors": "was, did"
+    },
+    {
+       "statement": "It’s been erased.",
+       "question": "Has it been erased?",
+       "tag_question": "It’s been erased, hasn't it?",
+       "negation": "It hasn't been erased.",
+       "distractors": "is, was"
+    }
+]
