@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "He has exhibited his work.",
+        "question": "Has he exhibited his work?",
+        "tag_question": "He has exhibited his work, hasn't he?",
+        "negation": "He hasn't exhibited his work.",
+        "distractors": "did, is"
+    },
+    {
+       "statement": "It has a light installation inside.",
+       "question": "Does it have a light installation inside?",
+       "tag_question": "It has a light installation inside, doesn't it?",
+       "negation": "It doesn't have a light installation inside.",
+       "distractors": "have, is"
+    },
+    {
+        "statement": "You could use his work to think.",
+        "question": "Could you use his work to think?",
+        "tag_question": "You could use his work to think, couldn't you?",
+        "negation": "You couldn't use his work to think.",
+        "distractors": "can, do"
+    },
+    {
+       "statement": "Visiting it is one way.",
+       "question": "Is visiting it one way?",
+       "tag_question": "Visiting it is one way, isn't it?",
+       "negation": "Visiting it isn't one way.",
+       "distractors": "has, was"
+    }
+]
