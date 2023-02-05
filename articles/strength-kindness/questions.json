@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Being kind can increase your well-being.",
+        "question": "Can being kind increase your well-being?",
+        "tag_question": "Being kind can increase your well-being, can't it?",
+        "negation": "Being kind can't increase your well-being.",
+        "distractors": "could, is"
+    },
+    {
+       "statement": "Kindness often helps people feel better.",
+       "question": "Does kindness often help people feel better?",
+       "tag_question": "Kindness often helps people feel better, doesn't it?",
+       "negation": "Kindness doesn't often help people feel better.",
+       "distractors": "do, can"
+    },
+    {
+        "statement": "Lily put the dog on her bicycle.",
+        "question": "Did Lily put the dog on her bicycle?",
+        "tag_question": "Lily put the dog on her bicycle, didn't she?",
+        "negation": "Lily didn't put the dog on her bicycle.",
+        "distractors": "was, do"
+    },
+    {
+       "statement": "A temple promised to adopt Sasa.",
+       "question": "Did a temple promise to adopt Sasa?",
+       "tag_question": "A temple promised to adopt Sasa, didn't it?",
+       "negation": "A temple didn't promise to adopt Sasa.",
+       "distractors": "does, has"
+    }
+]
