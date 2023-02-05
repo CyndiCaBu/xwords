@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "Becoming fluent takes bravery.",
+        "question": "Does becoming fluent take bravery?",
+        "tag_question": "Becoming fluent takes bravery, doesn't it?",
+        "negation": "Becoming fluent doesn't take bravery.",
+        "distractors": "is, do"
+    },
+    {
+       "statement": "It means that you accept the fear.",
+       "question": "Does it mean that you accept the fear?",
+       "tag_question": "It means that you accept the fear, doesn't it?",
+       "negation": "It doesn't mean that you accept the fear.",
+       "distractors": "was, is"
+    },
+    {
+        "statement": "You could have trouble.",
+        "question": "Could you have trouble?",
+        "tag_question": "You could have trouble, couldn't you?",
+        "negation": "You couldn't have trouble.",
+        "distractors": "can, did"
+    },
+    {
+       "statement": "You have to be humble.",
+       "question": "Do you have to be humble?",
+       "tag_question": "You have to be humble, don't you?",
+       "negation": "You shouldn't be humble.",
+       "distractors": "have, did"
+    },
+    {
+       "statement": "You need to read.",
+       "question": "Do you need to read?",
+       "tag_question": "You need to read, don't you?",
+       "negation": "You don't need to read.",
+       "distractors": ""
+    }
+]
