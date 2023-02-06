@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Prudence means being careful and using good judgment.",
+        "question": "Does prudence mean being careful and using good judgment?",
+        "tag_question": "Prudence means being careful and using good judgment, doesn't it?",
+        "negation": "Prudence doesn't mean being careful and using good judgment.",
+        "distractors": "is, has"
+    },
+    {
+       "statement": "The handles should face inward.",
+       "question": "Should the handles face inward?",
+       "tag_question": "The handles should face inward, shouldn't they?",
+       "negation": "The handles shouldn't face inward.",
+       "distractors": "do, did"
+    },
+    {
+        "statement": "Prudence is related to moderation and caution.",
+        "question": "Is prudence related to moderation and caution?",
+        "tag_question": "Prudence is related to moderation and caution, isn't it?",
+        "negation": "Prudence isn't related to moderation and caution.",
+        "distractors": "was, does"
+    },
+    {
+       "statement": "Rules and laws encourage people.",
+       "question": "Do rules and laws encourage people?",
+       "tag_question": "Rules and laws encourage people, don't they?",
+       "negation": "Rules and laws don't encourage people.",
+       "distractors": "does, are"
+    }
+]
