@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Smoke plus fog equals smog.",
+        "question": "Does smoke plus fog equal smog?",
+        "tag_question": "Smoke plus fog equals smog, doesn't it?",
+        "negation": "Smoke plus fog doesn't equal smog.",
+        "distractors": "is, do"
+    },
+  {
+       "statement": "Smog is unhealthy.",
+       "question": "Is smog unhealthy?",
+       "tag_question": "Smog is unhealthy, isn't it?",
+       "negation": "Smog isn't unhealthy.",
+       "distractors": "do, was"
+    },
+    {
+       "statement": "Sunlight has a spectrum of colors.",
+       "question": "Does sunlight have a spectrum of colors?",
+       "tag_question": "Sunlight has a spectrum of colors, doesn't it?",
+       "negation": "Sunlight doesn't have a spectrum of colors.",
+       "distractors": "is, was"
+    },
+    {
+        "statement": "You can see how this happens.",
+        "question": "Can you see how this happens?",
+        "tag_question": "You can see how this happens, can't you?",
+        "negation": "You can't see how this happens.",
+        "distractors": "could, do"
+    }
+]
