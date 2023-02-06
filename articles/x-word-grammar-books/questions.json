@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Students can learn more about x-word grammar.",
+        "question": "Can students learn more about x-word grammar?",
+        "tag_question": "Students can learn more about x-word grammar, can't they?",
+        "negation": "Students can't learn more about x-word grammar.",
+        "distractors": "do, have"
+    },
+    {
+       "statement": "The book has information and exercises.",
+       "question": "Does the book have information and exercises?",
+       "tag_question": "The book has information and exercises, doesn't it?",
+       "negation": "The book doesn't have information and exercises.",
+       "distractors": "is, do"
+    },
+    {
+        "statement": "You can practice x-word grammar with anything you read.",
+        "question": "Can you practice x-word grammar with anything you read?",
+        "tag_question": "You can practice x-word grammar with anything you read, can't you?",
+        "negation": "You can't practice x-word grammar with anything you read.",
+        "distractors": "could, do"
+    },
+    {
+       "statement": "It focuses on written English.",
+       "question": "Does it focus on written English?",
+       "tag_question": "It focuses on written English, doesn't it?",
+       "negation": "It doesn't focus on written English.",
+       "distractors": "has, is"
+    }
+]
