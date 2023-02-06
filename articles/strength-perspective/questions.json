@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Salvador started saving money.",
+        "question": "Did Salvador start saving money?",
+        "tag_question": "Salvador started saving money, didn't he?",
+        "negation": "Salvador didn't start saving money.",
+        "distractors": "was, do"
+    },
+    {
+       "statement": "Some have houses there.",
+       "question": "Do some have houses there?",
+       "tag_question": "Some have houses there, don't they?",
+       "negation": " Some don't have houses there.",
+       "distractors": "does, are"
+    },
+    {
+        "statement": "The kayak was cozy for the snake.",
+        "question": "Was the kayak cozy for the snake?",
+        "tag_question": "The kayak was cozy for the snake, wasn't it?",
+        "negation": "The kayak wasn't cozy for the snake.",
+        "distractors": "does, is"
+    },
+    {
+       "statement": "It only bites people if it feels threatened.",
+       "question": "Does it only bite people if it feels threatened?",
+       "tag_question": "It only bites people if it feels threatened, doesn't it?",
+       "negation": "It doesn't only bite people if it feels threatened.",
+       "distractors": "is, do"
+    }
+]
