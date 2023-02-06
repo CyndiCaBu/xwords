@@ -1,0 +1,30 @@
+[
+    {
+       "statement": "Open-mindedness lets you explore different options.",
+       "question": "Does open-mindedness let you explore different options?",
+       "tag_question": "Open-mindedness lets you explore different options, doesn't it?",
+       "negation": "Open-mindedness doesn't let you explore different options.",
+       "distractors": "is, has"
+    },
+    {
+        "statement": "It would come to the table.",
+        "question": "Would it come to the table?",
+        "tag_question": "It would come to the table, wouldn't it?",
+        "negation": " It wouldn't come to the table.",
+        "distractors": ""
+    },
+    {
+       "statement": "She was skeptical.",
+       "question": "Was she skeptical?",
+       "tag_question": "She was skeptical, wasn't she?",
+       "negation": "She wasn't skeptical.",
+       "distractors": "has, is"
+    },
+    {
+       "statement": "She kept an open-mind.",
+       "question": "Did she keep an open-mind?",
+       "tag_question": "She kept an open-mind, didn't she?",
+       "negation": "She didn't keep an open-mind.",
+       "distractors": "had, does"
+    }
+]
