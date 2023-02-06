@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Leadership involves taking action.",
+        "question": "Does leadership involve taking action?",
+        "tag_question": "Leadership involves taking action, doesn't it?",
+        "negation": "Leadership doesn't involve taking action.",
+        "distractors": "is, has"
+    },
+    {
+       "statement": "We can show leadership.",
+       "question": "Can we show leadership?",
+       "tag_question": "We can show leadership, can't we?",
+       "negation": "We can't show leadership.",
+       "distractors": "do, could"
+    },
+    {
+        "statement": "Hunger is part of poverty.",
+        "question": "Is hunger part of poverty?",
+        "tag_question": "Hunger is part of poverty, isn't it?",
+        "negation": "Hunger isn't part of poverty.",
+        "distractors": "have, was"
+    },
+    {
+       "statement": "The One Acre Fund has become a leader.",
+       "question": "Has the One Acre Fund become a leader?",
+       "tag_question": "The One Acre Fund has become a leader, hasn't it?",
+       "negation": "The One Acre Fund hasn't become a leader.",
+       "distractors": "had, was"
+    }
+]
