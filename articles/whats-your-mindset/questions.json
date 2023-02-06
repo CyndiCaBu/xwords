@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "A mindset is a way of thinking.",
+        "question": "Is a mindset a way of thinking?",
+        "tag_question": "A mindset is a way of thinking, isn't it?",
+        "negation": "A mindset isn't a way of thinking.",
+        "distractors": "does, has"
+    },
+    {
+       "statement": "Our mindset can influence how well we do things.",
+       "question": "Can our mindset influence how well we do things?",
+       "tag_question": "Our mindset can influence how well we do things, can't it?",
+       "negation": "Our mindset can't influence how well we do things.",
+       "distractors": "does, could"
+    },
+    {
+        "statement": "With a growth mindset, we make the effort to learn.",
+        "question": "With a growth mindset, do we make the effort to learn?",
+        "tag_question": "With a growth mindset, we make the effort to learn, don't we?",
+        "negation": "With a growth mindset, we don't make the effort to learn.",
+        "distractors": "are, have"
+    },
+    {
+       "statement": "A fixed mindset makes us give up easily.",
+       "question": "Does a fixed mindset make us give up easily?",
+       "tag_question": "A fixed mindset makes us give up easily, doesn't it?",
+       "negation": "A fixed mindset doesn't make us give up easily.",
+       "distractors": "is, was"
+    }
+]
