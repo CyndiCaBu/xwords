@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Teamwork means working together.",
+        "question": "Does teamwork mean working together?",
+        "tag_question": "Teamwork means working together, doesn't it?",
+        "negation": "Teamwork doesn't mean working together.",
+        "distractors": "do, is"
+    },
+    {
+       "statement": "Kamkwamba teamed with many others.",
+       "question": "Did Kamkwamba team with many others?",
+       "tag_question": "Kamkwamba teamed with many others, didn't he?",
+       "negation": "Kamkwamba didn't team with many others.",
+       "distractors": "does, was"
+    },
+    {
+        "statement": "Reading in English was hard at first.",
+        "question": "Was reading in English hard at first?",
+        "tag_question": "Reading in English was hard at first, wasn't it?",
+        "negation": "Reading in English wasn't hard at first.",
+        "distractors": "is, did"
+    },
+    {
+       "statement": "His hard work was a key to his success.",
+       "question": "Was his hard work a key to his success?",
+       "tag_question": "His hard work was a key to his success, wasn't it?",
+       "negation": "His hard work wasn't a key to his success.",
+       "distractors": "does, did"
+    }
+]
