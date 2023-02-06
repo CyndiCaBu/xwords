@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Sylhet is a city in Bangladesh.",
+        "question": "Is Sylhet a city in Bangladesh?",
+        "tag_question": "Sylhet is a city in Bangladesh, isn't it?",
+        "negation": "Sylhet isn't a city in Bangladesh.",
+        "distractors": "was, has"
+    },
+    {
+       "statement": "It has many tea gardens.",
+       "question": "Does it have many tea gardens?",
+       "tag_question": "It has many tea gardens, doesn't it?",
+       "negation": "It doesn't have many tea gardens.",
+       "distractors": "is, was"
+    },
+    {
+        "statement": "Many women do the hard work.",
+        "question": "Do many women do the hard work?",
+        "tag_question": "Many women do the hard work, don't they?",
+        "negation": "Many women don't do the hard work.",
+        "distractors": "did, are"
+    },
+    {
+       "statement": "Female tea garden workers have worked for progress.",
+       "question": "Have female tea garden workers worked for progress?",
+       "tag_question": "Female tea garden workers have worked for progress, haven't they?",
+       "negation": "Female tea garden workers haven't worked for progress.",
+       "distractors": ""
+    }
+]
