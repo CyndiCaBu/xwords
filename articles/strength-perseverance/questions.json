@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Perseverance means persistence.",
+        "question": "Does perseverance mean persistence?",
+        "tag_question": "Perseverance means persistence, doesn't it?",
+        "negation": "Perseverance doesn't mean persistence.",
+        "distractors": "is, do"
+    },
+    {
+       "statement": "Jaime had to persevere if he wanted to pass.",
+       "question": "Did Jaime have to persevere if he wanted to pass?",
+       "tag_question": "Jaime had to persevere if he wanted to pass, didn't he?",
+       "negation": "Jaime didn't have to persevere if he wanted to pass.",
+       "distractors": "has, had"
+    },
+    {
+        "statement": "They started studying together.",
+        "question": "Did they start studying together?",
+        "tag_question": "They started studying together, didn't they?",
+        "negation": "They didn't start studying together .",
+        "distractors": "do, was"
+    },
+    {
+       "statement": "It was worth it.",
+       "question": "Was it worth it?",
+       "tag_question": "It was worth it, wasn't it?",
+       "negation": "It wasn't worth it.",
+       "distractors": "has, does"
+    }
+]
