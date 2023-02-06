@@ -1,0 +1,30 @@
+[
+    {
+       "statement": "Good readers know how to use the context to understand.",
+       "question": "Do good readers know how to use the context to understand?",
+       "tag_question": "Good readers know how to use the context to understand, don't they?",
+       "negation": "Good readers don't know how to use the context to understand.",
+       "distractors": "does, are"
+    },
+    {
+        "statement": "The context makes a difference.",
+        "question": "Does the context make a difference?",
+        "tag_question": "The context makes a difference, doesn't it?",
+        "negation": "The context doesn't make a difference.",
+        "distractors": "has, do"
+    },
+    {
+       "statement": "We use context in everyday life.",
+       "question": "Do we use context in everyday life?",
+       "tag_question": "We use context in everyday life, don't we?",
+       "negation": "We don't use context in everyday life.",
+       "distractors": "does, are"
+    },
+    {
+       "statement": "A kayak in water makes sense.",
+       "question": "Does a kayak in water make sense?",
+       "tag_question": "A kayak in water makes sense, doesn't it?",
+       "negation": "A kayak in water doesn't make sense.",
+       "distractors": "is, was"
+    }
+]
