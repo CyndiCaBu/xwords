@@ -2,7 +2,7 @@
 
 {Bravery[s] does[x] not mean[v] that you are[x] not scared}[t-n]. {It[s] means[v] that you accept the fear and try (to use)[inf] the language anyway}[t-n], {at whatever level you can[x]}[extra].
 
-{You[s] may[x] feel[v] too intimidated (to interact)[inf] with others who know the language better than you do[x]}[t-n-nq], {especially if you('re)[x] shy}[t-n]. {You[s] may[x] start[v] a conversation with native speakers (to practice)[inf] but then get[v] stuck}[t-n]. {You[s] could[x] have[v] trouble following the other person's response or expressing your own ideas}[t-n]. {In that case}[f-p], {you[x] have[v] (to be)[inf] brave enough (to admit)[inf] that you (don't)[x] understand[v]}[t-n]. {You[x] have[v] (to be)[inf] humble enough (to ask)[inf] someone (to explain)[inf] or even translate[v] for you}[t-n].
+{You[s] may[x] feel[v] too intimidated (to interact)[inf] with others who know the language better than you do[x]}[t-n-nq], {especially if you('re)[x] shy}[t-n]. {You[s] may[x] start[v] a conversation with native speakers (to practice)[inf] but then get[v] stuck}[t-n]. {You[s] could[x] have[v] trouble following the other person's response or expressing your own ideas}[t-n]. {In that case}[f-p], {you[s] have[v] (to be)[inf] brave enough (to admit)[inf] that you (don't)[x] understand[v]}[t-n]. {You[s] have[v] (to be)[inf] humble enough (to ask)[inf] someone (to explain)[inf] or even translate[v] for you}[t-n].
 
 {You[s] might[x] find yourself frustrated}[t-n], {saying or writing the right words in the wrong order}[t-n-nq].  
 
