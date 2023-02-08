@@ -459,7 +459,7 @@ function load_question_exercise( contentUrl, questionUrl, title ){
 			$("html, body").animate({ scrollTop: 0 }, "slow");
 			$('.main.menu .ui.dropdown').dropdown('hide');
 			$('#exercise-title').html(title);
-			questionExercise.setupUiInteractions('Check', 'O - Correct', 'X - Wrong');
+			questionExercise.setupUiInteractions('Check', '✔ - Correct', '❓ - Try Again');
 		});
 	} );
 }
