@@ -15,7 +15,7 @@ function generate_article_link( data ){
 		html += '			<div class="ui label"><i class="chart bar icon"></i> '+data.gradeLevel+'</div>';
 	}
 	if( data.hasOwnProperty('discipline') ){
-		html += '			<div class="ui label">'+data.discipline+'</div>';
+		html += '			<div class="ui label meta-discipline">'+data.discipline+'</div>';
 	}
 	if( data.hasOwnProperty('tags') ){
 		var tags = data.tags.split(',');
@@ -40,6 +40,46 @@ function generate_article_link( data ){
 	html += '</div>';
 	return html
 }
+var GLOBAL_ARTICLE_SEARCH = null;
+function mainPageCategoryShowLearn(){
+	GLOBAL_ARTICLE_SEARCH.runSearch("about xwg");
+	$('#practice-group').addClass('hidden');
+}
+function mainPageCategoryShowPractice(){
+	$('#practice-group').removeClass('hidden');
+}
+
+function handleUrlHash(event){
+	if(event == null){
+		var hash = window.location.href.split('#')[1];
+	}else{
+		var e = event.originalEvent;
+		var hash = e.newURL.split('#')[1];
+	}
+	// console.info(hash);
+	if(hash == '/learn'){
+		mainPageCategoryShowLearn();
+	}else if(hash.indexOf('/practice') > -1){
+		mainPageCategoryShowPractice();
+		// hash = #/practice/category
+		var parts = hash.split('/');
+		if(parts.length > 2){
+			var practice = parts[1];
+			var category = parts[2];
+			console.info(parts);
+			console.info(hash);
+			GLOBAL_ARTICLE_SEARCH.searchDiscipline(category.replace('-', ' '));
+		}else{
+			console.info('clearing...')
+			GLOBAL_ARTICLE_SEARCH.clear();
+		}
+	}else{
+		console.info('clearing...')
+		GLOBAL_ARTICLE_SEARCH.clear();
+	}
+
+}
+
 $(document).ready(function() {
 	$.get('articles/list.json').then(function(response){
 		// NOTE: on windows machines - the response is "text" so it must be parsed
@@ -52,8 +92,10 @@ $(document).ready(function() {
 			var data = response;
 		}
 		// Create the links for the articles that should be listed on the homepage
+		// Remove articles that do not belong on the home page (REMOVED)
+		// var articles = data.articles.filter( function(a){ return a.isOnHome; } );
 		// Filter and sort by date (YYYY-MM-DD) newest first
-		var articles = data.articles.filter( function(a){ return a.isOnHome; } );
+		var articles = data.articles;
 		articles = articles.sort( function(a,b){
 			if( a.date == b.date ){
 				return 0;
@@ -65,9 +107,7 @@ $(document).ready(function() {
 		});
 		var html = '';
 		for( var i=0, l=articles.length; i<l; i+=1 ){
-			if( articles[i].isOnHome ){
-				html += generate_article_link( articles[i] );
-			}
+			html += generate_article_link( articles[i] );
 		}
 		$('#article-container').html( html );
 		
@@ -76,9 +116,13 @@ $(document).ready(function() {
 		// TODO: add more code...
 		
 		// Setup search
-		ArticleSearch();
+		GLOBAL_ARTICLE_SEARCH = new ArticleSearch();
+		GLOBAL_ARTICLE_SEARCH.setup();
+
+		handleUrlHash(null);
 	});
 	$('#article-container').on('click','.button',function(){
 		window.location.href = $(this).data('link-url');
 	});
+	$(window).on('hashchange', handleUrlHash);
 });

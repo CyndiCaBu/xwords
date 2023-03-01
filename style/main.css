@@ -110,3 +110,7 @@ img.button.compact {
 	color: #fff;
 	text-shadow: none;
 }
+
+#practice-group.hidden {
+	display: none;
+}
