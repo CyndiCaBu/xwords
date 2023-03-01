@@ -33,6 +33,7 @@ body {
 	border: none;
 	font-size: 1.5em;
 	padding: 1em;
+	background-color: #DDD;
 }
 
 #text-preview {
@@ -41,7 +42,6 @@ body {
 	right: 0;
 	bottom: 0;
 	width: 50%;
-	background-color: #DDD;
 	font-size: 1.5em;
 	padding: 1em;
 	overflow: scroll;

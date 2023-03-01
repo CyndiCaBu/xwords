@@ -1,8 +1,20 @@
+:root {
+	--color-xword: #81fef2;
+	--color-subject: #f7f771;
+	--color-verbs: #ffe6ff;
+	--color-verbs-hidden-xwords: #e0ffff;
+	--color-trunks: #ffe6af;
+	--color-shifters: #c5f7b7;
+	--color-linkers: #ffae42;
+	--color-extra-info: #fc68fc;
+	--color-infinitives: #00edba;
+}
+
 .xw, .xword {}
 .xw-found, .xword-found {
-	border: 2px solid #7CF9F9 !important;
+	border: 2px solid var(--color-xword) !important;
 	border-radius: 4px;
-	background: #7CF9F9;
+	background: var(--color-xword);
 }
 .xw-paragraph-summary,
 .xword-paragraph-summary,
@@ -28,22 +40,22 @@
 
 .subject {}
 .subject-found {
-	border: 2px solid #FCF;
+	border: 2px solid var(--color-subject);
 	border-radius: 4px;
-	background-color: #FCF;
+	background-color: var(--color-subject);
 }
 
 .verb {}
 .verb-found {
-	border: 2px solid #FFDEAD;
-	background-color: #FFDEAD;
+	border: 2px solid var(--color-verbs);
+	background-color: var(--color-verbs);
 	border-radius: 4px;
 }
 
 .verbs-with-hidden-xword-found {
-	border: 2px solid #8FA !important;
+	border: 2px solid var(--color-verbs-hidden-xwords) !important;
 	border-radius: 4px;
-	background: #8FA;
+	background: var(--color-verbs-hidden-xwords);
 }
 
 .xw-hidden,
@@ -58,24 +70,25 @@
 .infinitive {
 }
 .infinitive-found {
-	border: 2px solid #000;
+	border: 2px solid var(--color-infinitives);
 	border-radius: 50%;
+	/* background: var(--color-infinitives); */
 }
 .trunk-found {
-	background: #F8F;
+	background: var(--color-trunks);
 }
 .linker-found {
-	background: #F8F;
+	background: var(--color-linkers);
 }
 .extra-information-found {
-	background: #F8F;
+	background: var(--color-extra-info);
 }
 .shifter-time-found,
 .shifter-place-found,
 .shifter-reason-found,
 .shifter-condition-found,
 .shifter-contrast-found {
-	background: #F8F;
+	background: var(--color-shifters);
 }
 
 

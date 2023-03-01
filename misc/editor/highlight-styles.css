@@ -1,53 +1,62 @@
-.hidden-do { background-color: #FF0099; }
-.hidden-does { background-color: #FF00EB; }
-.hidden-did { background-color: #D770FF; }
-.infinitive {
-	border: 2px solid #f00;
-	border-radius: 1em;
-	padding: 0.2em;
+:root {
+	--color-xword: #81fef2;
+	--color-subject: #f7f771;
+	--color-verbs: #ffe6ff;
+	--color-verbs-hidden-xwords: #e0ffff;
+	--color-trunks: #ffe6af;
+	--color-shifters: #c5f7b7;
+	--color-linkers: #ffae42;
+	--color-extra-info: #fc68fc;
+	--color-infinitives: #00edba;
 }
-.past-participle {border-bottom: 2px dashed #F00;}
-.extra-information { border-bottom: 2px dotted #000; }
-.verb,
-.verb-ing { border-bottom: 2px solid #F00; background-color: #FFAFDF }
-.xword {font-weight:bold; border-bottom: 2px solid #000;}
-.subject {background-color: #0F0;}
-.gerund {border-bottom: 2px solid #F00; background-color: #FFAFDF}
-.trunk {background-color: #DFF}
-.linker {background-color: #FFD}
-.joiner {background-color: #DDB}
-.shifter {background-color: #ff4bf3}
-.front-shifter {background-color: #FDF}
-.end-shifter {background-color: #FDF}
-.trunk-multi {background-color: #DFF}
-.f-t,
-.front-shifter-time,
-.f-p,
-.front-shifter-place,
-.f-r,
-.front-shifter-reason,
-.f-cd,
-.front-shifter-condition,
-.f-ct,
-.front-shifter-contrast,
-.shifter-front,
-.shifter-end {background-color: #ff4bf3}
-.e-t,
-.end-shifter-time,
-.e-p,
-.end-shifter-place,
-.e-r,
-.end-shifter-reason,
-.e-cd,
-.end-shifter-condition,
-.e-ct,
-.end-shifter-contrast {background-color: #ff4bf3}
-.title-in-text {font-style: italic;}
-/*
- page background: ffebce
- FF0099
- FF00EB
- B800FF
- 5C00FF
- 0000FF
- */
+
+.xw, .xword {
+	border: 2px solid var(--color-xword) !important;
+	border-radius: 4px;
+	background: var(--color-xword);
+}
+
+.subject {
+	border: 2px solid var(--color-subject);
+	border-radius: 4px;
+	background-color: var(--color-subject);
+}
+
+.verb {
+	border: 2px solid var(--color-verbs);
+	background-color: var(--color-verbs);
+	border-radius: 4px;
+}
+
+.verbs-with-hidden-xword{
+	border: 2px solid var(--color-verbs-hidden-xwords) !important;
+	border-radius: 4px;
+	background: var(--color-verbs-hidden-xwords);
+}
+
+.xw-hidden,
+.xword-hidden {
+	border: 2px solid #000;
+}
+
+.infinitive {
+	border: 2px solid var(--color-infinitives);
+	border-radius: 50%;
+	/* background: var(--color-infinitives); */
+}
+.trunk {
+	background: var(--color-trunks);
+}
+.linker {
+	background: var(--color-linkers);
+}
+.extra-information {
+	background: var(--color-extra-info);
+}
+.shifter-time,
+.shifter-place,
+.shifter-reason,
+.shifter-condition,
+.shifter-contrast {
+	background: var(--color-shifters);
+}
