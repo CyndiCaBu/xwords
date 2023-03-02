@@ -92,19 +92,34 @@ $(document).ready(function() {
 			var data = response;
 		}
 		// Create the links for the articles that should be listed on the homepage
+
 		// Remove articles that do not belong on the home page (REMOVED)
 		// var articles = data.articles.filter( function(a){ return a.isOnHome; } );
-		// Filter and sort by date (YYYY-MM-DD) newest first
+
+		// Filter and sort by date (YYYY-MM-DD) newest first (REMOVED)
+		// var articles = data.articles;
+		// articles = articles.sort( function(a,b){
+		// 	if( a.date == b.date ){
+		// 		return 0;
+		// 	}else if( a.date < b.date ){
+		// 		return 1;
+		// 	}else{
+		// 		return -1;
+		// 	}
+		// });
+
+		// Sort articles alphabetically by title
 		var articles = data.articles;
 		articles = articles.sort( function(a,b){
-			if( a.date == b.date ){
+			if( a.title == b.title ){
 				return 0;
-			}else if( a.date < b.date ){
-				return 1;
-			}else{
+			}else if( a.title < b.title ){
 				return -1;
+			}else{
+				return 1;
 			}
 		});
+
 		var html = '';
 		for( var i=0, l=articles.length; i<l; i+=1 ){
 			html += generate_article_link( articles[i] );
