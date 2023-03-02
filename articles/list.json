@@ -73,7 +73,7 @@
     }, {
         "url": "articles/antibiotics",
         "title": "Antibiotics",
-        "discipline": "culture",
+        "discipline": "health",
         "isInRandom": true,
         "description": "Maya still couldn't believe she'd actually broken a small piece of bone ...",
         "tags": "antibiotics, resistance",
@@ -92,7 +92,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-perspective",
-        "title": "Strength Perspective",
+        "title": "Strength: Perspective",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "When Salvador started saving money to buy some land ...",
@@ -113,7 +113,7 @@
     }, {
         "url": "articles/best-worst-most-realistic",
         "title": "Best Worst Most Realistic",
-        "discipline": "positive sychology",
+        "discipline": "positive psychology",
         "isInRandom": true,
         "description": "This mushroom was growing ...",
         "tags": "worry, study, test",
@@ -133,7 +133,7 @@
     }, {
         "url": "articles/character-strengths",
         "title": "Character Strengths",
-        "discipline": " positive psychology",
+        "discipline": "positive psychology",
         "isInRandom": true,
         "description": "Positive psychology is for people who are already healthy ...",
         "tags": "strengths, positive psychology",
@@ -173,7 +173,7 @@
     }, {
         "url": "articles/csa",
         "title": "CSA",
-        "discipline": "culture",
+        "discipline": "nature",
         "isInRandom": true,
         "description": "CSA stands for Community Supported ...",
         "tags": "farms, support",
@@ -243,7 +243,7 @@
     }, {
         "url": "articles/happy-pi-day",
         "title": "Happy Pi Day",
-        "discipline": "culture",
+        "discipline": "learning",
         "isInRandom": true,
         "description": "You don't have to love math to appreciate Pi ...",
         "tags": "numbers, ratio",
@@ -313,7 +313,7 @@
     }, {
         "url": "articles/mosquitoes-and-malaria",
         "title": "Mosquitoes And Malaria",
-        "discipline": "culture",
+        "discipline": "health",
         "isInRandom": true,
         "description": "Growing up in the northeastern part of ...",
         "tags": "malaria, drug resistance",
@@ -463,7 +463,7 @@
     }, {
         "url": "articles/sage",
         "title": "Sage",
-        "discipline": "nature",
+        "discipline": "culture",
         "isInRandom": true,
         "description": "People have grown and used sage for ...",
         "tags": "herbs, traditions",
@@ -502,7 +502,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-appreciation-of-beauty-and-excellence",
-        "title": "Strength Appreciation Of Beauty And Excellence",
+        "title": "Strength: Appreciation Of Beauty And Excellence",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "This character strength has a long name, but ...",
@@ -512,7 +512,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-bravery",
-        "title": "Strength Bravery",
+        "title": "Strength: Bravery",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "Becoming fluent in a language you didn\u2019t grow up with takes ...",
@@ -522,7 +522,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-creativity",
-        "title": "Strength Creativity",
+        "title": "Strength: Creativity",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "Finding new ways to do things is a sign of ...",
@@ -532,7 +532,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-curiosity",
-        "title": "Strength Curiosity",
+        "title": "Strength: Curiosity",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "If you like learning new things and trying unfamiliar ...",
@@ -542,7 +542,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-enthusiasm",
-        "title": "Strength Enthusiasm",
+        "title": "Strength: Enthusiasm",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "Enthusiasm is a sense of excitement and interest in ...",
@@ -552,7 +552,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-gratitude",
-        "title": "Strength Gratitude",
+        "title": "Strength: Gratitude",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "Gratitude is a character strength that ...",
@@ -562,7 +562,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-humor",
-        "title": "Strength Humor",
+        "title": "Strength: Humor",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "One funny thing about humor is ...",
@@ -572,7 +572,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-kindness",
-        "title": "Strength Kindness",
+        "title": "Strength: Kindness",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "Being kind to yourself and others can ... ",
@@ -582,7 +582,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-leadership",
-        "title": "Strength Leadership",
+        "title": "Strength: Leadership",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "Leadership involves taking action and serving as ...",
@@ -592,7 +592,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-love-of-learning",
-        "title": "Strength Love Of Learning",
+        "title": "Strength: Love Of Learning",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "What does love of learning have in common with curiosity ... ",
@@ -602,7 +602,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-open-mindedness",
-        "title": "Strength Open Mindedness",
+        "title": "Strength: Open Mindedness",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "Judgment is a character strength related to wisdom.",
@@ -612,7 +612,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-perseverance",
-        "title": "Strength Perseverance",
+        "title": "Strength: Perseverance",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "Perseverance means persistence, finishing what you ...",
@@ -622,7 +622,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-prudence",
-        "title": "Strength Prudence",
+        "title": "Strength: Prudence",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "When you put a pot or pan on the ...",
@@ -632,7 +632,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-self-control",
-        "title": "Strength Self Control",
+        "title": "Strength: Self Control",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "The morning rush hour filled the streets ...",
@@ -642,7 +642,7 @@
         "isOnHome": true
     }, {
         "url": "articles/strength-teamwork",
-        "title": "Strength Teamwork",
+        "title": "Strength: Teamwork",
         "discipline": "positive psychology",
         "isInRandom": true,
         "description": "Teamwork means working together to reach a goal ...",
