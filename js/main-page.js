@@ -1,44 +1,56 @@
+
 function generate_article_link( data ){
 	var html = '';
-	html += '<div class="item search-element search-element-hidden">';
-	html += '	<div class="image">';
-	html += '		<img src="'+data.url+'/thumbnail.jpg">';
-	html += '	</div>';
-	html += '	<div class="content search-data">';
-	html += '		<a class="header" href="articles/#'+data.url.split('/').slice(1).join('/')+'">'+data.title+'</a>';
-	html += '		<div class="meta">';
-	if( data.hasOwnProperty('date') ){
-		// hiding the date, uncomment to show
-		//html += '			<div class="ui label"><i class="calendar icon"></i> '+data.date+'</div>';
-	}
-	if( data.hasOwnProperty('gradeLevel') ){
-		html += '			<div class="ui label"><i class="chart bar icon"></i> '+data.gradeLevel+'</div>';
-	}
-	if( data.hasOwnProperty('discipline') ){
-		html += '			<div class="ui label meta-discipline">'+data.discipline+'</div>';
-	}
-	if( data.hasOwnProperty('tags') ){
-		var tags = data.tags.split(',');
-		for( var i=0, l=tags.length; i<l; i+=1 ){
-			// hiding tags, uncomment to show
-			//html += '			<div class="ui label">'+tags[i].trim()+'</div>';
-		}
-	}
-	html += '		</div>';
+	html += '<a class="ui card search-element search-element-hidden" href="./articles/#/'+data.url.split('/').slice(1).join('/')+'">';
+	html += '<div class="image">';
+	html += '	<img src="'+data.url+'/thumbnail.jpg">';
+	html += '</div>';
+	html += '<div class="content">';
+	html += '	<div class="header">'+data.title+'</div>';
 	if( data.hasOwnProperty('description') ){
 		html += '		<div class="description">';
-		html += '			<p>'+data.description+'</p>';
+		html += '			'+data.description+'';
 		html += '		</div>';
 	}
-	html += '		<div class="extra">';
-	html += '			<div class="ui right floated blue button compact" data-link-url="articles/?exercise=xwords#'+data.url.split('/').slice(1).join('/')+'">';
-	html += '				Find the X-Words';
-	html += '				<i class="right chevron icon"></i>';
-	html += '			</div>';
-	html += '		</div>';
-	html += '	</div>';
 	html += '</div>';
-	return html
+	if( data.hasOwnProperty('gradeLevel') || data.hasOwnProperty('discipline')){
+		html += '<div class="extra content">';
+		html += '	<div class="meta">';
+		if( data.hasOwnProperty('gradeLevel') ){
+			html += '		<span class="ui label"><i class="chart bar icon"></i>'+data.gradeLevel+'</span>';
+		}
+		if( data.hasOwnProperty('discipline') ){
+			html += '		<span class="ui label meta-discipline">'+data.discipline+'</span>';
+		}
+		html += '	</div>';
+		html += '</div>';
+	}
+	// date?
+	// if( data.hasOwnProperty('date') ){
+	// 	html += '<div class="extra content">';
+	// 	html += '	<div class="ui label"><i class="calendar icon"></i> '+data.date+'</div>';
+	// 	html += '</div>';
+	// }
+	// tags?
+	// if( data.hasOwnProperty('tags') ){
+	// 	html += '<div class="extra content">';
+	// 	var tags = data.tags.split(',');
+	// 	for( var i=0, l=tags.length; i<l; i+=1 ){
+	// 		// hiding tags, uncomment to show
+	// 		html += '	<div class="ui label">'+tags[i].trim()+'</div>';
+	// 	}
+	// 	html += '</div>'
+	// }
+	// "Practice ->" Text
+	html += '<div class="extra content">';
+	html += '	<span class="right floated">Practice <i class="arrow alternate circle right icon"></i></span>';
+	if( data.hasOwnProperty('date') ){
+		// html += '	<span class="left floated muted" style="opacity: 0.4"><i class="calendar icon"></i> '+data.date+'</span>';
+	}
+	html += '</div>';
+
+	html += '</a>';
+	return html;
 }
 var GLOBAL_ARTICLE_SEARCH = null;
 function mainPageCategoryShowLearn(){
