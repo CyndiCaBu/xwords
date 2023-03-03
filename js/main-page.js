@@ -1,6 +1,6 @@
 function generate_article_link( data ){
 	var html = '';
-	html += '<div class="item search-element">';
+	html += '<div class="item search-element search-element-hidden">';
 	html += '	<div class="image">';
 	html += '		<img src="'+data.url+'/thumbnail.jpg">';
 	html += '	</div>';
@@ -66,15 +66,11 @@ function handleUrlHash(event){
 		if(parts.length > 2){
 			var practice = parts[1];
 			var category = parts[2];
-			console.info(parts);
-			console.info(hash);
 			GLOBAL_ARTICLE_SEARCH.searchDiscipline(category.replace('-', ' '));
 		}else{
-			console.info('clearing...')
 			GLOBAL_ARTICLE_SEARCH.clear();
 		}
 	}else{
-		console.info('clearing...')
 		GLOBAL_ARTICLE_SEARCH.clear();
 	}
 
