@@ -18,10 +18,10 @@ if __name__ == '__main__':
 		try:
 			img = Image.open( imageFile )
 		except IOError:
-			print 'No image file: %s' % imageFile
+			print('No image file: %s' % imageFile)
 			continue
-		print 'Resizing: %s' % imageFile
+		print('Resizing: %s' % imageFile)
 		resized = img.resize( thumbnailSize, PIL.Image.ANTIALIAS )
 		resized.save( thumbnailFile )
 
-	print 'Done!'
+	print('Done!')
