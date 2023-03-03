@@ -441,9 +441,11 @@ $('.start-exercise-linkers').on('click',function(){load_content_find_words(path+
 $('.start-exercise-extra-info').on('click',function(){load_content_find_words(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;});
 $('.start-exercise-shifters').on('click',function(){load_content_find_words(path+'/content.txt',Shifters,'Find the Shifters'); return false;});
 $('.start-exercise-shifter-shift').on('click',function(){load_content_make_sts(path+'/content.txt',null,'Shift the Shifters'); return false;});
-$('.start-exercise-make-questions').on('click',function(){load_question_exercise(path+'/content.txt', path+'/questions.json', 'Sentence Builder'); return false;});
+$('.start-exercise-make-questions').on('click',function(){load_question_exercise(path+'/content.txt', path+'/questions.json', 'Sentence Builder', "Please turn following statement into a question: ", "JSON_KEY_QUESTION" ); return false;});
+$('.start-exercise-make-tag-questions').on('click',function(){load_question_exercise(path+'/content.txt', path+'/questions.json', 'Tag Questions', "Please turn following statement into a tag question: ", "JSON_KEY_TAG_QUESTION"); return false;});
+$('.start-exercise-make-negation').on('click',function(){load_question_exercise(path+'/content.txt', path+'/questions.json', 'Negations', "Please negate the following statement:", "JSON_KEY_NEGATION"); return false;});
 
-function load_question_exercise( contentUrl, questionUrl, title ){
+function load_question_exercise( contentUrl, questionUrl, title, prompt_text, answer_key ){
 	$.get( contentUrl, function(content){
 		$.get(questionUrl, function(questions){
 			var parsed = parse_text( content, tokens );
@@ -452,7 +454,7 @@ function load_question_exercise( contentUrl, questionUrl, title ){
 			var questionExercise = new QuestionExercise(questions);
 			console.info(questionExercise.generateWordBank(questions[0]));
 			for( var i=0, l=questions.length; i<l; i+=1 ){
-				html += questionExercise.generateHtml(questions[i], "Please turn following statement into a question: ", questionExercise.JSON_KEY_STATEMENT, questionExercise.JSON_KEY_QUESTION);
+				html += questionExercise.generateHtml(questions[i], prompt_text, questionExercise.JSON_KEY_STATEMENT, questionExercise[answer_key]);
 			}
 			$('.x-words-content').html( html );
 			$('.x-words-content').off('click.findTheWord');
