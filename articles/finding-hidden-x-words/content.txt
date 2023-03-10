@@ -24,4 +24,4 @@ Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you
 
 {If the main verb is[x] in the base form}[f-cd], {(the x-word)[s] is[x] do[x]}[t-n]. {(Knowing the verb forms)[s] is[x] the only way (to figure)[inf] this out}[t-n]; {there[s] is[x] no other clue}[t-n].
 
-Remember[l], {(every sentence in English)[s] has[x] an x-word}[t-n]. {If you (don't)[x] see it}[f-cd], {it[x] must[x] be[v] either do[x], does[x] or did[x]}[t-n]. {The more you practice making questions and negative statements}[l], (the more)[l] {this[s] will[x] make[v] sense}[t-n].
+Remember[l], {(every sentence in English)[s] has[x] an x-word}[t-n]. {If you (don't)[x] see it}[f-cd], {it[s] must[x] be[v] either do[x], does[x] or did[x]}[t-n]. {The more you practice making questions and negative statements}[l], (the more)[l] {this[s] will[x] make[v] sense}[t-n].
