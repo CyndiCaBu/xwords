@@ -54,7 +54,7 @@ function generate_article_link( data ){
 }
 var GLOBAL_ARTICLE_SEARCH = null;
 function mainPageCategoryShowLearn(){
-	GLOBAL_ARTICLE_SEARCH.runSearch("about xwg");
+	GLOBAL_ARTICLE_SEARCH.searchDiscipline("about xwg");
 	$('#practice-group').addClass('hidden');
 }
 function mainPageCategoryShowPractice(){
