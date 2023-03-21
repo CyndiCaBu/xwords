@@ -18,7 +18,7 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 # SVO, plus SVO.
 
-{(One of the FANBOYS)[s] connects[v] two SVO sentences}[t-n].  
+{(This pattern)[s] uses[v] two SVO sentences}[t-n], {connected by a FANBOY}[extra]. {You[s] might[x] know[v] FANBOYS as coordinating conjunctions}[t-n]. {They[s]('re)[x] common words like and, but, so and a few more}[t-n].  {You[s] can[x] learn[v] more about them in the article about x-word grammar trunks}[t-n]. 
 
 {(Lots of people)[s] were[x] standing[v] together}[t-p], and[j] {(none of them)[s] were[x] wearing[v] masks}[t-p]. {Musicians[s] provided[v] live music}[t-p], and[j] {people[s] talked[v] to each other}[t-p]. {This[s] was[x] before the pandemic}[t-p], so {(most of us)[s] probably knew[v] very little about coronaviruses}[t-p]. {We[s] had[x] no clue how a tiny virus would[x] change[v] our lives}[t-p], but[j] {we[s] would[x] soon learn[v]}[t-p].
 
