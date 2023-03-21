@@ -106,9 +106,7 @@ function FindTheWord( options ){
 
 	if( Array.isArray(this.classFind) ){
 		this._finder_selector = '.'+this.classFind.join(', .');
-		console.info('ARRAY');
 	}
-	console.info(this._finder_selector);
 }
 FindTheWord.prototype.setup = function(content){
 	var that = this;
@@ -431,19 +429,44 @@ function load_content_make_sts( content, game, title ){
 	});
 }
 
-$('.start-exercise-xwords').on('click',function(){load_content_find_words(path+'/content.txt',XWords,'Find the X-Words'); return false;});
-$('.start-exercise-verbs').on('click',function(){load_content_find_words(path+'/content.txt',Verbs,'Find the Verbs'); return false;});
-$('.start-exercise-xvs').on('click',function(){load_content_find_words(path+'/content.txt',XVS,'Find the X-Words, Subjects and Verbs'); return false;});
-$('.start-exercise-subjects').on('click',function(){load_content_find_words(path+'/content.txt',Subjects,'Find the Subjects'); return false;});
-$('.start-exercise-infinitives').on('click',function(){load_content_find_words(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;});
-$('.start-exercise-trunks').on('click',function(){load_content_find_words(path+'/content.txt',Trunks,'Find the Trunks'); return false;});
-$('.start-exercise-linkers').on('click',function(){load_content_find_words(path+'/content.txt',Linkers,'Find the Linkers'); return false;});
-$('.start-exercise-extra-info').on('click',function(){load_content_find_words(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;});
-$('.start-exercise-shifters').on('click',function(){load_content_find_words(path+'/content.txt',Shifters,'Find the Shifters'); return false;});
-$('.start-exercise-shifter-shift').on('click',function(){load_content_make_sts(path+'/content.txt',null,'Shift the Shifters'); return false;});
-$('.start-exercise-make-questions').on('click',function(){load_question_exercise(path+'/content.txt', path+'/questions.json', 'Sentence Builder', "Please turn following statement into a question: ", "JSON_KEY_QUESTION" ); return false;});
-$('.start-exercise-make-tag-questions').on('click',function(){load_question_exercise(path+'/content.txt', path+'/questions.json', 'Tag Questions', "Please turn following statement into a tag question: ", "JSON_KEY_TAG_QUESTION"); return false;});
-$('.start-exercise-make-negation').on('click',function(){load_question_exercise(path+'/content.txt', path+'/questions.json', 'Negations', "Please negate the following statement:", "JSON_KEY_NEGATION"); return false;});
+function handle_exercise_click(exercise_class, action){
+	return function(){
+		var exercise_classes = [
+			'.start-exercise-xwords',
+			'.start-exercise-verbs',
+			'.start-exercise-xvs',
+			'.start-exercise-subjects',
+			'.start-exercise-infinitives',
+			'.start-exercise-trunks',
+			'.start-exercise-linkers',
+			'.start-exercise-extra-info',
+			'.start-exercise-shifters',
+			'.start-exercise-shifter-shift',
+			'.start-exercise-make-questions',
+			'.start-exercise-make-tag-questions',
+			'.start-exercise-make-negation'
+		];
+		for(var i=0, l=exercise_classes.length; i<l; i+=1){
+			$(exercise_classes[i]).addClass('inverted');
+		}
+		$(exercise_class).removeClass('inverted');
+		return action();
+	}
+}
+
+$('.start-exercise-xwords').on('click',            handle_exercise_click('.start-exercise-xwords',             function(){load_content_find_words(path+'/content.txt',XWords,'Find the X-Words'); return false;}));
+$('.start-exercise-verbs').on('click',             handle_exercise_click('.start-exercise-verbs',              function(){load_content_find_words(path+'/content.txt',Verbs,'Find the Verbs'); return false;}));
+$('.start-exercise-xvs').on('click',               handle_exercise_click('.start-exercise-xvs',                function(){load_content_find_words(path+'/content.txt',XVS,'Find the X-Words, Subjects and Verbs'); return false;}));
+$('.start-exercise-subjects').on('click',          handle_exercise_click('.start-exercise-subjects',           function(){load_content_find_words(path+'/content.txt',Subjects,'Find the Subjects'); return false;}));
+$('.start-exercise-infinitives').on('click',       handle_exercise_click('.start-exercise-infinitives',        function(){load_content_find_words(path+'/content.txt',Infinitives,'Find the Infinitives'); return false;}));
+$('.start-exercise-trunks').on('click',            handle_exercise_click('.start-exercise-trunks',             function(){load_content_find_words(path+'/content.txt',Trunks,'Find the Trunks'); return false;}));
+$('.start-exercise-linkers').on('click',           handle_exercise_click('.start-exercise-linkers',            function(){load_content_find_words(path+'/content.txt',Linkers,'Find the Linkers'); return false;}));
+$('.start-exercise-extra-info').on('click',        handle_exercise_click('.start-exercise-extra-info',         function(){load_content_find_words(path+'/content.txt',ExtraInfo,'Find the Extra Information'); return false;}));
+$('.start-exercise-shifters').on('click',          handle_exercise_click('.start-exercise-shifters',           function(){load_content_find_words(path+'/content.txt',Shifters,'Find the Shifters'); return false;}));
+$('.start-exercise-shifter-shift').on('click',     handle_exercise_click('.start-exercise-shifter-shift',      function(){load_content_make_sts(path+'/content.txt',null,'Shift the Shifters'); return false;}));
+$('.start-exercise-make-questions').on('click',    handle_exercise_click('.start-exercise-make-questions',     function(){load_question_exercise(path+'/content.txt', path+'/questions.json', 'Sentence Builder', "Please turn following statement into a question: ", "JSON_KEY_QUESTION" ); return false;}));
+$('.start-exercise-make-tag-questions').on('click',handle_exercise_click('.start-exercise-make-tag-questions', function(){load_question_exercise(path+'/content.txt', path+'/questions.json', 'Tag Questions', "Please turn following statement into a tag question: ", "JSON_KEY_TAG_QUESTION"); return false;}));
+$('.start-exercise-make-negation').on('click',     handle_exercise_click('.start-exercise-make-negation',      function(){load_question_exercise(path+'/content.txt', path+'/questions.json', 'Negations', "Please negate the following statement:", "JSON_KEY_NEGATION"); return false;}));
 
 function load_question_exercise( contentUrl, questionUrl, title, prompt_text, answer_key ){
 	$.get( contentUrl, function(content){
@@ -452,7 +475,7 @@ function load_question_exercise( contentUrl, questionUrl, title, prompt_text, an
 			var paragraphs = $(parsed).text().replace(/\n+/g,'\n').split('\n');
 			var html = '<p>'+paragraphs.join('</p><p>')+'</p>';
 			var questionExercise = new QuestionExercise(questions);
-			console.info(questionExercise.generateWordBank(questions[0]));
+			// console.info(questionExercise.generateWordBank(questions[0]));
 			for( var i=0, l=questions.length; i<l; i+=1 ){
 				html += questionExercise.generateHtml(questions[i], prompt_text, questionExercise.JSON_KEY_STATEMENT, questionExercise[answer_key]);
 			}
