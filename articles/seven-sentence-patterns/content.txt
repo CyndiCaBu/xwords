@@ -1,6 +1,6 @@
 {(Written English)[s] uses[v] seven sentence patterns}[t-n]. {(These patterns)[s] can[x] make[v] short sentences or long ones}[t-n]. {It[s] depends[v] on the writer's style and the context}[t-n].
 
-{(Business writing)[s] uses[v] concise sentences}[t-n]. {It[s] gets[v] straight to the point}[t-n], {using enough words (to explain)[inf] but[j] nothing more than needed}[extra]. (For example)[l], {(a business email message)[s] might[x] have[v] only two or three lines}[t-n]. {It[s] greets[v] the reader, explains[v] what the writer wants or needs and ends[v] with gratitude}[t-n]. Period. 
+{(Business writing)[s] uses[v] concise sentences}[t-n]. {It[s] gets[v] straight to the point}[t-n], {using enough words (to explain)[inf] but[j] nothing more than needed}[extra]. (For example)[l], {(a business email message)[s] might[x] have[v] only two or three lines}[t-n]. {It[s] greets[v] the reader, explains[v] the purpose of the email and ends[v] with gratitude}[t-n]. Period. 
 
 {In other contexts}[f-p], {(the writing style)[s] depends[v] on the writer}[t-n]. {(Some people)[s] prefer[v] short, direct sentences}[t-n]. {Others[s] combine[v] sentence patterns (to write)[inf] long sentences}[t-n].  
 
@@ -18,7 +18,7 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 # SVO, plus SVO.
 
-{(One of the FANBOYS)[s] connects[v] two SVO sentences}[t-n].  
+{(This pattern)[s] uses[v] two SVO sentences}[t-n], {connected by a FANBOY}[extra]. {You[s] might[x] know[v] FANBOYS as coordinating conjunctions}[t-n]. {They[s]('re)[x] common words like and, but, so and a few more}[t-n].  {You[s] can[x] learn[v] more about them in the article about x-word grammar trunks}[t-n]. 
 
 {(Lots of people)[s] were[x] standing[v] together}[t-p], and[j] {(none of them)[s] were[x] wearing[v] masks}[t-p]. {Musicians[s] provided[v] live music}[t-p], and[j] {people[s] talked[v] to each other}[t-p]. {This[s] was[x] before the pandemic}[t-p], so {(most of us)[s] probably knew[v] very little about coronaviruses}[t-p]. {We[s] had[x] no clue how a tiny virus would[x] change[v] our lives}[t-p], but[j] {we[s] would[x] soon learn[v]}[t-p].
 
