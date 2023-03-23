@@ -114,3 +114,10 @@ img.button.compact {
 #practice-group.hidden {
 	display: none;
 }
+
+.ui.inverted.purple.button, .ui.inverted.purple.buttons .button {
+    background-color: transparent;
+    box-shadow: none !important;
+    color: #764387;
+    border: 2px solid #764387;
+}
