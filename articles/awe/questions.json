@@ -28,10 +28,10 @@
         "distractors": ""
     },    
     {
-        "statement": "We also feel this when we admire other people for their virtues or skills.",
-        "question": "Do we also feel this when we admire other people for their virtues or skills?",
+        "statement": "We feel this when we admire other people for their virtues or skills.",
+        "question": "Do we feel this when we admire other people for their virtues or skills?",
         "tag_question": "don't we?",
-        "negation": "We do not feel this when we admire other people for their virtues or skills.",
+        "negation": "We don't feel this when we admire other people for their virtues or skills.",
         "distractors": ""
     }
 ]
