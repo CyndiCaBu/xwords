@@ -21,10 +21,10 @@
         "distractors": ""
     },
     {
-        "statement": "It can also change how we understand something.",
-        "question": "Can it also change how we understand something?",
+        "statement": "It can change how we understand something.",
+        "question": "Can it change how we understand something?",
         "tag_question": "can't it?",
-        "negation": "It cannot also change how we understand something.",
+        "negation": "It can't change how we understand something.",
         "distractors": ""
     },    
     {
