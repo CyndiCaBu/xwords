@@ -1,6 +1,6 @@
 {(Every building)[s] has[x] parts that you can[x] only see during construction}[t-n], {like the concrete floors here}[extra]. {(Floors like these)[s] get[vxo] covered by wood, tile, carpet or something else later}[t-n]. {You[s] (won't)[x] see[v] the concrete again}[t-n] {unless you do[x] some renovation or repairs}[e-cd].
 
-Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you[s] (can[x]'t)[x] always see[v] it}[t-n]. {You[s] need[v] (to know)[inf] how (to find)[inf] it by doing some work}[t-n]: {changing the sentence to a question or a negative statement}[extra]. 
+Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you[s] (can't)[x] always see[v] it}[t-n]. {You[s] need[v] (to know)[inf] how (to find)[inf] it by doing some work}[t-n]: {changing the sentence to a question or a negative statement}[extra]. 
 
 {(This process)[s] is[x] simple}[t-n] {when you can[x] see the x-word}[e-t]. {(To make)[inf] a question}[f-r],  {just move[v] the x-word to the front of the sentence}[t-n], {like this}[extra]:
 
