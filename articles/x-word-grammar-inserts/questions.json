@@ -3,7 +3,7 @@
         "statement": "An insert is a word or phrase.",
         "question": "Is an insert a word or phrase?",
         "tag_question": "An insert is a word or phrasedoesn't it?",
-        "negation": "n insert is a word or phrase.",
+        "negation": "An insert isn't a word or phrase.",
         "distractors": ""
     },
     {
