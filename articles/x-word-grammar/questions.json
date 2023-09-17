@@ -11,6 +11,7 @@
        "question": "Are these 20 words called x-words?",
        "tag_question": "These 20 words are called x-words, aren't they?",
        "negation": "These 20 words aren't called x-words.",
+        "negation": "These 20 words are not called x-words.",
        "distractors": ""
     },
     {
