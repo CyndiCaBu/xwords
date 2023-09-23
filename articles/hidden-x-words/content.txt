@@ -1,6 +1,6 @@
 {(Hidden x-words)[s] are[x] like Cape May diamonds}[t-n]: {easier (to find)[inf] if you know what you are[x] looking[vg] for}[extra]. {In both cases}[f-p], {you[s] need[v] (to understand)[inf] what you('re)[x] looking for and what clues you might[x] find}[t-n]. 
 
-{(Only three x-words)[s] can[x] hide[v]}[t-n]: {do[x], does[x] and did[x]}[extra]. {(The S on the end of a verb)[s] comes[v] from hidden does[x]}[t-n]. {(The D on the end of regular verbs in the simple past)[s] comes from hidden did[x]}[t-n]. {(Hidden did[x])[s] is[x] also in irregular verbs in the simple past}[t-n]. {(Hidden do)[s] is[x] in the base form of any main verb}[t-n]. 
+{(Only three x-words)[s] can[x] hide[v]}[t-n]: {do[x], does[x] and did[x]}[extra]. {(The S on the end of a verb)[s] comes[v] from hidden does[x]}[t-n]. {(The simple past form)[s] comes from hidden did[x]}[t-n]. {It[s] can[x] look[v] like the D or ED on the end of regular verbs}[t-n], or[j] {it[s] can[x] be[v] irregular}[t-n], like went, saw, gave, etc[extra]. {(Hidden do)[s] is[x] in the base form of any main verb}[t-n]. 
  
 {(To find)[inf] hidden x-words}[f-r], {you[s] can[x] change a statement to a question or make it negative}[t-n]. {(Doing that)[s] makes[v] the x-words visible}[t-n].
 
@@ -22,7 +22,7 @@
 
 # Hidden do[x]
 
-{(Birdwatchers)[s] visit[vxo] Cape May with binoculars and cameras}[t-n]. {(Others)[s] go[v] for the butterfly migration}[t-n].
+{(Birdwatchers)[s] visit[vxo] Cape May with binoculars and cameras}[t-n]. {(Others)[s] go[vxo] for the butterfly migration}[t-n].
 
  - {Do[x] birdwatchers[s] visit[v] Cape May with binoculars and cameras}[t-n-nq]? {Do[x] others[s] go[v] for the butterfly migration}[t-n-nq]?
 
