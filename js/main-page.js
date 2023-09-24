@@ -1,4 +1,8 @@
 
+var GLOBAL_ARTICLE_SEARCH = null;
+var GLOBAL_ARTICLE_DATA = null;
+var GLOBAL_ARTICLE_RANDOMS = null;
+
 function generate_article_link( data ){
 	var html = '';
 	html += '<a class="ui card search-element search-element-hidden" href="./articles/#/'+data.url.split('/').slice(1).join('/')+'">';
@@ -52,7 +56,7 @@ function generate_article_link( data ){
 	html += '</a>';
 	return html;
 }
-var GLOBAL_ARTICLE_SEARCH = null;
+
 function mainPageCategoryShowLearn(){
 	GLOBAL_ARTICLE_SEARCH.searchDiscipline("about xwg");
 	$('#practice-group').addClass('hidden');
@@ -88,7 +92,13 @@ function handleUrlHash(event){
 		if(parts.length > 2){
 			var practice = parts[1];
 			var category = parts[2];
-			GLOBAL_ARTICLE_SEARCH.searchDiscipline(category.replace('-', ' '));
+			if(category == 'surprise-me'){
+				var random_index = Math.floor(GLOBAL_ARTICLE_RANDOMS.length*Math.random());
+				var random_article = GLOBAL_ARTICLE_RANDOMS[random_index];
+				window.location.href = './articles/#/'+random_article.url.split('/').slice(1).join('/');
+			}else{
+				GLOBAL_ARTICLE_SEARCH.searchDiscipline(category.replace('-', ' '));
+			}
 		}else{
 			GLOBAL_ARTICLE_SEARCH.clear();
 		}
@@ -146,7 +156,10 @@ $(document).ready(function() {
 		
 		// Do somethine with the articles that belong in the random section
 		var randoms = data.articles.filter( function(a){ return a.isInRandom; } );
-		// TODO: add more code...
+
+		// Make data globally accessible
+		GLOBAL_ARTICLE_DATA = articles;
+		GLOBAL_ARTICLE_RANDOMS = randoms;
 		
 		// Setup search
 		GLOBAL_ARTICLE_SEARCH = new ArticleSearch();
