@@ -62,12 +62,22 @@ function mainPageCategoryShowPractice(){
 }
 
 function handleUrlHash(event){
+
+	// We have to get the hash different if this function
+	// is called manually vs on a onhashchange event
 	if(event == null){
 		var hash = window.location.href.split('#')[1];
 	}else{
 		var e = event.originalEvent;
 		var hash = e.newURL.split('#')[1];
 	}
+
+	// Clear search and exit if no hash
+	if(!hash){
+		GLOBAL_ARTICLE_SEARCH.clear();
+		return;
+	}
+
 	// console.info(hash);
 	if(hash == '/learn'){
 		mainPageCategoryShowLearn();
