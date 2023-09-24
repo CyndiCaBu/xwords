@@ -171,4 +171,14 @@ $(document).ready(function() {
 		window.location.href = $(this).data('link-url');
 	});
 	$(window).on('hashchange', handleUrlHash);
+
+	// When navigating "back" from a "Surprise Me" article we need to
+	// change the "href" otherwise when you click "Surprise Me" again
+	// then no hash change event will occur so nothing will happen.
+	$(window).on('popstate', function(event){
+		var hash = event.originalEvent.path[0].window.location.href.split('#')[1];
+		if(hash == '/practice/surprise-me'){
+			window.location.href = '#/practice'
+		}
+	});
 });
