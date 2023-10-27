@@ -3,7 +3,7 @@
         "statement": "The NYCFC scored a goal recently.",
         "question": "Did the NYCFC score a goal recently?",
         "tag_question": "The NYCFC scored a goal recently, didn't they?",
-        "negation": "The NYCFC didn't score any goals recently.",
+        "negation": "The NYCFC didn't score a goal recently.",
         "distractors": ""
     },
     {
