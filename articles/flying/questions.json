@@ -28,13 +28,6 @@
        "distractors": ""
     },
     {
-       "statement": "Another fuel-burning option is parasailing.",
-       "question": "Is another fuel-burning option parasailing?",
-       "tag_question": "Another fuel-burning option is parasailing, isn't it?",
-       "negation": "Another fuel-burning option is not parasailing.",
-       "distractors": ""
-    },
-    {
       "statement": "You begin to float slowly.",
       "question": "Do you begin to float slowly?",
       "tag_question": "You begin to float slowly, don't you?",
