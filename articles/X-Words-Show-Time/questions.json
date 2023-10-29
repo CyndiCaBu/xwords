@@ -1,0 +1,15 @@
+[
+    {
+        "statement": "In written English, a sentence needs at least two parts to be complete.",
+        "question": "In written English, does a sentence need at least two parts to be complete?",
+        "tag_question": "In written English, a sentence needs at least two parts to be complete, doesn't it?",
+        "negation": "In written English, a sentence doesn't need at least two parts to be complete.",
+        "distractors": ""
+    },
+    {
+       "statement": "It usually has a third part, an object.",
+       "question": "Does it usually have a third part, an object?",
+       "tag_question": "It usually has a third part, an object, doesn't it?",
+       "negation": "It doesn't usually have a third part, an object.",
+       "distractors": ""
+    },
