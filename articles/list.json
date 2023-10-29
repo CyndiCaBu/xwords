@@ -870,5 +870,15 @@
        "gradeLevel": 8, 
        "date": "2022-05-07", 
        "isOnHome": true
+    }, {
+       "url": "articles/x-words-show-time",
+       "title": "X-words Show Time", 
+       "discipline": "about xwg", 
+       "isInRandom": true, 
+       "description": "When you read the following paragraph about tacos ...", 
+       "tags": "x-words, time", 
+       "gradeLevel": 6, 
+       "date": "2023-10-29", 
+       "isOnHome": false
     }]
 }
