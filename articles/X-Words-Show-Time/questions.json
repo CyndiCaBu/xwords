@@ -1,15 +1,27 @@
 [
     {
-        "statement": "In written English, a sentence needs at least two parts to be complete.",
-        "question": "In written English, does a sentence need at least two parts to be complete?",
-        "tag_question": "In written English, a sentence needs at least two parts to be complete, doesn't it?",
-        "negation": "In written English, a sentence doesn't need at least two parts to be complete.",
-        "distractors": ""
+        "statement": "Tacos are eaten.",
+        "question": "Are tacos eaten?",
+        "tag_question": "Tacos are eaten, aren't they?",
+        "negation": "Tacos aren't eaten.",
+        "distractors": "are, is, do"
     },
     {
-       "statement": "It usually has a third part, an object.",
-       "question": "Does it usually have a third part, an object?",
-       "tag_question": "It usually has a third part, an object, doesn't it?",
-       "negation": "It doesn't usually have a third part, an object.",
-       "distractors": ""
+       "statement": "Tacos were eaten.",
+       "question": "Were tacos eaten?",
+       "tag_question": "Tacos were eaten, weren't they?",
+       "negation": "Tacos weren't eaten.",
+       "distractors": "was, does, did"
     },
+        "statement": "Tacos taste good.",
+        "question": "Do tacos taste good?",
+        "tag_question": "Tacos taste good, don't they?",
+        "distractors": "does, is, are"
+    },
+        "statement": "People have eaten tacos for centuries."
+        "question": "Have people eaten tacos for centuries?",
+        "tag_question": "People have eaten tacos for centuries, haven't they?",
+        "negation": "People haven't eaten tacos for centuries."
+        "distractors": "has, did, had"
+    }
+]
