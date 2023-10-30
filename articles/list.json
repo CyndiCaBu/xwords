@@ -870,5 +870,23 @@
        "gradeLevel": 8, 
        "date": "2022-05-07", 
        "isOnHome": true
+    },{
+       "url":"articles/x-words-show-time",
+       "discipline": "about xwg",
+       "isInRandom": true, 
+       "description": "When you read the following paragraph about tacos ...", 
+       "tags": "x-words, time", 
+       "gradeLevel": 6, 
+       "date": "2023-10-29", 
+       "isOnHome": true
+    },{
+       "url": "articles/x-words-help-you-find-subjects-and-verbs",
+       "discipline": "about xwg", 
+       "isInRandom": true, 
+        "description": "If you are comfortable finding x-words...", 
+        "tags": "subjects, verbs", 
+        "gradeLevel": 7, 
+        "date": "2023-10-30", 
+        "isOnHome": true
     }]
 }
