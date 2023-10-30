@@ -1,1 +1,22 @@
+{If you[s] are[x] comfortable finding x-words in written English}[f-cd], {you[s] can[x] use[v] that knowledge (to find)[inf] the main subject and verb in a sentence}[t-n]. {You[s] just need[v] (to look)[inf] right and left}[t-n]. 
 
+{If the sentence is[x] a statement}[f-cd], {find[v] the x-word first}[t-n]. Then[l] {look[v] left for the subject and right for the verb}[t-n]. {You[s] can[x] try[v] that with this sentence}[t-n]. {You[s] should[x] find[v] both the subject and the verb easily}[t-n].
+
+{If the sentence is[x] a question}[f-cd], {you[s] might[x] see[v] the x-word first}[t-n]. {(The subject and verb)[s] will[x] be[v] next}[t-n]. {Do[x] you[s] understand[v] this}[t-n]? 
+
+{(Yes-no questions like the one above)[s] start[v] with x-words}[t-n]. {(Questions asking for information)[s], (like the next one)[extra], start[v] with a WH-word}[t-n]. {Where do[x] you[s] see[v] the x-word this time}[t-n]? 
+
+{(To change)[inf] a statement to a question}[f-r], {just move[v] the x-word}[t-n]. {Put[v] it in the beginning of the sentence}[t-n]. 
+
+{What can[x] you[s] do[v]}[t-n] {if you (don't)[x] see an x-word in the sentence}[t-n]? {You[s] need[v] (to look)[inf] at the verb}[t-n]. {Remember[v] that SVO is[x] the most common pattern for written sentences in English}[t-n]. {With that in mind}[l], {you[s] should[x] be[v] able (to find)[inf] the subject and verb at or near the beginning of the sentence}[t-n].Then[l] {you[s] need[v] (to look)[inf] for an x-word hiding inside the verb}[t-n]. {Keep[v] these clues in mind}[t-n]:
+
+# Does[x] hides inside a verb ending in S
+{(The picture above)[s] shows[vxs] a street in a small town in Ecuador}[t-n]. {(A string of blue and white balloons)[s] makes[vxs] it look festive}[t-n]. 
+
+# Did[x] hides inside a verb in the simple past
+{(My friend Andrew)[s] took[vxd] this picture on a trip to La Troncal and other parts of Ecuador}[t-p]. {He[s] went[vxd] there a few years before the pandemic}[t-p].
+
+# Do[x] hides inside a verb in the base form
+{People[s] usually walk[v] on sidewalks}[t-p]. {(Trucks like this red one)[s] park[v] on the street}[t-p]. 
+
+{If you can[x] change those sentences above to questions or negative statements}[f-cd], {you[s] can[x] find[v] their hidden x-words}[t-n]. {That[s] can[x] help[v] you be sure about the subjects and verbs}[t-n], too[extra]. {(To practice)[inf] this}[f-r], {click[v] the Questions and Negation exercises below}[t-n].
