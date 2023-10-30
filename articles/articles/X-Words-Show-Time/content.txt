@@ -1,0 +1,22 @@
+{When you read the following paragraph about tacos}[f-t], {pay[v] attention to the x-words and the verb forms}[t-n]. {Can[x] you[s] figure[v] out what changes and what stays the same}[t-n]?
+
+{(The taco above)[s] was[x] made[v]}[t-n] {in a Mexican restaurant in Chicago}[e-p]. {It[s] was[x] eaten[v]}[t-p] {on the beach near Lake Michigan}[e-p]. {(Other tacos)[s] were[x] made[v] and eaten[v]}[t-p] {on the same day}[e-t]. Maybe[l] {some[s] were[x] vegetarian}[t-p], {like this one}[extra]. {It[s] was[x] made[v] with beans, avocados, cheese, cream and hot sauce}[t-p], {among other ingredients}[extra]. {(Vegan tacos)[s] are[x] made[v] with beans, avocados and more}[t-n], {but obviously not with cheese and cream}[extra]. {(Tacos like these)[s] are[v] eaten}[t-n] {all over the world}[e-p].
+
+{Stop[v] for a moment and look at the x-words and verb forms above}[t-n]. {Can[x] you[s] notice[v] how many main verbs are[x] the same in the paragraph above}[t-p]? 
+
+{(Most English grammar sources)[s] call the 3rd form of the verb the past participle}[t-n]. {You[s] can[x] see[v] it in the verbs eaten and made above}[t-n], {several times each}[extra]. {There[s] is[x] nothing past about these words}[t-n]. {(The x-words)[s] show[v] the time}[t-n]. {In most of the sentences above}[f-p], {(the x-words)[s] are[x] past}[t-n], so[j] {(the time)[s] is[x] past}[t-n]. However[l], {one sentences uses a present x-word}[t-n],  so[j] {(the time)[s] is[x] present}[t-n]. {Look[v] for more examples below}[t-n].
+
+{(Traditional Mexican tacos)[s] are[x] different from the ones described above}[t-n]. {They[s] are[x] made[v] with beef, pork, fish or other sources of protein}[t-n]. {They[s] are[x] eaten[v] standing up and sitting down}[t-n]. {It[s] depends[vxs] on the region and the person}[t-n]. {That[s]('s)[x] part of what makes tacos so popular}[t-n]. {We[x] can[x] change[v] them to suit our tastes}[t-n].
+
+{Did[x] you[s] see[v] the words eaten and made again}[t-p] {in the previous paragraph}[e-p]? {They[s]('re)[x] with present x-words}[t-n], so[j] {(the time)[s] is[s] present}[t-n]. Remember: {(the x-words)[s] show[v] the time}[t-n].
+
+# Past
+{Tacos[s] were[x] eaten}[t-p].
+{(That delicious taco on the beach)[s] was[x] eaten[v]}[t-p].
+
+# Present
+{Tacos[s] are[x] eaten everywhere}[t-n].
+{(A veggie taco)[s] is[x] eaten by veggie lovers}[t-n].
+
+# Past connected to the Present
+{People[s] have[x] eaten[v] tacos}[t-n] {for centuries}[e-t].
