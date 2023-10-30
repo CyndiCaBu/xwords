@@ -1,0 +1,38 @@
+[
+    {
+        "statement": "My friend Andrew took this picture.",
+        "question": "Did my friend Andrew take this picture?",
+        "tag_question": "My friend Andrew took this picture, didn't he?",
+        "negation": "My friend Andrew didn't take this picture.",
+        "distractors": "are, does"
+    },
+    {
+       "statement": " He had a good time.",
+       "question": "Did he have a good time?",
+       "tag_question": " He had a good time, didn't he?",
+       "negation": " He didn't have a good time.",
+       "distractors": "have, has"
+    },
+       
+    {
+       "statement": "It shows a street in a small town in Ecuador.",
+       "question": "Does it show a street in a small town in Ecuador?",
+       "tag_question": "It shows a street in a small town in Ecuador, doesn't it?",
+       "negation": "It doesn't show a street in a small town in Ecuador.",
+       "distractors": "is, do"
+    },
+    {
+        "statement": "It looks like a cloudy day.",
+        "question": "Does it look like a cloudy day?",
+        "tag_question": "It looks like a cloudy day, doesn't it?",
+        "negation": "It doesn't look like a cloudy day.",
+        "distractors": "was, has"
+    },
+     {
+       "statement": "People walk on sidewalks.",
+       "question": "Do people walk on sidewalks?",
+       "tag_question": "People walk on sidewalks, don't they?",
+       "negation": "People don't walk on sidewalks.",
+       "distractors": ""
+    }
+]
