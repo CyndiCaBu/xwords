@@ -4,7 +4,9 @@
 
 {Stop[v] for a moment and look[v] at the x-words and verb forms above}[t-n]. {Can[x] you[s] notice[v] how many main verbs are[x] the same in the paragraph above}[t-p]? 
 
-{(Most English grammar sources)[s] call[vxo] the 3rd form of the verb the past participle}[t-n]. {You[s] can[x] see[v] it in the verbs eaten and made above}[t-n], {several times each}[extra]. {There[s] is[x] nothing past about these words}[t-n]. {(The x-words)[s] show[v] the time}[t-n]. {In most of the sentences above}[f-p], {(the x-words)[s] are[x] past}[t-n], so[j] {(the time)[s] is[x] past}[t-n]. However[l], {one sentences uses a present x-word}[t-n],  so[j] {(the time)[s] is[x] present}[t-n]. {Look[v] for more examples below}[t-n].
+{(Most English grammar sources)[s] call[vxo] the 3rd form of the verb the past participle}[t-n]. {You[s] can[x] see[v] it in the verbs eaten and made above}[t-n], {several times each}[extra]. {There[s] is[x] nothing past about these words}[t-n], so[j] {(the term past participle)[s] might[x] be[v] confusing}[t-n]. {(What matters)[s] is[x] the x-word}[t-n]. 
+
+{(The x-words)[s] show[v] the time}[t-n]. {In most of the sentences above}[f-p], {(the x-words)[s] are[x] past}[t-n], so[j] {(the time)[s] is[x] past}[t-n]. However[l], {one sentences uses a present x-word}[t-n],  so[j] {(the time)[s] is[x] present}[t-n]. {Look[v] for the x-words in the paragraph below}[t-n]. {Can[x] you[s] figure[v] out the time}[t-n-nq] {based on the x-words}[e-r]?
 
 {(Traditional Mexican tacos)[s] are[x] different from the ones described above}[t-n]. {They[s] are[x] made[v] with beef, pork, fish or other sources of protein}[t-n]. {They[s] are[x] eaten[v] standing up and sitting down}[t-n]. {It[s] depends[vxs] on the region and the person}[t-n]. {That[s]('s)[x] part of what makes tacos so popular}[t-n]. {We[s] can[x] change[v] them to suit our tastes}[t-n].
 
