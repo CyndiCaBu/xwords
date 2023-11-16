@@ -4,6 +4,6 @@
 
 {Lucy[s] had[x] first learned[v] about this topic in another language}[t-p], {back when she was[x] a child}[extra]. {By reading about Conestoga wagons again in English}[f-r], {she[s] connected[vxd] what she already knew to what she was[x] reading[v]}[t-p]. {That[s] helped[vxd] her understand the text better and build more knowledge}[t-p]. 
 
-{(Background knowledge)[s] often makes[vxs] reading easier}[t-n]. {Reading[s] often builds[vxs] background knowledge}[t-n]. {They[s] go[v] together}[t-n]. The more we read, the more we know - depending on what we read, how often and how well.
+{(Background knowledge)[s] often makes[vxs] reading easier}[t-n]. {Reading[s] often builds[vxs] background knowledge}[t-n]. {They[s] go[v] together}[t-n]. {The more we[s] read[v], the more we[s] know[v]}[t-n] - depending on what we read, how often and how well.
 
 {What will[x] you[s] read[v] next}[t-n-nq]? {What will[x] you[s] learn[v]}[t-n-nq]?
