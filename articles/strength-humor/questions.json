@@ -8,8 +8,8 @@
     },
     {
        "statement": "Taste has an influence.",
-       "question": "Does taste also have an influence?",
-       "tag_question": "Taste also has an influence, doesn't it?",
+       "question": "Does taste have an influence?",
+       "tag_question": "Taste has an influence, doesn't it?",
        "negation": "Taste doesn't have an influence.",
        "distractors": "is, had"
     },
