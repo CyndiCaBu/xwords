@@ -10,6 +10,6 @@
 
 {At times}[f] {(the weather)[s] was[x] dangerous}[t-p], {with strong winds and rough water}[extra]. {One night}[f], {(the NOAA ship)[s] went[vxd] right over the underwater mountain pictured above}[t-p]. {Even though the mountain is[x] almost 3000 meters high}[f], {it[s] is[x] so deep that the scientists could[x] only see[v] it with special technology}[t-p]. {The next morning}[f], {(the weather)[s] was[x] calm and beautiful}[t-p], and[j] {(the voyage)[s] was[x] almost over}[t-p].
 
-{(Just imagining the peak of a mountain 2500 meters below the ocean surface, and then 3000 meters more to the ocean floor)[s] is[x] awe-inspiring}[t-n-nq]. {We[x] can[x] use[v] our memories and imaginations (to experience)[inf] positive awe as a relaxation technique}[t-n], {breathing in and out in a regular way}[extra].
+{(Just imagining the peak of a mountain 2500 meters below the ocean surface, and then 3000 meters more to the ocean floor)[s] is[x] awe-inspiring}[t-n-nq]. {We[s] can[x] use[v] our memories and imaginations (to experience)[inf] positive awe as a relaxation technique}[t-n], {breathing in and out in a regular way}[extra].
  
 {Another way (to study)[inf] awe in our own lives}[s] {is[x] (to keep)[inf] a journal of our experiences with it}[t-n-nq]. {Did[x] we[s] feel[v] awe with joy or with fear}[t-p-nq]? {Were[x] we[s] alone or with others}[t-p-nq]? Indoors or outside? In nature or not? {Taking notes of where we[s] were[x] and what we[s] were[x] doing[vg] when we felt awe}[s] {can[x] help[v] us understand it}[t-n-nq].
