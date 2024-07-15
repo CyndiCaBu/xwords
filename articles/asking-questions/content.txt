@@ -14,7 +14,7 @@
 {Did[x] we[s] ask[v] who painted the wall}[t-p-nq]?
 
 {(The picture)[s] (doesn't)[x] show[v] the sign}[t-n].
-{Does[x] the picture show the sign}[t-n-nq]?
+{Does[x] (the picture)[s] show[v] the sign}[t-n-nq]?
 
 {When you (can't)[x] see the x-word}[f-t], {you[s] need[v] (to look)[inf] at the main verb}[t-n]. {Can[x] you[s] figure[v] out which x-word is[x] hiding[v] inside it}[t-n-nq]? {This[s] is[x] an important skill}[t-n] {because x-words are[x] part of questions}[e-r].
 
@@ -46,9 +46,9 @@
 {Do[x] customers[s] appreciate[v] this repair shop}[t-n-nq]?
 
 {They[s] need[v] that kind of service}[t-n].
-{Do[x] they[x] need[v] that kind of service}[t-n-nq]?
+{Do[x] they[s] need[v] that kind of service}[t-n-nq]?
 
-Sometimes[l] {we[x] (don't)[x] hear[v] the x-words in questions}[t-n], {especially not in conversations}[extra]. However[l], {we[s] need[v] (to use)[inf] them (to make)[inf] the meaning clear}[t-n]. {Consider[v] the difference between these questions}[t-n]:
+Sometimes[l] {we[s] (don't)[x] hear[v] the x-words in questions}[t-n], {especially not in conversations}[extra]. However[l], {we[s] need[v] (to use)[inf] them (to make)[inf] the meaning clear}[t-n]. {Consider[v] the difference between these questions}[t-n]:
 
 {Did[x] you[s] pay[v] the bill}[t-p-nq]?
 {Should[x] you[s] pay[v] the bill}[t-n-nq]?
