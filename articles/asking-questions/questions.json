@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "You need to know how to ask questions.",
+        "question": "Do you need to know how to ask questions?",
+        "tag_question": "You need to know how to ask questions, don't you?",
+        "negation": "You don't need to know how to ask questions.",
+        "distractors": "does, are"
+    },
+    {
+       "statement": "We always hear the x-words in questions.",
+       "question": "Do we always hear the x-words in questions?",
+       "tag_question": "We always hear the x-words in questions, don't we?",
+       "negation": "We don't always hear the x-words in questions.",
+       "distractors": "are, did"
+    },
+    {
+       "statement": "Knowing the x-words helps.",
+       "question": "Does knowing the x-words help?",
+       "tag_question": "Knowing the x-words helps, doesn't it?",
+       "negation": "Knowing the x-words doesn't help.",
+       "distractors": "is, do"
+    },
+    {
+        "statement": "Knowledge is power.",
+        "question": "Is knowledge power?",
+        "tag_question": "Knowledge is power, isn't it?",
+        "negation": "Knowledge isn't power.",
+        "distractors": "doesn't, do"
+    },
+    {
+      "statement": "Questions lead to knowledge.",
+      "question": "Do questions lead to knowledge?",
+      "tag_question": "Questions lead to knowledge, don't they?",
+      "negation": "Questions don't lead to knowledge.",
+      "distractors": "are, does"
+    }
+]
