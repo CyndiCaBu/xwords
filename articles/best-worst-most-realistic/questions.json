@@ -7,10 +7,10 @@
         "distractors": "are, did"
     },
     {
-       "statement": "You spend time studying by yourself and with some of your classmates.",
-       "question": "Do you spend time studying by yourself and with some of your classmates?",
-       "tag_question": "You spend time studying by yourself and with some of your classmates, don't you?",
-       "negation": "You don't spend time studying by yourself or with some of your classmates.",
+       "statement": "You spend time studying by yourself and with some classmates.",
+       "question": "Do you spend time studying by yourself and with some classmates?",
+       "tag_question": "You spend time studying by yourself and with some classmates, don't you?",
+       "negation": "You don't spend time studying by yourself or with some classmates.",
        "distractors": "was, does"
     },
     {
