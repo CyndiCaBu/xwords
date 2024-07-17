@@ -22,7 +22,7 @@
     },
     {
        "statement": "This method helps you practice a lot.",
-       "question": "This method helps you practice a lot?",
+       "question": "Does this method help you practice a lot?",
        "tag_question": "This method helps you practice a lot, doesn't it?",
        "negation": "This method doesn't help you practice a lot.",
        "distractors": "do, is"
