@@ -4,27 +4,27 @@
         "question": "Did Anneka buy this blender in the early 1960s?",
         "tag_question": "didn't she?",
         "negation": "Anneka didn't buy this blender in the early 1960s.",
-        "distractors": ""
+        "distractors": "was, do"
     },
     {
        "statement": "Another favorite was a cold potato and leek soup.",
        "question": "Was another favorite a cold potato and leek soup?",
        "tag_question": "wasn't it?",
        "negation": "Another favorite wasn't a cold potato and leek soup.",
-       "distractors": ""
+       "distractors": "were, did"
     },
     {
-        "statement": "She would crush ice in the blender for cold drinks.",
-        "question": "Would she crush ice in the blender for cold drinks?",
-        "tag_question": "wouldn't she?",
-        "negation": "She wouldn't crush ice in the blender for cold drinks.",
-        "distractors": ""
+        "statement": "They would crush ice in it.",
+        "question": "Would they crush ice in it?",
+        "tag_question": "They would crush ice in it, wouldn't they?",
+        "negation": "They wouldn't crush ice in it.",
+        "distractors": "did, will"
     },
     {
        "statement": "It still works well.",
        "question": "Does it still work well?",
        "tag_question": "doesn't I?",
        "negation": "It doesn't work well anymore.",
-       "distractors": ""
+       "distractors": "is, do"
     }
 ]
