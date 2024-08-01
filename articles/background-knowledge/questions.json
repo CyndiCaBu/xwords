@@ -4,41 +4,41 @@
         "question": "Did she call it a Conestoga wagon?",
         "tag_question": "She called it a Conestoga wagon, didn't she?",
         "negation": "She didn't call it a Conestoga wagon.",
-        "distractors": ""
+        "distractors": "do, does"
     },
     {
        "statement": "Her background knowledge made her think of that.",
        "question": "Did her background knowledge make her think of that?",
        "tag_question": "Her background knowledge made her think of that, didn't it?",
        "negation": "Her background knowledge didn't make her think of that.",
-       "distractors": ""
+       "distractors": "was, are"
     },
     {
         "statement": "She looked for more information.",
         "question": "Did she look for more information?",
         "tag_question": "She looked for more information, didn't she?",
         "negation": "She didn't look for more information.",
-        "distractors": ""
+        "distractors": "could, does"
     },
     {
        "statement": "She continued reading.",
        "question": "Did she continue reading?",
        "tag_question": "She continued reading, didn't she?",
        "negation": "She didn't continue reading.",
-       "distractors": ""
+       "distractors": "was, were"
    },
    {
        "statement": "Background knowledge often makes reading easier.",
        "question": "Does background knowledge often make reading easier?",
        "tag_question": "Background knowledge often makes reading easier, doesn't it?",
        "negation": "Background knowledge doesn't often make reading easier.",
-       "distractors": ""
+       "distractors": "is, was"
     },
    {
        "statement": "Reading often builds background knowledge.",
        "question": "Does reading often build background knowledge?",
        "tag_question": "Reading often builds background knowledge, doesn't it?",
        "negation": "Reading doesn't often build background knowledge.",
-       "distractors": ""
+       "distractors": "is, was"
     }
 ]
