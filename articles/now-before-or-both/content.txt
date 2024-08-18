@@ -46,7 +46,7 @@
 
 # EXAMPLES
 
-{Max[s] has[x] walked[v] up and down that street many times}[t-b] {since the day he saw the horse}[e-t]. {(His friends)[s] have[x] been[v] there too}[t-b], but[j] {(they)[s] (have)[x] not seen[v] it again}[t-b]. {Although they('ve)[x] talked[v] about it a few times}[f-ct], {they[s] (haven't)[x] asked[v] their neighbors about it yet}[t-p].
+{Max[s] has[x] walked[v] up and down that street many times}[t-b] {since the day he saw the horse}[e-t]. {(His friends)[s] have[x] been[v] there too}[t-b], but[j] {(they)[s] (have)[x] not seen[v] it again}[t-b]. {In fact}[l], {(the rocking horse)[s] has[x] been[v] gone for a while now}[t-p}. {Although Max and his friends have[x] talked[v] about it a few times}[f-ct], {they[s] (haven't)[x] asked[v] their neighbors about it yet}[t-p].
 
 # NOW OR BEFORE
 
@@ -67,10 +67,10 @@
 
 # WOULD AND COULD FOR THE PRESENT
 
-{In the next paragraphs}[f-p], {(the same x-words)[s] refer[v] to the present and to possibilities}[t-n]. {There[s] are[x] three clues}[t-n]:
- - the S on the end of the first verb and the word _now_ for present
- - the word _if_ for possibilities
+{In the next paragraphs}[f-p], {(the same x-words)[s] refer[v] to the present and to possibilities}[t-n]. {(The clues)[s] are[x]}[t-n]:
+ - the S on the end of the first verb and the word NOW for present
+ - the word IF for possibilities
 
-Now[l] {Max[s] wonders[vxs] if he could[x] still do[v] that and if he could[x] find[v] a rocking horse big enough for an adult}[t-p]. {He[s] (doesn't)[x] know[v] where (to look)[inf] for one}[t-n], but[j] {he[s] would[x] like[v] (to try)[inf]}[t-n].
+Now[l] {Max[s] wonders[vxs] if he could[x] find[v] a rocking horse big enough for an adult}[t-p]. {He[s] (doesn't)[x] know[v] where (to look)[inf] for one}[t-n], and[j] {he[s]('s)[x] not sure that he could[x] still keep[v] his balance}[t-n]. Still[l], {he[s] would[x] like[v] (to try)[inf]}[t-n].
 
 {What would[x] you[s] do[v]}[t-n-nq] {if you found a toy like this near someone's trash can}[e-cd]? {Would[x] you[s] ask[v] people nearby for information}[t-n-nq]? {If you[s] could[x] be sure it was[x] clean and available}[f-cd], {would[x] you[s] take[v] it home}[t-n-nq]?
