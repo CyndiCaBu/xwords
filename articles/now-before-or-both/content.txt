@@ -46,7 +46,7 @@
 
 # EXAMPLES
 
-{Max[s] has[x] walked[v] up and down that street many times}[t-b] {since the day he saw the horse}[e-t]. {(His friends)[s] have[x] been[v] there too}[t-b], but[j] {(they)[s] (have)[x] not seen[v] it again}[t-b]. {In fact}[l], {(the rocking horse)[s] has[x] been[v] gone for a while now}[t-p}. {Although Max and his friends have[x] talked[v] about it a few times}[f-ct], {they[s] (haven't)[x] asked[v] their neighbors about it yet}[t-p].
+{Max[s] has[x] walked[v] up and down that street many times}[t-b] {since the day he saw the horse}[e-t]. {(His friends)[s] have[x] been[v] there too}[t-b], but[j] {(they)[s] (have)[x] not seen[v] it again}[t-b]. {In fact}[l], {(the rocking horse)[s] has[x] been[v] gone for a while now}[t-p]. {Although Max and his friends have[x] talked[v] about it a few times}[f-ct], {they[s] (haven't)[x] asked[v] their neighbors about it yet}[t-p].
 
 # NOW OR BEFORE
 
