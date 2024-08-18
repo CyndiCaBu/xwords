@@ -7,21 +7,21 @@ Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you
  - {Find[v] the main verb}[t-n].
  - {Based on the verb form}[l], {decide[v] which x-word is[x] hiding[v]}[t-n]: {do[x], does[x] or did[x]}[extra]. 
 
-# (The base form)[s] means[v] Do[x]
+# (The base form)[s] means[v] do[x]
 
 {(The x-word)[s] is[x] do[x]}[t-n] {when the main verb is[x] in the base form}[e-t]. {How can[x] you[s] know[v] this}[t-n-nq]? {You[s] have[v] (to learn)[inf] the verb forms}[t-n], {like go, went, gone, or take, took, taken, etc}[extra].
 
-# Examples of hidden Do[x]
+# Examples of hidden do[x]
 
 {The verb forms[s] provide[v] clues}[t-n].
 {Do[x] they[s] provide[v] clues}[t-n-nq]?
 {They[s] (don't)[x] provide[v] clues}[t-n].
 
-# S means Does
+# S means does[x]
 
 {(The hidden x-word)[s] is[x] does[x]}[t-n] {when the main verb ends in S and the base form (doesn't)[x]}[e-t]. 
 
-# Examples of hidden Does[x]
+# Examples of hidden does[x]
 
 {This[s] makes[v] sense}[t-n].
 {Does[x] this[s] make[v] sense}[t-n]?
@@ -31,11 +31,11 @@ Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you
 {Does[x] (finding the S on the end of the verb)[s] help[v]}[t-n-nq]?
 {(Finding the S on the end of the verb)[s] (doesn't)[x] help}[t-n].
 
-# The past tense means Did[x]
+# The past tense means did[x]
 
 {(The hidden x-word)[s] is[x] did[x]}[t-n] {when the main verb is[x] in the past tense}[e-t]. {(Regular verbs like need and want)[s] make[v] this easy}[t-n] {because you[s] can[x] see[v] the D from did[x] in the -ed ending of needed and wanted}[e-r]. {(Other examples)[s] include[v] regular verbs like worked, played, rested, et cetera}[t-n]. 
  
-# Examples of hidden Did[x] with regular verbs
+# Examples of hidden did[x] with regular verbs
 
 {(The people who built this building)[s] worked[v] hard}[t-p].
 {Did[x] (the people who built this building)[s] work[v] hard}[t-p-nq]?
@@ -47,7 +47,7 @@ Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you
 
 {(Irregular verbs)[s] are[x] different}[t-n]. {Although some also end[v] in D in the past}[f-ct], {including told, said, and had}[extra], {most[s] (don't)[x]}[t-n-nq]. {You[s] (won't)[x] see[v] the D from did[x] in verbs like bought, gave, saw}[t-n], {etc}[extra]. {That[s]('s)[x] why you need (to study)[inf] irregular verb lists (to learn)[inf] the simple past form}[t-n]. 
 
-# Examples of hidden Did with irregular verbs
+# Examples of hidden did[x] with irregular verbs
 
 {(The workers)[s] made[v] balconies}[t-p].
 {Did they[s] make[v] balconies}[t-p-nq]?
