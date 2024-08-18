@@ -1,6 +1,10 @@
-{(Hidden x-words)[s] are[x] like Cape May diamonds}[t-n]: {easier (to find)[inf] if you know what you are[x] looking[vg] for}[extra]. {In both cases}[f-p], {you[s] need[v] (to understand)[inf] what you('re)[x] looking for and what clues you might[x] find}[t-n]. 
+{(Hidden x-words)[s] are[x] like Cape May diamonds}[t-n]: {easier (to find)[inf] if you know what you are[x] looking for}[extra]. {In both cases}[f-p], {you[s] need[v] (to understand)[inf] what you('re)[x] looking for and what clues you might[x] find}[t-n].
 
-{(Only three x-words)[s] can[x] hide[v]}[t-n]: {do[x], does[x] and did[x]}[extra]. {(The S on the end of a verb)[s] comes[v] from hidden does[x]}[t-n]. {(The simple past form)[s] comes from hidden did[x]}[t-n]. {It[s] can[x] look[v] like the D or ED on the end of regular verbs}[t-n], or[j] {it[s] can[x] be[v] irregular}[t-n], like went, saw, gave, etc[extra]. {(Hidden do)[s] is[x] in the base form of any main verb}[t-n]. 
+{(Cape May diamonds)[s] are[x] small, smooth stones that look shiny when wet}[t-n]. {They[s] are[x] found[v] near the edge of the ocean}[t-n], {where the waves polish them over time}[extra]. {In the sun}[f-p], {they[s] sparkle[v] like diamonds}[t-n]. {You can find lots of them}[t-n] {on the beach at Cape May, New Jersey}[e-p].
+
+{(Hidden x-words)[s] are also small}[t-n], but {there[s] are[x] only three of them}[t-n]: {do[x], does[x] and did[x]}[extra]. {They[s] hide[v] inside main verbs}[t-n], {with a little part showing for does[x] and did[x]}[extra].
+
+{(The S on the end of a verb)[s] is[x] from hidden does[x]}[t-n]. {(The -ed ending or irregular simple past form)[s] is[x] from hidden did[x]}[t-n]. {(The base form of any main verb)[s] has[x] hidden do[x] hiding inside it}[t-n]. 
  
 {(To find)[inf] hidden x-words}[f-r], {you[s] can[x] change a statement to a question or make it negative}[t-n]. {(Doing that)[s] makes[v] the x-words visible}[t-n].
 
@@ -22,16 +26,15 @@
 
 # Hidden do[x]
 
-{(Birdwatchers)[s] visit[vxo] Cape May with binoculars and cameras}[t-n]. {(Others)[s] go[vxo] for the butterfly migration}[t-n].
+{(Birdwatchers)[s] visit[vxo] Cape May with binoculars and cameras}[t-n]. {(Others)[s] go[vxo] for the monarch butterfly migration}[t-n].
 
- - {Do[x] birdwatchers[s] visit[v] Cape May with binoculars and cameras}[t-n-nq]? {Do[x] others[s] go[v] for the butterfly migration}[t-n-nq]?
+ - {Do[x] birdwatchers[s] visit[v] Cape May with binoculars and cameras}[t-n-nq]? {Do[x] others[s] go[v] for the monarch butterfly migration}[t-n-nq]?
 
- - {Birdwatchers[s] (don't)[x] visit[v] Cape May with binoculars and cameras}[t-n-nq]. {(Others)[s] (don't)[x] go[v] for the butterfly migration}[t-n].
+ - {Birdwatchers[s] (don't)[x] visit[v] Cape May with binoculars and cameras}[t-n-nq]. {(Others)[s] (don't)[x] go[v] for the monarch butterfly migration}[t-n].
 
 # Review[v]
 
  - {How many (x-words)[s] can[x] hide[v]}[t-n-nq]?
-
  - Which ones? 
 
  - {How can[x] you[s] find[v] them}[t-n-nq]?
