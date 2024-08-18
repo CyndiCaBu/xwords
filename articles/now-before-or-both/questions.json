@@ -4,34 +4,34 @@
         "question": "Do x-words show time?",
         "tag_question": "X-words show time, don't they?",
         "negation": "X-words don't show time.",
-        "distractors": ""
+        "distractors": "does, is, was"
     },
     {
        "statement": "Some of them do it very clearly.",
        "question": "Do some of them do it very clearly?",
        "tag_question": "Some of them do it very clearly, don't they?",
        "negation": "Some of them don't do it very clearly.",
-       "distractors": ""
+       "distractors": "are, did"
     },
    {
         "statement": "Others depend on the context.",
         "question": "Do others depend on the context?",
         "tag_question": "Others depend on the context, don't they?",
         "negation": "Others don't depend on the context.",
-        "distractors": ""
+        "distractors": "did, will"
     },
     {
         "statement": "Max laughed out loud.",
         "question": "Did Max laugh out loud?",
         "tag_question": "Max laughed out loud, didn't he?",
         "negation": "Max didn't laugh out loud.",
-        "distractors": ""
+        "distractors": "does, has"
     },
     {
        "statement": "He has walked up and down that street many times.",
        "question": "Has he walked up and down that street many times?",
        "tag_question": "He has walked up and down that street many times, hasn't he?",
        "negation": "He hasn't walked up and down that street many times.",
-       "distractors": ""
+       "distractors": "have, does"
     }
 ]
