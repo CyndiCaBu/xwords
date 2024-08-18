@@ -1,18 +1,18 @@
 {(Hidden x-words)[s] are[x] like Cape May diamonds}[t-n]: {easier (to find)[inf] if you know what you are[x] looking for}[extra]. {In both cases}[f-p], {you[s] need[v] (to understand)[inf] what you('re)[x] looking for and what clues you might[x] find}[t-n].
 
-{(Cape May diamonds)[s] are[x] small, smooth stones that look shiny when wet}[t-n]. {They[s] are[x] found[v] near the edge of the ocean}[t-n], {where the waves polish them over time}[extra]. {In the sun}[f-p], {they[s] sparkle[v] like diamonds}[t-n]. {You can find lots of them}[t-n] {on the beach at Cape May, New Jersey}[e-p].
+{(Cape May diamonds)[s] are[x] small, smooth stones that look shiny when wet}[t-n]. {They[s] are[x] found[v] near the edge of the ocean}[t-n], {where the waves polish them over time}[extra]. {In the sun}[f-p], {they[s] sparkle[v] like diamonds}[t-n]. {You[s] can[x] find[v] lots of them}[t-n] {on the beach at Cape May, New Jersey}[e-p].
 
-{(Hidden x-words)[s] are also small}[t-n], but {there[s] are[x] only three of them}[t-n]: {do[x], does[x] and did[x]}[extra]. {They[s] hide[v] inside main verbs}[t-n], {with a little part showing for does[x] and did[x]}[extra].
+{(Hidden x-words)[s] are[x] also small}[t-n], but {there[s] are[x] only three of them}[t-n]: {do[x], does[x] and did[x]}[extra]. {They[s] hide[v] inside main verbs}[t-n], {with a little part showing for does[x] and did[x]}[extra].
 
 {(The S on the end of a verb)[s] is[x] from hidden does[x]}[t-n]. {(The -ed ending or irregular simple past form)[s] is[x] from hidden did[x]}[t-n]. {(The base form of any main verb)[s] has[x] hidden do[x] hiding inside it}[t-n]. 
  
-{(To find)[inf] hidden x-words}[f-r], {you[s] can[x] change a statement to a question or make it negative}[t-n]. {(Doing that)[s] makes[v] the x-words visible}[t-n].
+{(To find)[inf] hidden x-words}[f-r], {you[s] can[x] change[v] a statement to a question or make[v] it negative}[t-n]. {(Doing that)[s] makes[v] the x-words visible}[t-n].
 
 # Hidden does[x]
 
 {Carrie[s] lives[vxs] in Cape May}[t-n]. {She[s] loves[v] that area}[t-n].
 
- - {Does Carrie[s] live[vxs] in Cape May}[t-n-nq]? {Does[s] she[s] love[v] that area}[t-n-nq]?
+ - {Does[x] Carrie[s] live[v] in Cape May}[t-n-nq]? {Does[x] she[s] love[v] that area}[t-n-nq]?
 
  - {Carrie[s] (doesn't)[x] live[v] in Cape May}[t-n-nq]. {She[s] (doesn't)[x] love[v] that area}[t-n].
 
@@ -34,7 +34,6 @@
 
 # Review[v]
 
- - {How many (x-words)[s] can[x] hide[v]}[t-n-nq]?
- - Which ones? 
-
- - {How can[x] you[s] find[v] them}[t-n-nq]?
+{How many (x-words)[s] can[x] hide[v]}[t-n-nq]?
+Which ones? 
+{How can[x] you[s] find[v] them}[t-n-nq]?
