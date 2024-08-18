@@ -17,7 +17,7 @@
 
 # EXAMPLES 
 
-{Max[s] laughed[vxd] out loud}[t-p] {when he saw[vxd] this toy horse in his neighbors' front yard}[e-p]. {It[s] was[x] sitting[v] near the toy basketball hoop}[t-p]. {(His neighbors)[s] were[x] not around}[t-p], so[j] {he[s] did[x] not get[v] a chance (to ask)[inf] them about it right away}[t-p]. {He[s] had[x] never seen[v] something like that}[t-p] {in their yard}[e-p].
+{Max[s] laughed[vxd] out loud}[t-p] {when he saw this toy horse in his neighbors' front yard}[e-p]. {It[s] was[x] sitting[v] near the toy basketball hoop}[t-p]. {(His neighbors)[s] were[x] not around}[t-p], so[j] {he[s] did[x] not get[v] a chance (to ask)[inf] them about it right away}[t-p]. {He[s] had[x] never seen[v] something like that}[t-p] {in their yard}[e-p].
 
 # NOW
 
@@ -61,7 +61,7 @@
 
 # WOULD AND COULD FOR THE PAST
 
-{(Seeing[ger] that toy horse)[s] made[vxd] Max think about his own childhood}[t-p]. {He[s] used[vxd] (to have)[inf] a similar toy}[t-p], {a rocking horse}[extra]. {He[s] would[x] ride[v] it every day}[t-p], {especially around nap time}[extra]. {(His parents)[s] told[vxd] him that he would[x] often fall[v] asleep on it}[t-p], and[j] {they[s] were[x] always amazed that he could[x] keep his balance}[t-p]. 
+{(Seeing[ger] that toy horse)[s] made[vxd] Max think about his own childhood}[t-p]. {He[s] used[vxd] (to have)[inf] a similar toy}[t-p], {a rocking horse}[extra]. {He[s] would[x] ride[v] it every day}[t-p], {especially around nap time}[extra]. {(His parents)[s] told[vxd] him that he would[x] often fall[v] asleep on it}[t-p], and[j] {they[s] were[x] always amazed that he could[x] keep[v] his balance}[t-p]. 
 
 # WOULD AND COULD FOR THE PRESENT
 
