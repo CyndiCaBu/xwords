@@ -50,7 +50,7 @@
 
 # NOW OR BEFORE
 
-{(These six x-words)[s] can[x] refer[v] to the present, the past or something hypothetical}[t-n]. {(The time)[s] depends[v] on the context}[t-n].
+{(These six x-words)[s] can[x] refer[v] to the present, the past or something hypothetical}[t-n]. {(The time)[s] depends[v] on the context}[t-n]. {Clues[s] include[v] present or past verb forms, time words like NOW, and words like IF to show possibilities}[t-n].
 
  - could[x]
  - would[x]
@@ -61,15 +61,9 @@
 
 # WOULD AND COULD FOR THE PAST
 
-{(The context)[s] shows[v] you that this paragraph is[x] about the past}[t-n], {starting from the simple past verbs in the first sentence}[extra]:
- 
 {(Seeing[ger] that toy horse)[s] made[vxd] Max think about his own childhood}[t-p]. {He[s] used[vxd] (to have)[inf] a similar toy}[t-p], {a rocking horse}[extra]. {He[s] would[x] ride[v] it every day}[t-p], {especially around nap time}[extra]. {(His parents)[s] told[vxd] him that he would[x] often fall[v] asleep on it}[t-p], and[j] {they[s] were[x] always amazed that he could[x] keep his balance}[t-p]. 
 
 # WOULD AND COULD FOR THE PRESENT
-
-{In the next paragraphs}[f-p], {(the same x-words)[s] refer[v] to the present and to possibilities}[t-n]. {(The clues)[s] are[x]}[t-n]:
- - the S on the end of the first verb and the word NOW for present
- - the word IF for possibilities
 
 Now[l] {Max[s] wonders[vxs] if he could[x] find[v] a rocking horse big enough for an adult}[t-p]. {He[s] (doesn't)[x] know[v] where (to look)[inf] for one}[t-n], and[j] {he[s]('s)[x] not sure that he could[x] still keep[v] his balance}[t-n]. Still[l], {he[s] would[x] like[v] (to try)[inf]}[t-n].
 
