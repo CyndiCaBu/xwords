@@ -17,6 +17,7 @@
         "statement": "Tacos taste good.",
         "question": "Do tacos taste good?",
         "tag_question": "Tacos taste good, don't they?",
+        "negation": "Tacos don't taste good.",
         "distractors": "does, is, are"
     },
     {
