@@ -15,6 +15,7 @@
 # Figure it Out and Add It
 
 {When you (can't)[x] see the x-word}[f-t], {you[s] have[v] three choices}[t-n]: 
+
  - do[x]
  - does[x]
  - did[x]
