@@ -22,7 +22,7 @@
     },
     {
        "statement": "It commands respect and shows power.",
-       "question": "Does it commandsrespect and shows power?",
+       "question": "Does it command respect and show power?",
        "tag_question": "It commands respect and shows power, doesn't it?",
        "negation": "It doesn't command respect or show power.",
        "distractors": "are, was"
