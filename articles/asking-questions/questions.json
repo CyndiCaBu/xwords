@@ -7,24 +7,24 @@
         "distractors": "does, are"
     },
     {
-       "statement": "We always hear the x-words in questions.",
-       "question": "Do we always hear the x-words in questions?",
-       "tag_question": "We always hear the x-words in questions, don't we?",
-       "negation": "We don't always hear the x-words in questions.",
+       "statement": "We use x-words in questions.",
+       "question": "Do we use x-words in questions?",
+       "tag_question": "We use x-words in questions, don't we?",
+       "negation": "We don't always use x-words in questions.",
        "distractors": "are, did"
     },
     {
-       "statement": "Knowing the x-words helps.",
-       "question": "Does knowing the x-words help?",
-       "tag_question": "Knowing the x-words helps, doesn't it?",
-       "negation": "Knowing the x-words doesn't help.",
+       "statement": "The mountains are beautiful.",
+       "question": "Are the mountains beautiful?",
+       "tag_question": "The mountains are beautiful, aren't they?",
+       "negation": "The mountains aren't beautiful.",
        "distractors": "is, do"
     },
     {
-        "statement": "Knowledge is power.",
-        "question": "Is knowledge power?",
-        "tag_question": "Knowledge is power, isn't it?",
-        "negation": "Knowledge isn't power.",
+        "statement": "My friend took this picture.",
+        "question": "Did my friend take this picture?",
+        "tag_question": "My friend took this picture, didn't he?",
+        "negation": "My friend didn't take this picture.",
         "distractors": "doesn't, do"
     },
     {
