@@ -1,4 +1,4 @@
-{How do[x] you[s] know[v] what the colors mean on this website}[t-n-nq]? {They[s]('re)[x] not as obvious as the red chili pepper seasoning on this Mexican street corn}[t-n]. {Even if you[s]('ve)[x] never eaten that}[f-cd], {you[s] can[x] guess[v] that red means spicy}[t-n]. However[l], {on this website}[f-p], {you[s] can[x] either figure[v] out the colors based on experience or read[v] about them below}[t-n].
+{How do[x] you[s] know[v] what the colors mean on this website}[t-n-nq]? {They[s]('re)[x] not as obvious as the red chili pepper seasoning on this Mexican street corn}[t-n]. {Even if you('ve)[x] never eaten that}[f-cd], {you[s] can[x] guess[v] that red means spicy}[t-n]. However[l], {on this website}[f-p], {you[s] can[x] either figure[v] out the colors based on experience or read[v] about them below}[t-n].
 
 {(X-words)[s] are[x] all a light shade of aqua}[t-n].
 
@@ -6,7 +6,7 @@
 
 {You[s] might[x] call[v] the main verb color pink}[t-n-nq], {or pink with a bit of lavender}[extra].
 
-{(Verbs with hidden x-words)[s] are[x] framed[v] by a black box}[t-n]. {They[s] have[vxo] do[x], does[x] or did[x] hiding inside them}[t-n].
+{(Verbs with hidden x-words)[s] are[x] light blue}[t-n]. {They[s] have[vxo] do[x], does[x] or did[x] hiding inside them}[t-n].
 
 {(The SVO pattern)[s] is[x] light yellow with a bit of orange or tan}[t-n]. {You[s] can[x] see[v] it}[t-n] {if you[s] click the Trunks exercise below and start finding SVO}[e-cd].
 
