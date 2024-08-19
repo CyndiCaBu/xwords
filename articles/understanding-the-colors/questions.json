@@ -1,9 +1,9 @@
 [
     {
-        "statement": "Verbs with hidden x-words are framed by a black box.",
-        "question": "Are verbs with hidden x-words framed by a black box?",
-        "tag_question": "Verbs with hidden x-words are framed by a black box, aren't they?",
-        "negation": "Verbs with hidden x-words aren't framed by a black box.",
+        "statement": "Verbs with hidden x-words are light blue.",
+        "question": "Are verbs with hidden x-words light blue?",
+        "tag_question": "Verbs with hidden x-words are light blue, aren't they?",
+        "negation": "Verbs with hidden x-words aren't light blue.",
         "distractors": "do, were"
     },
     {
