@@ -20,7 +20,7 @@
 
 {(Taking out the extra information)[s] can[x] make[v] some sentences easier (to understand)[inf]}[t-n]. {It[s] gives[vxs] you a way (to focus)[inf] on the main idea of a sentence without distractions}[t-n].
 
- # How to identify inserts
+ # HOW TO IDENTIFY INSERTS
 
 {Punctuation[s] is[x] the main clue to inserts}[t-n]. {You[s] can[x] find[v] them by looking for}[t-n]:
 
