@@ -1,30 +1,30 @@
 [
     {
-        "statement": "The small dog walking with these people was on a leash..",
-        "question": "Was the small dog walking with these people on a leash?",
-        "tag_question": "The small dog walking with these people was on a leash, wasn't it?",
-        "negation": "The small dog walking with these people wasn't on a leash.",
-        "distractors": ""
+        "statement": "The food scraps will rot by themselves.",
+        "question": "Will the food scraps rot by themselves?",
+        "tag_question": "The food scraps will rot by themselves, won't they?",
+        "negation": "The food scraps won't rot by themselves.",
+        "distractors": "do, are"
     },
     {
-       "statement": "It seemed well-behaved.",
-       "question": "Did it seem well-behaved?",
-       "tag_question": "It seemed well-behaved, didn't it?",
-       "negation": "It didn't seem well-behaved.",
-       "distractors": ""
+       "statement": "The task feels worse than usual.",
+       "question": "Does the task feel worse than usual?",
+       "tag_question": "The task feels worse than usual, doesn't it?",
+       "negation": "The task doesn't feel worse than usual.",
+       "distractors": "did, is"
     },
     {
-        "statement": "A sign at the entrance to the trail made the rules clear.",
-        "question": "Did a sign at the entrance to the trail make the rules clear?",
-        "tag_question": "A sign at the entrance to the trail made the rules clear, didn't it?",
-        "negation": "A sign at the entrance to the trail didn't make the rules clear.",
-        "distractors": ""
+        "statement": "How you look at it can affect how you feel about it.",
+        "question": "Can how you look at it affect how you feel about it?",
+        "tag_question": "How you look at it affect how you feel about it, can't it?",
+        "negation": "How you look at it can't affect how you feel about it.",
+        "distractors": "do, could"
     },
     {
-       "statement": "The people broke the rules.",
-       "question": "Did the people break the rules?",
-       "tag_question": "The people broke the rules, didn't they?",
-       "negation": "The people didn't break the rules.",
-       "distractors": ""
+       "statement": "There's a real difference between have to and get to.",
+       "question": "Is there a real difference between have to and get to?",
+       "tag_question": "There's a real difference between have to and get to, isn't there?",
+       "negation": "There's no real difference between have to and get to.",
+       "distractors": "was, does"
     }
 ]
