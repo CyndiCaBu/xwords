@@ -1,11 +1,38 @@
-{As a verb}[f-r], {insert[s] means[vxs] put in}[t-n]. {It[s](’s)[x] a word you might[x] see[v]}[t-n] {when a vending machine asks you for payment}[e-t], {suggesting you insert cash or a card}[extra]. {If you (don’t)[x] insert[v] a form of payment}[f-cd], {you[s] (won’t)[x] get[v] whatever you(‘re)[x] trying[v] (to buy)[inf]}[t-n-nq]. 
-
 {In x-word grammar}[f-p], {(an insert)[s] is[x] a word or phrase}[t-n]. {It[s] adds[vxs] extra information to a sentence (to give)[inf] more details}[t-n]. {If you take that information out}[f-cd], {you[s] lose[vxo] something specific}[t-n], {like a name, date, place or description}[extra]. However[l], {(the main meaning of the sentence)[s] (doesn’t)[x] change[v]}[t-n-nq]. 
 
-{We[s] put[vxo] inserts in the middle of a sentence or near the end}[t-n]. {They[s] often add[vxo] information about the subject or the object}[t-n]. {They[s] are[x] a sign of stronger writing}[t-n].
+{We[s] usually put[vxo] inserts in the middle of a sentence or near the end}[t-n]. Sometimes[l] {they[s] are[x] at the beginning of a sentence}[t-n], {too}[extra]. {They[s] add[vxo] extra information about the subject, verb or object}[t-n]. {They[s] can[x] be[v] a sign of stronger writing}[t-n]. 
 
-{Punctuation[s] is[x] a clue to inserts}[t-n]. {You[s] can[x] find[v] them by looking for commas, colons, dashes and parentheses}[t-n]. {They[s] also come[vxo] after some expressions from Latin}[t-n]: {e.g. and i.e.}[extra]. {We[s] use[vxo] e.g. (to introduce)[inf] examples and i.e. (to begin)[inf] an explanation}[t-n]. {You[s] might[x] see[v] those expressions}[t-n] {when you read news articles and academic writing}[e-t] - {and the paragraphs below}[extra].
+{(Understanding inserts)[s] can[x] help[v] you become a stronger reader}[t-n]. {They[s] often give[vxo] you definitions or explanations}[t-n]. {Consider[v] these examples}[t-n]:
 
-{(The Guggenheim Museum in New York)[s] once had[vxd] a gold toilet}[t-p] {in a public restroom}[e-p]. {Created by an Italian artist}[extra], {(that toilet)[s] was[x] seen[dtn] as political commentary by some}[t-p]. {It[s] stayed[vxd] in the museum[t-p] for a while}[e-t]. Then[l] {(the artist)[s] took[vxd] it back}[t-p], {following some disagreement}[extra]. 
+{(The Guggenheim)[s], (a museum in New York and other locations)[extra], once had[vxd] a gold toilet made by an Italian artist}[t-p].
 
-{Unaware of that}[extra], {Eleanor[s] went[vxd] to the restroom}[t-p] {as soon as she got to the Guggenheim}[e-t]. {Since she was[x] looking[v] for the gold toilet}[f-r], {she[s] was[x] disappointed (to see)[inf] a regular one}[t-p]. However[l], {(her disappointment)[s] changed[vxd] to surprise}[t-p] {when she noticed something that she (didn’t)[x] expect[v]}[e-t] - {long pieces of pink crochet instead of toilet paper}[extra]. {She[s] checked[vxd] her pockets}[t-p], {where she often kept a tissue}[extra], but[j] {she[s] was[x] out of luck}[t-p]. {(The lack of toilet paper)[s] made[vxd] her think about cultures where people use water instead}[t-p]. {She[s] did[v] what she could[x] and left[v] the restroom (to keep)[inf] exploring the museum}[t-p]. Finally[l], {she[s] found [v] out that the gold toilet was[x] long gone}[t-p], but[j] {(the pink crochet)[s] (wasn't)[x]}[t-p]. {She[s] found[v] it}[t-p] {in a restroom that had what she needed before}[e-p]: {toilet paper}[extra]. 
+{Eleanor[s] went[vxd] to the museum hoping to find that toilet}[t-p], {unaware that the artists had already taken it back}[extra].
+
+{She (wasn't)[x] surprised[v] (to find)[inf] an ordinary toilet in the restroom}[t-p], {but something else there did[x] surprise her}[t-p] - {a long piece of crocheted pink yarn on top of the regular toilet paper}[extra].
+
+{Now read the same sentences without the extra information}[t-n]. {What[s] feels[vxs] different}[t-n-nq]?
+
+{(The Guggenheim)[s] once had[vxd] a gold toilet made by an Italian artist}[t-p].
+
+{Eleanor[s] went[vxd] to the museum hoping to find that toilet}[t-p].
+
+{She (wasn't)[x] surprised[v] (to find)[inf] an ordinary toilet in the restroom}[t-p], {but something else there did[x] surprise her}[t-p].
+
+{(Taking out the extra information)[s] can[x] make[v] some sentences easier (to understand)[inf]}[t-n]. {It[s] gives[vxs] you a way (to focus)[inf] on the main idea of a sentence without distractions}[t-n].
+
+ # How to identify inserts
+
+{Punctuation[s] is[x] the main clue to inserts}[t-n]. {You[s] can[x] find[v] them by looking for}[t-n]:
+
+ - {commas}[extra],
+ - {colons}[extra], 
+ - {dashes}[extra], and
+ - {parentheses}[extra]
+
+Note[l]: {(The extra information)[s] can[x] go[v] after just one comma or in between two commas}[t-n], {depending on the writer's style}[extra]. {(Don't)[x] confuse[v] other ways we use commas}[t-n-nq]: {in SVO plus SVO, in lists and more}[extra].
+ 
+{(Another clue to extra information)[s] comes[vxs] from an ancient language}[t-n] - {Latin}[extra]. {We[s] use[vxo] e.g. (to introduce)[inf] examples and i.e. (to begin)[inf] an explanation}[t-n]. {You[s] might[x] see[v] those expressions}[t-n] {when you read news articles and academic writing}[e-t]. {Examples[s] include[vxo]}[t-n]:
+
+Sometimes[l] {artists[s] surprise[v] people by leaving art works in unexpected places}[t-n], {e.g. the gold toilet and the pink crochet in the Guggenheim, the big spoon outside a pharmaceutical company  to comment on the opioid crisis, and more}[extra].
+
+{To write clearly with extra information}[f-r], {you[s] need[vxo] (to practice)[inf] a lot}[t-n], {i.e. reading, studying writing styles, writing your own sentences, etc}[extra].
