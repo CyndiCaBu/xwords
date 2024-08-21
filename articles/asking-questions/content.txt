@@ -20,8 +20,6 @@
  - {does}[x]
  - did[x]
 
-# (The base form)[s] means[v] do[x]
-
 {To figure out which one to use}[f-r], {you[s] need[v] (to look)[inf] at the main verb}[t-n]. {Which (x-word)[s] is[x] hiding[v] inside it}[t-n-nq]? {Can[x] you[s] recognize[v] the clues}[t-n-nq]? 
 
 # Do
