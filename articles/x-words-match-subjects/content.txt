@@ -1,1 +1,42 @@
+{(To learn)[inf] how x-words match subjects}[f-r], {we[s] can[x] divide[v] them into four groups}[t-n], {going from smaller to bigger}[extra].
 
+# Am[x]
+{(The only subject that matches am[x])[s] is[x] I[s]}[t-n]. I[s] am[x] sure of that}[t-n].
+
+# Do[x], Have[x], Are[x], Were[x]
+{(Plural subjects and you)[s] match[v] these x-words}[t-n]. {Have[x] you[s] heard[v] about plural subjects before}[t-n]? {Has[x] anyone[s] told[v] you the difference between plural and singular}[t-n]? {When we refer to plural subjects}[f-t], {we[s] mean[vxo]}[t-n]:
+ - you[s]
+ - we[s]
+ - they[s]
+ - people[s]
+
+# Does[x], Has[x], Is[x], Was[x]
+{(Singular subjects and gerunds as subjects)[s] match[v] these x-words}[t-n]. {Notice[v] the way all these x-words end in S}[t-n], {like the S in the word singular}[extra]. {(Singular subjects)[s] include[v]}[t-n]:
+ - he[s]
+ - she[s]
+ - it[s]
+ - everyone[s] or everybody[s]
+ - someone[s] or somebody[s]
+ - anyone[s] or anybody[s]
+ - no one[s] or nobody[s]
+ - eating, sleeping, thinking and other gerunds
+
+# 11 Did[x], Had[x], and the 9 Modals
+{(These x-words)[s] match[v] every subject you[s] can[x] think of}[t-n]. {(The 9 modals)[s] are[x]}[t-n]:
+ - can[x]
+ - could[x]
+ - will[x]
+ - would[x]
+ - shall[x]
+ - should[x]
+ - must[x]
+ - might[x]
+ - may[x]
+
+{When you[s] practice finding x-words, subjects and verbs}[f-t], {pay attention to which subjects go with which x-words}[t-n]. {Do[x] (the paragraphs below)[s] follow[v] the rules above}[t-n]?
+
+{(The blue and white balloons in the picture above)[s] could[x] mean[v] anything}[t-n]. {They[s] were[x] on the side of a street in a small town in Ecuador}[t-p], but[j] {(the person who took the photo)[s] (doesn't)[x] remember[v] exactly where it was[x]}[t-n]. {If anyone is[x] familiar with that town}[f-cd], {they[s] might[x] be[v] able (to recognize)[inf] it}[t-n]. 
+
+Maybe[l] {people[s] were[x] getting[v] ready for a party and using[v] the balloons (to celebrate)[inf]}[t-p]. Perhaps[l] {someone[s] was[x] trying[v] (to protect)[inf] the soil to the left of the balloons}[t-p]. {(Blocking that area off)[s] could[x] help[v] plants grow and clean the air}[t-n]. 
+
+{(Taking pictures like this)[s] is[x] tricky}[t-n].  {People[s] can[x] look[v] taller or shorter than they really are[x]}[t-n]. {(The perspective in the image)[s] makes[vxs] the red pickup truck look small next to the person walking down the street}[t-n]. {Someone[s] had[x] parked[v] it on the sidewalk}[t-p], but[j] {we (can't)[x] tell[v] how wide the sidewalk is[x]}[t-n]. 
