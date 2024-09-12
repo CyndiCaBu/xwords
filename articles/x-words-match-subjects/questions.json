@@ -1,1 +1,30 @@
-
+[
+    {
+       "statement": "Eleven x-words match all subjects.",
+       "question": "Do eleven x-words match all subjects?",
+       "tag_question": "Eleven x-words match all subjects, don't they?",
+       "negation": "Eleven x-words don't match all subjects.",
+       "distractors": "have, does"
+    },  
+    {
+       "statement": "Taking pictures like this is easy.",
+       "question": "Is taking pictures like this easy?",
+       "tag_question": "Taking pictures like this is easy, isn't it?",
+       "negation": "Taking pictures like this isn't easy.",
+       "distractors": "are, was"
+    },
+    {
+        "statement": "The balloons could mean anything.",
+        "question": "Could the balloons mean anything?",
+        "tag_question": "The balloons could mean anything, couldn't they?",
+        "negation": "The balloons couldn't mean anything.",
+        "distractors": "can, did"
+    },
+    {
+       "statement": "Someone had parked on the sidewalk.",
+       "question": "Had someone parked on the sidewalk?",
+       "tag_question": "Someone had parked on the sidewalk, hadn't they?",
+       "negation": "Someone hadn't parked on the sidewalk.",
+       "distractors": "did, is"
+    }
+]
