@@ -1,15 +1,20 @@
 {(To learn)[inf] how x-words match subjects}[f-r], {we[s] can[x] divide[v] them into four groups}[t-n], {going from smaller to bigger}[extra].
 
 # Am[x]
-{(Only one subject)[s] matches[vxs] the x-word am[x]}[t-n], {the pronoun I[s]}[extra]. {I[s] am[x] sure of that}[t-n].
+{(Only one subject)[s] matches[vxs] this x-word am[x]}[t-n].
+
+{I[s] am[x] sure you know it}[t-n], but[j] maybe {I('m)[x] wrong}[t-n].
 
 # Do[x], Have[x], Are[x], Were[x]
+
 {(Plural subjects and you)[s] match[v] these x-words}[t-n]. {Have[x] you[s] heard[v] about plural subjects before}[t-n]? {Has[x] anyone[s] told[v] you the difference between plural and singular}[t-n]? {When we refer to plural subjects}[f-t], {we[s] mean[vxo] the pronouns you, we and they, as well as the word people}[t-n]. 
 
 # Does[x], Has[x], Is[x], Was[x]
+
 {(Singular subjects and gerunds as subjects)[s] match[v] these x-words}[t-n]. {Notice[v] the way all these x-words end in S}[t-n], {like the S in the word singular}[extra]. {(Singular subjects)[s] include[vxo] the pronouns he, she and it, gerunds like eating and sleeping, and words for people like everyone, someone, anyone and no one}[t-n].
 
 # Did[x], Had[x], and the 9 Modals
+
 {(These x-words)[s] match[v] every subject you[s] can[x] think of}[t-n]. {(The 9 modals)[s] are[x] can[x] and could[x], will[x] and would[x], shall[x] and should[x], plus must[x], might[x], and may[x]}[t-n].
 
 {When you[s] practice finding x-words, subjects and verbs}[f-t], {pay attention to which subjects go with which x-words}[t-n]. {Do[x] (the paragraphs below)[s] follow[v] the rules above}[t-n]?
