@@ -5,23 +5,23 @@
 
 # Do[x], Have[x], Are[x], Were[x]
 {(Plural subjects and you)[s] match[v] these x-words}[t-n]. {Have[x] you[s] heard[v] about plural subjects before}[t-n]? {Has[x] anyone[s] told[v] you the difference between plural and singular}[t-n]? {When we refer to plural subjects}[f-t], {we[s] mean[vxo]}[t-n]:
- - you[s]
- - we[s]
- - they[s]
- - people[s]
+ - you
+ - we
+ - they
+ - people
 
 # Does[x], Has[x], Is[x], Was[x]
 {(Singular subjects and gerunds as subjects)[s] match[v] these x-words}[t-n]. {Notice[v] the way all these x-words end in S}[t-n], {like the S in the word singular}[extra]. {(Singular subjects)[s] include[v]}[t-n]:
- - he[s]
- - she[s]
- - it[s]
- - everyone[s] or everybody[s]
- - someone[s] or somebody[s]
- - anyone[s] or anybody[s]
- - no one[s] or nobody[s]
+ - he
+ - she
+ - it
+ - everyone or everybody
+ - someone or somebody
+ - anyone or anybody
+ - no one or nobody
  - eating, sleeping, thinking and other gerunds
 
-# 11 Did[x], Had[x], and the 9 Modals
+# Did[x], Had[x], and the 9 Modals
 {(These x-words)[s] match[v] every subject you[s] can[x] think of}[t-n]. {(The 9 modals)[s] are[x]}[t-n]:
  - can[x]
  - could[x]
