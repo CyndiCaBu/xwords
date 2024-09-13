@@ -1,7 +1,7 @@
 {(To learn)[inf] how x-words match subjects}[f-r], {we[s] can[x] divide[v] them into four groups}[t-n], {going from smaller to bigger}[extra].
 
 # Am[x]
-{(The only subject that matches am[x])[s] is[x] I[s]}[t-n]. I[s] am[x] sure of that}[t-n].
+{(Only one subject)[s] matches[vxs] the x-word am[x]}[t-n]: {I[s]}[extra]. {I[s] am[x] sure of that}[t-n].
 
 # Do[x], Have[x], Are[x], Were[x]
 {(Plural subjects and you)[s] match[v] these x-words}[t-n]. {Have[x] you[s] heard[v] about plural subjects before}[t-n]? {Has[x] anyone[s] told[v] you the difference between plural and singular}[t-n]? {When we refer to plural subjects}[f-t], {we[s] mean[vxo]}[t-n]:
