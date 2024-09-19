@@ -24,7 +24,7 @@
 
 # Do
 
-{If the verb is[x] in the base form}[f-cd], {you[s] need[v] (to use)[inf] do[x] (to ask)[inf] the question}[t-n]. {Keep[v] the verb in the base form}[t-n].
+{If the verb is[x] in the base form in a statement}[f-cd], {you[s] need[v] (to use)[inf] do[x] (to ask)[inf] the question}[t-n]. {Keep[v] the verb in the base form}[t-n].
 
 {(My friend and his family)[s] appreciate[v] their country house}[t-n].
 {Do[x] (my friend and his family)[s] appreciate[v] their country house}[t-n-nq]?
@@ -34,7 +34,7 @@
 
 # Does
 
-{If the verb ends in S}[f-cd], {you[s] need[v] (to use)[inf] does[x] (to ask)[inf] the question}[t-n]. {Change[v] the verb to the base form}[t-n], {too}[extra].
+{If the verb ends in S in a statement}[f-cd], {you[s] need[v] (to use)[inf] does[x] (to ask)[inf] the question}[t-n]. {Change[v] the verb to the base form}[t-n], {too}[extra].
 
 {(Mountain air)[s] feels[v] clean}[t-n].
 {Does[x] (mountain air)[s] feel[v] clean}[t-n-nq]?
@@ -44,7 +44,7 @@
 
 # Did
 
-{If the verb is[x] in the simple past}[f-cd], {you[s] need[v] (to use)[inf] did[x] (to ask)[inf] the question}[t-n]. {Change[v] the verb to the base form}[t-n], {too}[extra].
+{If the verb is[x] in the simple past in a statement}[f-cd], {you[s] need[v] (to use)[inf] did[x] (to ask)[inf] the question}[t-n]. {Change[v] the verb to the base form}[t-n], {too}[extra].
 
 {(The bird)[s] flew[v] over the fields}[t-p].
 {Did[x] (the bird)[s] fly[v] over the fields}[t-p-nq]?
