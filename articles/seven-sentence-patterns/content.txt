@@ -10,23 +10,19 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 # SEVEN SENTENCE PATTERNS
 
-1 SVO.
+# SVO.
 
 {(One subject)[s] goes[v] with one verb and one object}[t-n] {in the basic SVO pattern}[e-p].
 
-# Examples of SVO
+(Example)[title]: {(The picture above)[s] is[x] from a Mexican celebration}[t-p]. {It[s] was[x] taken[v] in 2018}[t-p].
 
-{(The picture above)[s] is[x] from a Mexican celebration}[t-p]. {It[s] was[x] taken[v] in 2018}[t-p].
-
-2 SVO, plus SVO.
+# SVO, plus SVO.
 
 {(This pattern)[s] uses[v] two SVO sentences}[t-n], {connected by a FANBOY}[extra]. {You[s] might[x] know[v] FANBOYS as coordinating conjunctions}[t-n]. {They[s]('re)[x] common words like and, but, so and a few more}[t-n].  {You[s] can[x] learn[v] more about them in the article about x-word grammar trunks}[t-n]. 
 
-# Examples of SVO plus SVO
+(Examples)[title]: {(Lots of people)[s] were[x] standing[v] together}[t-p], and[j] {(none of them)[s] were[x] wearing[v] masks}[t-p]. {Musicians[s] provided[v] live music}[t-p], and[j] {people[s] talked[v] to each other}[t-p]. {This[s] was[x] before the pandemic}[t-p], so {(most of us)[s] probably knew[v] very little about coronaviruses}[t-p]. {We[s] had[x] no clue how a tiny virus would[x] change[v] our lives}[t-p], but[j] {we[s] would[x] soon learn[v]}[t-p].
 
-{(Lots of people)[s] were[x] standing[v] together}[t-p], and[j] {(none of them)[s] were[x] wearing[v] masks}[t-p]. {Musicians[s] provided[v] live music}[t-p], and[j] {people[s] talked[v] to each other}[t-p]. {This[s] was[x] before the pandemic}[t-p], so {(most of us)[s] probably knew[v] very little about coronaviruses}[t-p]. {We[s] had[x] no clue how a tiny virus would[x] change[v] our lives}[t-p], but[j] {we[s] would[x] soon learn[v]}[t-p].
-
-3 SVO plus VO. 
+# SVO plus VO. 
 
 {(This pattern)[s] uses[v] one subject with two or more verbs}[t-n], {connected by FANBOYS}[extra].
 
@@ -34,24 +30,24 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 # Shifter, SVO. 
 
-{(A shifter)[s] tells[v] you time, place, reason, contrast or condition}[t-n]. {(Shifters longer than three words)[s] use[v] a comma after at the end}[t-n]. Sometimes[l] {(a shifter)[s] looks[v] like a complete sentence}[t-n] {because it has[v] SVO}[e-r]. However[l], {(words like when, under, because, if and more)[s] are[x] clues indicating a shifter}[t-n] - {a dependent clause, not a complete sentence}[extra].
+{(A shifter)[s] tells[v] you time, place, reason, contrast or condition}[t-n]. {It[s]('s)[x] a dependent clause that starts with words like words like when, under, because, and if}[t-n]. {(Shifters longer than three words)[s] use[v] a comma}[t-n], but[j] {(short shifters)[s] (don't)[x]}[t-n]. Sometimes[l] {(a shifter)[s] looks[v] like a complete sentence}[t-n] {because it has[v] SVO inside it}[e-r]. {(Don't)[x] let[v] that fool you}[t-n].
 
-{Under the trees}[f-p], {performers[s] waited[v] in the shade}[t-p]. {When it was[x] their turn}[f-t], {they[s] walked[v] onstage}[t-p].
+(Examples)[title]:{Under the trees}[f-p], {performers[s] waited[v] in the shade}[t-p]. {When it was[x] their turn}[f-t], {they[s] walked[v] onstage}[t-p].
 
 # SVO shifter.
 
 {(This pattern)[s] is[x] the same as the one above it}[t-n], but[j] {it[s] starts[v] with the SVO}[t-n]. {There[s] is[x] no comma}[t-n] {before the shifter}[e-t].
 
-{Performers[s] waited[v] in the shade}[t-p] {under the trees}[e-p]. {They[s] walked[v] onstage}[t-p] {when it was[x] their turn}[e-t].
+(Examples)[title]: {Performers[s] waited[v] in the shade}[t-p] {under the trees}[e-p]. {They[s] walked[v] onstage}[t-p] {when it was[x] their turn}[e-t].
 
 # Linker, SVO. 
 
 {Linkers[s] are[x] transition phrases and words like however, thus, moreover and more}[t-n]. {There[s] is[x] only one example below}[t-n] {because (one linker)[s] is[x] enough}[e-r].
 
-Fortunately[l], {(the weather)[s] was[x] comfortable}[t-p].
+(Example)[title]: Fortunately[l], {(the weather)[s] was[x] comfortable}[t-p].
 
-# S, insert, VO. or SVO, insert. 
+# S, extra info, VO. or SVO, extra info. 
 
-{Inserts[s] are[x] extra information set apart by commas, colons, dashes or parentheses}[t-n]. {(Understanding them)[s] helps[v] with reading as well as writing}[t-n].
+{(Using extra information about your subject, verb or object)[s] can[x] show[v] stronger writing}[t-n]. {Put[v] commas, colons, dashes or parentheses around the extra info to separate it from the main part}[t-n]. {If you can[x] identify extra info}[f-t], {you[s] can[v] read better}[t-n]. {Writers[s] often use extra info to define an unusual word or one in another language}[t-n], {usually by putting a comma after the word}[extra]
 
-{It[s] was[x] a beautiful day (to be)[inf] in the park}[t-p], {enjoying Guelaguetza}[extra]. {(My friend)[s], (a New Yorker from Mexico)[extra], complained[v] about families that (don't)[x] honor[v] traditional culture like that}[t-p]. {He[s] noticed[v] some young people around us looking bored}[t-p], {perhaps even ashamed}[extra]. {They[s] should[x] be[v] proud of their pre-colonial heritage}[t-n], {with its rich history and culture}[extra].
+(Examples)[title]:{It[s] was[x] a beautiful day (to be)[inf] in the park}[t-p], {enjoying Guelaguetza}[extra]. {(My friend)[s], (a New Yorker from Mexico)[extra], complained[v] about families that (don't)[x] honor[v] traditional culture like that}[t-p]. {He[s] noticed[v] some young people around us looking bored}[t-p], {perhaps even ashamed}[extra]. {They[s] should[x] be[v] proud of their pre-colonial heritage}[t-n], {with its rich history and culture}[extra].
