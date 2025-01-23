@@ -14,7 +14,7 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 {(One subject)[s] goes[v] with one verb and one object}[t-n] {in the basic SVO pattern}[e-p].
 
-(Example)[title]: {(The picture above)[s] is[x] from a Mexican celebration}[t-p]. {It[s] was[x] taken[v] in 2018}[t-p].
+(Examples)[title]: {(The picture above)[s] is[x] from a Mexican celebration}[t-p]. {It[s] was[x] taken[v] in 2018}[t-p].
 
 # SVO, plus SVO.
 
@@ -26,13 +26,13 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 {(This pattern)[s] uses[v] one subject with two or more verbs}[t-n], {connected by FANBOYS}[extra].
 
-{(The celebration)[s] comes[v] from Oaxaca and is[x] called[v] Guelaguetza}[t-n]. {(Many adults and children)[s] wore[v] traditional clothes and seemed[v] happy}[t-p]. {(Some women)[s] wore[v] white lace and carried[v] bowls of colorful flags}[t-p]. {(Some men)[s] were[x] dressed[v] all in white and had[v] big hats}[t-p]. 
+(Examples)[title]: {(The celebration)[s] comes[v] from Oaxaca and is[x] called[v] Guelaguetza}[t-n]. {(Many adults and children)[s] wore[v] traditional clothes and seemed[v] happy}[t-p]. {(Some women)[s] wore[v] white lace and carried[v] bowls of colorful flags}[t-p]. {(Some men)[s] were[x] dressed[v] all in white and had[v] big hats}[t-p]. 
 
 # Shifter, SVO. 
 
 {(A shifter)[s] tells[v] you time, place, reason, contrast or condition}[t-n]. {It[s]('s)[x] a dependent clause that starts with words like words like when, under, because, and if}[t-n]. {(Shifters longer than three words)[s] use[v] a comma}[t-n], but[j] {(short shifters)[s] (don't)[x]}[t-n]. Sometimes[l] {(a shifter)[s] looks[v] like a complete sentence}[t-n] {because it has[v] SVO inside it}[e-r]. {(Don't)[x] let[v] that fool you}[t-n].
 
-(Examples)[title]:{Under the trees}[f-p], {performers[s] waited[v] in the shade}[t-p]. {When it was[x] their turn}[f-t], {they[s] walked[v] onstage}[t-p].
+(Examples)[title]: {Under the trees}[f-p], {performers[s] waited[v] in the shade}[t-p]. {When it was[x] their turn}[f-t], {they[s] walked[v] onstage}[t-p].
 
 # SVO shifter.
 
@@ -50,4 +50,4 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 {(Using extra information about your subject, verb or object)[s] can[x] show[v] stronger writing}[t-n]. {Put[v] commas, colons, dashes or parentheses around the extra info to separate it from the main part}[t-n]. {If you can[x] identify extra info}[f-t], {you[s] can[v] read better}[t-n]. {Writers[s] often use extra info to define an unusual word or one in another language}[t-n], {usually by putting a comma after the word}[extra]
 
-(Examples)[title]:{It[s] was[x] a beautiful day (to be)[inf] in the park}[t-p], {enjoying Guelaguetza}[extra]. {(My friend)[s], (a New Yorker from Mexico)[extra], complained[v] about families that (don't)[x] honor[v] traditional culture like that}[t-p]. {He[s] noticed[v] some young people around us looking bored}[t-p], {perhaps even ashamed}[extra]. {They[s] should[x] be[v] proud of their pre-colonial heritage}[t-n], {with its rich history and culture}[extra].
+(Examples)[title]: {It[s] was[x] a beautiful day (to be)[inf] in the park}[t-p], {enjoying Guelaguetza}[extra]. {(My friend)[s], (a New Yorker from Mexico)[extra], complained[v] about families that (don't)[x] honor[v] traditional culture like that}[t-p]. {He[s] noticed[v] some young people around us looking bored}[t-p], {perhaps even ashamed}[extra]. {They[s] should[x] be[v] proud of their pre-colonial heritage}[t-n], {with its rich history and culture}[extra].
