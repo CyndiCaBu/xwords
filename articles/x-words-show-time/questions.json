@@ -8,14 +8,14 @@
     },
     {
        "statement": "They are eaten standing up or sitting down.",
-       "question": "They are eaten standing up or sitting down?",
+       "question": "Are they eaten standing up or sitting down?",
        "tag_question": "They are eaten standing up or sitting down, aren't they?",
        "negation": "They aren't eaten standing up or sitting down.",
        "distractors": "do, had"
     },
     {
         "statement": "We can change them to suit our tastes.",
-        "question": "Can we change them to suite our tastes?",
+        "question": "Can we change them to suit our tastes?",
         "tag_question": "We can change them to suit our tastes, can't we?",
         "negation": "We can't change them to suit our tastes.",
         "distractors": "was, are"
