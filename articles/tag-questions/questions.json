@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "Tag questions are short.",
+        "question": "Are tag questions short?",
+        "tag_question": "Tag questions are short, aren't they?",
+        "negation": "Tag questions aren't short.",
+        "distractors": "did, is"
+    },
+    {
+       "statement": "The cow is curious.",
+       "question": "Is the cow curious?",
+       "tag_question": "The cow is curious, isn't it?",
+       "negation": "The cow isn't curious.",
+       "distractors": "have, was"
+    },
+    {
+        "statement": "It wants to get out.",
+        "question": "Does it want to get out?",
+        "tag_question": "It wants to get out, doesn't it?",
+        "negation": "It doesn't want to get out.",
+        "distractors": "can, do"
+    },
+    {
+       "statement": "The sun was shining that day.",
+       "question": "Was the sun shining that day?",
+       "tag_question": "The sun was shining that day, wasn't it?",
+       "negation": "The sun wasn't shining that day.",
+       "distractors": "has, is"
+    }
+]
