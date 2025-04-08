@@ -22,7 +22,7 @@
 
  - {Did[x] she[s] look[v] for Cape May diamonds}[t-p-nq]? {Did[x] she[s] send[v] us this picture}[t-p-nq]?
 
- - {She[s] (didn't)[x] look[vxd] for Cape May diamonds}[t-p]. {She[s] (didn't)[x] send[v] us this picture}[t-p].
+ - {She[s] (didn't)[x] look[v] for Cape May diamonds}[t-p]. {She[s] (didn't)[x] send[v] us this picture}[t-p].
 
 # Hidden do[x]
 
