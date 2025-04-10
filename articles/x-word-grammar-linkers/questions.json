@@ -22,7 +22,7 @@
     },
     {
        "statement": "Using too many linkers in one paragraph makes your writing awkward.",
-       "question": "Dies using too many linkers in one paragraph make your writing awkward?",
+       "question": "Does using too many linkers in one paragraph make your writing awkward?",
        "tag_question": "Using too many linkers in one paragraph makes your writing awkward, doesn't it?",
        "negation": "Using too many linkers in one paragraph doesn't make your writing awkward.",
        "distractors": ""
