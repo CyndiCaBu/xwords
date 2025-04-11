@@ -7,7 +7,7 @@ Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you
  - {Find[v] the main verb}[t-n].
  - {Based on the verb form}[l], {decide[v] which x-word is[x] hiding[v]}[t-n]: {do[x], does[x] or did[x]}[extra]. 
 
-# {(The base form)[s] means[v] do[x] is[x] hiding[v]}[t-n].
+# {(The base form)[s] means[vxs] do[x] is[x] hiding[v]}[t-n].
 
 {Do[s] is[x] the x-word}[t-n] {when the main verb is[x] in the base form}[e-t]. {How can[x] you[s] know[v] this}[t-n-nq]? {You[s] have[v] (to learn)[inf] the verb forms}[t-n], {like go, went, gone for base form, simple past and 3rd form, or give, gave, given, buy, bought, bought, etc}[extra].
 
@@ -17,7 +17,7 @@ Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you
 {Do[x] they[s] provide[v] clues}[t-n-nq]?
 {They[s] (don't)[x] provide[v] clues}[t-n].
 
-# 3rd person S means does[x] is[x] hiding[v]
+# {(3rd person S)[s] means[vxs] does[x] is[x] hiding[v]}[t-n].
 
 {Does[s] is[x] the hidden x-word}[t-n] {when the main verb ends in S and the base form (doesn't)[x]}[e-t]. {For example}[l], {("miss")[vxo] already ends in S}[t-n], so[j] {(the 3rd person S form)[s] would[x] be[v] ("misses")[vxs] as in "She[s] misses[vxs] the fresh food from back home"}[t-n].
 
@@ -31,7 +31,7 @@ Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you
 {Does[x] (finding the S on the end of the verb)[s] help[v]}[t-n-nq]?
 {(Finding the S on the end of the verb)[s] (doesn't)[x] help}[t-n].
 
-# The past tense means did[x] is[x] hiding[v]
+# {(The past tense)[s] means[vxs] did[x] is[x] hiding[v]}[t-n].
 
 {Did[s] is[x] the hidden x-word}[t-n] {when the main verb is[x] in the past tense}[e-t]. {(Regular verbs like need and want)[s] make[v] this easy}[t-n] {because you[s] can[x] see[v] the D from did[x] in the -ed ending of needed and wanted}[e-r]. {(Other examples)[s] include[v] regular verbs like worked, played, rested, et cetera}[t-n]. {(To recognize)[inf] irregular simple past}[f-r], {you[s] need[v] (to study)[inf] a verb list}[t-n].
  
@@ -57,5 +57,5 @@ Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you
 {Did[x] (the whole project)[s] take[v] more than a year}[t-p].
 {(The whole project)[s] (didn't)[x] take[v] more than a year}[t-p].
 
-{(Learning (to find)[inf] hidden x-words)[s] takes[v] time}[t-n].
+{(Learning (to find)[inf] hidden x-words)[s] takes[vxs] time}[t-n].
 Remember[l], {(every sentence in English)[s] has[vxs] an x-word}[t-n]. {If you (don't)[x] see an x-word}[f-cd], {it[s] must[x] be[v] either do[x], does[x] or did[x]}[t-n]. {The more you practice making questions and negative statements}[l], (the more)[l] {this[s] will[x] make[v] sense}[t-n].
