@@ -2,7 +2,7 @@
 
 {Is[x] that[s] really what happens to rainwater}[t-n-nq] {in NYC}[e-p]? {(The answer)[s] depends[vxs] on the neighborhood}[t-n]. {(Around 40 per cent of the city)[s] uses[vxs] a separate sewer system}[t-n], {where rainwater and sewage go in separate pipes}[extra]. {In those areas}[f-p], {(the answer)[s] is[x] yes}[t-n]. {Rainwater[s] does[x] get[v] dirty from motor oil and trash in the streets}[t-n], but[j] {it[s] gets[vxs] cleaned}[t-n] {before it flows into our waterways}[e-t].
 
-However[l], {it[s]('s)[x] a different story in other neighborhoods}[t-n]. {(More than half the city)[s] is[x] served[v] by a combined sewer system}[t-n]. {(Rainwater there)[s] mixes[vxs] with sewage in the same pipes}[t-n]. {(This combined system)[s] works[vxs] fine}[t-n] {in dry weather}[e-t] {because all that dirty water has a chance to get treated}[e-r]. 
+However[l], {it[s]('s)[x] a different story in other neighborhoods}[t-n]. {(More than half the city)[s] is[x] served[v] by a combined sewer system}[t-n]. {(Rainwater there)[s] mixes[vxs] with sewage in the same pipes}[t-n]. {(This combined system)[s] works[vxs] fine}[t-n] {in dry weather}[e-t] {because all that dirty water has[vxs] a chance to get treated}[e-r]. 
 
 Unfortunately[l], {(the combined system)[s] does[x] not work[v] well}[t-n] {during rainy weather}[e-t]. {(Too much water)[s] flows[vxs] into the system at the same time}[t-n]. {It[s] (doesn't)[x] have[v] a chance (to go)[inf] through the usual treatment process}[t-n]. {As a result}[l], {rainwater[s] mixes[vxs] with pee, poop, toilet paper, cooking grease and other types of waste}[t-n]. Then[l] {(this dirty mix)[s] flows[vxs] directly into our rivers and the Atlantic Ocean}[t-n]. 
 
