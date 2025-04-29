@@ -7,7 +7,6 @@
         "distractors": ""
     },
     {
-    {
         "statement": "Both are things we can savor.",
         "question": "Are both things we can savor?",
         "tag_question": "aren't they?",
@@ -15,15 +14,12 @@
         "distractors": ""
     },
     {
- 
-    {
         "statement": "Savoring means pausing to notice and enjoy something good.",
         "question": "Does savoring mean pausing to notice and enjoy something good?",
         "tag_question": "doesn't it?",
         "negation": "Savoring doesn't mean pausing to notice and enjoy something good.",
         "distractors": ""
     },
-    {
     {
         "statement": "Savoring takes practice.",
         "question": "Does savoring take practice?",
