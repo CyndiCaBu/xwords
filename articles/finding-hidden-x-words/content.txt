@@ -57,5 +57,5 @@ Likewise[l], {(every sentence in English)[s] has[x] an x-word}[t-n], but[j] {you
 {Did[x] (the whole project)[s] take[v] more than a year}[t-p].
 {(The whole project)[s] (didn't)[x] take[v] more than a year}[t-p].
 
-{(Learning ((to find))[inf] hidden x-words)[s] takes[vxs] time}[t-n].
-Remember[l], {(every sentence in English)[s] has[vxs] an x-word}[t-n]. {If you (don't)[x] see an x-word}[f-cd], {it[s] must[x] be[v] either do[x], does[x] or did[x]}[t-n]. {The more you practice making questions and negative statements}[l], (the more)[l] {this[s] will[x] make[v] sense}[t-n].
+{(Understanding hidden x-words)[s] takes[vxs] time}[t-n].
+Remember[l], {(every sentence in English)[s] has[vxs] an x-word}[t-n]. {If you (don't)[x] see one}[f-cd], {it[s] means[vxs] that the x-word is[x] hiding}[t-n]. {It[s] must[x] be[v] either do[x], does[x] or did[x]}[t-n]. {The more you practice making questions and negative statements}[l], (the more)[l] {this[s] will[x] make[v] sense}[t-n].
