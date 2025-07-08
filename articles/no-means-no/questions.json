@@ -1,30 +1,30 @@
 [
     {
-        "statement": "No means no.",
-        "question": "Does no mean no?",
-        "tag_question": "doesn't it?",
-        "negation": "No doesn't mean no.",
-        "distractors": ""
+        "statement": "Some people need practice saying no.",
+        "question": "Do some people need practice saying  no?",
+        "tag_question": "Some people need practice saying, don't they?",
+        "negation": "Some people don't need practice saying no.",
+        "distractors": "does, is"
     },
     {
-       "statement": "Successful people know how to say no.",
-       "question": "Do successful people know how to say no?",
-       "tag_question": "don't they?",
-       "negation": "Successful people don't know how to say no.",
-       "distractors": ""
+       "statement": "Other people already know how to say no.",
+       "question": "Do other people already know how to say no?",
+       "tag_question": "Other people already know how to say, don't they?",
+       "negation": "Other people don't know how to say no.",
+       "distractors": "are, did"
     },
     {
         "statement": "Saying no is a way to take care of ourselves and accomplish our goals.",
         "question": "Is saying no a way to take care of ourselves and accomplish our goals?",
         "tag_question": "Saying no is a way to take care of ourselves and accomplish our goals, isn't it?",
         "negation": "Saying no is not a way to take care of ourselves and accomplish our goals.",
-        "distractors": ""
+        "distractors": "was, do"
     },
     {
        "statement": "I will respect that and adjust my plan.",
        "question": "Will I respect that and adjust my plan?",
        "tag_question": "I will respect that and adjust my plan, won't I?",
        "negation": "I won't respect that or adjust my plan.",
-       "distractors": ""
+       "distractors": "can, am"
     }
 ]
