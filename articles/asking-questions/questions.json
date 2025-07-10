@@ -28,10 +28,10 @@
         "distractors": "doesn't, do"
     },
     {
-      "statement": "Questions lead to knowledge.",
-      "question": "Do questions lead to knowledge?",
-      "tag_question": "Questions lead to knowledge, don't they?",
-      "negation": "Questions don't lead to knowledge.",
-      "distractors": "are, does"
+      "statement": "Questions can lead to knowledge.",
+      "question": "Can questions lead to knowledge?",
+      "tag_question": "Questions can lead to knowledge, can't they?",
+      "negation": "Questions can't lead to knowledge.",
+      "distractors": "are, do"
     }
 ]
