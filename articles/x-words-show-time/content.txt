@@ -1,6 +1,6 @@
 {When you read the following paragraph about tacos}[f-t], {pay[v] attention to the x-words and the verb forms}[t-n]. {Can[x] you[s] figure[v] out what changes and what stays the same}[t-n]?
 
-{(The taco above)[s] was[x] made[v]}[t-n] {in a Mexican restaurant in Chicago}[e-p]. {It[s] was[x] eaten[v]}[t-p] {on the beach near Lake Michigan}[e-p]. {(Other tacos)[s] were[x] made[v] and eaten[v]}[t-p] {on the same day}[e-t]. Maybe[l] {some[s] were[x] vegetarian}[t-p], {like this one}[extra]. {It[s] was[x] made[v] with beans, avocados, cheese, cream and hot sauce}[t-p], {among other ingredients}[extra]. {(Vegan tacos)[s] are[x] made[v] with beans, avocados and more}[t-n], {but obviously not with cheese and cream}[extra]. {(Many types of tacos)[s] are[v] eaten[v]}[t-n] {all over the world}[e-p].
+{(The taco above)[s] was[x] made[v]}[t-n] {in a Mexican restaurant in Chicago}[e-p]. {It[s] was[x] eaten[v]}[t-p] {on the beach near Lake Michigan}[e-p]. {(Other tacos)[s] were[x] made[v] and eaten[v]}[t-p] {on the same day}[e-t]. Maybe[l] {some[s] were[x] vegetarian}[t-p], {like this one}[extra]. {It[s] was[x] made[v] with beans, avocados, cheese, cream and hot sauce}[t-p], {among other ingredients}[extra]. {(Vegan tacos)[s] are[x] made[v] with beans, avocados and more}[t-n], {but obviously not with cheese and cream}[extra]. {(Many types of tacos)[s] are[x] eaten[v]}[t-n] {all over the world}[e-p].
 
 {Stop[v] for a moment and look[v] at the x-words and verb forms above}[t-n]. {Can[x] you[s] notice[v] how many main verbs are[x] the same in the paragraph above}[t-p]? 
 
