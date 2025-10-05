@@ -1,26 +1,29 @@
 {(To learn)[inf] how x-words match subjects}[f-r], {we[s] can[x] divide[v] them into four groups}[t-n], {going from smaller to bigger}[extra].
 
 # Am[x]
-{(Only one subject)[s] matches[vxs] this x-word am[x]}[t-n].
+{(Only one subject)[s] matches[vxs] this x-word}[t-n]: {I}[extra].
 
-{I[s] am[x] sure you know it}[t-n], but[j] maybe {I('m)[x] wrong}[t-n].
+{I[s] am[x] not sure which town you can see in the photo above}[t-n], but[j] {I know it's somewhere in Ecuador}[t-n].
 
 # Do[x], Have[x], Are[x], Were[x]
 
-{(Plural subjects and you)[s] match[v] these x-words}[t-n]. {Have[x] you[s] heard[v] about plural subjects before}[t-n]? {Has[x] anyone[s] told[v] you the difference between plural and singular}[t-n]? {When we refer to plural subjects}[f-t], {we[s] mean[vxo] the pronouns you, we and they, as well as the word people}[t-n]. 
+{We[s] use[v] these x-words with plural subjects and the subject you as either singular or plural}[t-n]. {When we refer to plural subjects}[f-t], {we[s] mean[vxo] the pronouns you, we and they}[t-n], {as well as the word people and other plural words}[extra]. 
 
+{(The blue and white balloons)[s] are[x] next to the street for  a reason}[t-n]. Maybe[l] {they[s] were[x] like a fence (to protect)[inf] the soil on the left}[t-n]. {(Blocking that area)[s] could[x] help[v] plants grow and clean the air}[t-n]. {Plants have[x] so many benefits}[t-n], {including the oxygen they provide}[extra]. {They[s] also do[x] a good job helping us relax}[t-n].
+ 
 # Does[x], Has[x], Is[x], Was[x]
 
-{(Singular subjects and gerunds as subjects)[s] match[v] these x-words}[t-n]. {Notice[v] the way all these x-words end in S}[t-n], {like the S in the word singular}[extra]. {(Singular subjects)[s] include[vxo] the pronouns he, she and it, gerunds like eating and sleeping, and words for people like everyone, someone, anyone and no one}[t-n].
+{Notice[v] the way all these x-words end in S}[t-n], {like the S in the word singular}[extra]. {(Singular subjects)[s] include[vxo] the pronouns he, she and it, gerunds like eating and sleeping, and words for people like everyone, someone, anyone and no one}[t-n].
 
-# Did[x], Had[x], and the 9 Modals
+{(No one else)[s] was[x] on this part of the street}[t-p] {when my friend took this picture}[e-t]. {He[s] does[x] not remember[v] exactly where he was[x] then}[t-n]. {He[s] has[x] a lot of photos from that trip}[t-n], {which started in Guayaquil}[extra].
 
-{(These x-words)[s] match[v] every subject you[s] can[x] think of}[t-n]. {(The 9 modals)[s] are[x] can[x] and could[x], will[x] and would[x], shall[x] and should[x], plus must[x], might[x], and may[x]}[t-n].
+{(Taking pictures like this)[s] is[x] tricky}[t-n].  {People[s] can[x] look[v] taller or shorter than they really are[x]}[t-n]. {(The perspective here)[s] makes[vxs] the red pickup truck look small compared to the person who was[x] walking down the street}[t-n]. 
 
-{When you[s] practice finding x-words, subjects and verbs}[f-t], {pay attention to which subjects go with which x-words}[t-n]. {Do[x] (the paragraphs below)[s] follow[v] the rules above}[t-n]?
+# Did[x], Had[x], and the 9 Modals: can[x], could[x], will[x], would[x],  shall[x], should[x], must[x], might[x], and may[x]
 
-{(The blue and white balloons in the picture above)[s] could[x] mean[v] anything}[t-n]. {They[s] were[x] on the side of a street in a small town in Ecuador}[t-p], but[j] {(the person who took the photo)[s] (doesn't)[x] remember[v] exactly where it was[x]}[t-n]. {If anyone is[x] familiar with that town}[f-cd], {they[s] might[x] be[v] able (to recognize)[inf] it}[t-n]. 
+{(These x-words)[s] match[v] every subject you[s] can[x] think of}[t-n]. 
 
-Maybe[l] {people[s] were[x] getting[v] ready for a party and using[v] the balloons (to celebrate)[inf]}[t-p]. Perhaps[l] {someone[s] was[x] trying[v] (to protect)[inf] the soil to the left of the balloons}[t-p]. {(Blocking that area off)[s] could[x] help[v] plants grow and clean the air}[t-n]. 
+{(The balloons in the picture)[s] could[x] be[v] from a party}[t-n]. {(The person walking down the street)[s] might[x] be[v] selling hats}[t-n] {because it looks like they were[x] wearing[v] many of them in different colors}[e-r]. {(The truck)[s] would[x] be[v] useful for taking a sound system or a lot of food}[t-n]. {On the other hand}[l], {(the special event)[s] may[x] already be[v] over}[t-n]. {You[s] can[s] see[v] flower petals}[t-n] {in the bottom right part of the photo}[e-p].
 
-{(Taking pictures like this)[s] is[x] tricky}[t-n].  {People[s] can[x] look[v] taller or shorter than they really are[x]}[t-n]. {(The perspective in the image)[s] makes[vxs] the red pickup truck look small next to the person walking down the street}[t-n]. {Someone[s] had[x] parked[v] it on the sidewalk}[t-p], but[j] {we (can't)[x] tell[v] how wide the sidewalk is[x]}[t-n]. 
+{(To really learn)[inf] how x-words match subjects}[f-r], {you[s] have[x] (to look)[inf] for them in what you read and write}[t-n]. 
+{When you[s] practice finding x-words, subjects and verbs}[f-t], {stop[v] and check[v]}[t-n]. {Pay attention to which subjects are next to which x-words}[t-n]. {Do[x] they[s] follow the rules above}[t-n-nq]?
