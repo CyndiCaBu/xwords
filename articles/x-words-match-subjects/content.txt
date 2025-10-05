@@ -1,7 +1,7 @@
 {(To learn)[inf] how x-words match subjects}[f-r], {we[s] can[x] divide[v] them into four groups}[t-n], {going from smaller to bigger}[extra].
 
 # Am[x]
-{(Only one subject)[s] matches[vxs] this x-word}[t-n]: {I}[x][extra].
+{(Only one subject)[s] matches[vxs] this x-word}[t-n]: {I}[x].
 
 {I[s] am[x] not sure which town you can[x] see in the photo above}[t-n], but[j] {I[s] am[x] clear about the country}[t-n]:  {Ecuador}[extra].
 
@@ -9,7 +9,7 @@
 
 {We[s] use[v] these x-words with the pronoun you and with plural subjects like we, they and people}[t-n].
 
-{(The blue and white balloons in the picture)[s] are[x] next to the street for a reason}[t-n]. Maybe[l] {they[s] were[x] like a fence (to protect)[inf] the soil on the left}[t-n]. Perhaps[l] {people[s] were[x] planning[v] (to plant)[inf] some plants and trees (to clean)[inf] the air and provide[v] shade}[t-n]. {Plants[s] do[x] a good job of that}[t-n], and[j] {they[s] have[x] also been[v] known[v] (to help)[inf] us relax}[t-n].
+{(The blue and white balloons in the picture)[s] are[x] next to the street for a reason}[t-n]. Maybe[l] {they[s] were[x] like a fence (to protect)[inf] the soil on the left}[t-n]. Perhaps[l] {people[s] were[x] planning[v] (to plant)[inf] some plants and trees for fresher air and more shade}[t-n]. {Plants[s] do[x] a good job of that}[t-n], and[j] {they[s] have[x] also been[v] known[v] (to help)[inf] us relax}[t-n].
 
 # Does[x], Has[x], Is[x], Was[x]
 
@@ -21,9 +21,9 @@
 
 # Did[x], Had[x], and the 9 Modals: can[x], could[x], will[x], would[x],  shall[x], should[x], must[x], might[x], and may[x]
 
-{(These x-words)[s] match[v] every subject you[s] can[x] think of}[t-n]. 
+{(These x-words)[s] match[v] every subject}[t-n]. 
 
-{(The balloons in the picture)[s] could[x] be[v] from a party}[t-n]. {(The person walking down the street)[s] might[x] have[v] been selling hats}[t-n] {because it looks like they were[x] wearing[v] many of them in different colors}[e-r]. {(The truck)[s] would[x] have[v] been useful for taking a sound system or a lot of food}[t-n]. {On the other hand}[l], {(the special event)[s] may[x] have[v] ended already}[t-n]. {You[s] can[s] see[v] flower petals}[t-n] {in the bottom right part of the photo}[e-p].
+{(The balloons in the picture)[s] could[x] be[v] from a party}[t-n]. {(The person walking down the street)[s] might[x] have[v] been[v] selling hats}[t-n] {because it looks like they were[x] wearing[v] many of them in different colors}[e-r]. {(The truck)[s] would[x] have[v] been[v] useful for taking a sound system or a lot of food}[t-n]. {On the other hand}[l], {(the special event)[s] may[x] have[v] ended[v]already}[t-n]. {You[s] can[x] see[v] flower petals}[t-n] {in the bottom right part of the photo}[e-p].
 
 {(To really learn)[inf] how x-words match subjects}[f-r], {you[s] need[v] (to look)[inf] for them in what you read and write}[t-n]. 
 {Stop[v] and check[v] the rules above}[t-n]. {Do[x] they[s] make[v] sense}[t-n-nq]?
