@@ -23,7 +23,7 @@
 
 {(These x-words)[s] match[v] every subject}[t-n]. 
 
-{(The balloons in the picture)[s] could[x] be[v] from a party}[t-n]. {(The person walking down the street)[s] might[x] have[v] been[v] selling hats}[t-n] {because it looks like they were[x] wearing[v] many of them in different colors}[e-r]. {(The truck)[s] would[x] have[v] been[v] useful for taking a sound system or a lot of food}[t-n]. {On the other hand}[l], {(the special event)[s] may[x] have[v] ended[v]already}[t-n]. {You[s] can[x] see[v] flower petals}[t-n] {in the bottom right part of the photo}[e-p].
+{(The balloons in the picture)[s] could[x] be[v] from a party}[t-n]. {(The person walking down the street)[s] might[x] have[v] been[v] selling hats}[t-n] {because it looks like they were[x] wearing many of them in different colors}[e-r]. {(The truck)[s] would[x] have[v] been[v] useful for taking a sound system or a lot of food}[t-n]. {On the other hand}[l], {(the special event)[s] may[x] have[v] ended[v] already}[t-n]. {You[s] can[x] see[v] flower petals}[t-n] {in the bottom right part of the photo}[e-p].
 
 {(To really learn)[inf] how x-words match subjects}[f-r], {you[s] need[v] (to look)[inf] for them in what you read and write}[t-n]. 
 {Stop[v] and check[v] the rules above}[t-n]. {Do[x] they[s] make[v] sense}[t-n-nq]?
