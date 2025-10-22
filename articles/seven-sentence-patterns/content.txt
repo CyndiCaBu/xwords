@@ -1,12 +1,12 @@
 {(Written English)[s] uses[v] seven sentence patterns}[t-n]. {(These patterns)[s] can[x] make[v] short sentences or long ones}[t-n]. {They[s] all have[v] one point in common}[t-n]: {SVO}[extra].
 
-{(Business writing)[s] uses[v] concise sentences}[t-n]. {It[s] gets[v] straight to the point}[t-n], {using enough words (to explain)[inf] but[j] nothing more than needed}[extra]. (For example)[l], {(a business email message)[s] might[x] have[v] only two or three lines}[t-n]. {It[s] greets[v] the reader, explains[v] the purpose of the email and ends[v] with gratitude}[t-n]. Period. 
+{(Business writing)[s] uses[v] concise sentences}[t-n]. {It[s] gets[v] straight to the point}[t-n]. (For example)[l], {(a business email message)[s] might[x] have[v] only two or three lines}[t-n]. {It[s] greets[v] the reader, explains[v] the purpose of the email and ends[v] with gratitude}[t-n]. Period. 
 
-{In other contexts}[f-p], {(the writing style)[s] depends[v] on the writer}[t-n]. {(Some people)[s] prefer[v] short, direct sentences}[t-n]. {Others[s] combine[v] sentence patterns (to write)[inf] long sentences}[t-n]. {(Learning these patterns)[s] can[x] help[v] you fix errors with missing subjects, verbs, periods and other parts of a sentence}[t-n].
+{In other contexts}[f-p], {(the writing style)[s] depends[v] on the writer}[t-n]. {(Some people)[s] prefer[v] short, direct sentences}[t-n]. {Others[s] combine[v] sentence patterns (to write)[inf] long sentences}[t-n]. {Whether your own writing is concise or not}[f-cd], {(knowing the basic patterns)[s] can[x] help[v] you write clearly}[t-n].
 
 So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v] them below and look[v] for clues}[t-n]. First[l] {use[v] the x-word (to find)[inf] the subject, verb and object}[t-n]: {SVO}[extra]. Then[l] {look[v] at the punctuation}[t-n]. {Do[x] you[s] see[v] any commas, dashes or other punctuation marks before the period}[t-n]? 
 
-{Punctuation[s] is[x] a clue to sentence patterns}[t-n]. {It[s]('s)[x] also a source of errors for many English learners}[t-n]. {(The solution)[s] is[x] attention to sentence patterns}[t-n] {whenever you read and write}[e-t]. {It[s] takes[v] time (to understand)[inf]}[t-n], but[j] eventually[l] {it[s] will[x] become[v] a useful habit}[t-n].
+{Punctuation[s] is[x] a clue to sentence patterns}[t-n]. {It[s]('s)[x] also a source of errors for many English learners}[t-n]. {(The solution)[s] is[x] attention to sentence patterns}[t-n] {whenever you read and write}[e-t]. {It[s] takes[v] time (to understand)[inf]}[t-n], but[j] eventually[l] {(looking for SVO)[s] will[x] become[v] a useful habit}[t-n].
 
 # SEVEN SENTENCE PATTERNS
 
@@ -14,11 +14,11 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 {(One subject)[s] goes[v] with one verb and one object}[t-n]. {This[s] is[x] the fundamental pattern}[t-n] {in written English}[e-p].
 
-(Examples)[title]: {(The picture above)[s] is[x] from a Mexican celebration}[t-p]. {It[s] was[x] taken[v] in 2018}[t-p].
+(Examples)[title]: {(The picture above)[s] is[x] from a Mexican celebration}[t-p]. 
 
 # SVO, plus SVO.
 
-{(This pattern)[s] uses[v] two SVO sentences}[t-n], {connected by a FANBOY}[extra]. {You[s] might[x] know[v] FANBOYS as coordinating conjunctions}[t-n]. {They[s]('re)[x] common words like and, but, so and a few more}[t-n].  {You[s] can[x] learn[v] more about them in the article about x-word grammar trunks}[t-n]. 
+{(This pattern)[s] uses[v] two SVO sentences connected by a FANBOY}[t-n] {and, but, so, and other coordinating conjunctions}[extra].  {You[s] can[x] learn[v] more about the FANBOYS in the article about x-word grammar trunks}[t-n]. 
 
 (Examples)[title]: {(Lots of people)[s] were[x] standing[v] together}[t-p], and[j] {(none of them)[s] were[x] wearing[v] masks}[t-p]. {Musicians[s] provided[v] live music}[t-p], and[j] {people[s] talked[v] to each other}[t-p]. {This[s] was[x] before the pandemic}[t-p], so {(most of us)[s] probably knew[v] very little about coronaviruses}[t-p]. {We[s] had[x] no clue how a tiny virus would[x] change[v] our lives}[t-p], but[j] {we[s] would[x] soon learn[v]}[t-p].
 
@@ -30,7 +30,7 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 # Shifter, SVO. 
 
-{(A shifter)[s] tells[v] you time, place, reason, contrast or condition}[t-n]. {It[s]('s)[x] a dependent clause that starts with words like words like when, under, because, and if}[t-n]. {(Shifters longer than three words)[s] use[v] a comma}[t-n], but[j] {(short shifters)[s] (don't)[x]}[t-n]. Sometimes[l] {(a shifter)[s] looks[v] like a complete sentence}[t-n] {because it has[v] SVO inside it}[e-r]. {(Don't)[x] let[v] that fool you}[t-n].
+{(A shifter)[s] tells[v] you time, place, reason, contrast or condition}[t-n]. {It[s]('s)[x] a dependent clause that starts with words like when, under, because, and if}[t-n]. {(Shifters longer than three words)[s] use[v] a comma}[t-n], but[j] {(short shifters)[s] (don't)[x]}[t-n]. Sometimes[l] {(a shifter)[s] looks[v] like a complete sentence}[t-n] {because it has[v] SVO inside it}[e-r]. {(Don't)[x] let[v] that fool you}[t-n]. {If a sentence starts with words like when, if, since and other shifter words}[f-cd], {it[s] might[x] have[v] SVO in two places}[t-n]: {the shifter and the main part}[extra].
 
 (Examples)[title]: {Under the trees}[f-p], {performers[s] waited[v] in the shade}[t-p]. {When it was[x] their turn}[f-t], {they[s] walked[v] onstage}[t-p].
 
@@ -48,6 +48,6 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 # S, extra info, VO. or SVO, extra info. 
 
-{(Using extra information about your subject, verb or object)[s] can[x] show[v] stronger writing}[t-n]. {Put[v] commas, colons, dashes or parentheses around the extra info to separate it from the main part}[t-n]. {If you can[x] identify extra info}[f-t], {you[s] can[x] read[v] better}[t-n]. {Writers[s] often use[v] extra info (to define)[inf] an unusual word or one in another language}[t-n], {usually by putting a comma after the word}[extra].
+{(Using extra information about your subject, verb or object)[s] can[x] show[v] stronger writing}[t-n]. {Put[v] commas, colons, dashes or parentheses around the extra information to separate it from the main part}[t-n]. {If you can[x] identify extra information}[f-t], {you[s] can[x] read[v] better}[t-n]. {Writers[s] often use[v] it (to define)[inf] an unusual word or one in another language}[t-n], {usually by putting a comma after the word}[extra].
 
-(Examples)[title]: {It[s] was[x] a beautiful day (to be)[inf] in the park}[t-p], {enjoying Guelaguetza}[extra]. {(My friend)[s], (a New Yorker from Mexico)[extra], complained[v] about families that (don't)[x] honor[v] traditional culture like that}[t-p]. {He[s] noticed[v] some young people around us looking bored}[t-p], {perhaps even ashamed}[extra]. {They[s] should[x] be[v] proud of their pre-colonial heritage}[t-n], {with its rich history and culture}[extra]. {If they valued it}[f-cd], {they[s] would[x] have[v] another reason (to feel)[inf] proud of themselves}[t-n].
+(Examples)[title]: {It[s] was[x] a beautiful day (to be)[inf] in Socrates Park}[t-p], {a public green space along the East River in Astoria}[extra]. {(My friend)[s], (a New Yorker from Mexico)[extra], complained[v] about families that (don't)[x] honor[v] traditional culture like Guelaguetza}[t-p]. {He[s] noticed[v] some young people around us looking bored}[t-p], {perhaps even ashamed}[extra]. {They[s] should[x] be[v] proud of their pre-colonial heritage}[t-n], {with its rich history and culture}[extra]. {If they valued it}[f-cd], {they[s] would[x] have[v] another reason (to feel)[inf] proud of themselves}[t-n].
