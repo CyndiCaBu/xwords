@@ -14,7 +14,7 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 {(One subject)[s] goes[v] with one verb and one object}[t-n]. {This[s] is[x] the fundamental pattern}[t-n] {in written English}[e-p].
 
-(Examples)[title]: {(The picture above)[s] is[x] from a Mexican celebration}[t-p]. 
+(Examples)[title]: {(The picture above)[s] is[x] from a Mexican celebration}[t-p]. {It[s] shows[vxs] lace, painted bowls with colorful flags, trees and more}[t-n].
 
 # SVO, plus SVO.
 
