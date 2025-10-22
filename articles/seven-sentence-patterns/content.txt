@@ -1,8 +1,8 @@
-{(Written English)[s] uses[v] seven sentence patterns}[t-n]. {(These patterns)[s] can[x] make[v] short sentences or long ones}[t-n]. {It[s] depends[v] on the writer's style and the context}[t-n].
+{(Written English)[s] uses[v] seven sentence patterns}[t-n]. {(These patterns)[s] can[x] make[v] short sentences or long ones}[t-n]. {They[s] all have[v] one point in common}[t-n]: {SVO}[extra].
 
 {(Business writing)[s] uses[v] concise sentences}[t-n]. {It[s] gets[v] straight to the point}[t-n], {using enough words (to explain)[inf] but[j] nothing more than needed}[extra]. (For example)[l], {(a business email message)[s] might[x] have[v] only two or three lines}[t-n]. {It[s] greets[v] the reader, explains[v] the purpose of the email and ends[v] with gratitude}[t-n]. Period. 
 
-{In other contexts}[f-p], {(the writing style)[s] depends[v] on the writer}[t-n]. {(Some people)[s] prefer[v] short, direct sentences}[t-n]. {Others[s] combine[v] sentence patterns (to write)[inf] long sentences}[t-n].  
+{In other contexts}[f-p], {(the writing style)[s] depends[v] on the writer}[t-n]. {(Some people)[s] prefer[v] short, direct sentences}[t-n]. {Others[s] combine[v] sentence patterns (to write)[inf] long sentences}[t-n]. {(Learning these patterns)[s] can[x] help[v] you fix errors with missing subjects, verbs, periods and other parts of a sentence}[t-n].
 
 So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v] them below and look[v] for clues}[t-n]. First[l] {use[v] the x-word (to find)[inf] the subject, verb and object}[t-n]: {SVO}[extra]. Then[l] {look[v] at the punctuation}[t-n]. {Do[x] you[s] see[v] any commas, dashes or other punctuation marks before the period}[t-n]? 
 
@@ -12,7 +12,7 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 # SVO.
 
-{(One subject)[s] goes[v] with one verb and one object}[t-n] {in the basic SVO pattern}[e-p].
+{(One subject)[s] goes[v] with one verb and one object}[t-n]. {This[s] is[x] the fundamental pattern}[t-n] {in written English}[e-p].
 
 (Examples)[title]: {(The picture above)[s] is[x] from a Mexican celebration}[t-p]. {It[s] was[x] taken[v] in 2018}[t-p].
 
@@ -50,4 +50,4 @@ So[l] {how can[x] you[s] learn[v] these seven sentence patterns}[t-n]? {Study[v]
 
 {(Using extra information about your subject, verb or object)[s] can[x] show[v] stronger writing}[t-n]. {Put[v] commas, colons, dashes or parentheses around the extra info to separate it from the main part}[t-n]. {If you can[x] identify extra info}[f-t], {you[s] can[x] read[v] better}[t-n]. {Writers[s] often use[v] extra info (to define)[inf] an unusual word or one in another language}[t-n], {usually by putting a comma after the word}[extra].
 
-(Examples)[title]: {It[s] was[x] a beautiful day (to be)[inf] in the park}[t-p], {enjoying Guelaguetza}[extra]. {(My friend)[s], (a New Yorker from Mexico)[extra], complained[v] about families that (don't)[x] honor[v] traditional culture like that}[t-p]. {He[s] noticed[v] some young people around us looking bored}[t-p], {perhaps even ashamed}[extra]. {They[s] should[x] be[v] proud of their pre-colonial heritage}[t-n], {with its rich history and culture}[extra]. {If they valued it}[f-cd], {they[s] would[x] have[v] another reason (to feel)[inf] proud of themselves}{t-n].
+(Examples)[title]: {It[s] was[x] a beautiful day (to be)[inf] in the park}[t-p], {enjoying Guelaguetza}[extra]. {(My friend)[s], (a New Yorker from Mexico)[extra], complained[v] about families that (don't)[x] honor[v] traditional culture like that}[t-p]. {He[s] noticed[v] some young people around us looking bored}[t-p], {perhaps even ashamed}[extra]. {They[s] should[x] be[v] proud of their pre-colonial heritage}[t-n], {with its rich history and culture}[extra]. {If they valued it}[f-cd], {they[s] would[x] have[v] another reason (to feel)[inf] proud of themselves}[t-n].
