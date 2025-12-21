@@ -10,7 +10,7 @@
  - have[x], has[x], had[x] (3 x-words in the HAVE group)
  - am[x], is[x], are[x], was[x], were[x] (5 x-words in the BE group)
 
-{(Memorizing these 20 x-words)[s] is[x] the first step in learning x-word grammar}[t-n].
+{(Memorizing these 20 x-words)[s] is[x] the first step in learning x-word grammar}[t-n]. {To practice}[f-r], {click[v] the x-words whenever you see them on this site and draw[v] an X over them whenever you see them in written English}[t-n-nq].
 
 # Use the X-Words
 
