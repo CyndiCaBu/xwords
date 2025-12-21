@@ -21,11 +21,11 @@
         "distractors": "is"
     },
     {
-       "statement": "It takes time and patience to learn.",
-       "question": "Does it take time and patience to learn?",
-       "tag_question": "It takes time and patience to learn, doesn't it?",
-       "negation": "It doesn't take time and patience to learn.",
-       "distractors": "was"
+       "statement": "You'll need time and patience to learn.",
+       "question": "Will you need time and patience to learn?",
+       "tag_question": "You'll need time and patience to learn, won't you?",
+       "negation": "You won't need time and patience to learn.",
+       "distractors": "do"
     },
     {
        "statement": "Memorizing the x-words comes first.",
