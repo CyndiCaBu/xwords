@@ -1,1 +1,13 @@
+{(To make)[inf] a very simple dessert like the one pictured above}[f-r], {you[s] only need[v] three ingredients}[t-n]: {cookies, ice cream and fruit}[extra]. First[l] {you[s] take the ice cream out of the freezer}[t-n] so[j] {it (won't)[x] be[v] too hard}[t-n]. Then[l] {you[s] crush[v] the cookies and spread[v] them on a pan}[t-n]. {(This order)[s] matters[v]}[t-n] {because the cookies are[x] your base}[e-r], so[j] {they[s] should[x] go[v] on the bottom}[t-n]. Next[l] {you[s] scoop[v] the ice cream onto the cookies and smooth[v] it out}[t-n]. Finally[l], {you[s] add[v] the fruit on top}[t-n]. {You[s] could[x] change[v] this order}[t-n], {putting the fruit in the middle if you want}[extra]. {(The only order that really matters)[s] is[x] time}[t-n]: {taking the cream and the frozen fruit, if that('s)[x] the kind you[s]'re using, out of the freezer as soon as you[s] start}[extra].  {(The order of the cookies and the fruit)[s] (isn't)[x] as important}[t-n].
 
+{In x-word grammar}[f-p], {order[s] matters[v] more}[t-n]. {It('s)[x] the difference between questions and answers}[t-n]. {Notice[v] the position of the x-words below}[t-n]:
+
+{Can[x] you[s] recognize[v] the berries on this dessert}[t-n-nq]?
+
+{You[s] can[x] recognize[v] the berries on this dessert}[t-n]. 
+
+{Would[x] you[s] like[v] (to try)[inf] making it}[t-n-nq]?
+
+{You[s] would[x] like[v] (to try)[inf] making it}[t-n].
+
+{Did[x] you[s] notice[v] the word order}[t-n-nq]? {(The x-word)[s] goes[vxs] first}[t-n] {in questions}[e-p]. {It[s] goes[vxs] second}[t-n], {after the subject}[extra], {in short answers and statements}[e-p]. {Try[v] (to notice)[inf] this}[t-n-nq].
