@@ -7,10 +7,10 @@
         "distractors": "do, are"
     },
     {
-       "statement": "We call these 20 words x-words.",
-       "question": "Do we call these 20 words x-words?",
-       "tag_question": "We call these 20 words x-words, don't we?",
-       "negation": "We don't call these 20 words x-words.",
+       "statement": "We call them x-words.",
+       "question": "Do we call them x-words?",
+       "tag_question": "We call them x-words, don't we?",
+       "negation": "We don't call them x-words.",
       "distractors": "are"
     },
     {
