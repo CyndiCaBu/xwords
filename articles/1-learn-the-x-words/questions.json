@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "English has 20 short words with a lot of power.",
+        "question": "Does English have 20 short words with a lot of power?",
+        "tag_question": "English has 20 short words with a lot of power, doesn't it?",
+        "negation": "English doesn't have 20 short words with a lot of power.",
+        "distractors": "do, are"
+    },
+    {
+       "statement": "We call these 20 words x-words.",
+       "question": "Do we call these 20 words x-words?",
+       "tag_question": "We call these 20 words x-words, don't we?",
+       "negation": "We don't call these 20 words x-words.",
+      "distractors": "are"
+    },
+    {
+        "statement": "Every complete sentence in written English has an x-word.",
+        "question": "Does every complete sentence in written English have an x-word?",
+        "tag_question": "Every complete sentence in written English has an x-word, doesn't it?",
+        "negation": "Not every complete sentence in written English has an x-word.",
+        "distractors": "is"
+    },
+    {
+       "statement": "It takes time and patience to learn.",
+       "question": "Does it take time and patience to learn?",
+       "tag_question": "It takes time and patience to learn, doesn't it?",
+       "negation": "It doesn't take time and patience to learn.",
+       "distractors": "was"
+    },
+    {
+       "statement": "Memorizing the x-words comes first.",
+       "question": "Does memorizing the x-words come first?",
+       "tag_question": "Memorizing the x-words comes first, doesn't it?",
+       "negation": "Memorizing the x-words does not come first.",
+       "distractors": "is"
+    }
+]
