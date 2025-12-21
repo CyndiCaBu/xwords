@@ -2,13 +2,13 @@
 
 # Learn the X-Words
 
- - do[x], does[x], did[x]
- - can[x], could[x]
- - will[x], would[x]
- - shall[x], should[x]
- - must[x], might[x], may[x]
- - have[x], has[x], had[x]
- - am[x], is[x], are[x], was[x], were[x]
+ - do[x], does[x], did[x] (3 x-words in the DO group)
+ - can[x], could[x] (2 of the modals)
+ - will[x], would[x] (2 more modals)
+ - shall[x], should[x] (2 more modals)
+ - must[x], might[x], may[x] (the last 3 modals)
+ - have[x], has[x], had[x] (3 x-words in the HAVE group)
+ - am[x], is[x], are[x], was[x], were[x] (5 x-words in the BE group)
 
 {(Memorizing these 20 x-words)[s] is[x] the first step in learning x-word grammar}[t-n].
 
