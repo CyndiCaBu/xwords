@@ -1,1 +1,37 @@
-
+[
+    { 
+      "statement": "You only need three ingredients.",
+      "question": "Do you only need three ingredients?",
+      "tag_question": "You only need three ingredients, don't you?",
+      "negation": "You don't need only three ingredients.",
+      "distractors": "are"
+    },
+    {
+      "statement": "The order matters.",
+      "question": "Does the order matter?",
+      "tag_question": The order matters, doesn't it?",
+      "negation": "The order doesn't matter.",
+      "distractors": "is"
+         },
+    {
+        "statement": "You can recognize the berries.",
+        "question": "Can you recognize the berries?",
+        "tag_question": "You can recognize the berries, can't you?",
+        "negation": "You can't recognize the berries.",
+        "distractors": "do"
+    },
+    {
+       "statement": "The x-word goes first in questions.",
+       "question": "Does the x-word go first in questions?",
+       "tag_question": "The x-word goes first in questions, doesn't it?",
+       "negation": "The x-word doesn't go first in questions.",
+       "distractors": "is"
+    },
+    {
+       "statement": "You would like to make this dessert.",
+       "question": "Would you like to make this dessert?",
+       "tag_question": "You would like to make this dessert, wouldn't you?",
+       "negation": "You wouldn't like to make this dessert.",
+       "distractors": "will"
+    }
+]
