@@ -28,10 +28,10 @@
        "distractors": "were, does"
     },
     {
-       "statement": "Lots of tourists visit Cape May.",
-       "question": "Do lots of tourists visit Cape May?",
-       "tag_question": "Lots of tourists visit Cape May, don't they?",
-       "negation": "Lots of tourists don't visit Cape May.",
+       "statement": "Cape May diamonds shine when wet.",
+       "question": "Do Cape May diamonds shine when wet?",
+       "tag_question": "Cape May diamonds shine when wet, don't they?",
+       "negation": "Cape May diamonds don't shine when wet.",
        "distractors": "are, did"
     }
 ]
