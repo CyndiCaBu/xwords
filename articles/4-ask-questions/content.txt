@@ -1,0 +1,67 @@
+{Do[x] you[s] know[v] how (to ask)[v] questions in English}[t-n-nq], {in both the present and the past}[extra]? {Do[x] you[s] know[v] how (to change)[inf] a statement to a question}[t-n-nq]? {If you know the 20 x-words and some of their powers}[f-cd], {(your answers)[s] should[x] be[v] yes}[t-n]. {There[s] are[x] two main ways (to do)[inf] this}[t-n].
+
+# Change the Word Order
+
+{When you can[x] see the x-word}[f-t], {just move[v] it to a different position}[t-n] - {in front of the subject}[extra].  
+
+# Examples of Statements and Questions
+
+{(This picture)[s] was[x] taken[v] by a friend in Colombia}[t-p]. {Notice[v] that the subject is[x] first and the x-word is[x] second}[t-n-nq] {in this statement}[e-p].
+
+{Was[x] (this picture)[s] taken[v] by a friend in Colombia}[t-p-nq]? Here[l] {(the x-word)[s] is[x] first}[t-n] {because this is[x] a question}[e-r].
+
+{You[s] could[x] guess[v] that he likes the mountains}[t-n]. {(The subject)[s] goes[vxs] first}[t-n] {in statements}[e-p].
+
+{Could[x] you[s] guess[v] that he likes the mountains}[t-n-nq]? Again[l], {(the x-word)[s] goes[vxs] first}[t-n] {in questions}[e-p].
+
+{You[s] would[x] be[v] right}[t-n].
+{Would[x] you[s] be[v] right}[t-n-nq]?
+
+# Use a Hidden X-Word
+
+{When you (can't)[x] see the x-word}[f-t], {you[s] need[v] one of the three hidden x-words}[t-n]: 
+
+ - {do}[x]
+ - {does}[x]
+ - did[x]
+
+{To figure out which one to use}[f-r], {look[v] at the main verb}[t-n]. {Which (x-word)[s] is[x] hiding[v] inside it}[t-n-nq]? {Can[x] you[s] recognize[v] the clues}[t-n-nq]? 
+
+# Do
+
+{If the verb is[x] in the base form in a statement}[f-cd], {use[v] do[x] (to ask)[inf] the question}[t-n]. {Keep[v] the verb in the base form}[t-n]. {For example}[l]:
+
+{(My friend and his family)[s] appreciate[v] their country house}[t-n].
+{Do[x] (my friend and his family)[s] appreciate[v] their country house}[t-n-nq]?
+
+{They[s] love[v] spending time in nature}[t-n].
+{Do[x] they[s] love[v] spending time in nature}[t-n-nq]?
+
+# Does
+
+{If the verb ends in S in a statement}[f-cd], {use[v] does[x] (to ask)[inf] the question}[t-n]. {Change[v] the verb to the base form}[t-n], {too}[extra]. {For instance}[l]:
+
+{(Mountain air)[s] feels[v] clean}[t-n].
+{Does[x] (mountain air)[s] feel[v] clean}[t-n-nq]?
+
+{(This view of the mountains)[s] reminds[v] me of Ecuador}[t-n].
+{Does[x] it[s] remind[v] me of Ecuador}[t-n-nq]?
+
+# Did
+
+{If the verb is[x] in the simple past in a statement}[f-cd], {use[v] did[x] (to ask)[inf] the question}[t-n]. {Change[v] the verb to the base form}[t-n].
+
+{(The bird)[s] flew[v] over the fields}[t-p].
+{Did[x] (the bird)[s] fly[v] over the fields}[t-p-nq]?
+
+{(The clouds)[s] came[v] in quickly}[t-p].
+{Did[x] (the clouds)[s] come[v] in quickly}[t-p-nq]?
+
+# X-Words Matter
+
+Sometimes[l] {we[s] (don't)[x] hear[v] the x-words in questions}[t-n], {especially not in conversations}[extra]. However[l], {we[s] need[v] (to use)[inf] them (to make)[inf] the meaning clear}[t-n]. {Consider[v] the difference between these questions}[t-n]:
+
+{Did[x] you[s] buy[v] a house}[t-p-nq]?
+{Can[x] you[s] buy[v] a house}[t-n-nq]?
+{Should[x] you[s] buy[v] a house}[t-n-nq]?
+{Will[x] you[s] buy[v] a house}[t-n-nq]?
