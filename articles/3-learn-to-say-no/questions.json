@@ -21,10 +21,10 @@
         "distractors": "was, do"
     },
     {
-       "statement": "I will respect that and adjust my plan.",
-       "question": "Will I respect that and adjust my plan?",
-       "tag_question": "I will respect that and adjust my plan, won't I?",
-       "negation": "I won't respect that or adjust my plan.",
-       "distractors": "can, am"
+       "statement": "I will respect that.",
+       "question": "Will I respect that?",
+       "tag_question": "I will respect that, won't I?",
+       "negation": "I won't respect that.",
+       "distractors": "can, would"
     }
 ]
