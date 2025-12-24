@@ -17,11 +17,11 @@
 {We[s] use[vxo] x-words to}[t-n]:
 
  - ask questions
- - give short answers
  - make negative statements
+ - give short answers
+ - show time
  - find subjects and verbs
- - show time: now? before? both?
- - show number: match the x-word to the subject
+ - show number
  - add meaning: express opinions, be polite, etc.
 
 {(Every complete sentence in written English)[s] has[v] an x-word}[t-n] - {even if you (don't)[x] see one}[t-n]. {(Three of the x-words)[s] can[x] hide[v] inside the verb}[t-n], but[j] {you[s] can[x] find[v] them by making questions or negative statements}[t-n].
