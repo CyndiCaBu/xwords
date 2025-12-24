@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "X-words show time.",
+        "question": "Do x-words show time?",
+        "tag_question": "X-words show time, don't they?",
+        "negation": "X-words don't show time.",
+        "distractors": "does, is, was"
+    },
+    {
+       "statement": "Eleven of them do it very clearly.",
+       "question": "Do eleven of them do it very clearly?",
+       "tag_question": "Eleven of them do it very clearly, don't they?",
+       "negation": "Eleven don't do it very clearly.",
+       "distractors": "are, did"
+    },
+   {
+        "statement": "The context helps.",
+        "question": "Does the context help?",
+        "tag_question": "The context helps, doesn't ity?",
+        "negation": "The context doesn't help.",
+        "distractors": "did, is"
+    },
+    {
+        "statement": "The past can connect to the present.",
+        "question": "Can the past connect to the present?",
+        "tag_question": "The past can connect to the present, can't it?",
+        "negation": "The past can't connect to the present.",
+        "distractors": "do, could "
+    }
+]
