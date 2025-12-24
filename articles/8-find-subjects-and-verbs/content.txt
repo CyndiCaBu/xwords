@@ -1,19 +1,51 @@
-{How do[x] you[s] know[v] what the colors mean on this website}[t-n-nq]? {They[s]('re)[x] not as obvious as the red chili pepper seasoning on this Mexican street corn}[t-n]. {Even if you('ve)[x] never eaten that}[f-cd], {you[s] can[x] guess[v] that red means spicy}[t-n]. However[l], {on this website}[f-p], {you[s] can[x] either figure[v] out the colors based on experience or read[v] about them below}[t-n].
+{What do[x] you[s] remember[v] learning about the 20 x-words}[t-n-nq]? {So far}[l], {you[s] should[x] know[v] that we use them (to think)[inf] about grammar in several ways}[t-n]:
 
-{(X-words)[s] are[x] all a light shade of aqua}[t-n].
+ - ask questions and tag questions
+ - make negative statements
+ - give short answers
+ - find hidden x-words
+ - figure out the time in a sentence
 
-{Subjects[s] are[x] all yellow}[t-n-nq].
+{We[s] learned[vxd] a bit about finding subjects and verbs}[t-p], but[j] {it[s]('s)[x] time (to go)[inf] deeper with that}[t-n].
 
-{You[s] might[x] call[v] the main verb color pink}[t-n-nq], {or pink with a bit of lavender}[extra].
+{(Most of the X-words)[s] can[x] act[v] as either helping verbs}[t-n], {the way the modals do}[extra], {or main verbs}[extra]. {(The modals)[s] are[x] the only x-words that (can’t)[x] act as main verbs}[t-n]. {They[s] always serve[v] as auxiliary verbs}[t-n], {helping out by adding meaning, expressing opinions and more}[extra]. (To review)[inf], {(the nine modals)[s] are}[t-n]:
 
-{(Verbs with hidden x-words)[s] are[x] light blue}[t-n]. {They[s] have[vxo] do[x], does[x] or did[x] hiding inside them}[t-n].
+ - can
+ - could
+ - will
+ - would
+ - shall
+ - should
+ - must
+ - might
+ - may
 
-{(The SVO pattern)[s] is[x] light yellow with a bit of orange or tan}[t-n]. {You[s] can[x] see[v] it}[t-n] {if you[s] click the Trunks exercise below and start finding SVO}[e-cd].
+{(The other eleven x-words)[s] are[x] next}[t-n]:
 
-{Infinitives[s] are[x] circled in green}[t-n].
+ - do[x], does[x], did[x]
+ - have[x], has[x], had[x]
+ - am[x], is[x], are[x], was[x], were[x]
 
-{(Shifters like the one above)[s] are[x] light green}[t-n]. {They[s]('re)[x] the dependent clauses that tell you[s] about time, place, reason, contrast and condition}[t-n]. {They[s] start[vxo] with words like when, in, because, although and if}[t-n]. 
+{These can[x] alll act[v] as either  x-words or main verbs}[t-n]. {How can[x] you[s] tell[v] the difference between}[t-n-nq]? {As usual}[l], {(the first step)[s] is[x] (to find)[inf] the x-word}[t-n]. Then[l] {look[v] for the subject and verb}[t-n-nq]. 
 
-{Linkers[s] are[x] dark orange}[t-n]. {Also known as transition words}[extra], {they[s] include[vxo] words and phrases like however, suddenly, on the other hand and more}[t-n].
+{Practice[v] with the sentence below}[t-n-nq], but[j] first[l] {scroll[v] down and click[v] the XSV button under this article}[t-n-nq]. Then[l] {read[v] the sentence and click[v] the x-word}[t-n-nq]. {It[s] should[x] turn[v] aqua}[t=n-nq]. Next[l] {look[v] to the left of the x-word and click the subject}[t-n-nq]. {It[s] should[x] turn[v] yellow}[t-n-nq]. Finally[l], {look[v] to the right of the x-word and click the main verb}[t-n-nq]. {It[s] should[x] turn[v] to a mix of pink and lavender}[t-n-nq].
 
-{(Extra information)[s] is[x] a bright, light purple}[t-n].
+{(Doing this)[s] will[x] help[v] you develop a sense of word order and sentence structure}[t-n]. 
+
+{Because the x-word above is a modal}[f-r], {it[s]('s)[x] a helping verb}[t-n]. 
+
+{When you only see an x-word}[f-cd], {without a verb next to it}[extra], {(that x-word)[s]  is[x] the main verb}[t-n]. {(The passage below)[s] uses[v] x-words as main verbs}[t-n].
+
+# X-word as Main Verbs
+
+{Sylhet[s] is[x] a city in Bangladesh}[t-n]. {It[s] has[x] many tea gardens}[t-n], {like the one pictured above}[extra]. {They[s] are[x] green and lush}[t-n] {because tea grows well in a tropical climate}[e-r]. {(Many women)[s] do[x] the hard work of harvesting tea leaves and carrying them to the processing areas}[t-n]. {That way}[l] {they[s] have[x] a chance (to earn)[inf] an income}[t-n], but[j] {is[x] it[s] fair}[t-n-nq]? {Not according to Srimoti Bauri, a Bengali woman who works in a tea garden and organizes her fellow workers}[extra]. 
+
+{(This type of economic injustice)[s] is[x] not new}[t-n-nq] {in Sylhet or around the world}[e-p]. {(Women’s earnings where Ms. Bauri worked)[s] were[x] typically half of men’s}[t-n] {even though they all did[x] the same tasks}[e-ct]. {Why was[x] (gender discrimination)[s] part of the job}[t-n-nq]? {Is[x] it possible (to improve)[inf] this situation}[t-n-nq]?
+
+# X-word as Helping Verbs
+
+{(The passage)[s] continues[v] with x-words as helping verbs}[t-n], {adding meaning, showing time and negative, etc}[extra].
+
+{(Ms. Bauri and other female tea garden workers)[s] have[x] worked[v] for progress}[t-b] {for years}[e-t]. {(Ms. Bauri)[s] has[x] collaborated[v] with the United Nations (to organize)[inf] training sessions and other types of support}[t-b]. {(Workers who do[x] the same tasks)[s] should[x] be[v] paid the same amount}[t-n], {regardless of gender or social status}[extra]. 
+
+{It[s] (doesn’t)[x] matter[v] if progress on equal wages is[x] difficult}[t-n]. {It[s](‘s)[x] essential}[t-n]. {(The world)[s] has[x] changed[v]}[t-b], and {we[s] do[x] not need[v] (to repeat)[inf] the errors of the past}[t-n-nq]. {Injustice[s] is[x] an error}[t-n], so {it[s](‘s)[x] time (to correct)[inf] it}[t-n]. {Do[x] you[s] understand[v] why}[t-n-nq]?
