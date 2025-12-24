@@ -3,16 +3,14 @@
 {In x-word grammar}[f-p], {order[s] matters[v] more}[t-n]. {It[s]('s)[x] the difference between questions and answers}[t-n]. {Notice[v] the position of the x-words below}[t-n]:
 
 # Questions
- {Can[x] you[s] recognize[v] the berries on this dessert}[t-n-nq]?
-
- {You[s] can[x] recognize[v] the berries on this dessert}[t-n]. 
+{Can[x] you[s] recognize[v] the berries on this dessert}[t-n-nq]?
+{Would[x] you[s] like[v] (to try)[inf] making it}[t-n-nq]?
 
 # Answers
- {Would[x] you[s] like[v] (to try)[inf] making it}[t-n-nq]?
+{Yes, I[s] can[x] recognize[v] the berries on this dessert}[t-n]: {strawberries, blackberries and raspberries}[extra]. 
+{I[s] would[x] like[v] (to try)[inf] making it}[t-n] {in the summer}[e-t].
 
- {You[s] would[x] like[v] (to try)[inf] making it}[t-n].
-
-{Did[x] you[s] notice[v] the word order}[t-n-nq]? {(The x-word)[s] goes[vxs] first}[t-n] {in questions}[e-p]. {It[s] goes[vxs] second}[t-n], {after the subject}[extra], {in short answers and statements}[e-p]. {Try[v] (to notice)[inf] this}[t-n-nq].
+{As you can[x] see above}[l], {(the x-word)[s] goes[vxs] first}[t-n] {in questions}[e-p]. {It[s] goes[vxs] second}[t-n], {after the subject}[extra], {in short answers and statements}[e-p].
 
 {(The questions above)[s] are[x] all yes/no questions}[t-n], {where the typical answer is either yes or no}[extra]. 
 
