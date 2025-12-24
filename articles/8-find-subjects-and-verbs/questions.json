@@ -1,30 +1,30 @@
 [
     {
-        "statement": "Verbs with hidden x-words are light blue.",
-        "question": "Are verbs with hidden x-words light blue?",
-        "tag_question": "Verbs with hidden x-words are light blue, aren't they?",
-        "negation": "Verbs with hidden x-words aren't light blue.",
+        "statement": "The modals are always helping verbs.",
+        "question": "Are the modals always helping verbs?",
+        "tag_question": "The modals are always helping verbs, aren't they?",
+        "negation": "The modals aren't always helping verbs.",
         "distractors": "do, were"
     },
     {
-       "statement": "You can guess that red means spicy.",
-       "question": "Can you guess that red means spicy?",
-       "tag_question": "You can guess that red means spicy, can't you?",
-       "negation": "You can't guess that red means spicy.",
+       "statement": "The other x-words can act as main verbs.",
+       "question": "Can the other x-words act as main verbs?",
+       "tag_question": "The other x-words can act as main verbs, can't they?",
+       "negation": "The other x-words can't act as main verbs.",
        "distractors": "are, could"
     },
     {
-        "statement": "They have do, does or did hiding inside them.",
-        "question": "Do they have do, does or did hiding inside them?",
-        "tag_question": "They have do, does or did hiding inside them, don't they?",
-        "negation": "They don't have do, does or did hiding inside them.",
+        "statement": "The subject is to the right of the x-word in questions.",
+        "question": "Is the subject to the right of the x-word in questions?",
+        "tag_question": "The subject is to the right of the x-word in questions, isn't it?",
+        "negation": "The subject isn't to the right of the x-word in questions.",
         "distractors": "did, was"
     },
     {
-       "statement": "Shifters start with words like when, if, etc.",
-       "question": "Do shifters start with words like when, if, etc?",
-       "tag_question": "Shifters start with words like when, if, etc, don't they?",
-       "negation": "Shifters don't start with words like when, if, etc.",
-       "distractors": "could, would"
+       "statement": "Clicking XSV on this site helps you learn more.",
+       "question": "Does clicking XSV on this site help you learn more?",
+       "tag_question": "Clicking XSV on this site helps you learn more, doesn't it?",
+       "negation": "Clicking XSV on this site doesn't help you learn more.",
+       "distractors": "is, do"
     }
    ]
