@@ -1,0 +1,41 @@
+{X-words[s] help[vxo] us with short answers}[t-n] {in brief conversations like this}[e-p]:
+
+{Did[x] you[s] see[v] the cow}[t-n-nq]?
+{Yes, I[s] did[x]}[t-n].
+{Was it OK}[t-n-nq]?
+{Yes, it[s] was[x]}[t-p].
+
+{We[s] also use[vxo] x-words for tag questions}[t-n]. {These[s] are[x] short}[t-n], {made of just an x-word and a subject}[extra]. {Compare[v] the conversation below with the one above}[t-n-nq].
+
+{You[s] saw[vxd] the cow}[t-p], {(didn't)[x] you[s]}[t-p-nq]?
+{Yes, I[s] saw[vxd] it in the barn with the other ones}[t-p].
+{It[s] was[x] OK}[t-p], {(wasn't)[x] it[s]}[t-p-nq]?
+{It[s] looked fine to me}[t-p].
+
+{(The tag questions above)[s] are[x] at the end of each sentence}[t-p]. {In these examples}[f-p], {they[s] are[x] used[dtn] (to make)[inf] sure something happened}[t-n]. {This[s] is[x] one of them main purposes of tag questions}[t-n]: {double-checking some information}[extra]. {Although you (can't)[x] hear it here}[f-ct], {(the intonation)[s] goes[vxs] up}[t-n] {at the end of this type of tag question}[e-p].
+
+{(Another reason (0(to use)0)[inf] tag questions)[s] is[x] (to make)[inf] conversation}[t-n]. {For example}[l], {if you are[x] trying (to talk)[inf] about the image above}[f-cd], {you[s] can[x] use[v] one of the following options}[t-n]. {In these}[l], {(your voice)[s] goes[vxs] down a bit at the end}[t-n].
+
+{(That wall)[s] has[vxs] a big crack}[t-n], {(doesn't)[x] it[s]}[extra]?
+{That[s]('s)[x] a cow in there}[t-n], {(isn't)[x] it[s]}[extra]?
+
+{In these tag questions}[f-p], {you[s]('re)[x] just making[v] conversation or looking[v] for someone to agree with you}[t-n], {like this}[extra]:
+
+{It[s]('s)[x] a beautiful day}[t-n], {(isn't)[x] it[s]}[t-n-nq]?
+{It[s] sure is[x]}[t-n]. {(The weather)[s]('s)[x] great}[t-n].
+
+{(The rules for tag questions)[s] are[x] fairly clear}[t-n], {as long as you keep these two points in mind}[extra]:
+
+ - use contractions for the tag
+ - check verbs and x-words for affirmative or negative
+ - check subjects for singular (he, she, it, you or I) or plural (they, you or we)
+
+{If the verb in the main sentence is[x] affirmative}[f-cd], {(the tag at the end)[s] is[x] negative}[t-n], {like this}[extra]:
+
+{Cows[s] are[x] big}[t-n], {(aren't)[x] they[s]}[t-n-nq]?
+
+ {If the verb in the main sentence is[x] negative}[f-cd], {(the tag at the end)[s] is[x] affirmative}[t-n]. 
+
+{(That wall)[s] (wasn't)[x] broken[dtn] last month}[t-p-nq], {was[x] it[s]}[t-p]?
+
+{You[s] can[x] practice[v] making tag questions with most articles}[t-n] {on this website}[e-p]. {Look[v] for that option under any article here}[t-n-nq].
