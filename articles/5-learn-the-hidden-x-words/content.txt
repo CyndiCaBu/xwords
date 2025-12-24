@@ -6,7 +6,7 @@
 
 {(To find)[inf] hidden x-words}[f-r], {you[s] can[x] change[v] a statement to a question or make[v] it negative}[t-n]. {(Doing that)[s] makes[v] the x-words visible}[t-n].
 
- # HIDDEN DOES[x]
+ # Hidden Does[x]
 
 {(The S on the end of a verb)[s] is[x] from hidden does[x]}[t-n]. {For example}[l]:
 
@@ -16,10 +16,9 @@
 
  - {Sonia[s] (doesn't)[x] live[v] in Cape May}[t-n-nq]. {She[s] (doesn't)[x] love[v] that area}[t-n].
 
- # HIDDEN DID[x]
+ # Hidden Did[x]
 
 {(The -ed ending or irregular simple past form)[s] is[x] from hidden did[x]}[t-n]. {For instance}[l], {(the verb look)[s] is[x] regular}[t-n], so[j] {(the past)[s] ends[vxs] in -ed}[t-n]. {(The verb send)[s] is[x] irregular}[t-n]; {(the past)[s] ends[vxs] in T}[t-n]. 
-
 
  - {She[s] looked[vxd] for Cape May diamonds}[t-p]. {She[s] sent[v] us this picture}[t-p].
 
@@ -27,7 +26,7 @@
 
  - {She[s] (didn't)[x] look[v] for Cape May diamonds}[t-p]. {She[s] (didn't)[x] send[v] us this picture}[t-p].
 
- # HIDDEN DO[x]
+ # Hidden Do[x]
 
 {(The base form of any main verb)[s] has[x] hidden do[x] hiding inside it}[t-n]. 
 
@@ -37,7 +36,7 @@
 
  - {Birdwatchers[s] (don't)[x] visit[v] Cape May with binoculars and cameras}[t-n-nq]. {(Others)[s] (don't)[x] go[v] for the monarch butterfly migration}[t-n].
 
-# REVIEW[v]
+# Review[v]
 
 {How many (x-words)[s] can[x] hide[v]}[t-n-nq]?
 Which ones? 
