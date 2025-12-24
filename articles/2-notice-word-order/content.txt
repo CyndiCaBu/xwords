@@ -10,13 +10,14 @@
 {Yes, I[s] can[x] recognize[v] the berries on this dessert}[t-n]: {strawberries, blackberries and raspberries}[extra]. 
 {I[s] would[x] like[v] (to try)[inf] making it}[t-n] {in the summer}[e-t].
 
+# Word Order
 {As you can[x] see above}[l], {(the x-word)[s] goes[vxs] first}[t-n] {in questions}[e-p]. {It[s] goes[vxs] second}[t-n], {after the subject}[extra], {in short answers and statements}[e-p].
 
 {(The questions above)[s] are[x] all yes/no questions}[t-n], {where the typical answer is either yes or no}[extra]. 
 
+# Information Questions
 {(Information questions)[s] follow[vxo] the same order}[t-n]. {They[s] just start[v] with WH-words to ask for more specific information}[t-n]. 
 
-# Information Questions
 {What kind of cookies did[x] you[s] use[v] in that recipe}[t-p-nq]?
 
 {When did[x] you[s] take[v] the ice cream and frozen berries out of the freezer}[t-p-nq]?
@@ -26,4 +27,5 @@
 {Where did[x] you[s] use[v] frozen fruit instead of fresh}[t-p-nq]?
 
 {Which (ice cream flavor)[s] would[x] taste[v] good with those berries}[t-n-nq]?
+
 {(How many people)[s] enjoyed[vxd] this dessert}[t-n-nq], {including the one who's taking a bit of it in the photo}[extra]?
