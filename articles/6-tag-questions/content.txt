@@ -14,7 +14,7 @@
 
 {(The tag questions above)[s] are[x] at the end of each sentence}[t-p]. {In these examples}[f-p], {they[s] are[x] used[dtn] (to make)[inf] sure something happened}[t-n]. {This[s] is[x] one of them main purposes of tag questions}[t-n]: {double-checking some information}[extra]. {Although you (can't)[x] hear it here}[f-ct], {(the intonation)[s] goes[vxs] up}[t-n] {at the end of this type of tag question}[e-p].
 
-{(Another reason (0(to use)0)[inf] tag questions)[s] is[x] (to make)[inf] conversation}[t-n]. {For example}[l], {if you are[x] trying (to talk)[inf] about the image above}[f-cd], {you[s] can[x] use[v] one of the following options}[t-n]. {In these}[l], {(your voice)[s] goes[vxs] down a bit at the end}[t-n].
+{(Another reason we use tag questions)[s] is[x] (to make)[inf] conversation}[t-n]. {For example}[l], {if you are[x] trying (to talk)[inf] about the image above}[f-cd], {you[s] can[x] use[v] one of the following options}[t-n]. {In these}[l], {(your voice)[s] goes[vxs] down a bit at the end}[t-n].
 
 {(That wall)[s] has[vxs] a big crack}[t-n], {(doesn't)[x] it[s]}[extra]?
 {That[s]('s)[x] a cow in there}[t-n], {(isn't)[x] it[s]}[extra]?
