@@ -1,9 +1,17 @@
-{(To learn)[inf] how x-words match subjects}[f-r], {we[s] can[x] divide[v] them into four groups}[t-n], {going from smaller to bigger}[extra].
+{In the picture above}[f-p], {we[s] can[x] see[v] one person and one red truck}[t-n]. {(Both of those)[s] are singular}[t-n], {just one}[extra]. {We[s] can[x] also see[v] something plural}[t-n]: {many blue and white balloons lining the street}[extra]. 
+
+{In English}[f-p], {(the rules for singular and plural)[s] might[x] make[v] sense at times but also feel[v] confusing at other times}[t-n-nq]. {It[s] depends[vxs] on your language background and your familiarity with English}[t-n].
+
+{(Tricky parts)[s] include[vxo] groups that are[x] treated[v] as one unit and words that can be singular or plural}[t-n], {like everyone, no one, someone, anyone, and you}[extra].
+
+{(To avoid)[inf] mistakes with singular and plural}[f-r], {you[s] need[vxo] (to think)[inf] about how English and your other languages are[x] both similar and different}[t-n]. {For example}[l], {adjectives[s] are[x] never plural}[t-n] {in English}[e-p], but[j] {they[s] can[x] be[v] singular or plural in Arabic, Portuguese, Spanish and other languages}[t-n].
+
+{It[s] also helps[vxs] (to study)[inf] they way that x-words match subjects}[f-r], {mostly based on the idea of singular and plural}[extra]. {We[s] can[x] divide[v] them into four groups}[t-n], {going from smaller to bigger}[extra]. {Practice[v] finding them as you read by clicking XSV under this article and then clicking the x-words, subjects and verbs while reading}[t-n-nq].
 
 # Am[x]
-{(Only one subject)[s] matches[vxs] this x-word}[t-n]: {I}[x].
+{(Only one subject)[s] matches[vxs] this x-word}[t-n]: {I[s]}[extra].
 
-{I[s] am[x] not sure which town you can[x] see in the photo above}[t-n], but[j] {I[s] am[x] clear about the country}[t-n]:  {Ecuador}[extra].
+{I[s] am[x] not sure which town is[x] in the photo above}[t-n], but[j] {I[s] know[vxo] it('s)[x] in Ecuador}[t-n].
 
 # Do[x], Have[x], Are[x], Were[x]
 
@@ -13,17 +21,19 @@
 
 # Does[x], Has[x], Is[x], Was[x]
 
-{Notice[v] the last letter in these four x-words}[t-n]: {S}[extra]. {You[s] could[x] think[v] of it as S for singular}[t-n] {because these x-words all go with singular subjects}[t-n]. {(Singular subjects)[s] include[vxo] the pronouns he, she and it, plus gerunds like eating and sleeping, and words that might[x] not make sense as singular}[t-n]: {everyone, someone, anyone and no one}[extra].
+{Notice[v] the last letter in these four x-words}[t-n]: {S}[extra]. {You[s] could[x] think[v] of it as S for singular}[t-n] {because these x-words all go with singular subjects}[t-n]. {(Singular subjects)[s] include[vxo] the following}[t-n]:
+
+ - pronouns he, she and it
+ - gerunds like walking and singing
+ - words that might[x] not make sense as singular, including everyone, someone, anyone and no one
+ -  non-count nouns like time, money, and fun
 
 {(No one else)[s] was[x] on this part of the street}[t-p] {when my friend took this picture}[e-t]. {He[s] does[x] not remember[v] exactly where he was[x] then}[t-n]. {He[s] started[v] that trip in Guayaquil and has[x] kept[v] a lot of photos from that region}[t-n].
 
 {(Taking pictures like this)[s] is[x] tricky}[t-n].  {People[s] can[x] look[v] taller or shorter than they really are[x]}[t-n]. {(The perspective here)[s] makes[vxs] the red pickup truck look small compared to the person who was[x] walking down the street}[t-n]. 
 
-# Did[x], Had[x], and the 9 Modals: can[x], could[x], will[x], would[x],  shall[x], should[x], must[x], might[x], and may[x]
+# Did[x], Had[x], and the 9 Modals
 
 {(These x-words)[s] match[v] every subject}[t-n]. 
 
-{(The balloons in the picture)[s] could[x] be[v] from a party}[t-n]. {(The person walking down the street)[s] might[x] have[v] been[v] selling hats}[t-n] {because it looks like they were[x] wearing many of them in different colors}[e-r]. {(The truck)[s] would[x] have[v] been[v] useful for taking a sound system or a lot of food}[t-n]. {On the other hand}[l], {(the special event)[s] may[x] have[v] ended[v] already}[t-n]. {You[s] can[x] see[v] flower petals}[t-n] {in the bottom right part of the photo}[e-p].
-
-{(To really learn)[inf] how x-words match subjects}[f-r], {you[s] need[v] (to look)[inf] for them in what you read and write}[t-n]. 
-{Stop[v] and check[v] the rules above}[t-n]. {Do[x] they[s] make[v] sense}[t-n-nq]?
+{(The balloons in the picture)[s] could[x] be[v] from a party}[t-n]. {(The person walking down the street)[s] might[x] have[v] been[v] selling hats}[t-n] {because it looks like they were[x] wearing many of them in different colors}[e-r]. {(The truck)[s] would[x] have[v] been[v] useful for taking a sound system or a lot of food to the party}[t-n]. {On the other hand}[l], {(the special event)[s] may[x] have[v] ended[v] already}[t-n]. {You[s] can[x] see[v] flower petals}[t-n] {in the bottom right part of the photo}[e-p].
