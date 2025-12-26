@@ -1,0 +1,37 @@
+[
+    {
+        "statement": "You need to know how to ask questions.",
+        "question": "Do you need to know how to ask questions?",
+        "tag_question": "You need to know how to ask questions, don't you?",
+        "negation": "You don't need to know how to ask questions.",
+        "distractors": "does, are"
+    },
+    {
+       "statement": "We use x-words in questions.",
+       "question": "Do we use x-words in questions?",
+       "tag_question": "We use x-words in questions, don't we?",
+       "negation": "We don't always use x-words in questions.",
+       "distractors": "are, did"
+    },
+    {
+       "statement": "The mountains are beautiful.",
+       "question": "Are the mountains beautiful?",
+       "tag_question": "The mountains are beautiful, aren't they?",
+       "negation": "The mountains aren't beautiful.",
+       "distractors": "is, do"
+    },
+    {
+        "statement": "My friend took this picture.",
+        "question": "Did my friend take this picture?",
+        "tag_question": "My friend took this picture, didn't he?",
+        "negation": "My friend didn't take this picture.",
+        "distractors": "doesn't, do"
+    },
+    {
+      "statement": "Questions can lead to knowledge.",
+      "question": "Can questions lead to knowledge?",
+      "tag_question": "Questions can lead to knowledge, can't they?",
+      "negation": "Questions can't lead to knowledge.",
+      "distractors": "are, do"
+    }
+]
