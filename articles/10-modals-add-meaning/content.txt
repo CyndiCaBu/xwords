@@ -1,1 +1,59 @@
+{We[s] use[v] the modal auxiliary verbs, (also known as modals)[extra], (to add)[inf] many types of meaning}[t-n]. {They[s] can[x] help[v] us give a sense of time, express opinions, discuss ability and probability, and much more}[t-n]. 
 
+{(The most common modals)[s] are[v] will[x], can[x] and would[x]}[t-n]. {(The first group of sentences below)[s] is[v] in order of frequency}[t-n], {with the modals used most first}[extra]. {Notice[v] the verb forms}[t-n-nq]: {modals[s] always go[v] with the base form}[t-n], {no matter what}[extra]. 
+
+{(My aunt)[s] will[x] eat[v] corn}[t-n].
+{She[s] can[x] eat[v] corn}[t-n]. 
+{She[s] would[x] eat[v] corn}[t-n].
+{She[s] may[x] eat[v] corn}[t-n].
+{She[s] could[x] eat[v] corn}[t-n].
+{She[s] should[x] eat[v] corn}[t-n].
+{She[s] must[x] eat[v] corn}[t-n-nq].
+{She[s] might[x] eat[v] corn}[t-n].
+{She[s] shall[x] eat[v] corn}[t-n].
+
+{Although the sentences above show[v] you[s] the form}[f-ct], {they[s] (don't)[x] have[v] enough context (to communicate)[inf] meaning}[t-n]. {Compare[v] them with the new versions below}[t-n-nq], {grouped by meaning}[extra]. {You[s]('ll)[x] see[v] that most of the modals have[x] multiple meanings}[t-n]. {(The context)[s] makes[vxs] the difference}[t-n].
+
+ # Future plus: will[x]
+ - Prediction: {(My aunt)[s] will[x] eat[v] corn}[t-n] tomorrow. 
+ - Beliefs and promises: {It will[x] be[v] fresh and Mexican-style}[t-n]. {She[s]'ll add[v] mayonnaise, red pepper, lime juice and cheese}[t-n].
+ - Offers or plans made in the moment: {That[s] sounds[vxs] delicious}[t-n]. {I[s]'ll join[v] her}[t-n] {if that('s)[x] OK}[f-cd].
+ - Threats: {If the corn (isn't)[x] fresh}[f-cd], {it[s] (won't)[x] be[v] as good}[t-n].
+
+ # Ability and past ability: can[x], could[x]
+ - Present: {My aunt can[x] eat corn every day in different forms}[t-n]; {she[s] never gets tired of it}[t-n]. 
+ - Past: {When she was[x] a child}[f-t], {she[s] could[x] get[v] it straight from the farm}[t-n]. 
+
+ # Invitations: would[x]
+{Would[x] you[s] like[v] (to eat)[inf] corn with us}[t-n-nq]?
+
+ # Permission: may[x]
+{May[x] I[s] help[v] you[s] cook it}[t-n-nq]?
+
+ # Suggestions and advice: could[x], should[x]
+{You[s] could[x] roast[v] it or boil[v] it}[t-n].
+{You[s] should[x] cook[v] it}[t-n] {as soon as you[s] get it home}[e-t]. 
+
+ # Probability: should[x], must[x]
+{If you[s] get to the farmers market when it opens}[f-cd], {you[s] should[x] be[v] able (to find)[inf] plenty of corn}[t-n].
+{It[s] must[x] be[v] fresh now}[t-n] {because it('s)[x] in season}[t-n-nq].
+
+ # Possibility and probability: can[x], might[x], may[x], must[x]
+{You[s] might[x] find[v] the best corn from that farmer who grows it with beans and squash}[t-n-nq], {in the traditional three sisters method}[extra].
+{You[s] may[x] find[v] colorful corn and plain yellow corn}[t-n], depending on what grew well this time.
+{We[s] can[x] always use[v] whatever corn looks best}[t-n].
+{It[s] must[x] be[v] good this time of year}[t-n-nq]. 
+
+
+ # Offers made in the moment: shall[x]
+{Shall[x] I[s] go to the market with you[s]}[t-n-nq]? 
+{Shall[x] we[s] invite my aunt (to join)[inf] us}[t-n-nq]?
+ - Note: {For this meaning}[f-r], {we[s] only use[v] shall[x] with the subjects I[s] and you[s]}[t-n].
+
+{Remember[v] these two points (to avoid)[inf] errors when writing sentences with modals}[t-n-nq]:
+
+ - {(To show)[inf] the past, present or future with modals}[f-r], {we[s] change[v] the modal}[t-n] - {not the verb form}[extra]. Always[l] {use[v] the base form with modals}[t-n-nq].
+
+ - {Watch[v] out for the main verb}[t-n-nq]; {it[s]('s)[x] not always BE}[t-n-nq]. 
+
+{Click[v] XSV below and go[v] back to the top of the article (to practice)[inf] finding and noticing the modals and the base form verbs that go with them}[t-n-nq]. {How often was[x] (the verb)[s] BE}[t-n-nq]?{Which (other verbs)[s] were[x] used[v] with modals}[t-n-nq]?
