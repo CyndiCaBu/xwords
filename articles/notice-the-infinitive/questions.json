@@ -1,0 +1,30 @@
+[
+    {
+        "statement": "The infinitive is a verb form.",
+        "question": "Is the infinitive a verb form?",
+        "tag_question": "The infinitive is a verb form, isn't it?",
+        "negation": "The infinitive isn't a verb form.",
+        "distractors": "does, are"
+    },
+    {
+       "statement": "It can show purpose.",
+       "question": "Can it show purpose?",
+       "tag_question": "It can show purpose, can't it?",
+       "negation": ".", It can't show purpose
+       "distractors": "could, is"
+    },
+    {
+       "statement": "It uses TO plus the base form.",
+       "question": "Does it use TO plus the base form?",
+       "tag_question": "It uses TO plus the base form, doesn't it?",
+       "negation": "It doesn't use TO plus the base form.",
+       "distractors": "is, do"
+    },
+    {
+        "statement": "Common verbs like need and want go with the infinitive.",
+        "question": "Do common verbs like need and want go with the infinitive?",
+        "tag_question": "Common verbs like need and want go with the infinitive, don't they?",
+        "negation": "Common verbs like need and want don't go with the infinitive.",
+        "distractors": "doesn't, did"
+    }
+]
