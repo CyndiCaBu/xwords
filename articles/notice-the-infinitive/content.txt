@@ -14,11 +14,7 @@
 
 {We[s] went to Canada in June (to explore)[inf] the Atlantic coast}[t-p]. {We[s] drove[vxd] around New Brunswick and Nova Scotia (to see)[inf] beautiful places like this garden}[t-p]. {We[s] found[vxd] a hotel with a balcony over the water and got[vxd] up early (to appreciate)[inf] the sunrise}[t-p]. Later[l], {we[s] visited[vxd] a town called Digby (to have)[inf] lunch}[t-p]. {We[s] knew[vxd] that Digby was known for its fresh scallops}[t-p], so[j] {we[s] went[vxd] there (to try)[inf] them}[t-p].
 
-{(Another reason (0to use0)[inf] infinitives)[s] is[x] when you use two verbs together}[t-n], {depending on the first verb}[extra]. {(Some of the most common verbs)[s] go[vxo] with the infinitive}[t-n], {as you can see below}[extra]:
-
-{We[s] want[vxo] (to go)[inf] back to Canada}[t-n-nq] {some day}[e]. {We[s] need[vxo] (to have)[inf] enough time off (to visit)[inf] many places}[t-n-nq], {including the park where we took this picture}[extra]. {We[s] would[x] also like[v] (to explore)[inf] the Joggins Fossil Cliffs}[t-n], {a UNESCO World Heritage site}[extra]. {We[s] hope[vxo] (to go)[inf] back in early summer (to see)[inf] big rhubarb plants in the botanic garden again and visit[v] more fishing towns along the coast}[t-n]. 
-
-{Here('s)[x] a short list of some of the verbs that go with infinitives}[t-n-nq]:
+{(Another reason (0to use0)[inf] infinitives)[s] is[x] when you use two verbs together}[t-n], {depending on the first verb}[extra]. {(Some of the most common verbs)[s] go[vxo] with the infinitive}[t-n], {including these}[extra]:
 
  - want
  - need
@@ -31,4 +27,12 @@
  - offer
  - agree
 
-{(To understand)[inf] more about infinitives}[f-r], {look for examples when you read}[t-n-nq]. {Just look for the word TO and then look to the right}[t-n-nq]. {If the next word you see is[x] a verb in the base form}[f-cd], {you[s] have[x] found[v] an infinitive}[t-n]. {Think[v] about why it was[x] used there}[t-n-nq]. 
+{Find[v] some of those verbs and the infinitives next to them in the paragraph below}[t-n-nq]:
+
+{We[s] want[vxo] (to go)[inf] back to Canada}[t-n-nq] {some day}[e]. {We[s] need[vxo] (to have)[inf] enough time off (to visit)[inf] many places}[t-n-nq], {including the park where we took this picture}[extra]. {We[s] would[x] also like[v] (to explore)[inf] the Joggins Fossil Cliffs}[t-n], {a UNESCO World Heritage site}[extra]. {We[s] hope[vxo] (to go)[inf] back in early summer (to see)[inf] big rhubarb plants in the botanic garden again and visit[v] more fishing towns along the coast}[t-n]. 
+
+{If we change that paragraph to the past}[f-cd], {(the verbs)[s] change[v]}{t-n], but[j] {(the infintives)[s] do[x] not}[t-n].
+
+{We[s] wanted[vxd] (to go)[inf] back to Canada}[t-n-nq] {some day}[e]. {We[s] needed[vxd] (to have)[inf] enough time off (to visit)[inf] many places}[t-n-nq], {including the park where we took this picture}[extra]. {We[s] would[x] have[x] also liked[dtn] (to explore)[inf] the Joggins Fossil Cliffs}[t-n], {a UNESCO World Heritage site}[extra]. {We[s] hoped[vxd] (to go)[inf] back in early summer (to see)[inf] big rhubarb plants in the botanic garden again and visit[v] more fishing towns along the coast}[t-n]. 
+
+{(To understand)[inf] more about infinitives}[f-r], {look for examples when you read}[t-n-nq]. {Just look for the word TO and then look to the right}[t-n-nq]. {If the next word you see is[x] a verb in the base form}[f-cd], {you[s] have[x] found[v] an infinitive}[t-n]. {Think[v] about why it was[x] used there}[t-n-nq]. {Did[x] it[s] show[v] purpose}[t-p-nq]? {Did[x] it[s] have another verb before it}[t-p-nq]? {Stop[v] and think[v] about it}[t-n-nq].
