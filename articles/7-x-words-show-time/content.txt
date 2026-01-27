@@ -1,4 +1,4 @@
-{(X-words)[s] show[vxo] time}[t-n]. {It[s]('s[x] easiest (to see)[inf] that}[t-n] {when we can[x] see the x-word in a sentence}[e-t]. 
+{(X-words)[s] show[vxo] time}[t-n]. {It[s]('s)[x] easiest (to see)[inf] that}[t-n] {when we can[x] see the x-word in a sentence}[e-t]. 
 
 # THE PAST
 {(These four x-words)[s] always refer[v] to the past}[t-n]:
