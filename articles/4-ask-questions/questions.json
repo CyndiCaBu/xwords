@@ -10,7 +10,7 @@
        "statement": "We use x-words in questions.",
        "question": "Do we use x-words in questions?",
        "tag_question": "We use x-words in questions, don't we?",
-       "negation": "We don't always use x-words in questions.",
+       "negation": "We don't use x-words in questions.",
        "distractors": "are, did"
     },
     {
