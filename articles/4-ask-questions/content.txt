@@ -1,4 +1,4 @@
-{Do[x] you[s] know[v] how (to ask)[v] questions in English}[t-n-nq], {in both the present and the past}[extra]? {Do[x] you[s] know[v] how (to change)[inf] a statement to a question}[t-n-nq]? {If you know the 20 x-words and some of their powers}[f-cd], {(your answers)[s] should[x] be[v] yes}[t-n]. {There[s] are[x] two main ways (to do)[inf] this}[t-n].
+{Do[x] you[s] know[v] how (to ask)[inf] questions in English}[t-n-nq], {in both the present and the past}[extra]? {Do[x] you[s] know[v] how (to change)[inf] a statement to a question}[t-n-nq]? {If you know the 20 x-words and some of their powers}[f-cd], {(your answers)[s] should[x] be[v] yes}[t-n]. {There[s] are[x] two main ways (to do)[inf] this}[t-n].
 
 # Change the Word Order
 
