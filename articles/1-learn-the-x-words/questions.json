@@ -14,11 +14,11 @@
       "distractors": "are"
     },
     {
-        "statement": "Every complete sentence in written English has an x-word.",
-        "question": "Does every complete sentence in written English have an x-word?",
-        "tag_question": "Every complete sentence in written English has an x-word, doesn't it?",
-        "negation": "Not every complete sentence in written English has an x-word.",
-        "distractors": "is"
+        "statement": "X-word grammar is different from traditional grammar.",
+        "question": "Is x-word grammar different from traditional grammar?",
+        "tag_question": "X-word grammar is different from traditional grammar, isn't it?",
+        "negation": "X-word grammar isn't different from traditional grammar.",
+        "distractors": "has"
     },
     {
        "statement": "You'll need time and patience to learn.",
