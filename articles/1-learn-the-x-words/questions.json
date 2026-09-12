@@ -31,7 +31,7 @@
        "statement": "Memorizing the x-words comes first.",
        "question": "Does memorizing the x-words come first?",
        "tag_question": "Memorizing the x-words comes first, doesn't it?",
-       "negation": "Memorizing the x-words does not come first.",
+       "negation": "Memorizing the x-words doesn't come first.",
        "distractors": "is"
     }
 ]
