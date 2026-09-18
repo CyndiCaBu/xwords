@@ -2,15 +2,7 @@
 
 {At work, at home and in other contexts}[f-p], {(successful people)[s] know[vxo] how (to say)[inf] no}[t-n]. {How can[x] we[s] get[v] anything done}[t-n-nq] {if we say yes to every distraction or temptation}[e-cd]? {How can[x] we[s] be[v] safe}[t-n-nq] {if we agree (to spend)[inf] time with people who we (can’t)[x] really trust[v]}[e-cd] - {people who might[x] hurt[v] us}[extra]? {No matter how uncomfortable it might[x] be}[f-r], {we[s] often say[vxo] no}[t-n]. {(Saying no)[s] is[x] a way (to take)[inf] care of ourselves and accomplish our goals}[t-n].
 
-{(X-words)[s] are[x] the key to saying no in English}[t-n]. {It[s] (isn’t)[x] like some languages that just put the word no in front of the verb}[t-n-nq]. {In English}[f-p], {(the word not)[s], (not no)[extra], goes[vxs] after the x-word}[t-n]. {(The verb)[s] uses[vxs] the base form}[t-n], {no matter what}[extra]. {(The x-word)[s] shows[vxs] the time}[t-n]. {Contractions[s] are[x] fine for 15 of the x-words}[t-n], but[j] {(5 of them)[s] just use[vxo] not}[t-n]. 
-
-# NO CONTRACTIONS
-
- - am[x] not
- - might[x] not
- - may[x] not
- - must[x] not
- - shall[x] not
+{(X-words)[s] are[x] the key to saying no in English}[t-n]. {It[s] (isn’t)[x] like some languages that just put the word no in front of the verb}[t-n-nq]. {In English}[f-p], {(the word not)[s], (not no)[extra], goes[vxs] after the x-word}[t-n]. {(The x-word)[s] shows[vxs] the time}[t-n], so[j] {we[s] say[vxo] (didn't)[x] go[v] or (couldn't)[x] [see] for the past}[t-n]. {We[s] useev[xo] contractions for most of the x-words}[t-n], {but not all}[extra]. 
 
 # CONTRACTIONS
 
@@ -32,6 +24,14 @@
  - (won’t)[x]
  - (wouldn’t)[x]
  - (shouldn’t)[x]
+
+# NO CONTRACTIONS
+
+ - am[x] not
+ - might[x] not
+ - may[x] not
+ - must[x] not
+ - shall[x] not
 
 # PRACTICE
 
