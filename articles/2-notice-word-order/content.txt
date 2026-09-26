@@ -13,9 +13,10 @@
 {I[s] would[x] like[v] (to try)[inf] making it}[t-n] {in the summer}[e-t].
 
 # Word Order
-{Did[x] you[s] notice[v] the difference between _Can[x] you[s]_ and _I[s] can[x]_}[t-n-nq]? {How about (Would[x] you[s])[title] and I[s] would[x]}[t-n-nq]? {{(The x-word)[s] goes[vxs] first}[t-n] {in questions}[e-p], {meaning before the subject}[extra]. {It[s] goes[vxs] second}[t-n], {after the subject}[extra], {in short answers and statements}[e-p].
+{Did[x] you[s] notice[v] the difference between (Can[x] you[s])[title] and (I[s] can[x])[title]}[t-n-nq]? {How about (Would[x] you[s])[title] and (I[s] would[x])[title]}[t-n-nq]? {(The x-word)[s] goes[vxs] first}[t-n] {in questions}[e-p], {meaning before the subject}[extra]. {In short answers and statements}[f-p], {(the x-word)[s] goes[vxs] second}[t-n], {after the subject}[extra].
 
 # Information Questions
+
 {(Information questions)[s] follow[vxo] the same order}[t-n]. {They[s] just start[v] with WH-words (to ask)[inf] for more specific information}[t-n]. {(The x-word)[s] goes[vxs] next}[t-n].
 
 {What kind of cookies did[x] you[s] use[v] in that recipe}[t-p-nq]?
@@ -31,6 +32,7 @@
 {(How many people)[s] enjoyed[vxd] this dessert}[t-n-nq], {including the one who's taking a bit of it in the photo}[extra]?
 
 # Subject Questions
+
 {(Subject questions)[s] use[v] WH-words}[t-n], {especially who}[extra], {followed by a verb}[extra]. {(The subject)[s] is[x] the answer}[t-n].
 
 {Who made[vxd] the cake}[t-n-nq]?
