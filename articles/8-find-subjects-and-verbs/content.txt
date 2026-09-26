@@ -14,7 +14,7 @@
  - (to give)[inf] short answers
  - (to find)[inf] x-words, including hidden ones
  - (to figure out)[inf] the time in a sentence
- - (to add) meaning
+ - (to add)[inf] meaning
 
 {(Most X-words)[s] can[x] act[v] as either helping verbs or main verbs}[t-n]. {(The modals)[s] are[x] the only x-words that always serve as auxiliary verbs}[t-n], {helping out by adding meaning like advice, opinions, possibility and more}[extra]. {Review[v] them}[t-n-nq]:
 
@@ -41,4 +41,4 @@
 
 {(Ms. Bauri and other female tea garden workers)[s] have[x] worked[v] for progress}[t-b] {for years}[e-t]. {(Ms. Bauri)[s] has[x] collaborated[v] with the United Nations (to organize)[inf] training sessions and other types of support}[t-b]. {(Workers who do[x] the same tasks)[s] should[x] be[v] paid the same amount}[t-n], {regardless of gender or social status}[extra]. 
 
-{It[s] might[x] be[v] difficult (to make)[inf] progress getting equal wages}[t-n-nq], but[j] {that[s] (doesn’t)[x] matter[v]}[t-n]. {(Fair pay)[s] is)[x] essential}[t-n]. {(The world)[s] has[x] changed[v]}[t-b], and {(people in many places)[s] speak[v] openly about the need for justice}[t-n]. {We[s] do[x] not need[v] (to repeat)[inf] the mistakes of the past}[t-n-nq]. {Workers[s] can[x] organize (to help)[inf] each other find a better situation}[t-n]. {It[s](‘s)[x] time (to pay)[inf] people based on the work they do}[t-n], {not on irrelevant factors}[extra]. {What do[x] you[s] think[v]}[t-n-nq]?
+{It[s] might[x] be[v] difficult (to make)[inf] progress getting equal wages}[t-n-nq], but[j] {that[s] (doesn’t)[x] matter[v]}[t-n]. {(Fair pay)[s] [is][x] essential}[t-n]. {(The world)[s] has[x] changed[v]}[t-b], and {(people in many places)[s] speak[v] openly about the need for justice}[t-n]. {Workers[s] organize[v] (to help)[inf] each other be treated right}[t-n]. {It[s](‘s)[x] time (to pay)[inf] people based on the work they do}[t-n], {not on irrelevant factors}[extra]. {What do[x] you[s] think[v]}[t-n-nq]?
