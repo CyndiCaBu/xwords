@@ -7,7 +7,7 @@
  - have[x], has[x], had[x]
  - am[x], is[x], are[x], was[x], were[x]
 
-# Ways (to use) the X-Words
+# Uses for X-Words
 
  - (to ask)[inf] questions and tag questions
  - (to make)[inf] negative statements
