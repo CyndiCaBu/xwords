@@ -41,6 +41,6 @@
 
 # Read Better
 
-{In addition to helping you write better}[l], {(x-word grammar)[s] can[x] help[v] you improve your reading comprehension}[t-n]. {It[s] makes[vxs] you slow down and read[v] more carefully}[t-n], {looking for x-words, subjects, verbs and more}[extra]. 
+{In addition to helping you write better}[l], {(x-word grammar)[s] can[x] help[v] you improve your reading comprehension}[t-n]. {It[s] makes[vxs] you slow down and read[v] more carefully}[t-n], {looking for x-words, subjects, verbs, explanations and more}[extra]. 
 
 {(X-word grammar)[s] is[x] one of many ways to improve your writing and reading skills in English}[t-n]. {(Successful language learners)[s] try[v] all the tools they can[x] and see[v] what works}[t-n]. {Are[x] you[s] ready (to try)[inf] this one}[t-n-nq]?
