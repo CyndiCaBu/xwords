@@ -1,10 +1,22 @@
-{What do[x] you[s] remember[v] learning about the 20 x-words}[t-n-nq]? {So far}[l], {you[s] should[x] know[v] that we use them (to think)[inf] about grammar in several ways}[t-n]:
+{What do[x] you[s] remember[v] learning about the 20 x-words}[t-n-nq]? 
 
- - ask questions and tag questions
- - make negative statements
- - give short answers
- - find hidden x-words
- - figure out the time in a sentence
+ # First review the list:
+
+ - do[x], does[x], did[x]
+ - can[x], could[x]
+ - will[x], would[x]
+ - shall[x], should[x]
+ - must[x], might[x], may[x]
+ - have[x], has[x], had[x]
+ - am[x], is[x], are[x], was[x], were[x]
+
+{So far}[l], {you[s] should[x] know[v] that we use these words in several ways}[t-n]:
+
+ - (to ask)[inf] questions and tag questions
+ - (to make)[inf] negative statements
+ - (to give)[inf]short answers
+ - (to find)[inf]hidden x-words
+ - (to figure out)[inf] the time in a sentence
 
 {We[s] learned[vxd] a bit about finding subjects and verbs}[t-p], but[j] {it[s]('s)[x] time (to go)[inf] deeper with that}[t-n].
 
