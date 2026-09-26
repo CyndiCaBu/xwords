@@ -2,7 +2,7 @@
 
 {In x-word grammar}[f-p], {order[s] matters[v] more}[t-n]. {It[s]('s)[x] the difference between questions and answers}[t-n]. {Notice[v] the position of the x-words below}[t-n]:
 
-# Questions
+# Yes/No Questions
 {Can[x] you[s] recognize[v] the berries on this dessert}[t-n-nq]?
 {Would[x] you[s] like[v] (to try)[inf] making it}[t-n-nq]?
 
@@ -13,10 +13,10 @@
 # Word Order
 {As you can[x] see above}[l], {(the x-word)[s] goes[vxs] first}[t-n] {in questions}[e-p]. {It[s] goes[vxs] second}[t-n], {after the subject}[extra], {in short answers and statements}[e-p].
 
-{(The questions above)[s] are[x] all yes/no questions}[t-n], {where the typical answer is either yes or no}[extra]. 
+{(The questions above)[s] are[x] all yes/no questions}[t-n], {called that because the typical answer is either yes or no but could[x] also be[v] maybe}[extra]. 
 
 # Information Questions
-{(Information questions)[s] follow[vxo] the same order}[t-n]. {They[s] just start[v] with WH-words to ask for more specific information}[t-n]. 
+{(Information questions)[s] follow[vxo] the same order}[t-n]. {They[s] just start[v] with WH-words (to ask)[inf] for more specific information}[t-n]. 
 
 {What kind of cookies did[x] you[s] use[v] in that recipe}[t-p-nq]?
 
