@@ -14,13 +14,13 @@
 
  - (to ask)[inf] questions and tag questions
  - (to make)[inf] negative statements
- - (to give)[inf]short answers
- - (to find)[inf]hidden x-words
+ - (to give)[inf] short answers
+ - (to find)[inf] x-words, including hidden ones
  - (to figure out)[inf] the time in a sentence
 
 {We[s] learned[vxd] a bit about finding subjects and verbs}[t-p], but[j] {it[s]('s)[x] time (to go)[inf] deeper with that}[t-n].
 
-{(Most of the X-words)[s] can[x] act[v] as either helping verbs}[t-n], {the way the modals do[x]}[extra], {or main verbs}[extra]. {(The modals)[s] are[x] the only x-words that (can’t)[x] act as main verbs}[t-n]. {They[s] always serve[v] as auxiliary verbs}[t-n], {helping out by adding meaning, expressing opinions and more}[extra]. (To review)[inf], {(the nine modals)[s] are[x]}[t-n]:
+{(Most X-words)[s] can[x] act[v] as either helping verbs or main verbs}[t-n]. {(The modals)[s] are[x] the only x-words that always serve as auxiliary verbs}[t-n], {helping out by adding meaning, expressing opinions and more}[extra]. (To review)[inf], {(the nine modals)[s] are[x]}[t-n]:
 
  - can[x]
  - could[x]
@@ -38,11 +38,11 @@
  - have[x], has[x], had[x]
  - am[x], is[x], are[x], was[x], were[x]
 
-{These[s] can[x] all act[v] as either  x-words or main verbs}[t-n]. {How can[x] you[s] tell[v] the difference between}[t-n-nq]? {As usual}[l], {(the first step)[s] is[x] (to find)[inf] the x-word}[t-n]. Then[l] {look[v] for the subject and verb}[t-n-nq]. 
+{(These words)[s] can[x] all act[v] as either  x-words or main verbs}[t-n]. {How can[x] you[s] tell[v] the difference}[t-n-nq]? {As usual}[l], {(the first step)[s] is[x] (to find)[inf] the x-word}[t-n]. Then[l] {look[v] for the subject and verb}[t-n-nq]. 
 
 {Practice[v] with the sentence below}[t-n-nq], but[j] first[l] {scroll[v] down and click[v] the XSV button under this article}[t-n-nq]. Then[l] {read[v] the sentence and click[v] the x-word}[t-n-nq]. {It[s] should[x] turn[v] aqua}[t=n-nq]. Next[l] {look[v] to the left of the x-word and click[v] the subject}[t-n-nq]. {It[s] should[x] turn[v] yellow}[t-n-nq]. Finally[l], {look[v] to the right of the x-word and click[v] the main verb}[t-n-nq]. {It[s] should[x] turn[v] pink}[t-n-nq].
 
-{(Doing this)[s] will[x] help[v] you develop a sense of word order and sentence structure}[t-n]. 
+{(Doing this)[s] will[x] help[v] you develop a sense of word order and sentence structure}[t-n]. {That[s] can[x] help[v] you write with fewer errors}[t-n].
 
 {Because the x-word above is[x] a modal}[f-r], {it[s]('s)[x] a helping verb}[t-n]. 
 
