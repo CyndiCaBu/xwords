@@ -26,7 +26,7 @@
  - have[x], has[x], had[x]
  - am[x], is[x], are[x], was[x], were[x]
 
-{These[s] can[x] alll act[v] as either  x-words or main verbs}[t-n]. {How can[x] you[s] tell[v] the difference between}[t-n-nq]? {As usual}[l], {(the first step)[s] is[x] (to find)[inf] the x-word}[t-n]. Then[l] {look[v] for the subject and verb}[t-n-nq]. 
+{These[s] can[x] all act[v] as either  x-words or main verbs}[t-n]. {How can[x] you[s] tell[v] the difference between}[t-n-nq]? {As usual}[l], {(the first step)[s] is[x] (to find)[inf] the x-word}[t-n]. Then[l] {look[v] for the subject and verb}[t-n-nq]. 
 
 {Practice[v] with the sentence below}[t-n-nq], but[j] first[l] {scroll[v] down and click[v] the XSV button under this article}[t-n-nq]. Then[l] {read[v] the sentence and click[v] the x-word}[t-n-nq]. {It[s] should[x] turn[v] aqua}[t=n-nq]. Next[l] {look[v] to the left of the x-word and click[v] the subject}[t-n-nq]. {It[s] should[x] turn[v] yellow}[t-n-nq]. Finally[l], {look[v] to the right of the x-word and click[v] the main verb}[t-n-nq]. {It[s] should[x] turn[v] pink}[t-n-nq].
 
