@@ -29,3 +29,5 @@
 {Which (ice cream flavor)[s] would[x] taste[v] good with those berries}[t-n-nq]?
 
 {(How many people)[s] enjoyed[vxd] this dessert}[t-n-nq], {including the one who's taking a bit of it in the photo}[extra]?
+
+{Are[x] you[s] ready (to practice)[inf][making questions}[t-n-nq]? {If so}[f-cd], {click[v] the question button below}[t-n-nq]. 
