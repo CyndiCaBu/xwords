@@ -46,13 +46,13 @@
 
 {Because the x-word above is[x] a modal}[f-r], {it[s]('s)[x] a helping verb}[t-n]. 
 
-{When you only see an x-word}[f-cd], {without a verb next to it}[extra], {(that x-word)[s]  is[x] the main verb}[t-n]. {(The passage below)[s] uses[v] x-words as main verbs}[t-n].
+{When you see an x-word without a verb next to it}[f-t], {(that x-word)[s]  is[x] the main verb}[t-n]. {In the passage below}[f-t], {(all the x-words)[s] are[x] main verbs}[t-n].
 
 # X-word as Main Verbs
 
-{Sylhet[s] is[x] a city in Bangladesh}[t-n]. {It[s] has[x] many tea gardens}[t-n], {like the one pictured above}[extra]. {They[s] are[x] green and lush}[t-n] {because tea grows well in a tropical climate}[e-r]. {(Many women)[s] do[x] the hard work of harvesting tea leaves and carrying them to the processing areas}[t-n]. {That way}[l] {they[s] have[x] a chance (to earn)[inf] an income}[t-n], but[j] {is[x] it[s] fair}[t-n-nq]? {Not according to Srimoti Bauri, a Bengali woman who works in a tea garden and organizes her fellow workers}[extra]. 
+{Sylhet[s] is[x] a city in Bangladesh}[t-n]. {It[s] has[x] many tea plantations}[t-n], {like the one pictured above}[extra]. {They[s] are[x] green and lush}[t-n] {because tea grows well in a tropical climate}[e-r]. {(Many women)[s] do[x] the hard work of harvesting tea leaves and carrying them to the processing areas}[t-n]. {That way}[l] {they[s] have[x] a chance (to earn)[inf] an income}[t-n], but[j] {do[x] they[s] (get paid)[v] fairly}[t-n-nq]? {Not according to Srimoti Bauri, a Bengali woman who works in a tea garden and organizes her fellow workers}[extra]. 
 
-{(This type of economic injustice)[s] is[x] not new}[t-n-nq] {in Sylhet or around the world}[e-p]. {(Women’s earnings where Ms. Bauri worked)[s] were[x] typically half of men’s}[t-n] {even though they all did[x] the same tasks}[e-ct]. {Why was[x] (gender discrimination)[s] part of the job}[t-n-nq]? {Is[x] it possible (to improve)[inf] this situation}[t-n-nq]?
+{(Women’s earnings where Ms. Bauri worked)[s] were[x] typically half of men’s}[t-n] {even though they all did[x] the same tasks}[e-ct]. {Why was[x] (gender discrimination)[s] part of the job}[t-n-nq]? {Is[x] it possible (to improve)[inf] this situation}[t-n-nq]?
 
 # X-word as Helping Verbs
 
@@ -60,4 +60,4 @@
 
 {(Ms. Bauri and other female tea garden workers)[s] have[x] worked[v] for progress}[t-b] {for years}[e-t]. {(Ms. Bauri)[s] has[x] collaborated[v] with the United Nations (to organize)[inf] training sessions and other types of support}[t-b]. {(Workers who do[x] the same tasks)[s] should[x] be[v] paid the same amount}[t-n], {regardless of gender or social status}[extra]. 
 
-{It[s] (doesn’t)[x] matter[v] if progress on equal wages is[x] difficult}[t-n]. {It[s](‘s)[x] essential}[t-n]. {(The world)[s] has[x] changed[v]}[t-b], and {we[s] do[x] not need[v] (to repeat)[inf] the errors of the past}[t-n-nq]. {Injustice[s] is[x] an error}[t-n], so {it[s](‘s)[x] time (to correct)[inf] it}[t-n]. {Do[x] you[s] understand[v] why}[t-n-nq]?
+{It[s] might[x] be[v] difficult (to make)[inf] progress getting equal wages}[t-n-nq], but[j] {that[s] (doesn’t)[x] matter[v]}[t-n]. {(Fair pay)[s] is)[x] essential}[t-n]. {(The world)[s] has[x] changed[v]}[t-b], and {(people in many places)[s] speak[v] openly about the need for justice}[t-n]. {We[s] do[x] not need[v] (to repeat)[inf] the errors of the past}[t-n-nq]. {Injustice[s] is[x] an error}[t-n], so {it[s](‘s)[x] time (to correct)[inf] it}[t-n]. {What do[x] you[s] think[v]}[t-n-nq]?
