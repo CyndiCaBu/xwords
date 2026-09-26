@@ -1,54 +1,35 @@
-{What do[x] you[s] remember[v] learning about the 20 x-words}[t-n-nq]? 
+{What do[x] you[s] remember[v] learning about the x-words}[t-n-nq]? {Do[x] you[s] remember[v] them all}[t-n-nq]?
 
- # First review the list:
+# 20 X-Words in 4 Groups
 
  - do[x], does[x], did[x]
- - can[x], could[x]
- - will[x], would[x]
- - shall[x], should[x]
- - must[x], might[x], may[x]
+ - can[x], could[x], will[x], would[x], shall[x], should[x], must[x], might[x], may[x]
  - have[x], has[x], had[x]
  - am[x], is[x], are[x], was[x], were[x]
 
-{So far}[l], {you[s] should[x] know[v] that we use these words in several ways}[t-n]:
+# Ways (to use) the X-Words
 
  - (to ask)[inf] questions and tag questions
  - (to make)[inf] negative statements
  - (to give)[inf] short answers
  - (to find)[inf] x-words, including hidden ones
  - (to figure out)[inf] the time in a sentence
+ - (to add) meaning
 
-{We[s] learned[vxd] a bit about finding subjects and verbs}[t-p], but[j] {it[s]('s)[x] time (to go)[inf] deeper with that}[t-n].
+{(Most X-words)[s] can[x] act[v] as either helping verbs or main verbs}[t-n]. {(The modals)[s] are[x] the only x-words that always serve as auxiliary verbs}[t-n], {helping out by adding meaning like advice, opinions, possibility and more}[extra]. {Review[v] them}[t-n-nq]:
 
-{(Most X-words)[s] can[x] act[v] as either helping verbs or main verbs}[t-n]. {(The modals)[s] are[x] the only x-words that always serve as auxiliary verbs}[t-n], {helping out by adding meaning, expressing opinions and more}[extra]. (To review)[inf], {(the nine modals)[s] are[x]}[t-n]:
+ - can[x], could[x]
+ - will[x], would[x]
+ - shall[x], should[x]
+ - must[x], might[x], may[x]
 
- - can[x]
- - could[x]
- - will[x]
- - would[x]
- - shall[x]
- - should[x]
- - must[x]
- - might[x]
- - may[x]
+{(The other eleven x-words)[s] can[x] all act[v] as either  x-words or main verbs}[t-n]. {How can[x] you[s] tell[v] the difference}[t-n-nq]? {As usual}[l], {(the first step)[s] is[x] (to find)[inf] the x-word}[t-n]. Then[l] {look[v] for the subject and verb}[t-n-nq]. 
 
-{(The other eleven x-words)[s] are[x] next}[t-n]:
-
- - do[x], does[x], did[x]
- - have[x], has[x], had[x]
- - am[x], is[x], are[x], was[x], were[x]
-
-{(These words)[s] can[x] all act[v] as either  x-words or main verbs}[t-n]. {How can[x] you[s] tell[v] the difference}[t-n-nq]? {As usual}[l], {(the first step)[s] is[x] (to find)[inf] the x-word}[t-n]. Then[l] {look[v] for the subject and verb}[t-n-nq]. 
-
-{Practice[v] with the sentence below}[t-n-nq], but[j] first[l] {scroll[v] down and click[v] the XSV button under this article}[t-n-nq]. Then[l] {read[v] the sentence and click[v] the x-word}[t-n-nq]. {It[s] should[x] turn[v] aqua}[t=n-nq]. Next[l] {look[v] to the left of the x-word and click[v] the subject}[t-n-nq]. {It[s] should[x] turn[v] yellow}[t-n-nq]. Finally[l], {look[v] to the right of the x-word and click[v] the main verb}[t-n-nq]. {It[s] should[x] turn[v] pink}[t-n-nq].
-
-{(Doing this)[s] will[x] help[v] you develop a sense of word order and sentence structure}[t-n]. {That[s] can[x] help[v] you write with fewer errors}[t-n].
-
-{Because the x-word above is[x] a modal}[f-r], {it[s]('s)[x] a helping verb}[t-n]. 
-
-{When you see an x-word without a verb next to it}[f-t], {(that x-word)[s]  is[x] the main verb}[t-n]. {In the passage below}[f-t], {(all the x-words)[s] are[x] main verbs}[t-n].
+{(To practice)[inf]}[f-r], {scroll[v] down and click[v] the XSV button under this article}[t-n-nq]. Then[l] {read[v] the paragraphs and click[v] the x-words one at a time}[t-n-nq]. {They[s] should[x] turn[v] aqua}[t-n-nq]. {Look[v] to the left of each x-word and click[v] the subjects}[t-n-nq]. {They[s] should[x] turn[v] yellow}[t-n-nq]. Finally[l], {look[v] to the right of the x-word and click[v] the main verb}[t-n-nq]. {It[s] should[x] turn[v] pink}[t-n-nq]. {(Practicing this way)[s] will[x] help[v] you develop a sense of word order and sentence structure}[t-n]. {That[s] can[x] help[v] you write with fewer errors}[t-n].
 
 # X-word as Main Verbs
+
+{When you see an x-word without a verb next to it}[f-t], {(that x-word)[s]  is[x] the main verb}[t-n]. {In the passage below}[f-t], {(all the x-words)[s] are[x] main verbs}[t-n].
 
 {Sylhet[s] is[x] a city in Bangladesh}[t-n]. {It[s] has[x] many tea plantations}[t-n], {like the one pictured above}[extra]. {They[s] are[x] green and lush}[t-n] {because tea grows well in a tropical climate}[e-r]. {(Many women)[s] do[x] the hard work of harvesting tea leaves and carrying them to the processing areas}[t-n]. {That way}[l] {they[s] have[x] a chance (to earn)[inf] an income}[t-n], but[j] {do[x] they[s] (get paid)[v] fairly}[t-n-nq]? {Not according to Srimoti Bauri, a Bengali woman who works in a tea garden and organizes her fellow workers}[extra]. 
 
@@ -60,4 +41,4 @@
 
 {(Ms. Bauri and other female tea garden workers)[s] have[x] worked[v] for progress}[t-b] {for years}[e-t]. {(Ms. Bauri)[s] has[x] collaborated[v] with the United Nations (to organize)[inf] training sessions and other types of support}[t-b]. {(Workers who do[x] the same tasks)[s] should[x] be[v] paid the same amount}[t-n], {regardless of gender or social status}[extra]. 
 
-{It[s] might[x] be[v] difficult (to make)[inf] progress getting equal wages}[t-n-nq], but[j] {that[s] (doesn’t)[x] matter[v]}[t-n]. {(Fair pay)[s] is)[x] essential}[t-n]. {(The world)[s] has[x] changed[v]}[t-b], and {(people in many places)[s] speak[v] openly about the need for justice}[t-n]. {We[s] do[x] not need[v] (to repeat)[inf] the errors of the past}[t-n-nq]. {Injustice[s] is[x] an error}[t-n], so {it[s](‘s)[x] time (to correct)[inf] it}[t-n]. {What do[x] you[s] think[v]}[t-n-nq]?
+{It[s] might[x] be[v] difficult (to make)[inf] progress getting equal wages}[t-n-nq], but[j] {that[s] (doesn’t)[x] matter[v]}[t-n]. {(Fair pay)[s] is)[x] essential}[t-n]. {(The world)[s] has[x] changed[v]}[t-b], and {(people in many places)[s] speak[v] openly about the need for justice}[t-n]. {We[s] do[x] not need[v] (to repeat)[inf] the mistakes of the past}[t-n-nq]. {Workers[s] can[x] organize (to help)[inf] each other find a better situation}[t-n]. {It[s](‘s)[x] time (to pay)[inf] people based on the work they do}[t-n], {not on irrelevant factors}[extra]. {What do[x] you[s] think[v]}[t-n-nq]?
