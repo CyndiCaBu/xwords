@@ -24,7 +24,7 @@
        "statement": "X-word grammar calls SVO a trunk.",
        "question": "Does x-word grammar call SVO a trunk?",
        "tag_question": "X-word grammar calls SVO a trunk, doesn't it?",
-       "negation": "x-word grammar doesn't call SVO a trunk.",
+       "negation": "X-word grammar doesn't call SVO a trunk.",
        "distractors": ""
     }
 ]
