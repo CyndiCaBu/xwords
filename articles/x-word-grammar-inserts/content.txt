@@ -1,24 +1,24 @@
-{In x-word grammar}[f-p], {(an insert)[s] is[x] a word or phrase}[t-n]. {It[s] adds[vxs] extra information to a sentence (to give)[inf] more details}[t-n]. {If you take that information out}[f-cd], {you[s] lose[vxo] something specific}[t-n], {like a name, date, place or description}[extra]. However[l], {(the main meaning of the sentence)[s] (doesn’t)[x] change[v]}[t-n-nq]. 
+{In x-word grammar}[f-p], {(an insert)[s] is[x] a word or phrase}[t-n]. {It[s] adds[vxs] extra information to a sentence (to give)[inf] more details}[t-n]. {If you take that information out}[f-cd], {you[s] lose[vxo] something specific}[t-n], {like a name, date, place, definition or description}[extra]. However[l], {(the main meaning of the sentence)[s] (doesn’t)[x] change[v]}[t-n-nq]. 
 
-{We[s] usually put[vxo] inserts in the middle of a sentence or near the end}[t-n]. Sometimes[l] {they[s] are[x] at the beginning of a sentence}[t-n], {too}[extra]. {They[s] add[vxo] extra information about the subject, verb or object}[t-n]. {They[s] can[x] be[v] a sign of stronger writing}[t-n]. 
+{Inserts[s] can[x] be[v] a sign of stronger writing}[t-n]. {(Understanding them)[s] can[x] help[v] you become a stronger reader by finding definitions and explanations in the text}[t-n]. 
 
-{(Understanding inserts)[s] can[x] help[v] you become a stronger reader}[t-n]. {They[s] often give[vxo] you definitions or explanations}[t-n]. {Consider[v] these examples}[t-n]:
+{We[s] usually put[vxo] inserts in the middle of a sentence or near the end}[t-n], but {sometimes[l] they[s] are[x] at the beginning}[t-n]. {They[s] add[vxo] extra information about the subject, verb or object}[t-n]. 
 
-{(The Guggenheim)[s], (a museum in New York and other locations)[extra], once had[vxd] a gold toilet made by an Italian artist}[t-p].
-
-{Eleanor[s] went[vxd] to the museum hoping to find that toilet}[t-p], {unaware that the artists had already taken it back}[extra].
-
-{She (wasn't)[x] surprised[v] (to find)[inf] an ordinary toilet in the restroom}[t-p], {but something else there did[x] surprise her}[t-p] - {a long piece of crocheted pink yarn on top of the regular toilet paper}[extra].
-
-{Now read the same sentences without the extra information}[t-n]. {What[s] feels[vxs] different}[t-n-nq]?
+{Consider[v] the difference between these sentences}[t-n]:
 
 {(The Guggenheim)[s] once had[vxd] a gold toilet made by an Italian artist}[t-p].
 
+{(The Guggenheim)[s], (a museum in New York and other locations)[extra], once had[vxd] a gold toilet made by an Italian artist}[t-p].
+
 {Eleanor[s] went[vxd] to the museum hoping to find that toilet}[t-p].
+
+{Eleanor[s] went[vxd] to the museum hoping to find that toilet}[t-p], {unaware that the artists had already taken it back}[extra].
 
 {She (wasn't)[x] surprised[v] (to find)[inf] an ordinary toilet in the restroom}[t-p], {but something else there did[x] surprise her}[t-p].
 
-{(Taking out the extra information)[s] can[x] make[v] some sentences easier (to understand)[inf]}[t-n]. {It[s] gives[vxs] you a way (to focus)[inf] on the main idea of a sentence without distractions}[t-n].
+{She (wasn't)[x] surprised[v] (to find)[inf] an ordinary toilet in the restroom}[t-p], {but something else there did[x] surprise her}[t-p] - {a long piece of crocheted pink yarn on top of the regular toilet paper}[extra].
+
+{Without the extra information}[f-cd], {(some sentences)[s] are[x] easier (to understand)[inf]}[t-n]. However[l], {(the missing information)[s] might[x] make[v] a difference in the overall meaning}[t-n-nq]. Still[l], {as a reading tool}[f-cd], {(taking out the extra information)[s] can[x] give[v] you a way (to focus)[inf] on the main idea of a sentence without distractions}[t-n].
 
 # HOW TO IDENTIFY INSERTS
 
@@ -26,13 +26,14 @@
 
  - {commas}[extra],
  - {colons}[extra], 
- - {dashes}[extra], and
- - {parentheses}[extra]
+ - {dashes}[extra],
+ - {parentheses}[extra],
+ - {dot dot dot}[extra]
 
 Note[l]: {(The extra information)[s] can[x] go[v] after just one comma or in between two commas}[t-n], {depending on the writer's style}[extra]. {(Don't)[x] confuse[v] other ways we use commas}[t-n-nq]: {in SVO plus SVO, in lists and more}[extra].
  
 {(Another clue to extra information)[s] comes[vxs] from an ancient language}[t-n] - {Latin}[extra]. {We[s] use[vxo] e.g. (to introduce)[inf] examples and i.e. (to begin)[inf] an explanation}[t-n]. {You[s] might[x] see[v] those expressions}[t-n] {when you read news articles and academic writing}[e-t]. {Examples[s] include[vxo]}[t-n]:
 
-Sometimes[l] {artists[s] surprise[v] people by leaving art works in unexpected places}[t-n], {e.g. the gold toilet and the pink crochet in the Guggenheim, the big spoon outside a pharmaceutical company  to comment on the opioid crisis, and more}[extra].
+Sometimes[l] {artists[s] surprise[v] people by leaving art works in unexpected places}[t-n], {e.g. the gold toilet and the pink crochet in the Guggenheim, the big spoon outside a pharmaceutical company  to comment on opioid addiction, and more}[extra].
 
 {To write clearly with extra information}[f-r], {you[s] need[vxo] (to practice)[inf] a lot}[t-n], {i.e. reading, studying writing styles, writing your own sentences, etc}[extra].
