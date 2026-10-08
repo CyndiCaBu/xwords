@@ -93,7 +93,7 @@ shifter[sh]
 
 # Time Shifters
 
-When, While, Before, During, After, Until, Next, Since
+When, While, Before, During, After, Soon after, Until, Next, Since
 
 # Place Shifters
 
