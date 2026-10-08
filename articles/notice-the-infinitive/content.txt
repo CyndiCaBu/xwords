@@ -31,7 +31,7 @@
 
 {We[s] want[vxo] (to go)[inf] back to Canada}[t-n-nq] {some day}[e]. {We[s] need[vxo] (to have)[inf] enough time off (to visit)[inf] many places}[t-n-nq], {including the park where we took this picture}[extra]. {We[s] would[x] also like[v] (to explore)[inf] the Joggins Fossil Cliffs}[t-n], {a UNESCO World Heritage site}[extra]. {We[s] hope[vxo] (to go)[inf] back in early summer (to see)[inf] big rhubarb plants in the botanic garden again and visit[v] more fishing towns along the coast}[t-n]. 
 
-{If we change that paragraph to the past}[f-cd], {(the verbs)[s] change[v]}{t-n], but[j] {(the infintives)[s] do[x] not}[t-n].
+{If we change that paragraph to the past}[f-cd], {(the verbs)[s] change[v]}[t-n], but[j] {(the infintives)[s] do[x] not}[t-n].
 
 {We[s] wanted[vxd] (to go)[inf] back to Canada}[t-n-nq] {some day}[e]. {We[s] needed[vxd] (to have)[inf] enough time off (to visit)[inf] many places}[t-n-nq], {including the park where we took this picture}[extra]. {We[s] would[x] have[x] also liked[dtn] (to explore)[inf] the Joggins Fossil Cliffs}[t-n], {a UNESCO World Heritage site}[extra]. {We[s] hoped[vxd] (to go)[inf] back in early summer (to see)[inf] big rhubarb plants in the botanic garden again and visit[v] more fishing towns along the coast}[t-n]. 
 
