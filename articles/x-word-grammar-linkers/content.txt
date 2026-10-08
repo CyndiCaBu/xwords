@@ -30,6 +30,7 @@
  - Suddenly[l],
  - Meanwhile[l],
  - Finally[l],
+ - Soon after[l],
  - {Two days ago}[l],
  - {A year later}[l],
 
