@@ -12,11 +12,11 @@
 
 {If they applied fertilizer}[f-cd], {did[x] it[s] come[v] from animal waste}[t-p-nq], {such as manure}[extra]?
 
-{(What kind of tests)[s] can[x] show[v] if (our food)[s] is[x] safe from any harmful viruses or bacteria that might[x] be in the fertilizer}[t-n-nq]?
+{(What kind of tests)[s] can[x] show[v] if our food) is[x] safe from any harmful viruses or bacteria that might[x] be in the fertilizer}[t-n-nq]?
 
 {Would[x] you[s] be[v] willing (to eat)[inf] plants grown with “humanure”}[t-n-nq], {a type of fertilizer made from human waste}[extra]?
 
-{If you[s] had[vxd] a choice between plants grown with chemical fertilizer or plants grown with humanure}[f-cd], {which would[x] you[s] choose[v]}[t-n-nq]?
+{If you had[vxd] a choice between plants grown with chemical fertilizer or plants grown with humanure}[f-cd], {which would[x] you[s] choose[v]}[t-n-nq]?
 
 {Would[x] you[s] rather use[v] a toilet in a poop loop system or a water-based system}[t-n-nq]?
 
