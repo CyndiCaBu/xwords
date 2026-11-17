@@ -1,7 +1,7 @@
 [
     {
         "statement": "My aunt will eat corn.",
-        "question": "Will she eat corn?",
+        "question": "Will my aunt eat corn?",
         "tag_question": "My aunt will eat corn, won't she?",
         "negation": "My aunt won't eat corn.",
         "distractors": "is, were"
