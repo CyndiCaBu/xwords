@@ -47,11 +47,11 @@
 # Offers made in the moment: shall[x]
 {Shall[x] I[s] go to the market with you[s]}[t-n-nq]? 
 {Shall[x] we[s] invite my aunt (to join)[inf] us}[t-n-nq]?
- - Note: {For this meaning}[f-r], {we[s] only use[v] shall[x] with the subjects I[s] and you[s]}[t-n].
+Note: {For this meaning}[f-r], {we[s] only use[v] shall[x] with the subjects I[s] and you[s]}[t-n].
 
 {Remember[v] these two points (to avoid)[inf] errors when writing sentences with modals}[t-n-nq]:
 
- - {(To show)[inf] the past, present or future with modals}[f-r], {we[s] change[v] the modal}[t-n] - {not the verb form}[extra]. Always[l] {use[v] the base form with modals}[t-n-nq].
+ - {(To show)[inf] the past, present or future with modals}[f-r], {we[s] change[v] the modal}[t-n]   - {not the verb form}[extra]. Always[l] {use[v] the base form with modals}[t-n-nq].
 
  - {Watch[v] out for the main verb}[t-n-nq]; {it[s]('s)[x] not always BE}[t-n-nq]. 
 
