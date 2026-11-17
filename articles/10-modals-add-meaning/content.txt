@@ -14,38 +14,37 @@
 
 {Although the sentences above show[v] you[s] the form}[f-ct], {they[s] (don't)[x] have[v] enough context (to communicate)[inf] meaning}[t-n]. {Compare[v] them with the new versions below}[t-n-nq], {grouped by meaning}[extra]. {You[s]('ll)[x] see[v] that most of the modals have[x] multiple meanings}[t-n]. {(The context)[s] makes[vxs] the difference}[t-n].
 
- # Future plus: will[x]
+# Future plus: will[x]
  - Prediction: {(My aunt)[s] will[x] eat[v] corn}[t-n] tomorrow. 
- - Beliefs and promises: {It will[x] be[v] fresh and Mexican-style}[t-n]. {She[s]'ll add[v] mayonnaise, red pepper, lime juice and cheese}[t-n].
- - Offers or plans made in the moment: {That[s] sounds[vxs] delicious}[t-n]. {I[s]'ll join[v] her}[t-n] {if that('s)[x] OK}[f-cd].
+ - Beliefs and promises: {It[s] will[x] be[v] fresh and Mexican-style}[t-n]. {She[s]('ll)[x] add[v] mayonnaise, red pepper, lime juice and cheese}[t-n].
+ - Offers or plans made in the moment: {That[s] sounds[vxs] delicious}[t-n]. {I[s]('ll)[x] join[v] her}[t-n] {if that('s)[x] OK}[f-cd].
  - Threats: {If the corn (isn't)[x] fresh}[f-cd], {it[s] (won't)[x] be[v] as good}[t-n].
 
- # Ability and past ability: can[x], could[x]
- - Present: {My aunt can[x] eat corn every day in different forms}[t-n]; {she[s] never gets tired of it}[t-n]. 
+# Ability and past ability: can[x], could[x]
+ - Present: {(My aunt)[s] can[x] eat[v] corn every day in different forms}[t-n]; {she[s] never gets[v] tired of it}[t-n]. 
  - Past: {When she was[x] a child}[f-t], {she[s] could[x] get[v] it straight from the farm}[t-n]. 
 
- # Invitations: would[x]
+# Invitations: would[x]
 {Would[x] you[s] like[v] (to eat)[inf] corn with us}[t-n-nq]?
 
- # Permission: may[x]
-{May[x] I[s] help[v] you[s] cook it}[t-n-nq]?
+# Permission: may[x]
+{May[x] I[s] help[v] you cook it}[t-n-nq]?
 
- # Suggestions and advice: could[x], should[x]
+# Suggestions and advice: could[x], should[x]
 {You[s] could[x] roast[v] it or boil[v] it}[t-n].
 {You[s] should[x] cook[v] it}[t-n] {as soon as you[s] get it home}[e-t]. 
 
- # Probability: should[x], must[x]
-{If you[s] get to the farmers market when it opens}[f-cd], {you[s] should[x] be[v] able (to find)[inf] plenty of corn}[t-n].
+# Probability: should[x], must[x]
+{If you get to the farmers market when it opens}[f-cd], {you[s] should[x] be[v] able (to find)[inf] plenty of corn}[t-n].
 {It[s] must[x] be[v] fresh now}[t-n] {because it('s)[x] in season}[t-n-nq].
 
- # Possibility and probability: can[x], might[x], may[x], must[x]
+# Possibility and probability: can[x], might[x], may[x], must[x]
 {You[s] might[x] find[v] the best corn from that farmer who grows it with beans and squash}[t-n-nq], {in the traditional three sisters method}[extra].
 {You[s] may[x] find[v] colorful corn and plain yellow corn}[t-n], depending on what grew well this time.
 {We[s] can[x] always use[v] whatever corn looks best}[t-n].
 {It[s] must[x] be[v] good this time of year}[t-n-nq]. 
 
-
- # Offers made in the moment: shall[x]
+# Offers made in the moment: shall[x]
 {Shall[x] I[s] go to the market with you[s]}[t-n-nq]? 
 {Shall[x] we[s] invite my aunt (to join)[inf] us}[t-n-nq]?
  - Note: {For this meaning}[f-r], {we[s] only use[v] shall[x] with the subjects I[s] and you[s]}[t-n].
